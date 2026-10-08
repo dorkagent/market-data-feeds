@@ -1,0 +1,25 @@
+name: paper-trading-congress-watch
+on:
+  schedule:
+    - cron: '19 14 * * 1'  # Mon 07:19 PT (14:19 UTC)
+  workflow_dispatch:  # manual trigger
+permissions:
+  contents: write
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run feed script
+        run: python3 scripts/bargo-congress.py
+      - name: Commit and push
+        run: |
+          git config user.name "dorkagent"
+          git config user.email "dork@agentmail.to"
+          git add hidden_files/congress/
+          git diff --cached --quiet || git commit -m "paper-trading-congress-watch $(date -u +%F)"
+          git push

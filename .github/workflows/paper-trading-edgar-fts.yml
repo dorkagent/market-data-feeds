@@ -1,0 +1,27 @@
+name: paper-trading-edgar-fts
+on:
+  schedule:
+    - cron: '34 15 * * 1'  # Mon 08:34 PT (15:34 UTC)
+  workflow_dispatch:  # manual trigger
+permissions:
+  contents: write
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run feed script
+        run: python3 scripts/edgar-fts.py
+      - name: Commit and push
+        run: |
+          git config user.name "dorkagent"
+          git config user.email "dork@agentmail.to"
+          git add hidden_files/edgar-fts/
+          git diff --cached --quiet || git commit -m "paper-trading-edgar-fts $(date -u +%F)"
+          git push

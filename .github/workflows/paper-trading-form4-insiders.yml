@@ -1,0 +1,27 @@
+name: paper-trading-form4-insiders
+on:
+  schedule:
+    - cron: '39 15 * * 1-5'  # weekdays 08:39 PT (15:39 UTC)
+  workflow_dispatch:  # manual trigger
+permissions:
+  contents: write
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run feed script
+        run: python3 scripts/form4-insiders.py
+      - name: Commit and push
+        run: |
+          git config user.name "dorkagent"
+          git config user.email "dork@agentmail.to"
+          git add hidden_files/form4/
+          git diff --cached --quiet || git commit -m "paper-trading-form4-insiders $(date -u +%F)"
+          git push

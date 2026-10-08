@@ -1,0 +1,27 @@
+name: paper-trading-polymarket
+on:
+  schedule:
+    - cron: '24 14 * * *'  # daily 07:24 PT (14:24 UTC)
+  workflow_dispatch:  # manual trigger
+permissions:
+  contents: write
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run feed script
+        run: python3 scripts/polymarket-events.py
+      - name: Commit and push
+        run: |
+          git config user.name "dorkagent"
+          git config user.email "dork@agentmail.to"
+          git add hidden_files/polymarket/
+          git diff --cached --quiet || git commit -m "paper-trading-polymarket $(date -u +%F)"
+          git push

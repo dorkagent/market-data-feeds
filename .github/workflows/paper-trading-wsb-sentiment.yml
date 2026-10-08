@@ -1,0 +1,36 @@
+name: paper-trading-wsb-sentiment
+on:
+  schedule:
+    - cron: '24 12 * * *'  # daily 05:24 PT (12:24 UTC), ~20 min before VM am fetch
+    - cron: '24 19 * * *'  # daily 12:24 PT (19:24 UTC), ~20 min before VM midday fetch
+    - cron: '24 2 * * *'   # daily 19:24 PT (02:24 UTC next day), ~20 min before VM pm fetch
+  workflow_dispatch:  # manual trigger
+permissions:
+  contents: write
+concurrency:
+  group: paper-trading-feeds-push
+  cancel-in-progress: false
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run feed script
+        run: python3 scripts/wsb-sentiment.py --subs wallstreetbets,investing,stocks,StockMarket,ValueInvesting,thetagang,options --pages 5
+      - name: Commit and push
+        run: |
+          git config user.name "dorkagent"
+          git config user.email "dork@agentmail.to"
+          git add hidden_files/sentiment/
+          git diff --cached --quiet || git commit -m "paper-trading-wsb-sentiment $(date -u +%F)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "push attempt $i failed, retrying in 15s"
+            sleep 15
+          done

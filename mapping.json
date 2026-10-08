@@ -1,0 +1,18 @@
+{
+ "polymarket": "polymarket-events.py",
+ "cboe-gex": "cboe-gex.py",
+ "cboe-putcall": "cboe-putcall.py",
+ "gdelt-tone": "gdelt-tone.py",
+ "openinsider": "openinsider.py",
+ "crypto-context": "crypto-context.py",
+ "edgar-fts": "edgar-fts.py",
+ "edgar-watch": "edgar.py",
+ "congress-watch": "bargo-congress.py",
+ "finra-short": "finra-short.py",
+ "finra-short-interest": "finra-short-interest.py",
+ "fiscaldata-auctions": "fiscaldata-auctions.py",
+ "form4-insiders": "form4-insiders.py",
+ "sec-ftd": "sec-ftd.py",
+ "wsb-sentiment": "wsb-sentiment.py",
+ "13f-crowding": "13f-crowding.py"
+}

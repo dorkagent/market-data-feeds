@@ -1,0 +1,36 @@
+name: paper-trading-edgar-watch
+on:
+  schedule:
+    - cron: '24 16 * * 1'  # Mon 09:24 PT (16:24 UTC), ~20 min before VM fetch
+  workflow_dispatch:  # manual trigger
+permissions:
+  contents: write
+concurrency:
+  group: paper-trading-feeds-push
+  cancel-in-progress: false
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run feed script
+        # Tickers = core universe + screening universe as of Oct 2026.
+        # Refresh this list periodically (was resolved live on the VM).
+        run: python3 scripts/edgar.py events --tickers NVDA,SPY,QQQ,MSFT,AAPL,RMD,OKTA,SNPS,ACN,AMAT,CRWD,PANW,BTCUSD --days 7
+      - name: Commit and push
+        run: |
+          git config user.name "dorkagent"
+          git config user.email "dork@agentmail.to"
+          git add hidden_files/edgar/
+          git diff --cached --quiet || git commit -m "paper-trading-edgar-watch $(date -u +%F)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "push attempt $i failed, retrying in 15s"
+            sleep 15
+          done

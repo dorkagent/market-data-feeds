@@ -1,0 +1,34 @@
+name: paper-trading-openinsider
+on:
+  schedule:
+    - cron: '24 1 * * *'  # daily 18:24 PT (01:24 UTC next day), ~20 min before VM fetch
+  workflow_dispatch:  # manual trigger
+permissions:
+  contents: write
+concurrency:
+  group: paper-trading-feeds-push
+  cancel-in-progress: false
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run feed script
+        run: python3 scripts/openinsider.py
+      - name: Commit and push
+        run: |
+          git config user.name "dorkagent"
+          git config user.email "dork@agentmail.to"
+          git add hidden_files/openinsider/
+          git diff --cached --quiet || git commit -m "paper-trading-openinsider $(date -u +%F)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "push attempt $i failed, retrying in 15s"
+            sleep 15
+          done
