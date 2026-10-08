@@ -1,0 +1,406 @@
+{
+  "fetched_at": "2026-10-08T18:45:45.072262+00:00",
+  "feed": "polymarket-events",
+  "events": {
+    "fomc_next": {
+      "event_id": "606422",
+      "title": "Fed Decision in October?",
+      "end_date": "2026-10-29T03:59:00Z",
+      "volume24h": 2318434.921406,
+      "volume": 30591753.45957,
+      "n_markets": 5,
+      "markets": [
+        {
+          "question": "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?",
+          "yes_price": 0.0015,
+          "no_price": 0.9985,
+          "last_trade": 0.002,
+          "volume24h": 797342.117,
+          "volume": 5591179.6688790005,
+          "liquidity": 992733.82978,
+          "end_date": "2026-10-29T03:59:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+          "yes_price": 0.155,
+          "no_price": 0.845,
+          "last_trade": 0.16,
+          "volume24h": 465531.6218630001,
+          "volume": 7133865.690896005,
+          "liquidity": 538123.6495,
+          "end_date": "2026-10-29T03:59:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+          "yes_price": 0.835,
+          "no_price": 0.165,
+          "last_trade": 0.84,
+          "volume24h": 451077.59830899996,
+          "volume": 8255828.952821998,
+          "liquidity": 452732.5382,
+          "end_date": "2026-10-29T03:59:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+          "yes_price": 0.0045,
+          "no_price": 0.9955,
+          "last_trade": 0.005,
+          "volume24h": 368300.29757000005,
+          "volume": 5463486.7146189995,
+          "liquidity": 408946.98465,
+          "end_date": "2026-10-29T03:59:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?",
+          "yes_price": 0.0035,
+          "no_price": 0.9965,
+          "last_trade": 0.003,
+          "volume24h": 236183.286664,
+          "volume": 4147392.432354,
+          "liquidity": 446971.22663,
+          "end_date": "2026-10-29T03:59:00Z",
+          "closed": false
+        }
+      ],
+      "headline": {
+        "question": "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?",
+        "yes_price": 0.0015,
+        "no_price": 0.9985,
+        "last_trade": 0.002,
+        "volume24h": 797342.117,
+        "volume": 5591179.6688790005,
+        "liquidity": 992733.82978,
+        "end_date": "2026-10-29T03:59:00Z",
+        "closed": false
+      }
+    },
+    "fed_dec": {
+      "event_id": "770450",
+      "title": "Fed Decision in December?",
+      "end_date": "2026-12-10T04:59:00Z",
+      "volume24h": 147179.626636,
+      "volume": 2913566.6920760004,
+      "n_markets": 5,
+      "markets": [
+        {
+          "question": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
+          "yes_price": 0.0035,
+          "no_price": 0.9965,
+          "last_trade": 0.005,
+          "volume24h": 82724.763,
+          "volume": 529076.501604,
+          "liquidity": 138460.15152,
+          "end_date": "2026-12-09T23:59:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+          "yes_price": 0.225,
+          "no_price": 0.775,
+          "last_trade": 0.23,
+          "volume24h": 42203.61831800001,
+          "volume": 651086.2128610001,
+          "liquidity": 208273.0242,
+          "end_date": "2026-12-09T23:59:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+          "yes_price": 0.755,
+          "no_price": 0.245,
+          "last_trade": 0.76,
+          "volume24h": 9787.897466,
+          "volume": 761718.1633950004,
+          "liquidity": 131038.6151,
+          "end_date": "2026-12-09T23:59:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+          "yes_price": 0.0105,
+          "no_price": 0.9895,
+          "last_trade": 0.011,
+          "volume24h": 7650.1983820000005,
+          "volume": 564524.3973689999,
+          "liquidity": 166228.25418,
+          "end_date": "2026-12-09T23:59:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+          "yes_price": 0.0285,
+          "no_price": 0.9715,
+          "last_trade": 0.028,
+          "volume24h": 4813.149470000001,
+          "volume": 407161.416847,
+          "liquidity": 160928.99091,
+          "end_date": "2026-12-09T23:59:00Z",
+          "closed": false
+        }
+      ],
+      "headline": {
+        "question": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
+        "yes_price": 0.0035,
+        "no_price": 0.9965,
+        "last_trade": 0.005,
+        "volume24h": 82724.763,
+        "volume": 529076.501604,
+        "liquidity": 138460.15152,
+        "end_date": "2026-12-09T23:59:00Z",
+        "closed": false
+      }
+    },
+    "rate_hikes_2026": {
+      "event_id": "626860",
+      "title": "How many Fed rate hikes in 2026?",
+      "end_date": "2027-01-01T04:59:00Z",
+      "volume24h": 28532.295066,
+      "volume": 917698.775641,
+      "n_markets": 6,
+      "markets": [
+        {
+          "question": "Will 2 Fed rate hikes happen in 2026?",
+          "yes_price": 0.695,
+          "no_price": 0.305,
+          "last_trade": 0.72,
+          "volume24h": 1575.296456,
+          "volume": 156357.95738900002,
+          "liquidity": 22244.9321,
+          "end_date": "2026-12-31T23:59:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will 1 Fed rate hike happen in 2026?",
+          "yes_price": 0.225,
+          "no_price": 0.775,
+          "last_trade": 0.23,
+          "volume24h": 20441.299057999997,
+          "volume": 363509.182419,
+          "liquidity": 80637.9095,
+          "end_date": "2026-12-31T23:59:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will 3 Fed rate hikes happen in 2026?",
+          "yes_price": 0.0825,
+          "no_price": 0.9175,
+          "last_trade": 0.075,
+          "volume24h": 1122.818486,
+          "volume": 135750.48269799998,
+          "liquidity": 46898.37303,
+          "end_date": "2026-12-31T23:59:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will 4 Fed rate hikes happen in 2026?",
+          "yes_price": 0.007,
+          "no_price": 0.993,
+          "last_trade": 0.011,
+          "volume24h": 2372.6444,
+          "volume": 63504.56700800001,
+          "liquidity": 53362.78642,
+          "end_date": "2026-12-31T23:59:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will 5 or more Fed rate hikes happen in 2026?",
+          "yes_price": 0.0055,
+          "no_price": 0.9945,
+          "last_trade": 0.003,
+          "volume24h": 3020.236666,
+          "volume": 58156.979993,
+          "liquidity": 46567.63324,
+          "end_date": "2026-12-31T23:59:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will no Fed rate hikes happen in 2026?",
+          "yes_price": 0.0,
+          "no_price": 1.0,
+          "last_trade": 0.025,
+          "volume24h": 0.0,
+          "volume": 140419.60613400003,
+          "liquidity": 0.0,
+          "end_date": "2026-12-31T23:59:00Z",
+          "closed": true
+        }
+      ],
+      "headline": {
+        "question": "Will 2 Fed rate hikes happen in 2026?",
+        "yes_price": 0.695,
+        "no_price": 0.305,
+        "last_trade": 0.72,
+        "volume24h": 1575.296456,
+        "volume": 156357.95738900002,
+        "liquidity": 22244.9321,
+        "end_date": "2026-12-31T23:59:00Z",
+        "closed": false
+      }
+    },
+    "recession_2026": {
+      "event_id": "48802",
+      "title": "US recession by end of 2026?",
+      "end_date": "2026-12-31T00:00:00Z",
+      "volume24h": 5179.403829999999,
+      "volume": 2282515.0720070004,
+      "n_markets": 1,
+      "markets": [
+        {
+          "question": "US recession by end of 2026?",
+          "yes_price": 0.065,
+          "no_price": 0.935,
+          "last_trade": 0.06,
+          "volume24h": 5179.403829999999,
+          "volume": 2282515.0720070004,
+          "liquidity": 78023.3307,
+          "end_date": "2027-01-31T00:00:00Z",
+          "closed": false
+        }
+      ],
+      "headline": {
+        "question": "US recession by end of 2026?",
+        "yes_price": 0.065,
+        "no_price": 0.935,
+        "last_trade": 0.06,
+        "volume24h": 5179.403829999999,
+        "volume": 2282515.0720070004,
+        "liquidity": 78023.3307,
+        "end_date": "2027-01-31T00:00:00Z",
+        "closed": false
+      }
+    },
+    "jobs_next": {
+      "event_id": "1120075",
+      "title": "October Unemployment Rate",
+      "end_date": "2026-11-06T13:30:00Z",
+      "volume24h": 41.532465,
+      "volume": 2888.49471,
+      "n_markets": 9,
+      "markets": [
+        {
+          "question": "Will the October 2026 unemployment rate be 4.1%?",
+          "yes_price": 0.28,
+          "no_price": 0.72,
+          "last_trade": 0.27,
+          "volume24h": 41.532465,
+          "volume": 926.558083,
+          "liquidity": 448.8038,
+          "end_date": "2026-11-06T13:30:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will the October 2026 unemployment rate be \u22643.8%?",
+          "yes_price": 0.0245,
+          "no_price": 0.9755,
+          "last_trade": 0.09,
+          "volume24h": 0.0,
+          "volume": 102.0,
+          "liquidity": 1339.32396,
+          "end_date": "2026-11-06T13:30:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will the October 2026 unemployment rate be 3.9%?",
+          "yes_price": 0.029,
+          "no_price": 0.971,
+          "last_trade": 0.02,
+          "volume24h": 0.0,
+          "volume": 70.0,
+          "liquidity": 441.81361,
+          "end_date": "2026-11-06T13:30:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will the October 2026 unemployment rate be 4.0%?",
+          "yes_price": 0.0585,
+          "no_price": 0.9415,
+          "last_trade": 0.08,
+          "volume24h": 0.0,
+          "volume": 89.61,
+          "liquidity": 595.47974,
+          "end_date": "2026-11-06T13:30:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will the October 2026 unemployment rate be 4.2%?",
+          "yes_price": 0.37,
+          "no_price": 0.63,
+          "last_trade": 0.33,
+          "volume24h": 0.0,
+          "volume": 646.1507809999999,
+          "liquidity": 281.0633,
+          "end_date": "2026-11-06T13:30:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will the October 2026 unemployment rate be 4.3%?",
+          "yes_price": 0.255,
+          "no_price": 0.745,
+          "last_trade": 0.27,
+          "volume24h": 0.0,
+          "volume": 326.479616,
+          "liquidity": 577.784,
+          "end_date": "2026-11-06T13:30:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will the October 2026 unemployment rate be 4.4%?",
+          "yes_price": 0.065,
+          "no_price": 0.935,
+          "last_trade": 0.11,
+          "volume24h": 0.0,
+          "volume": 597.69623,
+          "liquidity": 687.0621,
+          "end_date": "2026-11-06T13:30:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will the October 2026 unemployment rate be 4.5%?",
+          "yes_price": 0.029,
+          "no_price": 0.971,
+          "last_trade": 0.02,
+          "volume24h": 0.0,
+          "volume": 70.0,
+          "liquidity": 721.11856,
+          "end_date": "2026-11-06T13:30:00Z",
+          "closed": false
+        },
+        {
+          "question": "Will the October 2026 unemployment rate be \u22654.6%?",
+          "yes_price": 0.027,
+          "no_price": 0.973,
+          "last_trade": 0.0,
+          "volume24h": 0.0,
+          "volume": 60.0,
+          "liquidity": 1537.72409,
+          "end_date": "2026-11-06T13:30:00Z",
+          "closed": false
+        }
+      ],
+      "headline": {
+        "question": "Will the October 2026 unemployment rate be 4.1%?",
+        "yes_price": 0.28,
+        "no_price": 0.72,
+        "last_trade": 0.27,
+        "volume24h": 41.532465,
+        "volume": 926.558083,
+        "liquidity": 448.8038,
+        "end_date": "2026-11-06T13:30:00Z",
+        "closed": false
+      }
+    }
+  },
+  "flags": [],
+  "note": "Context layer \u2014 informs, never triggers trades alone.",
+  "probs": {
+    "fomc_next": 0.0015,
+    "fed_dec": 0.0035,
+    "rate_hikes_2026": 0.695,
+    "recession_2026": 0.065,
+    "jobs_next": 0.28
+  }
+}
