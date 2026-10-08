@@ -1,0 +1,206 @@
+{
+ "subreddit": "investing",
+ "generated_at": "2026-10-08T19:41:18.801708+00:00",
+ "posts_analyzed": 500,
+ "window_start": "2026-09-17T22:42:42+00:00",
+ "top_tickers": [
+  {
+   "ticker": "AMD",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 8
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 30
+  },
+  {
+   "ticker": "NKTX",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "META",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 23
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "NIO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "ARM",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 50
+  },
+  {
+   "ticker": "GME",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 13
+  },
+  {
+   "ticker": "TLT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "MOD",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 41
+  },
+  {
+   "ticker": "GOOG",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 21
+  }
+ ],
+ "top_posts": [
+  {
+   "title": "Goldman Sachs: The S&P 500 Has Disconnected From the Market \u2013 and No Longer Reflects Macro Risks",
+   "score": 2160,
+   "num_comments": 449,
+   "created_utc": 1791265853,
+   "url": "https://www.reddit.com/r/investing/comments/1wyuvd5/"
+  },
+  {
+   "title": "Does anyone else feel that we\u2019re heading towards a financial crisis?",
+   "score": 1510,
+   "num_comments": 1056,
+   "created_utc": 1789998736,
+   "url": "https://www.reddit.com/r/investing/comments/1wmdfam/"
+  },
+  {
+   "title": "Disney is hurting themselves by raising Disney+ prices",
+   "score": 1428,
+   "num_comments": 285,
+   "created_utc": 1790458436,
+   "url": "https://www.reddit.com/r/investing/comments/1wr2a7f/"
+  },
+  {
+   "title": "The September jobs report quietly turned July negative",
+   "score": 809,
+   "num_comments": 130,
+   "created_utc": 1790944888,
+   "url": "https://www.reddit.com/r/investing/comments/1wvsrzq/"
+  },
+  {
+   "title": "69% of big US companies now earn less than a 10-year Treasury pays",
+   "score": 756,
+   "num_comments": 136,
+   "created_utc": 1789739702,
+   "url": "https://www.reddit.com/r/investing/comments/1wjqw7o/"
+  },
+  {
+   "title": "Ukraine to hit Russian oil refineries in response to Moscow's new airstrikes, potentially impacting global diesel prices",
+   "score": 440,
+   "num_comments": 175,
+   "created_utc": 1791061263,
+   "url": "https://www.reddit.com/r/investing/comments/1wwxwcd/"
+  },
+  {
+   "title": "Starbucks takes $300M charge to close 250 stores and cut 2026 guidance",
+   "score": 426,
+   "num_comments": 148,
+   "created_utc": 1790253320,
+   "url": "https://www.reddit.com/r/investing/comments/1wp0get/"
+  },
+  {
+   "title": "Only 1 of the 10 biggest US companies earns more than the 30-year Treasury pays",
+   "score": 368,
+   "num_comments": 122,
+   "created_utc": 1790765718,
+   "url": "https://www.reddit.com/r/investing/comments/1wu1u0u/"
+  },
+  {
+   "title": "Why is the stock market climbing ever since Walsh increased rates?",
+   "score": 366,
+   "num_comments": 274,
+   "created_utc": 1789826040,
+   "url": "https://www.reddit.com/r/investing/comments/1wkmuw8/"
+  },
+  {
+   "title": "Oura abruptly postpones $2.2B IPO - Fall IPO window closed?",
+   "score": 322,
+   "num_comments": 180,
+   "created_utc": 1790677286,
+   "url": "https://www.reddit.com/r/investing/comments/1wt6ews/"
+  },
+  {
+   "title": "Why are people freaking out about bonds now vs 2022?",
+   "score": 274,
+   "num_comments": 219,
+   "created_utc": 1790545276,
+   "url": "https://www.reddit.com/r/investing/comments/1wrwjct/"
+  },
+  {
+   "title": "How do you decide when to cash out your position?",
+   "score": 240,
+   "num_comments": 280,
+   "created_utc": 1790203980,
+   "url": "https://www.reddit.com/r/investing/comments/1wokut8/"
+  },
+  {
+   "title": "HYSA/MM Rates Haven't Increased with the Fed Hike",
+   "score": 226,
+   "num_comments": 152,
+   "created_utc": 1791230470,
+   "url": "https://www.reddit.com/r/investing/comments/1wyinsu/"
+  },
+  {
+   "title": "I know I'm behind for my age.",
+   "score": 211,
+   "num_comments": 139,
+   "created_utc": 1790833046,
+   "url": "https://www.reddit.com/r/investing/comments/1wuraph/"
+  },
+  {
+   "title": "Warren Buffett Steps Down at 96: Berkshire\u2019s $277B Cash Pile Post-Buffet Era",
+   "score": 209,
+   "num_comments": 21,
+   "created_utc": 1789728212,
+   "url": "https://www.reddit.com/r/investing/comments/1wjmr2p/"
+  }
+ ]
+}

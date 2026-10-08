@@ -1,0 +1,255 @@
+{
+ "subreddit": "stocks",
+ "generated_at": "2026-10-08T19:41:43.722215+00:00",
+ "posts_analyzed": 500,
+ "window_start": "2026-09-27T23:35:55+00:00",
+ "top_tickers": [
+  {
+   "ticker": "AMD",
+   "mentions": 9,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 82
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 5,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 1497
+  },
+  {
+   "ticker": "META",
+   "mentions": 4,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 6
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 6
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 3,
+   "engagement": 1411
+  },
+  {
+   "ticker": "ROLR",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "NIO",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "BULL",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "GME",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 13
+  },
+  {
+   "ticker": "MRVL",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "AAOI",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "TWLO",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 63
+  },
+  {
+   "ticker": "MU",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "RKLB",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "ASTS",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "DND",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "AMC",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "UBER",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SPCX",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  }
+ ],
+ "top_posts": [
+  {
+   "title": "Anthropic IPO leak is insane",
+   "score": 12710,
+   "num_comments": 1159,
+   "created_utc": 1790696307,
+   "url": "https://www.reddit.com/r/stocks/comments/1wtdg4w/"
+  },
+  {
+   "title": "Just sold last NVDA, GOOGL and MSFT",
+   "score": 844,
+   "num_comments": 566,
+   "created_utc": 1790857047,
+   "url": "https://www.reddit.com/r/stocks/comments/1wuxwtu/"
+  },
+  {
+   "title": "South Korea Announces $120 Billion Plan For Eight Large-Scale Nuclear Power Plants In US",
+   "score": 528,
+   "num_comments": 123,
+   "created_utc": 1790892931,
+   "url": "https://www.reddit.com/r/stocks/comments/1wvcxxs/"
+  },
+  {
+   "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+   "score": 481,
+   "num_comments": 183,
+   "created_utc": 1790944865,
+   "url": "https://www.reddit.com/r/stocks/comments/1wvsroz/"
+  },
+  {
+   "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
+   "score": 441,
+   "num_comments": 91,
+   "created_utc": 1790602867,
+   "url": "https://www.reddit.com/r/stocks/comments/1wsexxn/"
+  },
+  {
+   "title": "Can someone explain to me how the stock market is basically a separate entity from the economy?",
+   "score": 410,
+   "num_comments": 431,
+   "created_utc": 1791177461,
+   "url": "https://www.reddit.com/r/stocks/comments/1wy0ajt/"
+  },
+  {
+   "title": "Only 1 of the 10 biggest US companies earns more than the 30-year Treasury pays",
+   "score": 375,
+   "num_comments": 139,
+   "created_utc": 1790762804,
+   "url": "https://www.reddit.com/r/stocks/comments/1wu10je/"
+  },
+  {
+   "title": "Micron tops Q4 estimates on top and bottom line, offers strong Q1 outlook",
+   "score": 357,
+   "num_comments": 102,
+   "created_utc": 1790799007,
+   "url": "https://www.reddit.com/r/stocks/comments/1wuff1d/"
+  },
+  {
+   "title": "Nvidia share buyback plan gets $150 billion boost",
+   "score": 319,
+   "num_comments": 53,
+   "created_utc": 1790597974,
+   "url": "https://www.reddit.com/r/stocks/comments/1wsd2fc/"
+  },
+  {
+   "title": "GOOGL Gemini 4 Argon: Is Google Winning the AI Race?",
+   "score": 311,
+   "num_comments": 162,
+   "created_utc": 1790837030,
+   "url": "https://www.reddit.com/r/stocks/comments/1wusdgk/"
+  },
+  {
+   "title": "Don\u2019t time the bubbles - S&P 500 rises to record high as oil and yields move lower",
+   "score": 283,
+   "num_comments": 262,
+   "created_utc": 1791293940,
+   "url": "https://www.reddit.com/r/stocks/comments/1wz2uqz/"
+  },
+  {
+   "title": "Wall Street has normalized a tax on being slower than its fastest computers",
+   "score": 197,
+   "num_comments": 217,
+   "created_utc": 1791346603,
+   "url": "https://www.reddit.com/r/stocks/comments/1wzn6i0/"
+  },
+  {
+   "title": "Anthropic's path from AI startup to industry-defining IPO",
+   "score": 195,
+   "num_comments": 129,
+   "created_utc": 1790640678,
+   "url": "https://www.reddit.com/r/stocks/comments/1wsvblp/"
+  },
+  {
+   "title": "I have reverse Midas touch and I\u2019m finally buying back in. Sold at bottom back in April!",
+   "score": 183,
+   "num_comments": 84,
+   "created_utc": 1790603484,
+   "url": "https://www.reddit.com/r/stocks/comments/1wsf6n8/"
+  },
+  {
+   "title": "Burry sells LULU",
+   "score": 162,
+   "num_comments": 118,
+   "created_utc": 1791224883,
+   "url": "https://www.reddit.com/r/stocks/comments/1wyg7o1/"
+  }
+ ]
+}

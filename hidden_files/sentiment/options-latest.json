@@ -1,0 +1,255 @@
+{
+ "subreddit": "options",
+ "generated_at": "2026-10-08T19:43:24.039190+00:00",
+ "posts_analyzed": 500,
+ "window_start": "2026-09-02T05:21:06+00:00",
+ "top_tickers": [
+  {
+   "ticker": "SPY",
+   "mentions": 12,
+   "bull": 8,
+   "bear": 6,
+   "engagement": 180
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 7,
+   "bull": 4,
+   "bear": 1,
+   "engagement": 41
+  },
+  {
+   "ticker": "META",
+   "mentions": 6,
+   "bull": 5,
+   "bear": 4,
+   "engagement": 123
+  },
+  {
+   "ticker": "GME",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 19
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 14
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 126
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 26
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 3,
+   "bull": 3,
+   "bear": 1,
+   "engagement": 39
+  },
+  {
+   "ticker": "ORCL",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "TLT",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 3
+  },
+  {
+   "ticker": "BTC",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 10
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "UBER",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 96
+  },
+  {
+   "ticker": "ZS",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 17
+  },
+  {
+   "ticker": "BB",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 15
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 17
+  },
+  {
+   "ticker": "TEM",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 17
+  },
+  {
+   "ticker": "ETH",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 36
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 59
+  }
+ ],
+ "top_posts": [
+  {
+   "title": "Once I started trading volatility only, my returns skyrocketed",
+   "score": 281,
+   "num_comments": 75,
+   "created_utc": 1788358732,
+   "url": "https://www.reddit.com/r/options/comments/1w5bpdr/"
+  },
+  {
+   "title": "Beware of Bad Advice",
+   "score": 130,
+   "num_comments": 74,
+   "created_utc": 1789340128,
+   "url": "https://www.reddit.com/r/options/comments/1wfmcyo/"
+  },
+  {
+   "title": "Clarification on being banned from retail brokerage for being consistently profitable",
+   "score": 82,
+   "num_comments": 52,
+   "created_utc": 1789948504,
+   "url": "https://www.reddit.com/r/options/comments/1wlwxee/"
+  },
+  {
+   "title": "Debit spreads taught me that being right too early can still be annoying",
+   "score": 80,
+   "num_comments": 38,
+   "created_utc": 1788788984,
+   "url": "https://www.reddit.com/r/options/comments/1w9sps6/"
+  },
+  {
+   "title": "PMCC is absolutely the best strat out there in risk-adjusted return",
+   "score": 65,
+   "num_comments": 46,
+   "created_utc": 1788871163,
+   "url": "https://www.reddit.com/r/options/comments/1wanaa3/"
+  },
+  {
+   "title": "First year trading full time. Up 83% and scared about next year.",
+   "score": 63,
+   "num_comments": 152,
+   "created_utc": 1788941504,
+   "url": "https://www.reddit.com/r/options/comments/1wbfef8/"
+  },
+  {
+   "title": "A few items which give me an edge in options trading",
+   "score": 60,
+   "num_comments": 100,
+   "created_utc": 1788537211,
+   "url": "https://www.reddit.com/r/options/comments/1w788om/"
+  },
+  {
+   "title": "Is deep ITM LEAPS just leveraged stocks?",
+   "score": 53,
+   "num_comments": 58,
+   "created_utc": 1790770818,
+   "url": "https://www.reddit.com/r/options/comments/1wu3gas/"
+  },
+  {
+   "title": "I was completely fine losing my AMD shares until it almost happened",
+   "score": 52,
+   "num_comments": 54,
+   "created_utc": 1790005826,
+   "url": "https://www.reddit.com/r/options/comments/1wmgm9p/"
+  },
+  {
+   "title": "[MU] Earnings IV Crush Setup for Oct 2nd",
+   "score": 50,
+   "num_comments": 28,
+   "created_utc": 1790703700,
+   "url": "https://www.reddit.com/r/options/comments/1wtgr2k/"
+  },
+  {
+   "title": "1st time buying leap GOOG",
+   "score": 50,
+   "num_comments": 52,
+   "created_utc": 1789132856,
+   "url": "https://www.reddit.com/r/options/comments/1wdg574/"
+  },
+  {
+   "title": "Fact Check: 0DTE Iron Condor Strategy With Zero Losses",
+   "score": 50,
+   "num_comments": 29,
+   "created_utc": 1788856686,
+   "url": "https://www.reddit.com/r/options/comments/1waio7e/"
+  },
+  {
+   "title": "Trying all the option strategies",
+   "score": 49,
+   "num_comments": 29,
+   "created_utc": 1790494191,
+   "url": "https://www.reddit.com/r/options/comments/1wrdvs5/"
+  },
+  {
+   "title": "Is there anything to be learned from open interest?",
+   "score": 49,
+   "num_comments": 22,
+   "created_utc": 1789762359,
+   "url": "https://www.reddit.com/r/options/comments/1wk126l/"
+  },
+  {
+   "title": "0-1 DTE Traders: Identifying Trend Days and Exits",
+   "score": 47,
+   "num_comments": 48,
+   "created_utc": 1790209489,
+   "url": "https://www.reddit.com/r/options/comments/1womyhg/"
+  }
+ ]
+}

@@ -1,0 +1,255 @@
+{
+ "subreddit": "thetagang",
+ "generated_at": "2026-10-08T19:42:59.433715+00:00",
+ "posts_analyzed": 500,
+ "window_start": "2026-08-13T14:26:21+00:00",
+ "top_tickers": [
+  {
+   "ticker": "USD",
+   "mentions": 8,
+   "bull": 7,
+   "bear": 8,
+   "engagement": 95
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 5,
+   "bull": 3,
+   "bear": 3,
+   "engagement": 263
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 4,
+   "bull": 4,
+   "bear": 3,
+   "engagement": 154
+  },
+  {
+   "ticker": "MU",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 3,
+   "engagement": 413
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 35
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 214
+  },
+  {
+   "ticker": "ORCL",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 31
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 106
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 18
+  },
+  {
+   "ticker": "SOFI",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "AMDL",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 31
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 173
+  },
+  {
+   "ticker": "SMCI",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 16
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 86
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 18
+  },
+  {
+   "ticker": "TLT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "TER",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 8
+  },
+  {
+   "ticker": "LQDA",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 8
+  },
+  {
+   "ticker": "SNPS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 8
+  },
+  {
+   "ticker": "LRCX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 8
+  }
+ ],
+ "top_posts": [
+  {
+   "title": "We\u2019ve all been there",
+   "score": 454,
+   "num_comments": 37,
+   "created_utc": 1787691798,
+   "url": "https://www.reddit.com/r/thetagang/comments/1vychqk/"
+  },
+  {
+   "title": "It's here!",
+   "score": 342,
+   "num_comments": 122,
+   "created_utc": 1787933976,
+   "url": "https://www.reddit.com/r/thetagang/comments/1w0v3u8/"
+  },
+  {
+   "title": "Friendly Reminder - Options selling isn\u2019t free money",
+   "score": 222,
+   "num_comments": 114,
+   "created_utc": 1790126307,
+   "url": "https://www.reddit.com/r/thetagang/comments/1wns02i/"
+  },
+  {
+   "title": "Triple Witching effect on AMD $550 call today",
+   "score": 141,
+   "num_comments": 31,
+   "created_utc": 1789770188,
+   "url": "https://www.reddit.com/r/thetagang/comments/1wk4d9v/"
+  },
+  {
+   "title": "1M options* portfolio feat. $MU",
+   "score": 135,
+   "num_comments": 124,
+   "created_utc": 1787333055,
+   "url": "https://www.reddit.com/r/thetagang/comments/1vumpiq/"
+  },
+  {
+   "title": "You have 500k, how would you use it to generate monthly income via options as a fresh start?",
+   "score": 129,
+   "num_comments": 240,
+   "created_utc": 1787427313,
+   "url": "https://www.reddit.com/r/thetagang/comments/1vvlond/"
+  },
+  {
+   "title": "Selling CSP",
+   "score": 129,
+   "num_comments": 90,
+   "created_utc": 1786801486,
+   "url": "https://www.reddit.com/r/thetagang/comments/1vp39yo/"
+  },
+  {
+   "title": "I backtested all the popular wheeling strategy",
+   "score": 121,
+   "num_comments": 101,
+   "created_utc": 1788128449,
+   "url": "https://www.reddit.com/r/thetagang/comments/1w2v9e8/"
+  },
+  {
+   "title": "What I've learned after 2 years of selling options",
+   "score": 117,
+   "num_comments": 50,
+   "created_utc": 1787743260,
+   "url": "https://www.reddit.com/r/thetagang/comments/1vyu8wl/"
+  },
+  {
+   "title": "Me checking my portfolio after a red week",
+   "score": 111,
+   "num_comments": 18,
+   "created_utc": 1789084094,
+   "url": "https://www.reddit.com/r/thetagang/comments/1wczvi0/"
+  },
+  {
+   "title": "Sept Realized Profits Selling Puts on Portfolio Margin",
+   "score": 103,
+   "num_comments": 101,
+   "created_utc": 1790829119,
+   "url": "https://www.reddit.com/r/thetagang/comments/1wuq66i/"
+  },
+  {
+   "title": "10x MU Iron Condors expiring OTM *chef\u2019s kiss*",
+   "score": 99,
+   "num_comments": 60,
+   "created_utc": 1787949632,
+   "url": "https://www.reddit.com/r/thetagang/comments/1w12755/"
+  },
+  {
+   "title": "121 theta trades along with a few long calls to test the waters from May to August. 100% win, should I scale up?",
+   "score": 78,
+   "num_comments": 62,
+   "created_utc": 1788396633,
+   "url": "https://www.reddit.com/r/thetagang/comments/1w5so08/"
+  },
+  {
+   "title": "Are options income or just building wealth like buy and hold?",
+   "score": 73,
+   "num_comments": 122,
+   "created_utc": 1788620288,
+   "url": "https://www.reddit.com/r/thetagang/comments/1w82yvs/"
+  },
+  {
+   "title": "Nancy goes in on 'INTC' and 'BE' -- but why the $50 call?",
+   "score": 61,
+   "num_comments": 150,
+   "created_utc": 1788786765,
+   "url": "https://www.reddit.com/r/thetagang/comments/1w9rtib/"
+  }
+ ]
+}
