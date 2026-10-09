@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-10-09T15:51:28",
+  "universe": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "SPY",
+    "QQQ"
+  ],
+  "note": "Context layer \u2014 informs, never triggers trades alone.",
+  "tickers": {
+    "AAPL": {
+      "filings_scanned": 12,
+      "filings_targeted": 12,
+      "p_buys_30d": [],
+      "distinct_insiders_30d": 0,
+      "total_value_30d": 0,
+      "max_single_30d": 0,
+      "sales_30d_count": 12,
+      "flags": []
+    },
+    "MSFT": {
+      "filings_scanned": 12,
+      "filings_targeted": 12,
+      "p_buys_30d": [],
+      "distinct_insiders_30d": 0,
+      "total_value_30d": 0,
+      "max_single_30d": 0,
+      "sales_30d_count": 6,
+      "flags": []
+    },
+    "NVDA": {
+      "filings_scanned": 12,
+      "filings_targeted": 12,
+      "p_buys_30d": [],
+      "distinct_insiders_30d": 0,
+      "total_value_30d": 0,
+      "max_single_30d": 0,
+      "sales_30d_count": 8,
+      "flags": []
+    },
+    "SPY": {
+      "status": "n/a",
+      "note": "ETF \u2014 no Form 4 insider filings exist",
+      "flags": []
+    },
+    "QQQ": {
+      "status": "n/a",
+      "note": "ETF \u2014 no Form 4 insider filings exist",
+      "flags": []
+    }
+  },
+  "flags": [],
+  "errors": []
+}
