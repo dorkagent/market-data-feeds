@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
       - name: Run feed script
-        # Tickers = core universe + screening universe as of Oct 2026.
+        # Tickers = core screening universe as of Oct 2026.
         # Refresh this list periodically (was resolved live on the VM).
         run: python3 scripts/edgar.py events --tickers NVDA,SPY,QQQ,MSFT,AAPL,RMD,OKTA,SNPS,ACN,AMAT,CRWD,PANW,BTCUSD --days 7
       - name: Commit and push
