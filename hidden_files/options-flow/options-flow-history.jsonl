@@ -1,0 +1,1 @@
+{"run_date_pt": "2026-10-09", "status": "ok", "tickers": {"SPY": {"flagged": 262, "put_call_ratio": 1.079}, "QQQ": {"flagged": 436, "put_call_ratio": 1.336}, "NVDA": {"flagged": 93, "put_call_ratio": 0.654}, "AAPL": {"flagged": 49, "put_call_ratio": 0.521}, "MSFT": {"flagged": 60, "put_call_ratio": 0.699}}, "error": null}
