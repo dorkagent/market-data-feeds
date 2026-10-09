@@ -1,0 +1,38 @@
+name: paper-trading-futures-overnight
+on:
+  schedule:
+    - cron: '30 12 * * 1-5'  # weekdays 12:30 UTC (05:30 PT), fresh before the 06:00 PT premarket scan
+  workflow_dispatch:  # manual trigger
+permissions:
+  contents: write
+concurrency:
+  group: paper-trading-feeds-push
+  cancel-in-progress: false
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run futures-overnight feed
+        run: python3 scripts/futures-overnight.py
+        continue-on-error: true  # stale runs never touch -latest.json; sector board still runs
+      - name: Run sector-board feed
+        run: python3 scripts/sector-board.py
+        continue-on-error: true
+      - name: Commit and push
+        run: |
+          git config user.name "dorkagent"
+          git config user.email "334435608+dorkagent@users.noreply.github.com"
+          git add hidden_files/futures/ hidden_files/sector-board/
+          git diff --cached --quiet || git commit -m "paper-trading-futures-overnight $(date -u +%F_%H)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "push attempt $i failed, retrying in 15s"
+            sleep 15
+          done

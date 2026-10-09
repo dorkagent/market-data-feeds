@@ -1,0 +1,101 @@
+{
+  "fetched_at_utc": "2026-10-09T21:03:16+00:00",
+  "status": "ok",
+  "note": "Context layer - informs, never triggers trades alone. Answers 'is the rally broad or narrow?' for the premarket scan.",
+  "breadth": {
+    "advancers": 9,
+    "decliners": 2,
+    "avg_chg_1d_pct": 0.53,
+    "read": "broad rally"
+  },
+  "ranking": [
+    {
+      "symbol": "XLRE",
+      "name": "Real Estate",
+      "price": 41.61,
+      "chg_1d_pct": 1.86,
+      "mom_5d_pct": 1.96,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00"
+    },
+    {
+      "symbol": "XLV",
+      "name": "Health Care",
+      "price": 170.81,
+      "chg_1d_pct": 1.58,
+      "mom_5d_pct": 2.79,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00"
+    },
+    {
+      "symbol": "XLY",
+      "name": "Consumer Discretionary",
+      "price": 112.85,
+      "chg_1d_pct": 1.02,
+      "mom_5d_pct": 2.55,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00"
+    },
+    {
+      "symbol": "XLF",
+      "name": "Financials",
+      "price": 54.73,
+      "chg_1d_pct": 0.92,
+      "mom_5d_pct": 2.32,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00"
+    },
+    {
+      "symbol": "XLU",
+      "name": "Utilities",
+      "price": 41.41,
+      "chg_1d_pct": 0.83,
+      "mom_5d_pct": 3.97,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00"
+    },
+    {
+      "symbol": "XLK",
+      "name": "Technology",
+      "price": 198.78,
+      "chg_1d_pct": 0.51,
+      "mom_5d_pct": -0.52,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00"
+    },
+    {
+      "symbol": "XLI",
+      "name": "Industrials",
+      "price": 169.25,
+      "chg_1d_pct": 0.5,
+      "mom_5d_pct": -0.41,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00"
+    },
+    {
+      "symbol": "XLB",
+      "name": "Materials",
+      "price": 49.43,
+      "chg_1d_pct": 0.32,
+      "mom_5d_pct": 1.17,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00"
+    },
+    {
+      "symbol": "XLP",
+      "name": "Consumer Staples",
+      "price": 83.43,
+      "chg_1d_pct": 0.01,
+      "mom_5d_pct": 3.6,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00"
+    },
+    {
+      "symbol": "XLE",
+      "name": "Energy",
+      "price": 65.08,
+      "chg_1d_pct": -0.25,
+      "mom_5d_pct": 3.6,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00"
+    },
+    {
+      "symbol": "XLC",
+      "name": "Communication Services",
+      "price": 110.38,
+      "chg_1d_pct": -1.51,
+      "mom_5d_pct": 0.05,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00"
+    }
+  ]
+}
