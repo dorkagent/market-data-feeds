@@ -1,0 +1,32 @@
+name: paper-trading-companyfacts
+on:
+  workflow_dispatch:  # manual trigger only — no schedule yet
+permissions:
+  contents: write
+concurrency:
+  group: paper-trading-feeds-push
+  cancel-in-progress: false
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run feed script
+        run: python3 scripts/companyfacts.py
+      - name: Commit and push
+        run: |
+          git config user.name "dorkagent"
+          git config user.email "dork@agentmail.to"
+          git add hidden_files/companyfacts/
+          git diff --cached --quiet || git commit -m "paper-trading-companyfacts manual 2026-10-09"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "push attempt $i failed, retrying in 15s"
+            sleep 15
+          done
