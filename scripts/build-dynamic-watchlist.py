@@ -10,7 +10,7 @@ Filters (all must pass):
   - price >= $10
   - market cap >= $1B
   - premarket volume >= 1M shares
-  - not already in the scanner's core universe, not RMD (track-only, never traded)
+  - not already in the scanner's core universe, not in NEVER
 
 Cap: top 5 by % gain. Entries on dynamic names follow the standard
 catalyst + confirmed-momentum rules; max 5% equity per dynamic name;
