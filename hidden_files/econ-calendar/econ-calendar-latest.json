@@ -1,0 +1,16 @@
+{
+  "fetched_at_utc": "2026-10-09T10:38:58+00:00",
+  "source": "nfs.faireconomy.media/ff_calendar_thisweek.json (keyless)",
+  "note": "USD + High impact only. Serves the strategy's 30-minute no-trade rule around prints: no tactical entries within 30 min of FOMC/CPI/jobs releases.",
+  "errors": [],
+  "events": [
+    {
+      "title": "FOMC Meeting Minutes",
+      "datetime_pt": "2026-10-07T11:00-07:00",
+      "pretty_pt": "Wed 2026-10-07 11:00 PT",
+      "impact": "High",
+      "forecast": null,
+      "previous": null
+    }
+  ]
+}
