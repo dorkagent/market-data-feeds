@@ -1,0 +1,91 @@
+{
+  "generated_utc": "2026-10-09T10:43:09.187571+00:00",
+  "note": "Context layer \u2014 informs, never triggers trades alone. Retail-attention proxy; spikes are context, not signals.",
+  "source": "Wikimedia pageviews API (keyless)",
+  "status": "ok",
+  "window": {
+    "start": "20261002",
+    "end": "20261008"
+  },
+  "tickers": {
+    "SPY": {
+      "article": "SPDR_S&P_500_ETF_Trust",
+      "daily": {
+        "20261002": 260,
+        "20261003": 136,
+        "20261004": 147,
+        "20261005": 516,
+        "20261006": 475,
+        "20261007": 597,
+        "20261008": 462
+      },
+      "median_7d": 462,
+      "latest": 462,
+      "latest_date": "20261008",
+      "spike_mult": 1.0
+    },
+    "QQQ": {
+      "article": "Invesco_QQQ",
+      "daily": {
+        "20261002": 276,
+        "20261003": 158,
+        "20261004": 128,
+        "20261005": 169,
+        "20261006": 160,
+        "20261007": 143,
+        "20261008": 155
+      },
+      "median_7d": 158,
+      "latest": 155,
+      "latest_date": "20261008",
+      "spike_mult": 0.98
+    },
+    "NVDA": {
+      "article": "Nvidia",
+      "daily": {
+        "20261002": 4992,
+        "20261003": 4586,
+        "20261004": 4094,
+        "20261005": 4837,
+        "20261006": 5246,
+        "20261007": 5673
+      },
+      "median_7d": 4914.5,
+      "latest": 5673,
+      "latest_date": "20261007",
+      "spike_mult": 1.15
+    },
+    "AAPL": {
+      "article": "Apple_Inc.",
+      "daily": {
+        "20261002": 5543,
+        "20261003": 4572,
+        "20261004": 4858,
+        "20261005": 6014,
+        "20261006": 5897,
+        "20261007": 5774,
+        "20261008": 5998
+      },
+      "median_7d": 5774,
+      "latest": 5998,
+      "latest_date": "20261008",
+      "spike_mult": 1.04
+    },
+    "MSFT": {
+      "article": "Microsoft",
+      "daily": {
+        "20261002": 4082,
+        "20261003": 3398,
+        "20261004": 3493,
+        "20261005": 4759,
+        "20261006": 4922,
+        "20261007": 5119,
+        "20261008": 6396
+      },
+      "median_7d": 4759,
+      "latest": 6396,
+      "latest_date": "20261008",
+      "spike_mult": 1.34
+    }
+  }
+}
