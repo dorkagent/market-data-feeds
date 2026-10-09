@@ -1,0 +1,158 @@
+{
+  "generated_at_utc": "2026-10-09T10:42:12.106537+00:00",
+  "run_date_pt": "2026-10-09",
+  "status": "ok",
+  "note": "Context layer -- informs, never triggers trades alone.",
+  "tickers": {
+    "AAPL": {
+      "revenue_ttm": {
+        "value": 416161000000,
+        "end": "2025-09-27",
+        "filed": "2025-10-31",
+        "form": "10-K",
+        "fact": "RevenueFromContractWithCustomerExcludingAssessedTax"
+      },
+      "net_income_ttm": {
+        "value": 112010000000,
+        "end": "2025-09-27",
+        "filed": "2025-10-31",
+        "form": "10-K"
+      },
+      "eps_diluted_ttm": {
+        "value": 7.46,
+        "end": "2025-09-27",
+        "filed": "2025-10-31",
+        "form": "10-K"
+      },
+      "total_assets": {
+        "value": 383266000000,
+        "end": "2026-06-27",
+        "filed": "2026-07-31",
+        "form": "10-Q"
+      },
+      "long_term_debt": {
+        "value": 82300000000,
+        "end": "2026-06-27",
+        "filed": "2026-07-31",
+        "form": "10-Q"
+      },
+      "long_term_debt_current": {
+        "value": 11007000000,
+        "end": "2026-06-27",
+        "filed": "2026-07-31",
+        "form": "10-Q"
+      },
+      "operating_cash_flow_ttm": {
+        "value": 111482000000,
+        "end": "2025-09-27",
+        "filed": "2025-10-31",
+        "form": "10-K"
+      },
+      "total_debt": {
+        "value": 93307000000,
+        "end": "2026-06-27",
+        "note": "long_term_debt + long_term_debt_current"
+      }
+    },
+    "MSFT": {
+      "revenue_ttm": {
+        "value": 331839000000,
+        "end": "2026-06-30",
+        "filed": "2026-07-29",
+        "form": "10-K",
+        "fact": "RevenueFromContractWithCustomerExcludingAssessedTax"
+      },
+      "net_income_ttm": {
+        "value": 133749000000,
+        "end": "2026-06-30",
+        "filed": "2026-07-29",
+        "form": "10-K"
+      },
+      "eps_diluted_ttm": {
+        "value": 17.95,
+        "end": "2026-06-30",
+        "filed": "2026-07-29",
+        "form": "10-K"
+      },
+      "total_assets": {
+        "value": 758376000000,
+        "end": "2026-06-30",
+        "filed": "2026-07-29",
+        "form": "10-K"
+      },
+      "long_term_debt": {
+        "value": 40294000000,
+        "end": "2026-06-30",
+        "filed": "2026-07-29",
+        "form": "10-K"
+      },
+      "long_term_debt_current": {
+        "value": 9227000000,
+        "end": "2026-06-30",
+        "filed": "2026-07-29",
+        "form": "10-K"
+      },
+      "operating_cash_flow_ttm": {
+        "value": 182935000000,
+        "end": "2026-06-30",
+        "filed": "2026-07-29",
+        "form": "10-K"
+      },
+      "total_debt": {
+        "value": 49521000000,
+        "end": "2026-06-30",
+        "note": "long_term_debt + long_term_debt_current"
+      }
+    },
+    "NVDA": {
+      "revenue_ttm": {
+        "value": 215938000000,
+        "end": "2026-01-25",
+        "filed": "2026-02-25",
+        "form": "10-K",
+        "fact": "Revenues"
+      },
+      "net_income_ttm": {
+        "value": 120067000000,
+        "end": "2026-01-25",
+        "filed": "2026-02-25",
+        "form": "10-K"
+      },
+      "eps_diluted_ttm": {
+        "value": 4.9,
+        "end": "2026-01-25",
+        "filed": "2026-02-25",
+        "form": "10-K"
+      },
+      "total_assets": {
+        "value": 320272000000,
+        "end": "2026-07-26",
+        "filed": "2026-08-26",
+        "form": "10-Q"
+      },
+      "long_term_debt": {
+        "value": 33366000000,
+        "end": "2026-07-26",
+        "filed": "2026-08-26",
+        "form": "10-Q"
+      },
+      "long_term_debt_current": {
+        "value": 1000000000,
+        "end": "2026-07-26",
+        "filed": "2026-08-26",
+        "form": "10-Q"
+      },
+      "operating_cash_flow_ttm": {
+        "value": 102718000000,
+        "end": "2026-01-25",
+        "filed": "2026-02-25",
+        "form": "10-K"
+      },
+      "total_debt": {
+        "value": 34366000000,
+        "end": "2026-07-26",
+        "note": "long_term_debt + long_term_debt_current"
+      }
+    }
+  }
+}
