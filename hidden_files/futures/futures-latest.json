@@ -1,31 +1,31 @@
 {
-  "fetched_at_utc": "2026-10-09T21:02:54+00:00",
+  "fetched_at_utc": "2026-10-09T21:59:02+00:00",
   "status": "ok",
   "note": "Context layer - informs, never triggers trades alone. Futures trade nearly 24/5; quotes are the overnight read into the 06:00 PT premarket scan.",
   "symbols": {
     "ES=F": {
       "name": "S&P 500 e-mini",
-      "price": 7866.25,
+      "price": 7866.0,
       "change_pct": 0.64,
-      "quote_time_utc": "2026-10-09T20:52:50+00:00"
+      "quote_time_utc": "2026-10-09T20:59:59+00:00"
     },
     "NQ=F": {
       "name": "Nasdaq-100 e-mini",
-      "price": 31131.5,
-      "change_pct": 0.52,
-      "quote_time_utc": "2026-10-09T20:52:55+00:00"
+      "price": 31123.25,
+      "change_pct": 0.5,
+      "quote_time_utc": "2026-10-09T20:59:59+00:00"
     },
     "YM=F": {
       "name": "Dow e-mini",
-      "price": 51968.0,
-      "change_pct": 0.92,
-      "quote_time_utc": "2026-10-09T20:52:50+00:00"
+      "price": 51976.0,
+      "change_pct": 0.94,
+      "quote_time_utc": "2026-10-09T20:59:55+00:00"
     },
     "RTY=F": {
       "name": "Russell 2000 e-mini",
-      "price": 2824.2,
-      "change_pct": 0.52,
-      "quote_time_utc": "2026-10-09T20:52:56+00:00"
+      "price": 2823.5,
+      "change_pct": 0.49,
+      "quote_time_utc": "2026-10-09T20:59:59+00:00"
     },
     "^VIX": {
       "name": "VIX spot",
@@ -41,15 +41,15 @@
     },
     "GC=F": {
       "name": "gold",
-      "price": 4220.0,
+      "price": 4220.3,
       "change_pct": 1.52,
-      "quote_time_utc": "2026-10-09T20:53:02+00:00"
+      "quote_time_utc": "2026-10-09T20:59:59+00:00"
     },
     "CL=F": {
       "name": "WTI crude",
-      "price": 91.6,
-      "change_pct": 0.12,
-      "quote_time_utc": "2026-10-09T20:53:01+00:00"
+      "price": 91.66,
+      "change_pct": 0.19,
+      "quote_time_utc": "2026-10-09T20:59:58+00:00"
     }
   },
   "vix_term_structure": {
