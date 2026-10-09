@@ -1,0 +1,608 @@
+{
+  "pulled_at_utc": "2026-10-09T10:39:48Z",
+  "pulled_at_pt": "2026-10-09 03:39 PDT",
+  "source": "marketbeat.com/market-data/unusual-volume-stocks (keyless scrape)",
+  "count": 100,
+  "leaders": [
+    {
+      "symbol": "HKIT",
+      "company": "Hitek Global",
+      "price": "$2.53",
+      "change_pct": "5.0%"
+    },
+    {
+      "symbol": "CIGL",
+      "company": "Concorde International Group",
+      "price": "$0.33",
+      "change_pct": "-5.2%"
+    },
+    {
+      "symbol": "PCRX",
+      "company": "Pacira BioSciences",
+      "price": "$36.39",
+      "change_pct": "44.4%"
+    },
+    {
+      "symbol": "DTSQ",
+      "company": "DT Cloud Star Acquisition",
+      "price": "$11.52",
+      "change_pct": "-0.6%"
+    },
+    {
+      "symbol": "AVUQ",
+      "company": "Avantis U.S. Quality ETF",
+      "price": "$68.62",
+      "change_pct": "-0.9%"
+    },
+    {
+      "symbol": "GRAN",
+      "company": "Grande Group",
+      "price": "$1.17",
+      "change_pct": "23.1%"
+    },
+    {
+      "symbol": "HYPR",
+      "company": "Hyperfine",
+      "price": "$0.94",
+      "change_pct": "10.7%"
+    },
+    {
+      "symbol": "DAAQ",
+      "company": "Digital Asset Acquisition",
+      "price": "$10.47",
+      "change_pct": "0.0%"
+    },
+    {
+      "symbol": "PROF",
+      "company": "Profound Medical",
+      "price": "$6.91",
+      "change_pct": "21.7%"
+    },
+    {
+      "symbol": "FVAV",
+      "company": "Fortress Value Acquisition Corp. V",
+      "price": "$10.22",
+      "change_pct": "-0.3%"
+    },
+    {
+      "symbol": "QADR",
+      "company": "QDRO Acquisition",
+      "price": "$10.05",
+      "change_pct": "0.4%"
+    },
+    {
+      "symbol": "TPLS",
+      "company": "Thornburg Core Plus Bond ETF",
+      "price": "$24.05",
+      "change_pct": "0.2%"
+    },
+    {
+      "symbol": "UTRE",
+      "company": "US Treasury 3 Year Note ETF",
+      "price": "$48.17",
+      "change_pct": "0.1%"
+    },
+    {
+      "symbol": "BRLS",
+      "company": "Borealis Foods",
+      "price": "$0.96",
+      "change_pct": "-19.3%"
+    },
+    {
+      "symbol": "BKHA",
+      "company": "Black Hawk Acquisition",
+      "price": "$12.19",
+      "change_pct": "-6.2%"
+    },
+    {
+      "symbol": "NEWZ",
+      "company": "StockSnips AI-Powered Sentiment US All Cap ETF",
+      "price": "$29.72",
+      "change_pct": "0.1%"
+    },
+    {
+      "symbol": "DVAL",
+      "company": "Brandywine GLOBAL Dynamic US Large Cap Value ETF",
+      "price": "$15.45",
+      "change_pct": "0.8%"
+    },
+    {
+      "symbol": "LPAA",
+      "company": "Launch One Acquisition",
+      "price": "$10.88",
+      "change_pct": "0.3%"
+    },
+    {
+      "symbol": "EGHA",
+      "company": "EGH Acquisition",
+      "price": "$10.44",
+      "change_pct": "0.1%"
+    },
+    {
+      "symbol": "CPHI",
+      "company": "China Pharma",
+      "price": "$0.96",
+      "change_pct": "12.9%"
+    },
+    {
+      "symbol": "BRTR",
+      "company": "iShares Total Return Active ETF",
+      "price": "$47.83",
+      "change_pct": "0.3%"
+    },
+    {
+      "symbol": "ARTW",
+      "company": "Art's-Way Manufacturing",
+      "price": "$3.67",
+      "change_pct": "11.6%"
+    },
+    {
+      "symbol": "THEO",
+      "company": "BOA Acquisition Corp. II",
+      "price": "$9.94",
+      "change_pct": "0.4%"
+    },
+    {
+      "symbol": "SHPH",
+      "company": "Shuttle Pharmaceuticals",
+      "price": "$5.55",
+      "change_pct": "17.8%"
+    },
+    {
+      "symbol": "XSLL",
+      "company": "Xsolla SPAC 1",
+      "price": "$10.03",
+      "change_pct": "0.3%"
+    },
+    {
+      "symbol": "ARGX",
+      "company": "argenex",
+      "price": "$818.63",
+      "change_pct": "-11.8%"
+    },
+    {
+      "symbol": "BYRN",
+      "company": "Byrna Technologies",
+      "price": "$4.73",
+      "change_pct": "16.8%"
+    },
+    {
+      "symbol": "FEDU",
+      "company": "Four Seasons Education (Cayman)",
+      "price": "$10.58",
+      "change_pct": "4.7%"
+    },
+    {
+      "symbol": "WOLF",
+      "company": "Wolfspeed",
+      "price": "$30.83",
+      "change_pct": "-1.7%"
+    },
+    {
+      "symbol": "WPAC",
+      "company": "White Pearl Acquisition",
+      "price": "$10.10",
+      "change_pct": "0.0%"
+    },
+    {
+      "symbol": "FMB",
+      "company": "First Trust Managed Municipal ETF",
+      "price": "$47.85",
+      "change_pct": "0.3%"
+    },
+    {
+      "symbol": "PRZO",
+      "company": "ParaZero Technologies",
+      "price": "$0.67",
+      "change_pct": "7.9%"
+    },
+    {
+      "symbol": "PWRD",
+      "company": "TCW Transform Systems ETF",
+      "price": "$106.44",
+      "change_pct": "-1.1%"
+    },
+    {
+      "symbol": "CAPNU",
+      "company": "Cayson Acquisition Corp Unit",
+      "price": "$11.42",
+      "change_pct": "0.4%"
+    },
+    {
+      "symbol": "AMTD",
+      "company": "AMTD IDEA Group American Depositary Shares, each representing six (6) Class A Ordinary Shares",
+      "price": "$0.59",
+      "change_pct": "-11.4%"
+    },
+    {
+      "symbol": "PPLC",
+      "company": "PortfolioPlus S&P 500 ETF",
+      "price": "$45.95",
+      "change_pct": "0.5%"
+    },
+    {
+      "symbol": "EWZS",
+      "company": "iShares MSCI Brazil Small-Cap ETF",
+      "price": "$16.33",
+      "change_pct": "2.4%"
+    },
+    {
+      "symbol": "OTAI",
+      "company": "Starlink AI Acquisition",
+      "price": "$10.08",
+      "change_pct": "0.2%"
+    },
+    {
+      "symbol": "WLCO",
+      "company": "Wilco 63",
+      "price": "$9.83",
+      "change_pct": "0.1%"
+    },
+    {
+      "symbol": "SVCC",
+      "company": "Stellar V Capital",
+      "price": "$10.72",
+      "change_pct": "0.0%"
+    },
+    {
+      "symbol": "ANL",
+      "company": "Adlai Nortye",
+      "price": "$15.51",
+      "change_pct": "10.4%"
+    },
+    {
+      "symbol": "CDLX",
+      "company": "Cardlytics",
+      "price": "$1.95",
+      "change_pct": "-14.5%"
+    },
+    {
+      "symbol": "GHG",
+      "company": "GreenTree Hospitality Group",
+      "price": "$0.95",
+      "change_pct": "-0.5%"
+    },
+    {
+      "symbol": "BACC",
+      "company": "Blue Acquisition Corp/Cayman",
+      "price": "$10.44",
+      "change_pct": "-0.1%"
+    },
+    {
+      "symbol": "MFSM",
+      "company": "MFS Active Intermediate Muni Bond ETF",
+      "price": "$23.54",
+      "change_pct": "0.2%"
+    },
+    {
+      "symbol": "AEXA",
+      "company": "American Exceptionalism Acquisition",
+      "price": "$10.82",
+      "change_pct": "-0.3%"
+    },
+    {
+      "symbol": "CRBU",
+      "company": "Caribou Biosciences",
+      "price": "$0.48",
+      "change_pct": "-22.1%"
+    },
+    {
+      "symbol": "TAXE",
+      "company": "T. Rowe Price Intermediate Municipal Income ETF",
+      "price": "$48.52",
+      "change_pct": "0.1%"
+    },
+    {
+      "symbol": "RELL",
+      "company": "Richardson Electronics",
+      "price": "$19.97",
+      "change_pct": "-0.2%"
+    },
+    {
+      "symbol": "UONE",
+      "company": "Radio One",
+      "price": "$4.34",
+      "change_pct": "3.8%"
+    },
+    {
+      "symbol": "IBTO",
+      "company": "iShares iBonds Dec 2033 Term Treasury ETF",
+      "price": "$23.01",
+      "change_pct": "0.2%"
+    },
+    {
+      "symbol": "BRBI",
+      "company": "BR Biopharma",
+      "price": "$14.85",
+      "change_pct": "6.0%"
+    },
+    {
+      "symbol": "NDAA",
+      "company": "Ned Davis Research 360 Dynamic Allocation ETF",
+      "price": "$24.04",
+      "change_pct": "-0.3%"
+    },
+    {
+      "symbol": "DTI",
+      "company": "Drilling Tools International",
+      "price": "$2.01",
+      "change_pct": "-14.8%"
+    },
+    {
+      "symbol": "PLYX",
+      "company": "Polaryx Therapeutics",
+      "price": "$2.00",
+      "change_pct": "-4.3%"
+    },
+    {
+      "symbol": "TARK",
+      "company": "Tradr 2X Long Innovation ETF",
+      "price": "$52.10",
+      "change_pct": "-3.3%"
+    },
+    {
+      "symbol": "CABO",
+      "company": "Cable One",
+      "price": "$15.65",
+      "change_pct": "18.5%"
+    },
+    {
+      "symbol": "AMAN",
+      "company": "Amanat Acquisition",
+      "price": "$10.40",
+      "change_pct": "-1.0%"
+    },
+    {
+      "symbol": "IBGA",
+      "company": "iShares iBonds Dec 2044 Term Treasury ETF",
+      "price": "$22.35",
+      "change_pct": "0.8%"
+    },
+    {
+      "symbol": "MDT",
+      "company": "Medtronic",
+      "price": "$87.72",
+      "change_pct": "2.6%"
+    },
+    {
+      "symbol": "MCHS",
+      "company": "Matthews China Discovery Active ETF",
+      "price": "$38.55",
+      "change_pct": "-2.3%"
+    },
+    {
+      "symbol": "HYXF",
+      "company": "iShares ESG Advanced High Yield Corporate Bond ETF",
+      "price": "$45.03",
+      "change_pct": "0.0%"
+    },
+    {
+      "symbol": "LZM",
+      "company": "Lifezone Metals",
+      "price": "$3.33",
+      "change_pct": "-10.9%"
+    },
+    {
+      "symbol": "PMBS",
+      "company": "PIMCO Mortgage-Backed Securities Active ETF",
+      "price": "$46.24",
+      "change_pct": "0.4%"
+    },
+    {
+      "symbol": "MMED",
+      "company": "MiniMed Group",
+      "price": "$19.80",
+      "change_pct": "3.6%"
+    },
+    {
+      "symbol": "UFG",
+      "company": "Uni-Fuels",
+      "price": "$0.37",
+      "change_pct": "-0.6%"
+    },
+    {
+      "symbol": "CNTY",
+      "company": "Century Casinos",
+      "price": "$0.86",
+      "change_pct": "-13.9%"
+    },
+    {
+      "symbol": "ANGO",
+      "company": "AngioDynamics",
+      "price": "$11.23",
+      "change_pct": "-20.9%"
+    },
+    {
+      "symbol": "HAE",
+      "company": "Haemonetics",
+      "price": "$119.29",
+      "change_pct": "17.3%"
+    },
+    {
+      "symbol": "CEPS",
+      "company": "Cantor Equity Partners VI",
+      "price": "$10.25",
+      "change_pct": "-0.3%"
+    },
+    {
+      "symbol": "CMG",
+      "company": "Chipotle Mexican Grill",
+      "price": "$32.64",
+      "change_pct": "6.1%"
+    },
+    {
+      "symbol": "INRO",
+      "company": "iShares U.S. Industry Rotation Active ETF",
+      "price": "$37.32",
+      "change_pct": "-0.6%"
+    },
+    {
+      "symbol": "HELE",
+      "company": "Helen of Troy",
+      "price": "$26.55",
+      "change_pct": "3.9%"
+    },
+    {
+      "symbol": "BUUU",
+      "company": "BUUU Group",
+      "price": "$40.83",
+      "change_pct": "10.0%"
+    },
+    {
+      "symbol": "PLTZ",
+      "company": "Defiance Daily Target 2X Short PLTR ETF",
+      "price": "$7.02",
+      "change_pct": "-4.7%"
+    },
+    {
+      "symbol": "VAI",
+      "company": "Valor Energy",
+      "price": "$2.59",
+      "change_pct": "2.4%"
+    },
+    {
+      "symbol": "MANE",
+      "company": "Veradermics",
+      "price": "$126.65",
+      "change_pct": "14.1%"
+    },
+    {
+      "symbol": "RGP",
+      "company": "Resources Connection",
+      "price": "$2.99",
+      "change_pct": "-20.1%"
+    },
+    {
+      "symbol": "NEPH",
+      "company": "Nephros",
+      "price": "$3.29",
+      "change_pct": "2.8%"
+    },
+    {
+      "symbol": "UPB",
+      "company": "Upstream Bio",
+      "price": "$4.55",
+      "change_pct": "-1.3%"
+    },
+    {
+      "symbol": "IBTK",
+      "company": "iShares iBonds Dec 2030 Term Treasury ETF",
+      "price": "$19.00",
+      "change_pct": "0.1%"
+    },
+    {
+      "symbol": "COWS",
+      "company": "Amplify Cash Flow Dividend Leaders ETF",
+      "price": "$37.39",
+      "change_pct": "1.7%"
+    },
+    {
+      "symbol": "XIII",
+      "company": "Churchill Capital Corp XIII",
+      "price": "$10.31",
+      "change_pct": "0.1%"
+    },
+    {
+      "symbol": "FCAL",
+      "company": "First Trust California Municipal High Income ETF",
+      "price": "$46.04",
+      "change_pct": "0.0%"
+    },
+    {
+      "symbol": "CARZ",
+      "company": "First Trust S-Network Future Vehicles & Technology ETF",
+      "price": "$106.89",
+      "change_pct": "-2.2%"
+    },
+    {
+      "symbol": "SBUX",
+      "company": "Starbucks",
+      "price": "$93.21",
+      "change_pct": "-0.4%"
+    },
+    {
+      "symbol": "DFLI",
+      "company": "Dragonfly Energy",
+      "price": "$0.49",
+      "change_pct": "-28.8%"
+    },
+    {
+      "symbol": "IDAC",
+      "company": "Iron Dome Acquisition I",
+      "price": "$10.04",
+      "change_pct": "0.5%"
+    },
+    {
+      "symbol": "MRNO",
+      "company": "Murano Global BV",
+      "price": "$0.26",
+      "change_pct": "10.1%"
+    },
+    {
+      "symbol": "LEVI",
+      "company": "Levi Strauss & Co.",
+      "price": "$19.02",
+      "change_pct": "-2.5%"
+    },
+    {
+      "symbol": "MLP",
+      "company": "Maui Land & Pineapple",
+      "price": "$15.20",
+      "change_pct": "-2.0%"
+    },
+    {
+      "symbol": "ADCT",
+      "company": "ADC Therapeutics",
+      "price": "$1.59",
+      "change_pct": "11.6%"
+    },
+    {
+      "symbol": "BAK",
+      "company": "Braskem",
+      "price": "$1.83",
+      "change_pct": "3.1%"
+    },
+    {
+      "symbol": "CALC",
+      "company": "CalciMedica",
+      "price": "$1.30",
+      "change_pct": "-12.2%"
+    },
+    {
+      "symbol": "LFAC",
+      "company": "LF Capital Acquisition",
+      "price": "$10.08",
+      "change_pct": "0.0%"
+    },
+    {
+      "symbol": "SCLX",
+      "company": "Scilex",
+      "price": "$2.96",
+      "change_pct": "-15.2%"
+    },
+    {
+      "symbol": "QQXT",
+      "company": "First Trust NASDAQ-100 Ex-Technology Sector Index Fund",
+      "price": "$97.32",
+      "change_pct": "0.5%"
+    },
+    {
+      "symbol": "FMUB",
+      "company": "Fidelity Municipal Bond Opportunities ETF",
+      "price": "$48.26",
+      "change_pct": "0.1%"
+    },
+    {
+      "symbol": "BSMW",
+      "company": "Invesco BulletShares 2032 Municipal Bond ETF",
+      "price": "$23.59",
+      "change_pct": "0.2%"
+    },
+    {
+      "symbol": "FMHI",
+      "company": "First Trust Municipal High Income ETF",
+      "price": "$44.58",
+      "change_pct": "0.2%"
+    }
+  ]
+}
