@@ -1,0 +1,739 @@
+{
+  "fetched_at_utc": "2026-10-09T10:39:21+00:00",
+  "window": "2026-10-09 to 2026-10-16 (6 trading days)",
+  "source": "api.nasdaq.com/api/calendar/earnings (keyless, UA header required)",
+  "note": "Context layer: know who reports before/after the market so positions are not carried blindly into prints.",
+  "errors": [],
+  "events": [
+    {
+      "symbol": "DAL",
+      "name": "Delta Air Lines, Inc.",
+      "date": "2026-10-09",
+      "report_time": "before",
+      "eps_consensus": 1.93,
+      "num_estimates": 7,
+      "market_cap": "54562984000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "GLDG",
+      "name": "GoldMining Inc.",
+      "date": "2026-10-09",
+      "report_time": "time-not-supplied",
+      "eps_consensus": null,
+      "num_estimates": 0,
+      "market_cap": "186790368",
+      "fiscal_quarter_ending": "Aug/2026"
+    },
+    {
+      "symbol": "HIFS",
+      "name": "Hingham Institution for Savings",
+      "date": "2026-10-09",
+      "report_time": "time-not-supplied",
+      "eps_consensus": null,
+      "num_estimates": 7,
+      "market_cap": "614049020",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "HOVR",
+      "name": "New Horizon Aircraft Ltd.",
+      "date": "2026-10-09",
+      "report_time": "before",
+      "eps_consensus": null,
+      "num_estimates": 1,
+      "market_cap": "107398304",
+      "fiscal_quarter_ending": "Aug/2026"
+    },
+    {
+      "symbol": "MSS",
+      "name": "Maison Solutions Inc.",
+      "date": "2026-10-12",
+      "report_time": "time-not-supplied",
+      "eps_consensus": 0.64,
+      "num_estimates": 1,
+      "market_cap": "1428416",
+      "fiscal_quarter_ending": "Jul/2026"
+    },
+    {
+      "symbol": "NCPL",
+      "name": "Netcapital Inc.",
+      "date": "2026-10-12",
+      "report_time": "time-not-supplied",
+      "eps_consensus": null,
+      "num_estimates": 1,
+      "market_cap": "12478159",
+      "fiscal_quarter_ending": "Jul/2026"
+    },
+    {
+      "symbol": "RMCF",
+      "name": "Rocky Mountain Chocolate Factory, Inc.",
+      "date": "2026-10-12",
+      "report_time": "time-not-supplied",
+      "eps_consensus": null,
+      "num_estimates": 1,
+      "market_cap": "9628379",
+      "fiscal_quarter_ending": "Aug/2026"
+    },
+    {
+      "symbol": "ACI",
+      "name": "Albertsons Companies, Inc.",
+      "date": "2026-10-13",
+      "report_time": "before",
+      "eps_consensus": 0.31,
+      "num_estimates": 6,
+      "market_cap": "5697723400",
+      "fiscal_quarter_ending": "Aug/2026"
+    },
+    {
+      "symbol": "AZZ",
+      "name": "AZZ Inc.",
+      "date": "2026-10-13",
+      "report_time": "after",
+      "eps_consensus": 1.82,
+      "num_estimates": 4,
+      "market_cap": "4162433280",
+      "fiscal_quarter_ending": "Aug/2026"
+    },
+    {
+      "symbol": "BMRA",
+      "name": "Biomerica, Inc.",
+      "date": "2026-10-13",
+      "report_time": "time-not-supplied",
+      "eps_consensus": null,
+      "num_estimates": 6,
+      "market_cap": "8784029",
+      "fiscal_quarter_ending": "Aug/2026"
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup Inc.",
+      "date": "2026-10-13",
+      "report_time": "before",
+      "eps_consensus": 2.66,
+      "num_estimates": 7,
+      "market_cap": "213571256000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "DPZ",
+      "name": "Domino's Pizza Inc",
+      "date": "2026-10-13",
+      "report_time": "before",
+      "eps_consensus": 4.33,
+      "num_estimates": 9,
+      "market_cap": "10027073500",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "FBK",
+      "name": "FB Financial Corporation",
+      "date": "2026-10-13",
+      "report_time": "before",
+      "eps_consensus": 1.21,
+      "num_estimates": 5,
+      "market_cap": "2611857410",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "FNGR",
+      "name": "FingerMotion, Inc.",
+      "date": "2026-10-13",
+      "report_time": "time-not-supplied",
+      "eps_consensus": null,
+      "num_estimates": 6,
+      "market_cap": "15251499",
+      "fiscal_quarter_ending": "Aug/2026"
+    },
+    {
+      "symbol": "GS",
+      "name": "The Goldman Sachs Group, Inc.",
+      "date": "2026-10-13",
+      "report_time": "before",
+      "eps_consensus": 12.9,
+      "num_estimates": 7,
+      "market_cap": "258330182000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "date": "2026-10-13",
+      "report_time": "before",
+      "eps_consensus": 2.82,
+      "num_estimates": 7,
+      "market_cap": "622838280000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "JPM",
+      "name": "J P Morgan Chase & Co",
+      "date": "2026-10-13",
+      "report_time": "before",
+      "eps_consensus": 5.94,
+      "num_estimates": 6,
+      "market_cap": "876084990000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "date": "2026-10-13",
+      "report_time": "before",
+      "eps_consensus": 4.12,
+      "num_estimates": 8,
+      "market_cap": "337477698000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "UNTY",
+      "name": "Unity Bancorp, Inc.",
+      "date": "2026-10-13",
+      "report_time": "time-not-supplied",
+      "eps_consensus": 1.49,
+      "num_estimates": 3,
+      "market_cap": "548425220",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "date": "2026-10-13",
+      "report_time": "before",
+      "eps_consensus": 1.85,
+      "num_estimates": 8,
+      "market_cap": "242706186000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding N.V.",
+      "date": "2026-10-14",
+      "report_time": "before",
+      "eps_consensus": 12.47,
+      "num_estimates": 3,
+      "market_cap": "695663460000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corporation",
+      "date": "2026-10-14",
+      "report_time": "before",
+      "eps_consensus": 1.12,
+      "num_estimates": 6,
+      "market_cap": "374251880000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "BLK",
+      "name": "BlackRock, Inc.",
+      "date": "2026-10-14",
+      "report_time": "before",
+      "eps_consensus": 14.04,
+      "num_estimates": 6,
+      "market_cap": "165652808000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "EDUC",
+      "name": "Educational Development Corporation",
+      "date": "2026-10-14",
+      "report_time": "after",
+      "eps_consensus": null,
+      "num_estimates": 3,
+      "market_cap": "11082453",
+      "fiscal_quarter_ending": "Aug/2026"
+    },
+    {
+      "symbol": "EQBK",
+      "name": "Equity Bancshares, Inc.",
+      "date": "2026-10-14",
+      "report_time": "after",
+      "eps_consensus": 1.31,
+      "num_estimates": 5,
+      "market_cap": "967847040",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "FAST",
+      "name": "Fastenal Company",
+      "date": "2026-10-14",
+      "report_time": "before",
+      "eps_consensus": 0.34,
+      "num_estimates": 6,
+      "market_cap": "57179804000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "HOMB",
+      "name": "Home BancShares, Inc.",
+      "date": "2026-10-14",
+      "report_time": "after",
+      "eps_consensus": 0.63,
+      "num_estimates": 4,
+      "market_cap": "5637398500",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "MS",
+      "name": "Morgan Stanley",
+      "date": "2026-10-14",
+      "report_time": "before",
+      "eps_consensus": 2.88,
+      "num_estimates": 5,
+      "market_cap": "297952117000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "NXTT",
+      "name": "Next Technology Holding Inc.",
+      "date": "2026-10-14",
+      "report_time": "time-not-supplied",
+      "eps_consensus": null,
+      "num_estimates": 3,
+      "market_cap": "7806699",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "SOTK",
+      "name": "Sono-Tek Corporation",
+      "date": "2026-10-14",
+      "report_time": "before",
+      "eps_consensus": 0.05,
+      "num_estimates": 1,
+      "market_cap": "106087880",
+      "fiscal_quarter_ending": "Aug/2026"
+    },
+    {
+      "symbol": "STT",
+      "name": "State Street Corporation",
+      "date": "2026-10-14",
+      "report_time": "before",
+      "eps_consensus": 3.63,
+      "num_estimates": 6,
+      "market_cap": "47850299000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "AA",
+      "name": "Alcoa Corporation",
+      "date": "2026-10-15",
+      "report_time": "after",
+      "eps_consensus": 1.58,
+      "num_estimates": 5,
+      "market_cap": "11210872800",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "ALOY",
+      "name": "REalloys Inc.",
+      "date": "2026-10-15",
+      "report_time": "time-not-supplied",
+      "eps_consensus": null,
+      "num_estimates": 5,
+      "market_cap": "550492100",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "BNY",
+      "name": "The Bank Of New York Mellon Corporation",
+      "date": "2026-10-15",
+      "report_time": "before",
+      "eps_consensus": 2.27,
+      "num_estimates": 6,
+      "market_cap": "96836108000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "BSVN",
+      "name": "Bank7 Corp.",
+      "date": "2026-10-15",
+      "report_time": "before",
+      "eps_consensus": 1.0,
+      "num_estimates": 2,
+      "market_cap": "525160448",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "CMC",
+      "name": "Commercial Metals Company",
+      "date": "2026-10-15",
+      "report_time": "before",
+      "eps_consensus": 1.97,
+      "num_estimates": 4,
+      "market_cap": "6996989400",
+      "fiscal_quarter_ending": "Aug/2026"
+    },
+    {
+      "symbol": "CNS",
+      "name": "Cohen & Steers Inc",
+      "date": "2026-10-15",
+      "report_time": "time-not-supplied",
+      "eps_consensus": 0.88,
+      "num_estimates": 1,
+      "market_cap": "3625218050",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "CTW",
+      "name": "CTW",
+      "date": "2026-10-15",
+      "report_time": "after",
+      "eps_consensus": null,
+      "num_estimates": 5,
+      "market_cap": "137280000",
+      "fiscal_quarter_ending": "Jul/2026"
+    },
+    {
+      "symbol": "CWBC",
+      "name": "Community West Bancshares",
+      "date": "2026-10-15",
+      "report_time": "time-not-supplied",
+      "eps_consensus": 0.65,
+      "num_estimates": 4,
+      "market_cap": "707035900",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "ERIC",
+      "name": "Ericsson",
+      "date": "2026-10-15",
+      "report_time": "before",
+      "eps_consensus": 0.14,
+      "num_estimates": 3,
+      "market_cap": "31892987900",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "FHN",
+      "name": "First Horizon Corporation",
+      "date": "2026-10-15",
+      "report_time": "before",
+      "eps_consensus": 0.53,
+      "num_estimates": 9,
+      "market_cap": "10892136400",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "IBKR",
+      "name": "Interactive Brokers Group, Inc.",
+      "date": "2026-10-15",
+      "report_time": "after",
+      "eps_consensus": 0.66,
+      "num_estimates": 2,
+      "market_cap": "39753077000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "INDB",
+      "name": "Independent Bank Corp.",
+      "date": "2026-10-15",
+      "report_time": "after",
+      "eps_consensus": 1.84,
+      "num_estimates": 4,
+      "market_cap": "3704737280",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys Limited",
+      "date": "2026-10-15",
+      "report_time": "time-not-supplied",
+      "eps_consensus": 0.21,
+      "num_estimates": 3,
+      "market_cap": "42794598000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "JBHT",
+      "name": "J.B. Hunt Transport Services, Inc.",
+      "date": "2026-10-15",
+      "report_time": "after",
+      "eps_consensus": 1.95,
+      "num_estimates": 9,
+      "market_cap": "20909221900",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "LBRT",
+      "name": "Liberty Energy Inc.",
+      "date": "2026-10-15",
+      "report_time": "time-not-supplied",
+      "eps_consensus": 0.11,
+      "num_estimates": 6,
+      "market_cap": "3167545340",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "MAN",
+      "name": "ManpowerGroup",
+      "date": "2026-10-15",
+      "report_time": "before",
+      "eps_consensus": 1.01,
+      "num_estimates": 4,
+      "market_cap": "2458749440",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "MRSH",
+      "name": "Marsh",
+      "date": "2026-10-15",
+      "report_time": "before",
+      "eps_consensus": 1.96,
+      "num_estimates": 10,
+      "market_cap": "82872508000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "PLD",
+      "name": "Prologis, Inc.",
+      "date": "2026-10-15",
+      "report_time": "before",
+      "eps_consensus": 1.58,
+      "num_estimates": 2,
+      "market_cap": "120690074000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "PNC",
+      "name": "PNC Financial Services Group, Inc. (The)",
+      "date": "2026-10-15",
+      "report_time": "before",
+      "eps_consensus": 4.97,
+      "num_estimates": 8,
+      "market_cap": "86858015000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "PULM",
+      "name": "Pulmatrix, Inc.",
+      "date": "2026-10-15",
+      "report_time": "time-not-supplied",
+      "eps_consensus": null,
+      "num_estimates": 5,
+      "market_cap": "5441905",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "SCHW",
+      "name": "The Charles Schwab Corporation",
+      "date": "2026-10-15",
+      "report_time": "before",
+      "eps_consensus": 1.66,
+      "num_estimates": 10,
+      "market_cap": "165289902000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "SFNC",
+      "name": "Simmons First National Corporation",
+      "date": "2026-10-15",
+      "report_time": "after",
+      "eps_consensus": 0.53,
+      "num_estimates": 5,
+      "market_cap": "3209651200",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "SNA",
+      "name": "Snap-On Incorporated",
+      "date": "2026-10-15",
+      "report_time": "time-not-supplied",
+      "eps_consensus": 4.91,
+      "num_estimates": 5,
+      "market_cap": "18616074200",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "date": "2026-10-15",
+      "report_time": "before",
+      "eps_consensus": 4.45,
+      "num_estimates": 6,
+      "market_cap": "2449067740000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "USB",
+      "name": "U.S. Bancorp",
+      "date": "2026-10-15",
+      "report_time": "before",
+      "eps_consensus": 1.33,
+      "num_estimates": 9,
+      "market_cap": "87515750000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "WABC",
+      "name": "Westamerica Bancorporation",
+      "date": "2026-10-15",
+      "report_time": "time-not-supplied",
+      "eps_consensus": null,
+      "num_estimates": 5,
+      "market_cap": "1347611390",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "WAFD",
+      "name": "WaFd, Inc.",
+      "date": "2026-10-15",
+      "report_time": "time-not-supplied",
+      "eps_consensus": 0.83,
+      "num_estimates": 4,
+      "market_cap": "2180639740",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "WIT",
+      "name": "Wipro Limited",
+      "date": "2026-10-15",
+      "report_time": "before",
+      "eps_consensus": 0.04,
+      "num_estimates": 2,
+      "market_cap": "16538928100",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "ATLO",
+      "name": "Ames National Corporation",
+      "date": "2026-10-16",
+      "report_time": "time-not-supplied",
+      "eps_consensus": 0.68,
+      "num_estimates": 1,
+      "market_cap": "282456736",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "BANF",
+      "name": "BancFirst Corporation",
+      "date": "2026-10-16",
+      "report_time": "time-not-supplied",
+      "eps_consensus": 1.93,
+      "num_estimates": 2,
+      "market_cap": "3561803010",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "BVFL",
+      "name": "BV Financial, Inc.",
+      "date": "2026-10-16",
+      "report_time": "time-not-supplied",
+      "eps_consensus": null,
+      "num_estimates": 1,
+      "market_cap": "185167408",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "CFG",
+      "name": "Citizens Financial Group, Inc.",
+      "date": "2026-10-16",
+      "report_time": "before",
+      "eps_consensus": 1.38,
+      "num_estimates": 7,
+      "market_cap": "26563620900",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "HDB",
+      "name": "HDFC Bank Limited",
+      "date": "2026-10-16",
+      "report_time": "time-not-supplied",
+      "eps_consensus": 0.4,
+      "num_estimates": 2,
+      "market_cap": "113603060000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "HOST",
+      "name": "Host Digital Inc.",
+      "date": "2026-10-16",
+      "report_time": "time-not-supplied",
+      "eps_consensus": null,
+      "num_estimates": 1,
+      "market_cap": "90523032",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "IBN",
+      "name": "ICICI Bank Limited",
+      "date": "2026-10-16",
+      "report_time": "time-not-supplied",
+      "eps_consensus": 0.4,
+      "num_estimates": 2,
+      "market_cap": "99740369000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "MCBS",
+      "name": "MetroCity Bankshares, Inc.",
+      "date": "2026-10-16",
+      "report_time": "time-not-supplied",
+      "eps_consensus": null,
+      "num_estimates": 1,
+      "market_cap": "994679300",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "MTB",
+      "name": "M&T Bank Corporation",
+      "date": "2026-10-16",
+      "report_time": "before",
+      "eps_consensus": 5.0,
+      "num_estimates": 6,
+      "market_cap": "31284895700",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "PBAM",
+      "name": "Private Bancorp of America, Inc.",
+      "date": "2026-10-16",
+      "report_time": "time-not-supplied",
+      "eps_consensus": 2.07,
+      "num_estimates": 4,
+      "market_cap": "492532576",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "RBCAA",
+      "name": "Republic Bancorp, Inc.",
+      "date": "2026-10-16",
+      "report_time": "time-not-supplied",
+      "eps_consensus": 1.66,
+      "num_estimates": 1,
+      "market_cap": "1804182140",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "RF",
+      "name": "Regions Financial Corporation",
+      "date": "2026-10-16",
+      "report_time": "before",
+      "eps_consensus": 0.67,
+      "num_estimates": 9,
+      "market_cap": "22746517500",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "TFC",
+      "name": "Truist Financial Corporation",
+      "date": "2026-10-16",
+      "report_time": "before",
+      "eps_consensus": 1.17,
+      "num_estimates": 8,
+      "market_cap": "55681720000",
+      "fiscal_quarter_ending": "Sep/2026"
+    },
+    {
+      "symbol": "TRV",
+      "name": "The Travelers Companies, Inc.",
+      "date": "2026-10-16",
+      "report_time": "before",
+      "eps_consensus": 6.86,
+      "num_estimates": 12,
+      "market_cap": "75214242000",
+      "fiscal_quarter_ending": "Sep/2026"
+    }
+  ]
+}
