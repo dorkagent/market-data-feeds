@@ -1,200 +1,53 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-09T12:45:55.263620+00:00",
- "posts_analyzed": 500,
- "window_start": "2026-09-02T16:29:01+00:00",
+ "generated_at": "2026-10-09T19:54:55.147756+00:00",
+ "posts_analyzed": 100,
+ "window_start": "2026-09-30T11:31:05+00:00",
  "top_tickers": [
-  {
-   "ticker": "SPY",
-   "mentions": 12,
-   "bull": 8,
-   "bear": 6,
-   "engagement": 180
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 7,
-   "bull": 4,
-   "bear": 1,
-   "engagement": 41
-  },
-  {
-   "ticker": "META",
-   "mentions": 6,
-   "bull": 5,
-   "bear": 4,
-   "engagement": 123
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 4,
-   "bull": 3,
-   "bear": 3,
-   "engagement": 127
-  },
-  {
-   "ticker": "GME",
-   "mentions": 4,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 19
-  },
-  {
-   "ticker": "NBIS",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 15
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 26
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 3,
-   "bull": 3,
-   "bear": 1,
-   "engagement": 39
-  },
-  {
-   "ticker": "ORCL",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 4
-  },
   {
    "ticker": "TLT",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 19
+   "engagement": 3
   },
   {
-   "ticker": "BTC",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 10
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
-   "ticker": "UBER",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 96
-  },
-  {
-   "ticker": "ZS",
+   "ticker": "GME",
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 17
+   "engagement": 6
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
   },
   {
    "ticker": "BB",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 16
-  },
-  {
-   "ticker": "TEM",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 17
-  },
-  {
-   "ticker": "INTC",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 17
-  },
-  {
-   "ticker": "ETH",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 36
-  },
-  {
-   "ticker": "RDDT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 59
+   "engagement": 15
   }
  ],
  "top_posts": [
-  {
-   "title": "Boredom",
-   "score": 210,
-   "num_comments": 456,
-   "created_utc": 1791401636,
-   "url": "https://www.reddit.com/r/options/comments/1x05x7f/"
-  },
-  {
-   "title": "Beware of Bad Advice",
-   "score": 130,
-   "num_comments": 74,
-   "created_utc": 1789340128,
-   "url": "https://www.reddit.com/r/options/comments/1wfmcyo/"
-  },
-  {
-   "title": "Clarification on being banned from retail brokerage for being consistently profitable",
-   "score": 82,
-   "num_comments": 52,
-   "created_utc": 1789948504,
-   "url": "https://www.reddit.com/r/options/comments/1wlwxee/"
-  },
-  {
-   "title": "Debit spreads taught me that being right too early can still be annoying",
-   "score": 80,
-   "num_comments": 38,
-   "created_utc": 1788788984,
-   "url": "https://www.reddit.com/r/options/comments/1w9sps6/"
-  },
-  {
-   "title": "PMCC is absolutely the best strat out there in risk-adjusted return",
-   "score": 65,
-   "num_comments": 46,
-   "created_utc": 1788871163,
-   "url": "https://www.reddit.com/r/options/comments/1wanaa3/"
-  },
-  {
-   "title": "First year trading full time. Up 83% and scared about next year.",
-   "score": 63,
-   "num_comments": 152,
-   "created_utc": 1788941504,
-   "url": "https://www.reddit.com/r/options/comments/1wbfef8/"
-  },
-  {
-   "title": "A few items which give me an edge in options trading",
-   "score": 60,
-   "num_comments": 100,
-   "created_utc": 1788537211,
-   "url": "https://www.reddit.com/r/options/comments/1w788om/"
-  },
   {
    "title": "Is deep ITM LEAPS just leveraged stocks?",
    "score": 53,
@@ -203,53 +56,102 @@
    "url": "https://www.reddit.com/r/options/comments/1wu3gas/"
   },
   {
-   "title": "I was completely fine losing my AMD shares until it almost happened",
-   "score": 52,
-   "num_comments": 54,
-   "created_utc": 1790005826,
-   "url": "https://www.reddit.com/r/options/comments/1wmgm9p/"
-  },
-  {
-   "title": "[MU] Earnings IV Crush Setup for Oct 2nd",
-   "score": 50,
-   "num_comments": 28,
-   "created_utc": 1790703700,
-   "url": "https://www.reddit.com/r/options/comments/1wtgr2k/"
-  },
-  {
-   "title": "1st time buying leap GOOG",
-   "score": 50,
+   "title": "Do not download the new Tasty trade 2.0 Desktop major Platform Update",
+   "score": 37,
    "num_comments": 52,
-   "created_utc": 1789132856,
-   "url": "https://www.reddit.com/r/options/comments/1wdg574/"
+   "created_utc": 1791379531,
+   "url": "https://www.reddit.com/r/options/comments/1wzwh80/"
   },
   {
-   "title": "Fact Check: 0DTE Iron Condor Strategy With Zero Losses",
-   "score": 50,
-   "num_comments": 29,
-   "created_utc": 1788856686,
-   "url": "https://www.reddit.com/r/options/comments/1waio7e/"
+   "title": "An intuitive way to price an option",
+   "score": 32,
+   "num_comments": 19,
+   "created_utc": 1790948186,
+   "url": "https://www.reddit.com/r/options/comments/1wvu0qq/"
   },
   {
-   "title": "Trying all the option strategies",
-   "score": 49,
-   "num_comments": 29,
-   "created_utc": 1790494191,
-   "url": "https://www.reddit.com/r/options/comments/1wrdvs5/"
+   "title": "Margin requirements for selling premium right now are a joke",
+   "score": 30,
+   "num_comments": 56,
+   "created_utc": 1791274690,
+   "url": "https://www.reddit.com/r/options/comments/1wyx4hu/"
   },
   {
-   "title": "Is there anything to be learned from open interest?",
-   "score": 49,
-   "num_comments": 22,
-   "created_utc": 1789762359,
-   "url": "https://www.reddit.com/r/options/comments/1wk126l/"
+   "title": "I finally added ex dividend dates to my short call checklist",
+   "score": 26,
+   "num_comments": 12,
+   "created_utc": 1791297058,
+   "url": "https://www.reddit.com/r/options/comments/1wz43qd/"
   },
   {
-   "title": "0-1 DTE Traders: Identifying Trend Days and Exits",
-   "score": 47,
-   "num_comments": 48,
-   "created_utc": 1790209489,
-   "url": "https://www.reddit.com/r/options/comments/1womyhg/"
+   "title": "Box Spreads",
+   "score": 26,
+   "num_comments": 56,
+   "created_utc": 1790861203,
+   "url": "https://www.reddit.com/r/options/comments/1wuzew9/"
+  },
+  {
+   "title": "Earnings finally taught me that getting the direction right can still be a bad trade",
+   "score": 25,
+   "num_comments": 13,
+   "created_utc": 1790786239,
+   "url": "https://www.reddit.com/r/options/comments/1wu9qyq/"
+  },
+  {
+   "title": "Selling deep OTM Puts",
+   "score": 22,
+   "num_comments": 61,
+   "created_utc": 1790813919,
+   "url": "https://www.reddit.com/r/options/comments/1wul6we/"
+  },
+  {
+   "title": "Free Options/Spreads Trading Game",
+   "score": 18,
+   "num_comments": 6,
+   "created_utc": 1791057657,
+   "url": "https://www.reddit.com/r/options/comments/1wwwia3/"
+  },
+  {
+   "title": "Efficiently Harvesting VRP",
+   "score": 17,
+   "num_comments": 42,
+   "created_utc": 1790972290,
+   "url": "https://www.reddit.com/r/options/comments/1ww4270/"
+  },
+  {
+   "title": "Options Questions Safe Haven periodic megathread | October 1 2026",
+   "score": 15,
+   "num_comments": 14,
+   "created_utc": 1790868687,
+   "url": "https://www.reddit.com/r/options/comments/1wv2jef/"
+  },
+  {
+   "title": "Started grading my alerts on actual bid/ask instead of mid and wow",
+   "score": 15,
+   "num_comments": 19,
+   "created_utc": 1790810549,
+   "url": "https://www.reddit.com/r/options/comments/1wujz6r/"
+  },
+  {
+   "title": "Managing iron condors",
+   "score": 14,
+   "num_comments": 12,
+   "created_utc": 1790908270,
+   "url": "https://www.reddit.com/r/options/comments/1wvicz2/"
+  },
+  {
+   "title": "Cutting losses based on options or technicals",
+   "score": 11,
+   "num_comments": 39,
+   "created_utc": 1791152648,
+   "url": "https://www.reddit.com/r/options/comments/1wxsdkl/"
+  },
+  {
+   "title": "Does anyone trade options on futures like ES or NQ",
+   "score": 11,
+   "num_comments": 32,
+   "created_utc": 1790902430,
+   "url": "https://www.reddit.com/r/options/comments/1wvgcwp/"
   }
  ]
 }
