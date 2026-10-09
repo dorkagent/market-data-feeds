@@ -1,0 +1,383 @@
+{
+  "run_at_utc": "2026-10-09T15:36:25Z",
+  "run_at_pt": "2026-10-09 08:36 PDT",
+  "note": "Context layer \u2014 informs, never triggers trades alone.",
+  "failures": [],
+  "flags": [
+    {
+      "flag": "protocol_tvl_mover",
+      "detail": "LayerZero V2: TVL $11.8B, +49.0% 7d / +0.5% 1d"
+    }
+  ],
+  "fear_greed": {
+    "status": "live",
+    "history_31d": [
+      {
+        "date": "2026-10-09",
+        "value": 59,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-10-08",
+        "value": 64,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-10-07",
+        "value": 71,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-10-06",
+        "value": 73,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-10-05",
+        "value": 70,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-10-04",
+        "value": 65,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-10-03",
+        "value": 67,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-10-02",
+        "value": 72,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-10-01",
+        "value": 74,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-30",
+        "value": 71,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-29",
+        "value": 73,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-28",
+        "value": 74,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-27",
+        "value": 70,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-26",
+        "value": 74,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-25",
+        "value": 71,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-24",
+        "value": 71,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-23",
+        "value": 71,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-22",
+        "value": 78,
+        "classification": "Extreme Greed"
+      },
+      {
+        "date": "2026-09-21",
+        "value": 70,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-20",
+        "value": 71,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-19",
+        "value": 71,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-18",
+        "value": 56,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-17",
+        "value": 50,
+        "classification": "Neutral"
+      },
+      {
+        "date": "2026-09-16",
+        "value": 51,
+        "classification": "Neutral"
+      },
+      {
+        "date": "2026-09-15",
+        "value": 69,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-14",
+        "value": 57,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-13",
+        "value": 61,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-12",
+        "value": 63,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-11",
+        "value": 56,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-10",
+        "value": 69,
+        "classification": "Greed"
+      },
+      {
+        "date": "2026-09-09",
+        "value": 66,
+        "classification": "Greed"
+      }
+    ],
+    "flags": [],
+    "value": 59,
+    "classification": "Greed",
+    "date": "2026-10-09",
+    "change_7d": -8
+  },
+  "coingecko": {
+    "status": "live",
+    "attribution": "Powered by CoinGecko",
+    "key_status": "pending (keyless fallback, lower rate)",
+    "coins": {
+      "BTC": {
+        "price_usd": 82888.0,
+        "market_cap_usd": 1666041885984.0,
+        "chg_1h_pct": 0.5049,
+        "chg_24h_pct": 2.11423,
+        "chg_7d_pct": -4.0809
+      },
+      "ETH": {
+        "price_usd": 2488.2,
+        "market_cap_usd": 303966675273.0,
+        "chg_1h_pct": 0.272,
+        "chg_24h_pct": 1.59869,
+        "chg_7d_pct": -9.2183
+      },
+      "SOL": {
+        "price_usd": 109.48,
+        "market_cap_usd": 64474262173.0,
+        "chg_1h_pct": 0.4238,
+        "chg_24h_pct": 0.93292,
+        "chg_7d_pct": -9.8227
+      },
+      "DOGE": {
+        "price_usd": 0.084457,
+        "market_cap_usd": 13200822827.0,
+        "chg_1h_pct": 0.207,
+        "chg_24h_pct": 2.05782,
+        "chg_7d_pct": -12.3851
+      },
+      "SHIB": {
+        "price_usd": 5.37e-06,
+        "market_cap_usd": 3164601154.0,
+        "chg_1h_pct": 0.344,
+        "chg_24h_pct": 3.83183,
+        "chg_7d_pct": -9.1299
+      },
+      "PEPE": {
+        "price_usd": 3.88e-06,
+        "market_cap_usd": 1632574133.0,
+        "chg_1h_pct": 0.048,
+        "chg_24h_pct": 3.04461,
+        "chg_7d_pct": -13.0998
+      },
+      "TRUMP": {
+        "price_usd": 1.84,
+        "market_cap_usd": 520225666.0,
+        "chg_1h_pct": 0.6918,
+        "chg_24h_pct": 4.65057,
+        "chg_7d_pct": -14.7674
+      },
+      "BONK": {
+        "price_usd": 3.31e-06,
+        "market_cap_usd": 291501506.0,
+        "chg_1h_pct": 0.5448,
+        "chg_24h_pct": 3.59046,
+        "chg_7d_pct": -14.5617
+      },
+      "WIF": {
+        "price_usd": 0.211118,
+        "market_cap_usd": 210937566.0,
+        "chg_1h_pct": 0.4642,
+        "chg_24h_pct": 1.56927,
+        "chg_7d_pct": -17.4745
+      }
+    }
+  },
+  "defillama": {
+    "status": "live",
+    "stablecoins": {
+      "total_supply_usd": 312774195423.4032,
+      "wow_pct": 0.13796912543209194,
+      "day_pct": -0.1555644273908332,
+      "top5": [
+        {
+          "name": "Tether",
+          "symbol": "USDT",
+          "circulating_usd": 183716387836.61298
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "circulating_usd": 73218187289.91582
+        },
+        {
+          "name": "Sky Dollar",
+          "symbol": "USDS",
+          "circulating_usd": 7008301028.344576
+        },
+        {
+          "name": "Ethena USDe",
+          "symbol": "USDe",
+          "circulating_usd": 4802780095.807196
+        },
+        {
+          "name": "Dai",
+          "symbol": "DAI",
+          "circulating_usd": 4755619986.165938
+        }
+      ],
+      "flags": []
+    },
+    "protocol_tvl_top15": [
+      {
+        "name": "Binance CEX",
+        "tvl_usd": 170701004576.97144,
+        "change_1d_pct": -0.81,
+        "change_7d_pct": -5.14
+      },
+      {
+        "name": "OKX",
+        "tvl_usd": 31056410667.908413,
+        "change_1d_pct": -0.01,
+        "change_7d_pct": -3.99
+      },
+      {
+        "name": "Lido",
+        "tvl_usd": 24147341903.97871,
+        "change_1d_pct": -1.73,
+        "change_7d_pct": -11.08
+      },
+      {
+        "name": "Bitfinex",
+        "tvl_usd": 20958826578.66777,
+        "change_1d_pct": 0.25,
+        "change_7d_pct": -0.74
+      },
+      {
+        "name": "Aave V3",
+        "tvl_usd": 17282847095.16498,
+        "change_1d_pct": -1.01,
+        "change_7d_pct": -6.65
+      },
+      {
+        "name": "Bybit",
+        "tvl_usd": 16124182777.036213,
+        "change_1d_pct": -0.68,
+        "change_7d_pct": -5.87
+      },
+      {
+        "name": "Robinhood",
+        "tvl_usd": 15035268440.752848,
+        "change_1d_pct": 0.11,
+        "change_7d_pct": -5.73
+      },
+      {
+        "name": "SSV Network",
+        "tvl_usd": 13011346959.0193,
+        "change_1d_pct": -1.5,
+        "change_7d_pct": -9.67
+      },
+      {
+        "name": "LayerZero V2",
+        "tvl_usd": 11777669973.734447,
+        "change_1d_pct": 0.54,
+        "change_7d_pct": 49.01
+      },
+      {
+        "name": "Morpho Blue",
+        "tvl_usd": 11179659723.621155,
+        "change_1d_pct": 0.34,
+        "change_7d_pct": -1.83
+      },
+      {
+        "name": "WBTC",
+        "tvl_usd": 9646000675.268805,
+        "change_1d_pct": 0.58,
+        "change_7d_pct": -4.5
+      },
+      {
+        "name": "Binance staked ETH",
+        "tvl_usd": 9297146073.23285,
+        "change_1d_pct": -1.59,
+        "change_7d_pct": -9.39
+      },
+      {
+        "name": "Coinbase Bridge",
+        "tvl_usd": 8056726112.341171,
+        "change_1d_pct": 0.32,
+        "change_7d_pct": -5.63
+      },
+      {
+        "name": "Gate",
+        "tvl_usd": 7354642029.011782,
+        "change_1d_pct": -0.85,
+        "change_7d_pct": -4.87
+      },
+      {
+        "name": "Hyperliquid Bridge",
+        "tvl_usd": 6909943589.886368,
+        "change_1d_pct": -1.53,
+        "change_7d_pct": -2.91
+      }
+    ],
+    "protocol_movers": [
+      {
+        "name": "LayerZero V2",
+        "tvl_usd": 11777669973.734447,
+        "change_1d_pct": 0.54,
+        "change_7d_pct": 49.01
+      }
+    ]
+  }
+}
