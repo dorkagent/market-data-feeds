@@ -1,36 +1,29 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-09T02:35:52.438622+00:00",
+ "generated_at": "2026-10-09T12:43:41.161401+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-05T15:32:27+00:00",
+ "window_start": "2026-10-05T21:37:30+00:00",
  "top_tickers": [
   {
    "ticker": "AMD",
    "mentions": 10,
    "bull": 5,
    "bear": 3,
-   "engagement": 2283
+   "engagement": 2293
   },
   {
    "ticker": "NVDA",
-   "mentions": 7,
-   "bull": 4,
+   "mentions": 6,
+   "bull": 3,
    "bear": 0,
-   "engagement": 4668
+   "engagement": 4960
   },
   {
    "ticker": "HTZ",
    "mentions": 5,
    "bull": 1,
    "bear": 2,
-   "engagement": 65
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 3
+   "engagement": 66
   },
   {
    "ticker": "NIO",
@@ -40,18 +33,11 @@
    "engagement": 3
   },
   {
-   "ticker": "INTC",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 29
-  },
-  {
    "ticker": "NBIS",
    "mentions": 3,
    "bull": 2,
    "bear": 0,
-   "engagement": 39
+   "engagement": 40
   },
   {
    "ticker": "MRVL",
@@ -61,18 +47,18 @@
    "engagement": 3
   },
   {
-   "ticker": "TSLA",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 1424
-  },
-  {
-   "ticker": "SPCX",
+   "ticker": "XRPN",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 1200
+   "engagement": 2
+  },
+  {
+   "ticker": "XRP",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "NASA",
@@ -89,25 +75,60 @@
    "engagement": 2
   },
   {
+   "ticker": "QQQ",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 21
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 26
+  },
+  {
    "ticker": "INFQ",
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 86
+   "engagement": 174
   },
   {
    "ticker": "TTWO",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 18
+   "engagement": 24
   },
   {
-   "ticker": "MSTR",
-   "mentions": 2,
+   "ticker": "SBUX",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1444
+   "engagement": 1
+  },
+  {
+   "ticker": "CMG",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "PG",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "COUR",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "AAPL",
@@ -122,27 +143,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "VZ",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "GOOGL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "GME",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
   }
  ],
  "top_posts": [
@@ -154,25 +154,18 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1wym7bz/"
   },
   {
+   "title": "1280% gain NVDA - too scared to sell",
+   "score": 3769,
+   "num_comments": 1030,
+   "created_utc": 1791332433,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1wzimpi/"
+  },
+  {
    "title": "You too can break even if you gamble long enough",
    "score": 3579,
    "num_comments": 220,
    "created_utc": 1791249880,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1wyq003/"
-  },
-  {
-   "title": "1280% gain NVDA - too scared to sell",
-   "score": 3508,
-   "num_comments": 964,
-   "created_utc": 1791332433,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1wzimpi/"
-  },
-  {
-   "title": "World's Biggest Oil Giant Warns Global Stockpiles Are 'Scarily Thin' and Could Take Two Years to Rebuild",
-   "score": 2309,
-   "num_comments": 343,
-   "created_utc": 1791221811,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1wyev0y/"
   },
   {
    "title": "The AI bears lose again",
@@ -182,9 +175,23 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1wz4101/"
   },
   {
+   "title": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage",
+   "score": 1833,
+   "num_comments": 370,
+   "created_utc": 1791406433,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x080v2/"
+  },
+  {
+   "title": "ADOBE is cooked.",
+   "score": 1550,
+   "num_comments": 678,
+   "created_utc": 1791396413,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x03pn2/"
+  },
+  {
    "title": "SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo",
-   "score": 1268,
-   "num_comments": 280,
+   "score": 1285,
+   "num_comments": 285,
    "created_utc": 1791326928,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1wzgov1/"
   },
@@ -203,11 +210,11 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1wz02fx/"
   },
   {
-   "title": "$2,000,000 Full Porting $SPCX - I've Doubled My Previous Yolo (Reference Link)",
-   "score": 944,
-   "num_comments": 255,
-   "created_utc": 1791234324,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1wykai5/"
+   "title": "Michael Dell Defends Trump Accounts\u2019 Shift to Individual Company Stocks",
+   "score": 959,
+   "num_comments": 188,
+   "created_utc": 1791412396,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x0agko/"
   },
   {
    "title": "Jensen Huang live show",
@@ -217,39 +224,32 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1wznync/"
   },
   {
+   "title": "Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings",
+   "score": 763,
+   "num_comments": 92,
+   "created_utc": 1791417546,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x0cc7n/"
+  },
+  {
+   "title": "Oil Prices Fall Back As Supply Optimism Outweighs Conflict, Storm Risks",
+   "score": 737,
+   "num_comments": 152,
+   "created_utc": 1791419435,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x0d0i2/"
+  },
+  {
+   "title": "Advanced Money Dispenser Leap Positions",
+   "score": 735,
+   "num_comments": 73,
+   "created_utc": 1791305311,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1wz7l9t/"
+  },
+  {
    "title": "So regarded even the Casino \ud83c\udfb0 kicked him out",
    "score": 729,
    "num_comments": 120,
    "created_utc": 1791342441,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1wzlxjs/"
-  },
-  {
-   "title": "Advanced Money Dispenser Leap Positions",
-   "score": 700,
-   "num_comments": 71,
-   "created_utc": 1791305311,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1wz7l9t/"
-  },
-  {
-   "title": "Dozens quarantined after researcher at Russian plague laboratory dies of \u2018unknown\u2019 infection",
-   "score": 595,
-   "num_comments": 124,
-   "created_utc": 1791354440,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1wzpc4t/"
-  },
-  {
-   "title": "The year is 1996. You are Alan Greenspan and you are in the bathtub watching an episode of Frasier",
-   "score": 584,
-   "num_comments": 120,
-   "created_utc": 1791371858,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1wztuzu/"
-  },
-  {
-   "title": "Kevin Warsh Sucks",
-   "score": 577,
-   "num_comments": 50,
-   "created_utc": 1791331002,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1wzi43t/"
   }
  ]
 }

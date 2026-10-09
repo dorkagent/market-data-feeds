@@ -1,22 +1,22 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-09T02:37:29.536671+00:00",
+ "generated_at": "2026-10-09T12:45:06.075528+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-25T07:18:20+00:00",
+ "window_start": "2026-09-25T12:52:43+00:00",
  "top_tickers": [
   {
    "ticker": "NFLX",
    "mentions": 7,
    "bull": 1,
    "bear": 0,
-   "engagement": 623
+   "engagement": 622
   },
   {
    "ticker": "AMZN",
    "mentions": 6,
    "bull": 2,
    "bear": 3,
-   "engagement": 302
+   "engagement": 301
   },
   {
    "ticker": "NVDA",
@@ -33,18 +33,18 @@
    "engagement": 51
   },
   {
-   "ticker": "META",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 157
-  },
-  {
    "ticker": "NKE",
    "mentions": 3,
    "bull": 2,
    "bear": 2,
-   "engagement": 233
+   "engagement": 238
+  },
+  {
+   "ticker": "META",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 143
   },
   {
    "ticker": "MSFT",
@@ -72,7 +72,7 @@
    "mentions": 2,
    "bull": 2,
    "bear": 1,
-   "engagement": 103
+   "engagement": 102
   },
   {
    "ticker": "AMD",
@@ -168,18 +168,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wyf5gh/"
   },
   {
+   "title": "Life Savings on Alphabet",
+   "score": 244,
+   "num_comments": 479,
+   "created_utc": 1791307090,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wz8dhv/"
+  },
+  {
    "title": "First to turnaround, (MCD, NFLX, UBER, NIKE)",
    "score": 237,
    "num_comments": 303,
    "created_utc": 1791122294,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wxgcbl/"
-  },
-  {
-   "title": "Life Savings on Alphabet",
-   "score": 222,
-   "num_comments": 463,
-   "created_utc": 1791307090,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wz8dhv/"
   },
   {
    "title": "Berkshire Hathaway bought $193M of Lennar in 2 days. The stock is still 41% under its high. What am I missing?",
@@ -217,11 +217,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wwszye/"
   },
   {
-   "title": "Indonesia stock market Crash",
-   "score": 154,
-   "num_comments": 72,
-   "created_utc": 1790327405,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wprhgb/"
+   "title": "NETFLIX - Value Buy?",
+   "score": 149,
+   "num_comments": 264,
+   "created_utc": 1790941319,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wvrljc/"
   },
   {
    "title": "LVMH under \u20ac400: Wonderful company at a fair price",
@@ -229,13 +229,6 @@
    "num_comments": 79,
    "created_utc": 1790599851,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wsdqpv/"
-  },
-  {
-   "title": "NETFLIX - Value Buy?",
-   "score": 129,
-   "num_comments": 212,
-   "created_utc": 1790941319,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wvrljc/"
   },
   {
    "title": "Sofi Stock at 15 dollars a share: Is it worth it?",
@@ -250,6 +243,13 @@
    "num_comments": 103,
    "created_utc": 1790528288,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wrpcsd/"
+  },
+  {
+   "title": "What\u2019s one stock you\u2019re watching that most people aren\u2019t talking about?",
+   "score": 92,
+   "num_comments": 265,
+   "created_utc": 1790580976,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1ws8624/"
   }
  ]
 }

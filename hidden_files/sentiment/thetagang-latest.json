@@ -1,8 +1,8 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-10-09T02:37:43.985015+00:00",
+ "generated_at": "2026-10-09T12:45:27.707241+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-13T19:38:19+00:00",
+ "window_start": "2026-08-13T22:02:43+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
@@ -13,10 +13,10 @@
   },
   {
    "ticker": "PLTR",
-   "mentions": 5,
+   "mentions": 4,
    "bull": 3,
    "bear": 3,
-   "engagement": 263
+   "engagement": 261
   },
   {
    "ticker": "SPY",
@@ -114,7 +114,21 @@
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 53
+  },
+  {
+   "ticker": "LRCX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 8
+  },
+  {
+   "ticker": "SNPS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 8
   },
   {
    "ticker": "LQDA",
@@ -125,20 +139,6 @@
   },
   {
    "ticker": "LITE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 8
-  },
-  {
-   "ticker": "TER",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 8
-  },
-  {
-   "ticker": "SNPS",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -210,6 +210,13 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1vyu8wl/"
   },
   {
+   "title": "Aggressive Wheeling Results Since May",
+   "score": 113,
+   "num_comments": 47,
+   "created_utc": 1791405437,
+   "url": "https://www.reddit.com/r/thetagang/comments/1x07kzr/"
+  },
+  {
    "title": "Me checking my portfolio after a red week",
    "score": 111,
    "num_comments": 18,
@@ -243,13 +250,6 @@
    "num_comments": 122,
    "created_utc": 1788620288,
    "url": "https://www.reddit.com/r/thetagang/comments/1w82yvs/"
-  },
-  {
-   "title": "Nancy goes in on 'INTC' and 'BE' -- but why the $50 call?",
-   "score": 61,
-   "num_comments": 150,
-   "created_utc": 1788786765,
-   "url": "https://www.reddit.com/r/thetagang/comments/1w9rtib/"
   }
  ]
 }

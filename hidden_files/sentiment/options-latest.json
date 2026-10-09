@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-09T02:38:07.210516+00:00",
+ "generated_at": "2026-10-09T12:45:55.263620+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-02T15:34:19+00:00",
+ "window_start": "2026-09-02T16:29:01+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -44,7 +44,7 @@
    "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 14
+   "engagement": 15
   },
   {
    "ticker": "QQQ",
@@ -72,7 +72,7 @@
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 3
+   "engagement": 19
   },
   {
    "ticker": "BTC",
@@ -107,7 +107,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 15
+   "engagement": 16
   },
   {
    "ticker": "TEM",
@@ -146,6 +146,13 @@
   }
  ],
  "top_posts": [
+  {
+   "title": "Boredom",
+   "score": 210,
+   "num_comments": 456,
+   "created_utc": 1791401636,
+   "url": "https://www.reddit.com/r/options/comments/1x05x7f/"
+  },
   {
    "title": "Beware of Bad Advice",
    "score": 130,
@@ -243,13 +250,6 @@
    "num_comments": 48,
    "created_utc": 1790209489,
    "url": "https://www.reddit.com/r/options/comments/1womyhg/"
-  },
-  {
-   "title": "During next big crash, should I buy LEAP Calls or sell Cash Secured Puts?",
-   "score": 47,
-   "num_comments": 52,
-   "created_utc": 1788921262,
-   "url": "https://www.reddit.com/r/options/comments/1wb90x0/"
   }
  ]
 }

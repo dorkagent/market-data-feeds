@@ -1,8 +1,8 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-09T02:36:34.813058+00:00",
+ "generated_at": "2026-10-09T12:44:23.198561+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-28T09:46:47+00:00",
+ "window_start": "2026-09-28T17:27:30+00:00",
  "top_tickers": [
   {
    "ticker": "AMD",
@@ -13,17 +13,17 @@
   },
   {
    "ticker": "NVDA",
-   "mentions": 5,
+   "mentions": 6,
    "bull": 0,
    "bear": 1,
-   "engagement": 2163
+   "engagement": 2101
   },
   {
    "ticker": "META",
-   "mentions": 4,
+   "mentions": 5,
    "bull": 0,
    "bear": 1,
-   "engagement": 28
+   "engagement": 29
   },
   {
    "ticker": "QQQ",
@@ -51,7 +51,7 @@
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 2
+   "engagement": 213
   },
   {
    "ticker": "NIO",
@@ -103,14 +103,14 @@
    "engagement": 2
   },
   {
-   "ticker": "ASTS",
+   "ticker": "RKLB",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 4
   },
   {
-   "ticker": "RKLB",
+   "ticker": "ASTS",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
@@ -124,11 +124,11 @@
    "engagement": 2
   },
   {
-   "ticker": "AMC",
-   "mentions": 2,
+   "ticker": "AVGO",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 3
+   "engagement": 1
   },
   {
    "ticker": "UBER",
@@ -182,11 +182,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1wztydi/"
   },
   {
-   "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
-   "score": 441,
-   "num_comments": 91,
-   "created_utc": 1790602867,
-   "url": "https://www.reddit.com/r/stocks/comments/1wsexxn/"
+   "title": "Data shows that the 10-year Treasury yield is above 5.3% and crude oil prices are above $100, so why is the market sell-off so weak today?",
+   "score": 413,
+   "num_comments": 333,
+   "created_utc": 1791405356,
+   "url": "https://www.reddit.com/r/stocks/comments/1x07jr6/"
   },
   {
    "title": "Can someone explain to me how the stock market is basically a separate entity from the economy?",
@@ -210,13 +210,6 @@
    "url": "https://www.reddit.com/r/stocks/comments/1wuff1d/"
   },
   {
-   "title": "Nvidia share buyback plan gets $150 billion boost",
-   "score": 319,
-   "num_comments": 53,
-   "created_utc": 1790597974,
-   "url": "https://www.reddit.com/r/stocks/comments/1wsd2fc/"
-  },
-  {
    "title": "GOOGL Gemini 4 Argon: Is Google Winning the AI Race?",
    "score": 311,
    "num_comments": 162,
@@ -224,11 +217,25 @@
    "url": "https://www.reddit.com/r/stocks/comments/1wusdgk/"
   },
   {
+   "title": "Webull stock drops 20% as its ties to China create national security risk as per congressional panel",
+   "score": 299,
+   "num_comments": 66,
+   "created_utc": 1791386552,
+   "url": "https://www.reddit.com/r/stocks/comments/1wzzd41/"
+  },
+  {
    "title": "Don\u2019t time the bubbles - S&P 500 rises to record high as oil and yields move lower",
    "score": 286,
    "num_comments": 268,
    "created_utc": 1791293940,
    "url": "https://www.reddit.com/r/stocks/comments/1wz2uqz/"
+  },
+  {
+   "title": "Samsung forecasts record third-quarter profit of $80 billion for the first time in history - Operating profit jumped 782%",
+   "score": 220,
+   "num_comments": 45,
+   "created_utc": 1791414714,
+   "url": "https://www.reddit.com/r/stocks/comments/1x0bcf0/"
   },
   {
    "title": "Wall Street has normalized a tax on being slower than its fastest computers",
@@ -243,13 +250,6 @@
    "num_comments": 129,
    "created_utc": 1790640678,
    "url": "https://www.reddit.com/r/stocks/comments/1wsvblp/"
-  },
-  {
-   "title": "I have reverse Midas touch and I\u2019m finally buying back in. Sold at bottom back in April!",
-   "score": 183,
-   "num_comments": 84,
-   "created_utc": 1790603484,
-   "url": "https://www.reddit.com/r/stocks/comments/1wsf6n8/"
   }
  ]
 }
