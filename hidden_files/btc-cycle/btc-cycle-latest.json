@@ -1,0 +1,24 @@
+{
+  "pulled_at_utc": "2026-10-09T10:39:30Z",
+  "pulled_at_pt": "2026-10-09 03:39 PDT",
+  "source": "bitcoin-data.com (keyless)",
+  "gauges": {
+    "mvrv": {
+      "value": 1.5869,
+      "date": "2026-10-02",
+      "read": "neutral"
+    },
+    "nupl": {
+      "value": 0.3698,
+      "date": "2026-10-02",
+      "read": "neutral"
+    },
+    "sopr": {
+      "value": 1.0082,
+      "date": "2026-10-02",
+      "read": "neutral"
+    }
+  },
+  "overall_read": "NEUTRAL: no cycle extreme",
+  "errors": []
+}
