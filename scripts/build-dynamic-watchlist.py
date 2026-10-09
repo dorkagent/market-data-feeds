@@ -32,7 +32,7 @@ if os.path.isdir(os.path.join(REPO, "hidden_files")):
 OUT_DIR = os.path.join(GOAL, "hidden_files", "dynamic-watchlist")
 
 CORE = {"SPY", "QQQ", "NVDA", "AAPL", "MSFT"}
-NEVER = {"RMD"}  # excluded from paper trading — reference tracking only
+NEVER = {"RMD"}
 URL = "https://stockanalysis.com/markets/premarket/"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120.0 Safari/537.36")
