@@ -1,8 +1,8 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-08T19:41:43.722215+00:00",
+ "generated_at": "2026-10-09T02:36:34.813058+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-27T23:35:55+00:00",
+ "window_start": "2026-09-28T09:46:47+00:00",
  "top_tickers": [
   {
    "ticker": "AMD",
@@ -16,21 +16,21 @@
    "mentions": 5,
    "bull": 0,
    "bear": 1,
-   "engagement": 1497
+   "engagement": 2163
   },
   {
    "ticker": "META",
    "mentions": 4,
    "bull": 0,
    "bear": 1,
-   "engagement": 6
+   "engagement": 28
   },
   {
    "ticker": "QQQ",
    "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 6
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
   },
   {
    "ticker": "MSFT",
@@ -45,6 +45,13 @@
    "bull": 0,
    "bear": 0,
    "engagement": 3
+  },
+  {
+   "ticker": "SPCX",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 2
   },
   {
    "ticker": "NIO",
@@ -86,7 +93,7 @@
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 63
+   "engagement": 89
   },
   {
    "ticker": "MU",
@@ -96,14 +103,14 @@
    "engagement": 2
   },
   {
-   "ticker": "RKLB",
+   "ticker": "ASTS",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 4
   },
   {
-   "ticker": "ASTS",
+   "ticker": "RKLB",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
@@ -136,13 +143,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "SPCX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
   }
  ],
  "top_posts": [
@@ -162,8 +162,8 @@
   },
   {
    "title": "South Korea Announces $120 Billion Plan For Eight Large-Scale Nuclear Power Plants In US",
-   "score": 528,
-   "num_comments": 123,
+   "score": 593,
+   "num_comments": 129,
    "created_utc": 1790892931,
    "url": "https://www.reddit.com/r/stocks/comments/1wvcxxs/"
   },
@@ -173,6 +173,13 @@
    "num_comments": 183,
    "created_utc": 1790944865,
    "url": "https://www.reddit.com/r/stocks/comments/1wvsroz/"
+  },
+  {
+   "title": "SpaceX Doubling Its Debt With $40B NVDA Chip Buy",
+   "score": 462,
+   "num_comments": 205,
+   "created_utc": 1791372174,
+   "url": "https://www.reddit.com/r/stocks/comments/1wztydi/"
   },
   {
    "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
@@ -218,8 +225,8 @@
   },
   {
    "title": "Don\u2019t time the bubbles - S&P 500 rises to record high as oil and yields move lower",
-   "score": 283,
-   "num_comments": 262,
+   "score": 286,
+   "num_comments": 268,
    "created_utc": 1791293940,
    "url": "https://www.reddit.com/r/stocks/comments/1wz2uqz/"
   },
@@ -243,13 +250,6 @@
    "num_comments": 84,
    "created_utc": 1790603484,
    "url": "https://www.reddit.com/r/stocks/comments/1wsf6n8/"
-  },
-  {
-   "title": "Burry sells LULU",
-   "score": 162,
-   "num_comments": 118,
-   "created_utc": 1791224883,
-   "url": "https://www.reddit.com/r/stocks/comments/1wyg7o1/"
   }
  ]
 }

@@ -1,22 +1,22 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-08T19:40:59.002847+00:00",
+ "generated_at": "2026-10-09T02:35:52.438622+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-05T02:15:58+00:00",
+ "window_start": "2026-10-05T15:32:27+00:00",
  "top_tickers": [
   {
    "ticker": "AMD",
    "mentions": 10,
    "bull": 5,
    "bear": 3,
-   "engagement": 2190
+   "engagement": 2283
   },
   {
    "ticker": "NVDA",
-   "mentions": 8,
+   "mentions": 7,
    "bull": 4,
    "bear": 0,
-   "engagement": 30372
+   "engagement": 4668
   },
   {
    "ticker": "HTZ",
@@ -24,13 +24,6 @@
    "bull": 1,
    "bear": 2,
    "engagement": 65
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 4,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 1545
   },
   {
    "ticker": "QQQ",
@@ -51,14 +44,14 @@
    "mentions": 3,
    "bull": 2,
    "bear": 1,
-   "engagement": 5
+   "engagement": 29
   },
   {
    "ticker": "NBIS",
    "mentions": 3,
    "bull": 2,
    "bear": 0,
-   "engagement": 15
+   "engagement": 39
   },
   {
    "ticker": "MRVL",
@@ -66,6 +59,20 @@
    "bull": 1,
    "bear": 0,
    "engagement": 3
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 1424
+  },
+  {
+   "ticker": "SPCX",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1200
   },
   {
    "ticker": "NASA",
@@ -103,56 +110,42 @@
    "engagement": 1444
   },
   {
+   "ticker": "AAPL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "TMUS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "VZ",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "GOOGL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
    "ticker": "GME",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "WYNN",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "OPEN",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "CELH",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "MU",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "RVI",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
   }
  ],
  "top_posts": [
-  {
-   "title": "NVDA",
-   "score": 24788,
-   "num_comments": 940,
-   "created_utc": 1791182991,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1wy1qzo/"
-  },
   {
    "title": "AI haters waiting for an AI bubble to pop",
    "score": 4270,
@@ -183,8 +176,8 @@
   },
   {
    "title": "The AI bears lose again",
-   "score": 1781,
-   "num_comments": 278,
+   "score": 1891,
+   "num_comments": 289,
    "created_utc": 1791296878,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1wz4101/"
   },
@@ -204,8 +197,8 @@
   },
   {
    "title": "AMD plans to substantially increase supply in 2027, CEO says",
-   "score": 1039,
-   "num_comments": 156,
+   "score": 1083,
+   "num_comments": 158,
    "created_utc": 1791285828,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1wz02fx/"
   },
@@ -243,6 +236,13 @@
    "num_comments": 124,
    "created_utc": 1791354440,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1wzpc4t/"
+  },
+  {
+   "title": "The year is 1996. You are Alan Greenspan and you are in the bathtub watching an episode of Frasier",
+   "score": 584,
+   "num_comments": 120,
+   "created_utc": 1791371858,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1wztuzu/"
   },
   {
    "title": "Kevin Warsh Sucks",

@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-08T19:42:14.353169+00:00",
+ "generated_at": "2026-10-09T02:37:05.362540+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-26T11:18:10+00:00",
+ "window_start": "2026-08-26T13:32:14+00:00",
  "top_tickers": [
   {
    "ticker": "AMD",
@@ -12,18 +12,18 @@
    "engagement": 34
   },
   {
+   "ticker": "META",
+   "mentions": 5,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 443
+  },
+  {
    "ticker": "NVDA",
    "mentions": 5,
    "bull": 2,
    "bear": 0,
    "engagement": 1135
-  },
-  {
-   "ticker": "META",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 442
   },
   {
    "ticker": "SPY",
@@ -47,18 +47,18 @@
    "engagement": 7
   },
   {
-   "ticker": "AMZN",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 7
-  },
-  {
    "ticker": "MSFT",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 2
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 7
   },
   {
    "ticker": "GOOGL",
@@ -131,14 +131,14 @@
    "engagement": 4
   },
   {
-   "ticker": "DOL",
+   "ticker": "CCO",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "HONA",
+   "ticker": "HON",
    "mentions": 1,
    "bull": 0,
    "bear": 0,

@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-08T19:43:24.039190+00:00",
+ "generated_at": "2026-10-09T02:38:07.210516+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-02T05:21:06+00:00",
+ "window_start": "2026-09-02T15:34:19+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -26,6 +26,13 @@
    "engagement": 123
   },
   {
+   "ticker": "AMD",
+   "mentions": 4,
+   "bull": 3,
+   "bear": 3,
+   "engagement": 127
+  },
+  {
    "ticker": "GME",
    "mentions": 4,
    "bull": 2,
@@ -38,13 +45,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 14
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 126
   },
   {
    "ticker": "QQQ",
@@ -110,14 +110,14 @@
    "engagement": 15
   },
   {
-   "ticker": "INTC",
+   "ticker": "TEM",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 17
   },
   {
-   "ticker": "TEM",
+   "ticker": "INTC",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -146,13 +146,6 @@
   }
  ],
  "top_posts": [
-  {
-   "title": "Once I started trading volatility only, my returns skyrocketed",
-   "score": 281,
-   "num_comments": 75,
-   "created_utc": 1788358732,
-   "url": "https://www.reddit.com/r/options/comments/1w5bpdr/"
-  },
   {
    "title": "Beware of Bad Advice",
    "score": 130,
@@ -250,6 +243,13 @@
    "num_comments": 48,
    "created_utc": 1790209489,
    "url": "https://www.reddit.com/r/options/comments/1womyhg/"
+  },
+  {
+   "title": "During next big crash, should I buy LEAP Calls or sell Cash Secured Puts?",
+   "score": 47,
+   "num_comments": 52,
+   "created_utc": 1788921262,
+   "url": "https://www.reddit.com/r/options/comments/1wb90x0/"
   }
  ]
 }

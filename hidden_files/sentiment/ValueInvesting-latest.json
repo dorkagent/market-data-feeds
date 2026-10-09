@@ -1,8 +1,8 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-08T19:42:32.650418+00:00",
+ "generated_at": "2026-10-09T02:37:29.536671+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-25T06:30:34+00:00",
+ "window_start": "2026-09-25T07:18:20+00:00",
  "top_tickers": [
   {
    "ticker": "NFLX",
@@ -16,7 +16,7 @@
    "mentions": 6,
    "bull": 2,
    "bear": 3,
-   "engagement": 250
+   "engagement": 302
   },
   {
    "ticker": "NVDA",
@@ -47,13 +47,6 @@
    "engagement": 233
   },
   {
-   "ticker": "QQQ",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 2
-  },
-  {
    "ticker": "MSFT",
    "mentions": 2,
    "bull": 0,
@@ -61,18 +54,25 @@
    "engagement": 11
   },
   {
+   "ticker": "QQQ",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
    "ticker": "MRVL",
    "mentions": 2,
    "bull": 0,
-   "bear": 0,
-   "engagement": 1
+   "bear": 1,
+   "engagement": 57
   },
   {
    "ticker": "SOFI",
    "mentions": 2,
    "bull": 2,
    "bear": 1,
-   "engagement": 51
+   "engagement": 103
   },
   {
    "ticker": "AMD",
@@ -107,7 +107,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 1
+   "engagement": 3
   },
   {
    "ticker": "RBLX",
@@ -182,6 +182,13 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wz8dhv/"
   },
   {
+   "title": "Berkshire Hathaway bought $193M of Lennar in 2 days. The stock is still 41% under its high. What am I missing?",
+   "score": 214,
+   "num_comments": 100,
+   "created_utc": 1791372830,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wzu5f7/"
+  },
+  {
    "title": "Near 52-week low names you are accumulating or on your watchlist?",
    "score": 205,
    "num_comments": 281,
@@ -229,13 +236,6 @@
    "num_comments": 212,
    "created_utc": 1790941319,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wvrljc/"
-  },
-  {
-   "title": "Google. Keep adding?",
-   "score": 117,
-   "num_comments": 179,
-   "created_utc": 1790320639,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wppsjg/"
   },
   {
    "title": "Sofi Stock at 15 dollars a share: Is it worth it?",
