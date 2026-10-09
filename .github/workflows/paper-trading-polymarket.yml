@@ -21,7 +21,7 @@ jobs:
       - name: Commit and push
         run: |
           git config user.name "dorkagent"
-          git config user.email "dork@agentmail.to"
+          git config user.email "334435608+dorkagent@users.noreply.github.com"
           git add hidden_files/polymarket/
           git diff --cached --quiet || git commit -m "paper-trading-polymarket $(date -u +%F)"
           git push
