@@ -1,16 +1,16 @@
 {
-  "generated_utc": "2026-10-09T21:30:26.918139+00:00",
+  "generated_utc": "2026-10-10T21:28:29.894408+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. ~15-min delayed; OI updates once daily. GEX uses the dealer-short-calls/long-puts approximation.",
   "source": "CBOE delayed quotes (cdn.cboe.com, keyless)",
   "status": "ok",
   "symbols": {
     "_SPX": {
       "spot": 7811.54,
-      "chain_timestamp": "2026-10-09 21:30:03",
+      "chain_timestamp": "2026-10-10 03:44:20",
       "contracts_analyzed": 383,
-      "net_gex_bn": 61.416,
-      "call_gex_bn": 179.402,
-      "put_gex_bn": 117.987,
+      "net_gex_bn": 61.907,
+      "call_gex_bn": 169.045,
+      "put_gex_bn": 107.138,
       "flip_estimate": 7850.0,
       "gamma_walls": [
         {
@@ -18,87 +18,87 @@
           "net_gex_bn": 9.296
         },
         {
-          "strike": 7800.0,
-          "net_gex_bn": 6.31
-        },
-        {
           "strike": 7850.0,
           "net_gex_bn": 6.26
+        },
+        {
+          "strike": 7800.0,
+          "net_gex_bn": 6.223
         }
       ],
-      "max_pain": 7700.0
+      "max_pain": 7675.0
     },
     "_NDX": {
       "spot": 30883.1484,
-      "chain_timestamp": "2026-10-09 21:29:41",
-      "contracts_analyzed": 315,
-      "net_gex_bn": 1.314,
-      "call_gex_bn": 7.347,
-      "put_gex_bn": 6.034,
-      "flip_estimate": 31400.0,
+      "chain_timestamp": "2026-10-10 21:21:55",
+      "contracts_analyzed": 314,
+      "net_gex_bn": 2.052,
+      "call_gex_bn": 5.446,
+      "put_gex_bn": 3.393,
+      "flip_estimate": 31250.0,
       "gamma_walls": [
-        {
-          "strike": 30875.0,
-          "net_gex_bn": -1.064
-        },
-        {
-          "strike": 30900.0,
-          "net_gex_bn": 0.45
-        },
         {
           "strike": 29475.0,
           "net_gex_bn": 0.328
+        },
+        {
+          "strike": 31300.0,
+          "net_gex_bn": 0.268
+        },
+        {
+          "strike": 31000.0,
+          "net_gex_bn": 0.259
         }
       ],
-      "max_pain": 30200.0
+      "max_pain": 29975.0
     },
     "SPY": {
-      "spot": 778.8979,
-      "chain_timestamp": "2026-10-09 21:29:00",
+      "spot": 778.57,
+      "chain_timestamp": "2026-10-10 03:44:12",
       "contracts_analyzed": 251,
-      "net_gex_bn": 12.199,
-      "call_gex_bn": 30.733,
-      "put_gex_bn": 18.535,
-      "flip_estimate": 780.0,
+      "net_gex_bn": 2.796,
+      "call_gex_bn": 16.873,
+      "put_gex_bn": 14.077,
+      "flip_estimate": 795.0,
       "gamma_walls": [
         {
-          "strike": 779.0,
-          "net_gex_bn": 3.653
+          "strike": 785.0,
+          "net_gex_bn": 1.398
+        },
+        {
+          "strike": 790.0,
+          "net_gex_bn": 1.222
         },
         {
           "strike": 780.0,
-          "net_gex_bn": 2.934
-        },
-        {
-          "strike": 778.0,
-          "net_gex_bn": 2.521
+          "net_gex_bn": 1.095
         }
       ],
       "max_pain": 770.0
     },
     "QQQ": {
-      "spot": 751.71,
-      "chain_timestamp": "2026-10-09 21:29:02",
+      "spot": 751.38,
+      "chain_timestamp": "2026-10-10 03:44:14",
       "contracts_analyzed": 261,
-      "net_gex_bn": 1.268,
-      "call_gex_bn": 14.002,
-      "put_gex_bn": 12.734,
-      "flip_estimate": 774.0,
+      "net_gex_bn": 0.309,
+      "call_gex_bn": 9.054,
+      "put_gex_bn": 8.745,
+      "flip_estimate": 790.0,
       "gamma_walls": [
         {
           "strike": 760.0,
-          "net_gex_bn": 1.15
+          "net_gex_bn": 1.108
         },
         {
           "strike": 770.0,
-          "net_gex_bn": 0.551
+          "net_gex_bn": 0.544
         },
         {
-          "strike": 755.0,
-          "net_gex_bn": 0.463
+          "strike": 725.0,
+          "net_gex_bn": -0.454
         }
       ],
-      "max_pain": 742.0
+      "max_pain": 740.0
     }
   }
 }
