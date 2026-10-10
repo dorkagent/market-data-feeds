@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-09T19:54:55.147756+00:00",
+ "generated_at": "2026-10-10T02:55:57.893149+00:00",
  "posts_analyzed": 100,
- "window_start": "2026-09-30T11:31:05+00:00",
+ "window_start": "2026-09-29T22:24:40+00:00",
  "top_tickers": [
   {
    "ticker": "TLT",
@@ -17,13 +17,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 6
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
   },
   {
    "ticker": "SPY",
@@ -56,25 +49,11 @@
    "url": "https://www.reddit.com/r/options/comments/1wu3gas/"
   },
   {
-   "title": "Do not download the new Tasty trade 2.0 Desktop major Platform Update",
-   "score": 37,
-   "num_comments": 52,
-   "created_utc": 1791379531,
-   "url": "https://www.reddit.com/r/options/comments/1wzwh80/"
-  },
-  {
    "title": "An intuitive way to price an option",
    "score": 32,
    "num_comments": 19,
    "created_utc": 1790948186,
    "url": "https://www.reddit.com/r/options/comments/1wvu0qq/"
-  },
-  {
-   "title": "Margin requirements for selling premium right now are a joke",
-   "score": 30,
-   "num_comments": 56,
-   "created_utc": 1791274690,
-   "url": "https://www.reddit.com/r/options/comments/1wyx4hu/"
   },
   {
    "title": "I finally added ex dividend dates to my short call checklist",
@@ -96,6 +75,13 @@
    "num_comments": 13,
    "created_utc": 1790786239,
    "url": "https://www.reddit.com/r/options/comments/1wu9qyq/"
+  },
+  {
+   "title": "Margin requirements for selling premium right now are a joke",
+   "score": 23,
+   "num_comments": 55,
+   "created_utc": 1791274690,
+   "url": "https://www.reddit.com/r/options/comments/1wyx4hu/"
   },
   {
    "title": "Selling deep OTM Puts",
@@ -149,9 +135,16 @@
   {
    "title": "Does anyone trade options on futures like ES or NQ",
    "score": 11,
-   "num_comments": 32,
+   "num_comments": 29,
    "created_utc": 1790902430,
    "url": "https://www.reddit.com/r/options/comments/1wvgcwp/"
+  },
+  {
+   "title": "Keep selling premium in EWZ, it has elevated IV rank",
+   "score": 10,
+   "num_comments": 61,
+   "created_utc": 1790786097,
+   "url": "https://www.reddit.com/r/options/comments/1wu9om5/"
   }
  ]
 }

@@ -1,78 +1,43 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-09T12:45:06.075528+00:00",
- "posts_analyzed": 500,
- "window_start": "2026-09-25T12:52:43+00:00",
+ "generated_at": "2026-10-10T02:51:07.624692+00:00",
+ "posts_analyzed": 300,
+ "window_start": "2026-09-30T21:17:50+00:00",
  "top_tickers": [
   {
    "ticker": "NFLX",
-   "mentions": 7,
+   "mentions": 5,
    "bull": 1,
    "bear": 0,
-   "engagement": 622
+   "engagement": 609
   },
   {
    "ticker": "AMZN",
-   "mentions": 6,
+   "mentions": 3,
    "bull": 2,
-   "bear": 3,
-   "engagement": 301
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 55
+   "bear": 1,
+   "engagement": 164
   },
   {
    "ticker": "MU",
-   "mentions": 4,
-   "bull": 3,
-   "bear": 1,
-   "engagement": 51
-  },
-  {
-   "ticker": "NKE",
    "mentions": 3,
    "bull": 2,
-   "bear": 2,
-   "engagement": 238
-  },
-  {
-   "ticker": "META",
-   "mentions": 2,
-   "bull": 1,
    "bear": 1,
-   "engagement": 143
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 11
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 2
+   "engagement": 15
   },
   {
    "ticker": "MRVL",
    "mentions": 2,
    "bull": 0,
-   "bear": 1,
-   "engagement": 57
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "SOFI",
    "mentions": 2,
    "bull": 2,
    "bear": 1,
-   "engagement": 102
+   "engagement": 51
   },
   {
    "ticker": "AMD",
@@ -89,25 +54,11 @@
    "engagement": 541
   },
   {
-   "ticker": "SPY",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "NIO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "LAKE",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 3
+   "engagement": 1
   },
   {
    "ticker": "RBLX",
@@ -131,6 +82,13 @@
    "engagement": 39
   },
   {
+   "ticker": "NVDA",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "ONDS",
    "mentions": 1,
    "bull": 0,
@@ -143,6 +101,48 @@
    "bull": 1,
    "bear": 1,
    "engagement": 12
+  },
+  {
+   "ticker": "BETR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 6
+  },
+  {
+   "ticker": "ADBE",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 7
+  },
+  {
+   "ticker": "GME",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 36
+  },
+  {
+   "ticker": "GRML",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "TWTR",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "NKE",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 105
   }
  ],
  "top_posts": [
@@ -168,13 +168,6 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wyf5gh/"
   },
   {
-   "title": "Life Savings on Alphabet",
-   "score": 244,
-   "num_comments": 479,
-   "created_utc": 1791307090,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wz8dhv/"
-  },
-  {
    "title": "First to turnaround, (MCD, NFLX, UBER, NIKE)",
    "score": 237,
    "num_comments": 303,
@@ -182,11 +175,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wxgcbl/"
   },
   {
-   "title": "Berkshire Hathaway bought $193M of Lennar in 2 days. The stock is still 41% under its high. What am I missing?",
-   "score": 214,
-   "num_comments": 100,
-   "created_utc": 1791372830,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wzu5f7/"
+   "title": "Life Savings on Alphabet",
+   "score": 222,
+   "num_comments": 463,
+   "created_utc": 1791307090,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wz8dhv/"
   },
   {
    "title": "Near 52-week low names you are accumulating or on your watchlist?",
@@ -194,20 +187,6 @@
    "num_comments": 281,
    "created_utc": 1790816225,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wulzaa/"
-  },
-  {
-   "title": "Intuit is down 61% in a year while earnings rose 20%. What's going on?",
-   "score": 202,
-   "num_comments": 177,
-   "created_utc": 1790764185,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wu1ekd/"
-  },
-  {
-   "title": "For those sitting on cash waiting for the next correction/AI bubble pop, how long have you been waiting?",
-   "score": 172,
-   "num_comments": 287,
-   "created_utc": 1790421239,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wqnx7a/"
   },
   {
    "title": "MAG 10 (MAG 7 plus Broadcom, Micron and AMD)",
@@ -218,38 +197,59 @@
   },
   {
    "title": "NETFLIX - Value Buy?",
-   "score": 149,
-   "num_comments": 264,
+   "score": 129,
+   "num_comments": 212,
    "created_utc": 1790941319,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wvrljc/"
   },
   {
-   "title": "LVMH under \u20ac400: Wonderful company at a fair price",
-   "score": 149,
-   "num_comments": 79,
-   "created_utc": 1790599851,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wsdqpv/"
+   "title": "NKE thoughts",
+   "score": 84,
+   "num_comments": 237,
+   "created_utc": 1790898051,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wvetda/"
   },
   {
-   "title": "Sofi Stock at 15 dollars a share: Is it worth it?",
-   "score": 94,
+   "title": "What stocks are you currently invested in?",
+   "score": 80,
+   "num_comments": 288,
+   "created_utc": 1791287158,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wz0gwp/"
+  },
+  {
+   "title": "Netflix, value or value trap",
+   "score": 73,
+   "num_comments": 90,
+   "created_utc": 1791234617,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wykevv/"
+  },
+  {
+   "title": "Making sense of Muse, the agentic model, and evaporating cash flow at META and GOOG",
+   "score": 66,
+   "num_comments": 58,
+   "created_utc": 1790881167,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wv81pm/"
+  },
+  {
+   "title": "Stocks that Im buying/bought this year",
+   "score": 62,
+   "num_comments": 19,
+   "created_utc": 1790923562,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wvmupk/"
+  },
+  {
+   "title": "FICO and Nike show, it\u2019s better to be late than early in a stock recovery.",
+   "score": 62,
+   "num_comments": 85,
+   "created_utc": 1790888765,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wvbb2f/"
+  },
+  {
+   "title": "Meta is suddenly flavor of the month",
+   "score": 61,
    "num_comments": 105,
-   "created_utc": 1790645930,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wsx5um/"
-  },
-  {
-   "title": "How do you guys use AI for stock research?",
-   "score": 94,
-   "num_comments": 103,
-   "created_utc": 1790528288,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wrpcsd/"
-  },
-  {
-   "title": "What\u2019s one stock you\u2019re watching that most people aren\u2019t talking about?",
-   "score": 92,
-   "num_comments": 265,
-   "created_utc": 1790580976,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1ws8624/"
+   "created_utc": 1791237908,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wylq94/"
   }
  ]
 }

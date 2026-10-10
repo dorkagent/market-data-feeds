@@ -1,92 +1,22 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-09T12:44:35.947502+00:00",
- "posts_analyzed": 500,
- "window_start": "2026-08-26T20:32:32+00:00",
+ "generated_at": "2026-10-10T02:47:53.686611+00:00",
+ "posts_analyzed": 100,
+ "window_start": "2026-09-28T11:04:27+00:00",
  "top_tickers": [
   {
-   "ticker": "AMD",
-   "mentions": 6,
-   "bull": 2,
-   "bear": 4,
-   "engagement": 34
-  },
-  {
-   "ticker": "META",
-   "mentions": 5,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 443
-  },
-  {
    "ticker": "NVDA",
-   "mentions": 5,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 1135
-  },
-  {
-   "ticker": "SPY",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1807
-  },
-  {
-   "ticker": "RDDT",
    "mentions": 2,
    "bull": 1,
-   "bear": 1,
-   "engagement": 15
+   "bear": 0,
+   "engagement": 1082
   },
   {
    "ticker": "GFS",
-   "mentions": 2,
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 7
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 7
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "GOOGL",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 25
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 13
-  },
-  {
-   "ticker": "AAPL",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 291
-  },
-  {
-   "ticker": "PLTR",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 5
+   "engagement": 1
   },
   {
    "ticker": "UAL",
@@ -96,104 +26,41 @@
    "engagement": 11
   },
   {
-   "ticker": "CBRS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 345
-  },
-  {
-   "ticker": "ARM",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 30
-  },
-  {
-   "ticker": "NEM",
+   "ticker": "GOOGL",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "GEHC",
+   "ticker": "AMZN",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SPY",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 9
-  },
-  {
-   "ticker": "CCXI",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
-   "ticker": "DOL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "HON",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
+   "engagement": 40
   }
  ],
  "top_posts": [
-  {
-   "title": "Bye bye USD ...",
-   "score": 5672,
-   "num_comments": 1673,
-   "created_utc": 1788529714,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1w74xob/"
-  },
   {
    "title": "U.S. Tells France and Germany to Release Diesel Stocks or Face US Export Ban",
    "score": 3566,
    "num_comments": 1003,
    "created_utc": 1790848170,
    "url": "https://www.reddit.com/r/StockMarket/comments/1wuv8o6/"
-  },
-  {
-   "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
-   "score": 3073,
-   "num_comments": 613,
-   "created_utc": 1788531601,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1w75qy6/"
-  },
-  {
-   "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
-   "score": 2956,
-   "num_comments": 326,
-   "created_utc": 1790308305,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wpm92h/"
-  },
-  {
-   "title": "Bessent dared the markets to 'bet against' him. Bond traders did - and appear to be winning.",
-   "score": 2750,
-   "num_comments": 129,
-   "created_utc": 1789323004,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wff1d0/"
-  },
-  {
-   "title": "Around 35% of Donald Trump's personal stock portfolio is invested in AI-related companies",
-   "score": 2555,
-   "num_comments": 76,
-   "created_utc": 1789490917,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wh5qs3/"
-  },
-  {
-   "title": "Trump demands 1% or lower interest rate after first Fed hike since 2023",
-   "score": 2431,
-   "num_comments": 266,
-   "created_utc": 1789594238,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wiahtg/"
   },
   {
    "title": "Mortgage rates hit 7.58%, approaching 3-year high",
@@ -203,53 +70,95 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1wtp71m/"
   },
   {
-   "title": "This should fix that pesky inflation problem!",
-   "score": 2394,
-   "num_comments": 678,
-   "created_utc": 1789007466,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wc6954/"
+   "title": "Anthropic IPO Filing Reveals Explosive Growth and Massive Costs",
+   "score": 938,
+   "num_comments": 218,
+   "created_utc": 1790652212,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wszct7/"
   },
   {
-   "title": "Fed approves interest rate hike, signals one more to come this year",
-   "score": 2062,
-   "num_comments": 237,
-   "created_utc": 1789581962,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wi4v5x/"
+   "title": "30-year Treasury bond yield scales to highest level since 2002",
+   "score": 924,
+   "num_comments": 133,
+   "created_utc": 1790696430,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wtdi1u/"
   },
   {
-   "title": "We are so doomed\u2026",
-   "score": 2028,
-   "num_comments": 835,
-   "created_utc": 1789437791,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wgn4er/"
+   "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+   "score": 884,
+   "num_comments": 110,
+   "created_utc": 1790947306,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wvton5/"
   },
   {
-   "title": "Well Well Well\u2026",
-   "score": 2027,
-   "num_comments": 509,
-   "created_utc": 1788966657,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wbob64/"
+   "title": "Hedge funds hold a record share of the $30 trillion Treasury market",
+   "score": 747,
+   "num_comments": 35,
+   "created_utc": 1790769726,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wu32x1/"
   },
   {
-   "title": "S&P 500 Could Plunge 30% as AI Bubble Enters \u2018Late Stages\u2019",
-   "score": 1936,
-   "num_comments": 434,
-   "created_utc": 1789501496,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1whapog/"
+   "title": "Nvidia stock rises to new highs as market cap closes in on $6 trillion",
+   "score": 651,
+   "num_comments": 92,
+   "created_utc": 1791307525,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wz8k6d/"
   },
   {
-   "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
-   "score": 1791,
-   "num_comments": 161,
-   "created_utc": 1788788663,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1w9sl3r/"
+   "title": "$NVDA has authorized an additional $150 billion share buyback program",
+   "score": 609,
+   "num_comments": 74,
+   "created_utc": 1790593582,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wsbmu0/"
   },
   {
-   "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999",
-   "score": 1484,
-   "num_comments": 238,
-   "created_utc": 1790032493,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wmspao/"
+   "title": "Nike shares plummet 10% after weak revenue outlook and layoff plans underway",
+   "score": 575,
+   "num_comments": 70,
+   "created_utc": 1790943222,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wvs7tg/"
+  },
+  {
+   "title": "Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed",
+   "score": 566,
+   "num_comments": 72,
+   "created_utc": 1790812285,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wuklja/"
+  },
+  {
+   "title": "Robinhood is rolling out agentic AI trading accounts for the masses",
+   "score": 564,
+   "num_comments": 115,
+   "created_utc": 1790730477,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wtrnrc/"
+  },
+  {
+   "title": "Fed\u2019s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+   "score": 555,
+   "num_comments": 213,
+   "created_utc": 1790774236,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wu4pni/"
+  },
+  {
+   "title": "A record 72 S&P 500 companies issued third-quarter profit forecasts that topped Wall Street estimates, according to a FactSet report.",
+   "score": 368,
+   "num_comments": 72,
+   "created_utc": 1791139904,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wxncs0/"
+  },
+  {
+   "title": "$NVDA reportedly working with insurers to make GPUs easier to finance for smaller cloud providers by protecting lenders if a borrower defaul",
+   "score": 321,
+   "num_comments": 78,
+   "created_utc": 1790678492,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wt6r2o/"
+  },
+  {
+   "title": "Europe weighs new diesel stocks release after US pressure",
+   "score": 320,
+   "num_comments": 65,
+   "created_utc": 1790934384,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wvplzj/"
   }
  ]
 }

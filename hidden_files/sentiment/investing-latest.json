@@ -1,43 +1,15 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-09T12:44:05.567976+00:00",
- "posts_analyzed": 500,
- "window_start": "2026-09-18T06:59:24+00:00",
+ "generated_at": "2026-10-10T02:42:43.398948+00:00",
+ "posts_analyzed": 100,
+ "window_start": "2026-10-05T10:38:09+00:00",
  "top_tickers": [
   {
-   "ticker": "AMD",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 8
-  },
-  {
    "ticker": "NVDA",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 30
-  },
-  {
-   "ticker": "NKTX",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "META",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 23
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 2,
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 4
+   "engagement": 2
   },
   {
    "ticker": "NIO",
@@ -47,6 +19,20 @@
    "engagement": 2
   },
   {
+   "ticker": "AMD",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "NKTX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 0
+  },
+  {
    "ticker": "ARM",
    "mentions": 1,
    "bull": 1,
@@ -54,46 +40,11 @@
    "engagement": 50
   },
   {
-   "ticker": "GME",
+   "ticker": "META",
    "mentions": 1,
    "bull": 1,
-   "bear": 1,
-   "engagement": 13
-  },
-  {
-   "ticker": "TLT",
-   "mentions": 1,
-   "bull": 0,
    "bear": 0,
    "engagement": 2
-  },
-  {
-   "ticker": "INTC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "MOD",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 3
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 41
-  },
-  {
-   "ticker": "GOOG",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 21
   }
  ],
  "top_posts": [
@@ -105,83 +56,6 @@
    "url": "https://www.reddit.com/r/investing/comments/1wyuvd5/"
   },
   {
-   "title": "Does anyone else feel that we\u2019re heading towards a financial crisis?",
-   "score": 1510,
-   "num_comments": 1056,
-   "created_utc": 1789998736,
-   "url": "https://www.reddit.com/r/investing/comments/1wmdfam/"
-  },
-  {
-   "title": "Disney is hurting themselves by raising Disney+ prices",
-   "score": 1428,
-   "num_comments": 285,
-   "created_utc": 1790458436,
-   "url": "https://www.reddit.com/r/investing/comments/1wr2a7f/"
-  },
-  {
-   "title": "The September jobs report quietly turned July negative",
-   "score": 809,
-   "num_comments": 130,
-   "created_utc": 1790944888,
-   "url": "https://www.reddit.com/r/investing/comments/1wvsrzq/"
-  },
-  {
-   "title": "69% of big US companies now earn less than a 10-year Treasury pays",
-   "score": 756,
-   "num_comments": 136,
-   "created_utc": 1789739702,
-   "url": "https://www.reddit.com/r/investing/comments/1wjqw7o/"
-  },
-  {
-   "title": "Ukraine to hit Russian oil refineries in response to Moscow's new airstrikes, potentially impacting global diesel prices",
-   "score": 440,
-   "num_comments": 175,
-   "created_utc": 1791061263,
-   "url": "https://www.reddit.com/r/investing/comments/1wwxwcd/"
-  },
-  {
-   "title": "Starbucks takes $300M charge to close 250 stores and cut 2026 guidance",
-   "score": 426,
-   "num_comments": 148,
-   "created_utc": 1790253320,
-   "url": "https://www.reddit.com/r/investing/comments/1wp0get/"
-  },
-  {
-   "title": "Only 1 of the 10 biggest US companies earns more than the 30-year Treasury pays",
-   "score": 368,
-   "num_comments": 122,
-   "created_utc": 1790765718,
-   "url": "https://www.reddit.com/r/investing/comments/1wu1u0u/"
-  },
-  {
-   "title": "Why is the stock market climbing ever since Walsh increased rates?",
-   "score": 366,
-   "num_comments": 274,
-   "created_utc": 1789826040,
-   "url": "https://www.reddit.com/r/investing/comments/1wkmuw8/"
-  },
-  {
-   "title": "Oura abruptly postpones $2.2B IPO - Fall IPO window closed?",
-   "score": 322,
-   "num_comments": 180,
-   "created_utc": 1790677286,
-   "url": "https://www.reddit.com/r/investing/comments/1wt6ews/"
-  },
-  {
-   "title": "Why are people freaking out about bonds now vs 2022?",
-   "score": 274,
-   "num_comments": 219,
-   "created_utc": 1790545276,
-   "url": "https://www.reddit.com/r/investing/comments/1wrwjct/"
-  },
-  {
-   "title": "How do you decide when to cash out your position?",
-   "score": 240,
-   "num_comments": 280,
-   "created_utc": 1790203980,
-   "url": "https://www.reddit.com/r/investing/comments/1wokut8/"
-  },
-  {
    "title": "HYSA/MM Rates Haven't Increased with the Fed Hike",
    "score": 226,
    "num_comments": 152,
@@ -189,18 +63,95 @@
    "url": "https://www.reddit.com/r/investing/comments/1wyinsu/"
   },
   {
-   "title": "I know I'm behind for my age.",
-   "score": 211,
-   "num_comments": 139,
-   "created_utc": 1790833046,
-   "url": "https://www.reddit.com/r/investing/comments/1wuraph/"
+   "title": "Wall Street Hits Record $90B Pace On AI Boom \ud83d\udcb8",
+   "score": 118,
+   "num_comments": 64,
+   "created_utc": 1791373162,
+   "url": "https://www.reddit.com/r/investing/comments/1wzu915/"
   },
   {
-   "title": "Warren Buffett Steps Down at 96: Berkshire\u2019s $277B Cash Pile Post-Buffet Era",
-   "score": 209,
-   "num_comments": 21,
-   "created_utc": 1789728212,
-   "url": "https://www.reddit.com/r/investing/comments/1wjmr2p/"
+   "title": "Who the heck is throwing money at in South American ETFs after elections?",
+   "score": 102,
+   "num_comments": 60,
+   "created_utc": 1791214357,
+   "url": "https://www.reddit.com/r/investing/comments/1wybllt/"
+  },
+  {
+   "title": "if you deposit money every month, how do you actually know if you're beating the S&P 500?",
+   "score": 75,
+   "num_comments": 96,
+   "created_utc": 1791300943,
+   "url": "https://www.reddit.com/r/investing/comments/1wz5qbw/"
+  },
+  {
+   "title": "Uber to acquire ezCater for $2.3 billion dollars",
+   "score": 56,
+   "num_comments": 18,
+   "created_utc": 1791308455,
+   "url": "https://www.reddit.com/r/investing/comments/1wz8ys0/"
+  },
+  {
+   "title": "What is the current opinion on buying Vanguard ETF International vs Small Cap vs SP 500?",
+   "score": 21,
+   "num_comments": 57,
+   "created_utc": 1791404722,
+   "url": "https://www.reddit.com/r/investing/comments/1x079eb/"
+  },
+  {
+   "title": "How are people thinking about bonds, energy, and tech right now",
+   "score": 21,
+   "num_comments": 43,
+   "created_utc": 1791330210,
+   "url": "https://www.reddit.com/r/investing/comments/1wzhuha/"
+  },
+  {
+   "title": "Building accessible wealth habits",
+   "score": 19,
+   "num_comments": 16,
+   "created_utc": 1791275970,
+   "url": "https://www.reddit.com/r/investing/comments/1wyxfnm/"
+  },
+  {
+   "title": "Someone talk me out of going long on ARM...",
+   "score": 17,
+   "num_comments": 33,
+   "created_utc": 1791221413,
+   "url": "https://www.reddit.com/r/investing/comments/1wyeoom/"
+  },
+  {
+   "title": "Sharing little progress with you",
+   "score": 14,
+   "num_comments": 4,
+   "created_utc": 1791295669,
+   "url": "https://www.reddit.com/r/investing/comments/1wz3jfh/"
+  },
+  {
+   "title": "Rate my Portfolio. What would you do differently?",
+   "score": 13,
+   "num_comments": 16,
+   "created_utc": 1791385223,
+   "url": "https://www.reddit.com/r/investing/comments/1wzys1u/"
+  },
+  {
+   "title": "Cameco and the Westinghouse IPO",
+   "score": 11,
+   "num_comments": 7,
+   "created_utc": 1791301803,
+   "url": "https://www.reddit.com/r/investing/comments/1wz632e/"
+  },
+  {
+   "title": "Struggling to understand this index change",
+   "score": 10,
+   "num_comments": 5,
+   "created_utc": 1791300126,
+   "url": "https://www.reddit.com/r/investing/comments/1wz5dol/"
+  },
+  {
+   "title": "Investment Strategies on Personal vs Pretax 401k Account",
+   "score": 8,
+   "num_comments": 15,
+   "created_utc": 1791394952,
+   "url": "https://www.reddit.com/r/investing/comments/1x0320t/"
   }
  ]
 }
