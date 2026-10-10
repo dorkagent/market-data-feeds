@@ -1,15 +1,15 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-10T02:45:18.452369+00:00",
+ "generated_at": "2026-10-10T12:49:39.418439+00:00",
  "posts_analyzed": 100,
- "window_start": "2026-10-07T12:25:36+00:00",
+ "window_start": "2026-10-07T07:19:02+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 2,
+   "mentions": 3,
    "bull": 0,
    "bear": 0,
-   "engagement": 3
+   "engagement": 670
   },
   {
    "ticker": "SPCX",
@@ -17,6 +17,13 @@
    "bull": 0,
    "bear": 1,
    "engagement": 213
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "NIO",
@@ -33,70 +40,21 @@
    "engagement": 2
   },
   {
-   "ticker": "RDDT",
-   "mentions": 1,
+   "ticker": "MRVL",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "TEM",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "LIFE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "SDGR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "AUR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "DAL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "PLTR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "META",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "QQQ",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -138,14 +96,21 @@
    "engagement": 31
   },
   {
-   "ticker": "MRVL",
+   "ticker": "META",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 23
   }
  ],
  "top_posts": [
+  {
+   "title": "SpaceX Doubling Its Debt With $40B NVDA Chip Buy",
+   "score": 462,
+   "num_comments": 205,
+   "created_utc": 1791372174,
+   "url": "https://www.reddit.com/r/stocks/comments/1wztydi/"
+  },
   {
    "title": "Data shows that the 10-year Treasury yield is above 5.3% and crude oil prices are above $100, so why is the market sell-off so weak today?",
    "score": 413,
@@ -159,13 +124,6 @@
    "num_comments": 66,
    "created_utc": 1791386552,
    "url": "https://www.reddit.com/r/stocks/comments/1wzzd41/"
-  },
-  {
-   "title": "Samsung forecasts record third-quarter profit of $80 billion for the first time in history - Operating profit jumped 782%",
-   "score": 220,
-   "num_comments": 45,
-   "created_utc": 1791414714,
-   "url": "https://www.reddit.com/r/stocks/comments/1x0bcf0/"
   },
   {
    "title": "FCC approves $SPCX to deploy 15,000 Starlink satellites for D2C service",
@@ -203,53 +161,53 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x0z6vg/"
   },
   {
-   "title": "[ Removed by Reddit ]",
+   "title": "Thinking about leaving Webull over data privacy concerns. Where are you all going?",
    "score": 1,
    "num_comments": 0,
-   "created_utc": 1791557696,
-   "url": "https://www.reddit.com/r/stocks/comments/1x1nhw1/"
+   "created_utc": 1791539227,
+   "url": "https://www.reddit.com/r/stocks/comments/1x1h4u5/"
   },
   {
-   "title": "RDDT you're using it right now, are you invested?  I like the chart and momentum from the 6 month bottom recently.",
+   "title": "r/Stocks Daily Discussion & Fundamentals Friday Oct 09, 2026",
+   "score": 1,
+   "num_comments": 0,
+   "created_utc": 1791538211,
+   "url": "https://www.reddit.com/r/stocks/comments/1x1gv8s/"
+  },
+  {
+   "title": "Is it just me or is kawasaki stock really hard to evaluate?",
+   "score": 1,
+   "num_comments": 0,
+   "created_utc": 1791535485,
+   "url": "https://www.reddit.com/r/stocks/comments/1x1g5np/"
+  },
+  {
+   "title": "Let's talk about OpenAI.",
+   "score": 1,
+   "num_comments": 0,
+   "created_utc": 1791532450,
+   "url": "https://www.reddit.com/r/stocks/comments/1x1fdj6/"
+  },
+  {
+   "title": "Let's talk about OpenAI.",
    "score": 1,
    "num_comments": 1,
-   "created_utc": 1791556516,
-   "url": "https://www.reddit.com/r/stocks/comments/1x1n0qi/"
+   "created_utc": 1791531979,
+   "url": "https://www.reddit.com/r/stocks/comments/1x1f93w/"
   },
   {
-   "title": "How do you handle missing a move without FOMO chasing?",
+   "title": "Today, let's discuss OpenAI's performance falling short of expectations.",
    "score": 1,
    "num_comments": 0,
-   "created_utc": 1791556110,
-   "url": "https://www.reddit.com/r/stocks/comments/1x1munn/"
+   "created_utc": 1791531323,
+   "url": "https://www.reddit.com/r/stocks/comments/1x1f3cq/"
   },
   {
-   "title": "Best tsx stocks for october",
+   "title": "The Impact of OpenAI's Underperformance Relative to Expectations",
    "score": 1,
    "num_comments": 0,
-   "created_utc": 1791555603,
-   "url": "https://www.reddit.com/r/stocks/comments/1x1mn1i/"
-  },
-  {
-   "title": "Invest money now to my project https://t.me/cryptoindustry",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791554952,
-   "url": "https://www.reddit.com/r/stocks/comments/1x1md8i/"
-  },
-  {
-   "title": "Don't miss the next 100x gem! is live + Genesis NFT Drop",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791554583,
-   "url": "https://www.reddit.com/r/stocks/comments/1x1m7rz/"
-  },
-  {
-   "title": "New Companies that Utilize AI at the core of their business model",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791554037,
-   "url": "https://www.reddit.com/r/stocks/comments/1x1lza0/"
+   "created_utc": 1791530659,
+   "url": "https://www.reddit.com/r/stocks/comments/1x1exdu/"
   }
  ]
 }

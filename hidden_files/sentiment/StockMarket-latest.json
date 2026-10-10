@@ -1,15 +1,22 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-10T02:47:53.686611+00:00",
+ "generated_at": "2026-10-10T12:52:14.929107+00:00",
  "posts_analyzed": 100,
- "window_start": "2026-09-28T11:04:27+00:00",
+ "window_start": "2026-09-29T11:02:23+00:00",
  "top_tickers": [
   {
-   "ticker": "NVDA",
+   "ticker": "META",
    "mentions": 2,
    "bull": 1,
-   "bear": 0,
-   "engagement": 1082
+   "bear": 1,
+   "engagement": 3
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 2
   },
   {
    "ticker": "GFS",
@@ -26,6 +33,13 @@
    "engagement": 11
   },
   {
+   "ticker": "MSFT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "GOOGL",
    "mentions": 1,
    "bull": 0,
@@ -38,20 +52,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SPY",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 40
   }
  ],
  "top_posts": [
@@ -68,13 +68,6 @@
    "num_comments": 200,
    "created_utc": 1790723660,
    "url": "https://www.reddit.com/r/StockMarket/comments/1wtp71m/"
-  },
-  {
-   "title": "Anthropic IPO Filing Reveals Explosive Growth and Massive Costs",
-   "score": 938,
-   "num_comments": 218,
-   "created_utc": 1790652212,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wszct7/"
   },
   {
    "title": "30-year Treasury bond yield scales to highest level since 2002",
@@ -103,13 +96,6 @@
    "num_comments": 92,
    "created_utc": 1791307525,
    "url": "https://www.reddit.com/r/StockMarket/comments/1wz8k6d/"
-  },
-  {
-   "title": "$NVDA has authorized an additional $150 billion share buyback program",
-   "score": 609,
-   "num_comments": 74,
-   "created_utc": 1790593582,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wsbmu0/"
   },
   {
    "title": "Nike shares plummet 10% after weak revenue outlook and layoff plans underway",
@@ -147,11 +133,11 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1wxncs0/"
   },
   {
-   "title": "$NVDA reportedly working with insurers to make GPUs easier to finance for smaller cloud providers by protecting lenders if a borrower defaul",
-   "score": 321,
-   "num_comments": 78,
-   "created_utc": 1790678492,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wt6r2o/"
+   "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+   "score": 327,
+   "num_comments": 203,
+   "created_utc": 1790893864,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wvdagk/"
   },
   {
    "title": "Europe weighs new diesel stocks release after US pressure",
@@ -159,6 +145,20 @@
    "num_comments": 65,
    "created_utc": 1790934384,
    "url": "https://www.reddit.com/r/StockMarket/comments/1wvplzj/"
+  },
+  {
+   "title": "Treasury yields hit a 24-year high and the equity math just doesn't work anymore",
+   "score": 295,
+   "num_comments": 173,
+   "created_utc": 1790949772,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wvun40/"
+  },
+  {
+   "title": "Equal-Weight S&P 500 Set for a Rare, Weeks-Long Losing Streak",
+   "score": 283,
+   "num_comments": 14,
+   "created_utc": 1790792388,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wucidn/"
   }
  ]
 }
