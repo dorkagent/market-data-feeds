@@ -1,9 +1,20 @@
 {
-  "generated_utc": "2026-10-10T00:20:51.392460+00:00",
+  "generated_utc": "2026-10-10T01:38:26.618748+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. Insider cluster buys corroborate the Form 4 feed; a cluster is context, never a trade signal.",
   "source": "OpenInsider latest-cluster-buys (keyless HTML scrape)",
   "status": "ok",
   "clusters": [
+    {
+      "ticker": "BPRE",
+      "company": "Bluerock Private Real Estate Fund",
+      "insiders": 3,
+      "trade_date": "2026-10-06",
+      "filing_date": "2026-10-09 21:07:26",
+      "trade_type": "P - Purchase",
+      "price": "$12.74",
+      "value": "+$21,523,201",
+      "watchlist": false
+    },
     {
       "ticker": "AGMB",
       "company": "Agomab Therapeutics Nv",
@@ -46,17 +57,6 @@
       "trade_type": "P - Purchase",
       "price": "$18.00",
       "value": "+$4,098,600",
-      "watchlist": false
-    },
-    {
-      "ticker": "BPRE",
-      "company": "Bluerock Private Real Estate Fund",
-      "insiders": 3,
-      "trade_date": "2026-10-01",
-      "filing_date": "2026-10-05 18:06:50",
-      "trade_type": "P - Purchase",
-      "price": "$12.54",
-      "value": "+$13,021,674",
       "watchlist": false
     },
     {
