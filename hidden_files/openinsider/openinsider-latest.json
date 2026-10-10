@@ -1,9 +1,20 @@
 {
-  "generated_utc": "2026-10-09T01:39:41.353271+00:00",
+  "generated_utc": "2026-10-10T00:20:51.392460+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. Insider cluster buys corroborate the Form 4 feed; a cluster is context, never a trade signal.",
   "source": "OpenInsider latest-cluster-buys (keyless HTML scrape)",
   "status": "ok",
   "clusters": [
+    {
+      "ticker": "AGMB",
+      "company": "Agomab Therapeutics Nv",
+      "insiders": 3,
+      "trade_date": "2026-10-05",
+      "filing_date": "2026-10-09 08:01:30",
+      "trade_type": "P - Purchase",
+      "price": "$8.64",
+      "value": "+$311,170",
+      "watchlist": false
+    },
     {
       "ticker": "BORR",
       "company": "Borr Drilling Ltd",
@@ -13,17 +24,6 @@
       "trade_type": "P - Purchase",
       "price": "$4.21",
       "value": "+$32,057,658",
-      "watchlist": false
-    },
-    {
-      "ticker": "AGMB",
-      "company": "Agomab Therapeutics Nv",
-      "insiders": 3,
-      "trade_date": "2026-10-05",
-      "filing_date": "2026-10-07 08:57:36",
-      "trade_type": "P - Purchase",
-      "price": "$8.60",
-      "value": "+$266,670",
       "watchlist": false
     },
     {
