@@ -1,15 +1,22 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-10-09T12:45:27.707241+00:00",
+ "generated_at": "2026-10-11T02:39:12.488209+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-13T22:02:43+00:00",
+ "window_start": "2026-08-16T21:07:12+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
-   "mentions": 8,
-   "bull": 7,
-   "bear": 8,
-   "engagement": 95
+   "mentions": 7,
+   "bull": 6,
+   "bear": 7,
+   "engagement": 78
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 5,
+   "bull": 3,
+   "bear": 3,
+   "engagement": 37
   },
   {
    "ticker": "PLTR",
@@ -33,11 +40,11 @@
    "engagement": 413
   },
   {
-   "ticker": "RDDT",
+   "ticker": "NBIS",
    "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 35
+   "bull": 3,
+   "bear": 2,
+   "engagement": 87
   },
   {
    "ticker": "INTC",
@@ -59,6 +66,13 @@
    "bull": 2,
    "bear": 2,
    "engagement": 106
+  },
+  {
+   "ticker": "IREN",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 31
   },
   {
    "ticker": "NVDA",
@@ -96,13 +110,6 @@
    "engagement": 16
   },
   {
-   "ticker": "NBIS",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 86
-  },
-  {
    "ticker": "TSLA",
    "mentions": 2,
    "bull": 1,
@@ -110,39 +117,32 @@
    "engagement": 18
   },
   {
-   "ticker": "TLT",
+   "ticker": "AMZN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 53
+   "engagement": 1
   },
   {
-   "ticker": "LRCX",
+   "ticker": "AXTI",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 8
+   "engagement": 1
   },
   {
-   "ticker": "SNPS",
+   "ticker": "NVTS",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 8
+   "engagement": 1
   },
   {
-   "ticker": "LQDA",
+   "ticker": "ROBN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 8
-  },
-  {
-   "ticker": "LITE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 8
+   "engagement": 1
   }
  ],
  "top_posts": [
@@ -175,6 +175,13 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1wk4d9v/"
   },
   {
+   "title": "Aggressive Wheeling Results Since May",
+   "score": 135,
+   "num_comments": 48,
+   "created_utc": 1791405437,
+   "url": "https://www.reddit.com/r/thetagang/comments/1x07kzr/"
+  },
+  {
    "title": "1M options* portfolio feat. $MU",
    "score": 135,
    "num_comments": 124,
@@ -189,13 +196,6 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1vvlond/"
   },
   {
-   "title": "Selling CSP",
-   "score": 129,
-   "num_comments": 90,
-   "created_utc": 1786801486,
-   "url": "https://www.reddit.com/r/thetagang/comments/1vp39yo/"
-  },
-  {
    "title": "I backtested all the popular wheeling strategy",
    "score": 121,
    "num_comments": 101,
@@ -203,18 +203,18 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1w2v9e8/"
   },
   {
+   "title": "2026 | $100k target achieved.",
+   "score": 118,
+   "num_comments": 67,
+   "created_utc": 1791473983,
+   "url": "https://www.reddit.com/r/thetagang/comments/1x0u7wm/"
+  },
+  {
    "title": "What I've learned after 2 years of selling options",
    "score": 117,
    "num_comments": 50,
    "created_utc": 1787743260,
    "url": "https://www.reddit.com/r/thetagang/comments/1vyu8wl/"
-  },
-  {
-   "title": "Aggressive Wheeling Results Since May",
-   "score": 113,
-   "num_comments": 47,
-   "created_utc": 1791405437,
-   "url": "https://www.reddit.com/r/thetagang/comments/1x07kzr/"
   },
   {
    "title": "Me checking my portfolio after a red week",

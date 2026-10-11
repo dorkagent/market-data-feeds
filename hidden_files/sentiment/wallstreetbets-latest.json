@@ -1,206 +1,255 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-10T12:44:28.808989+00:00",
- "posts_analyzed": 100,
- "window_start": "2026-10-08T20:04:09+00:00",
+ "generated_at": "2026-10-11T02:38:41.784310+00:00",
+ "posts_analyzed": 500,
+ "window_start": "2026-10-07T02:06:29+00:00",
  "top_tickers": [
+  {
+   "ticker": "NBIS",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 27
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 27
+  },
+  {
+   "ticker": "GME",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 18
+  },
+  {
+   "ticker": "NIO",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 0
+  },
+  {
+   "ticker": "RKLB",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
+   "ticker": "MU",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 22
+  },
+  {
+   "ticker": "ADBE",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 2
+  },
   {
    "ticker": "XRP",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
+   "engagement": 1
   },
   {
    "ticker": "XRPN",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "NASA",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "NFLX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "RKLB",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "PG",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "CMG",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SBUX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "COUR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "AAPL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "VZ",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "TMUS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SPCX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "GOOGL",
-   "mentions": 1,
-   "bull": 0,
+   "ticker": "QQQ",
+   "mentions": 2,
+   "bull": 1,
    "bear": 1,
+   "engagement": 91
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 26
+  },
+  {
+   "ticker": "TTWO",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 24
+  },
+  {
+   "ticker": "HTZ",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 36
+  },
+  {
+   "ticker": "TLT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "TTD",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "MAT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "APP",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
    "engagement": 1
   }
  ],
  "top_posts": [
   {
-   "title": "US CPI September 2026 - Forecast (InflationLab)",
-   "score": 1,
-   "num_comments": 1,
-   "created_utc": 1791556067,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1mu07/"
+   "title": "OpenAI annualised revenues $20bn less than previously signalled",
+   "score": 4351,
+   "num_comments": 771,
+   "created_utc": 1791478677,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x0w9zh/"
   },
   {
-   "title": "General Fusion (GFUZ)",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791555660,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1mnxg/"
+   "title": "I believe Open AI will be the yahoo of the AI era.",
+   "score": 3291,
+   "num_comments": 1002,
+   "created_utc": 1791504946,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x173ex/"
   },
   {
-   "title": "Getartcraft - AI reengineered adobe suite",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791555192,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1mgu8/"
+   "title": "SHARES OF T MOBILE , AT&T & VERIZON ARE DOWN AROUND 7% AFTER HOURS ON THE NEWS OF SPACEX ACQUIRING LOW BAND SPECTRUM LICENSE",
+   "score": 3187,
+   "num_comments": 996,
+   "created_utc": 1791507686,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x180e6/"
   },
   {
-   "title": "ASTX rip",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791554955,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1mda5/"
+   "title": "Starbucks has explored takeover of Chipotle in restaurant megadeal",
+   "score": 2882,
+   "num_comments": 752,
+   "created_utc": 1791468665,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x0ryj8/"
   },
   {
-   "title": "TEVA schizophrenia injection approved by the FDA",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791554708,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1m9le/"
+   "title": "[ Removed by moderator ]",
+   "score": 2663,
+   "num_comments": 470,
+   "created_utc": 1791635463,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2e5u4/"
   },
   {
-   "title": "ADBE Imminent Decline - Cloned Software",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791554637,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1m8jw/"
+   "title": "U.S. suspends Microsoft, Adobe and six IT outsourcing giants from green-card labor certification program",
+   "score": 2502,
+   "num_comments": 705,
+   "created_utc": 1791478711,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x0wahg/"
   },
   {
-   "title": "AI recreated adobe",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791554582,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1m7r3/"
+   "title": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage",
+   "score": 1968,
+   "num_comments": 384,
+   "created_utc": 1791406433,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x080v2/"
   },
   {
-   "title": "CSV is a funeral home trading like it\u2019s already in the ground. Better margins than SCI, 34% cheaper on EV/EBITDA. Boomer Lifecycle Tailwinds",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791554044,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1lzds/"
+   "title": "ADOBE is cooked.",
+   "score": 1681,
+   "num_comments": 728,
+   "created_utc": 1791396413,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x03pn2/"
   },
   {
-   "title": "NKE to the moon?",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791553951,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1ly2w/"
+   "title": "Good old days \ud83d\udc3b",
+   "score": 1500,
+   "num_comments": 122,
+   "created_utc": 1791645348,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2hro4/"
   },
   {
-   "title": "Bought 3 months till expiration netflix call options",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791553505,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1lrj8/"
-  },
-  {
-   "title": "NFLX earning Nay or Yay?",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791553495,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1lrdn/"
-  },
-  {
-   "title": "Ringing RKLB endorsement from the GOAT!",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791553450,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1lqr0/"
-  },
-  {
-   "title": "Bought Netflix 3 month call options",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791551445,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1kz2x/"
+   "title": "Congratulation Americans. U r about to get full coverage soon. $SPCX $TMUS $T $VZ",
+   "score": 1379,
+   "num_comments": 1007,
+   "created_utc": 1791494509,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x137d6/"
   },
   {
    "title": "Trump purchased up to $5 million of SpaceX bonds days before major space order",
-   "score": 1,
-   "num_comments": 0,
+   "score": 1170,
+   "num_comments": 128,
    "created_utc": 1791550876,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1krg0/"
   },
   {
-   "title": "SELLAS Life Sciences (SLS): why I\u2019m bullish on GPS and watching ASH in December",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791550548,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1kmww/"
+   "title": "16x\ud83d\udcb0",
+   "score": 1024,
+   "num_comments": 144,
+   "created_utc": 1791502421,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x166u4/"
+  },
+  {
+   "title": "Michael Dell Defends Trump Accounts\u2019 Shift to Individual Company Stocks",
+   "score": 951,
+   "num_comments": 190,
+   "created_utc": 1791412396,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x0agko/"
+  },
+  {
+   "title": "Jensen Huang live show",
+   "score": 880,
+   "num_comments": 101,
+   "created_utc": 1791349348,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1wznync/"
+  },
+  {
+   "title": "Google might win bigly from AI software-cloning. $GOOGL",
+   "score": 813,
+   "num_comments": 244,
+   "created_utc": 1791493016,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x12klg/"
   }
  ]
 }

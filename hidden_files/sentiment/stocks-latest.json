@@ -1,115 +1,199 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-10T12:49:39.418439+00:00",
- "posts_analyzed": 100,
- "window_start": "2026-10-07T07:19:02+00:00",
+ "generated_at": "2026-10-11T02:38:52.089825+00:00",
+ "posts_analyzed": 500,
+ "window_start": "2026-09-29T23:44:44+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
+   "mentions": 6,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 2107
+  },
+  {
+   "ticker": "META",
+   "mentions": 5,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 36
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 5
+  },
+  {
+   "ticker": "ASTS",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 126
+  },
+  {
+   "ticker": "MRVL",
    "mentions": 3,
    "bull": 0,
    "bear": 0,
-   "engagement": 670
+   "engagement": 20
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 3,
+   "engagement": 1411
+  },
+  {
+   "ticker": "ROLR",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "SPCX",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 213
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
+   "engagement": 698
   },
   {
    "ticker": "NIO",
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 4
+   "engagement": 2
   },
   {
    "ticker": "BULL",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "MRVL",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "UBER",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
+   "engagement": 52
   },
   {
    "ticker": "GME",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 13
+  },
+  {
+   "ticker": "AAOI",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "TWLO",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 89
+  },
+  {
+   "ticker": "MU",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "RKLB",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "DND",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "ENVX",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 3
   },
   {
-   "ticker": "GNE",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
-  },
-  {
-   "ticker": "SHOP",
+   "ticker": "GRAL",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 31
-  },
-  {
-   "ticker": "META",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 23
+   "engagement": 9
   }
  ],
  "top_posts": [
+  {
+   "title": "Trump purchased up to $5 million of SpaceX bonds days before major space order",
+   "score": 5196,
+   "num_comments": 423,
+   "created_utc": 1791551198,
+   "url": "https://www.reddit.com/r/stocks/comments/1x1kvo6/"
+  },
+  {
+   "title": "OPENAI'S ANNUALIZED REVENUE NEARS $50B, FAR BELOW EARLIER $70B REPORTS",
+   "score": 2015,
+   "num_comments": 375,
+   "created_utc": 1791480565,
+   "url": "https://www.reddit.com/r/stocks/comments/1x0x3qh/"
+  },
+  {
+   "title": "Just sold last NVDA, GOOGL and MSFT",
+   "score": 844,
+   "num_comments": 566,
+   "created_utc": 1790857047,
+   "url": "https://www.reddit.com/r/stocks/comments/1wuxwtu/"
+  },
+  {
+   "title": "South Korea Announces $120 Billion Plan For Eight Large-Scale Nuclear Power Plants In US",
+   "score": 593,
+   "num_comments": 129,
+   "created_utc": 1790892931,
+   "url": "https://www.reddit.com/r/stocks/comments/1wvcxxs/"
+  },
+  {
+   "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+   "score": 513,
+   "num_comments": 191,
+   "created_utc": 1790944865,
+   "url": "https://www.reddit.com/r/stocks/comments/1wvsroz/"
+  },
   {
    "title": "SpaceX Doubling Its Debt With $40B NVDA Chip Buy",
    "score": 462,
    "num_comments": 205,
    "created_utc": 1791372174,
    "url": "https://www.reddit.com/r/stocks/comments/1wztydi/"
+  },
+  {
+   "title": "OpenAI brings in about $50B a year. It signed up to spend $300B with Oracle",
+   "score": 441,
+   "num_comments": 178,
+   "created_utc": 1791549168,
+   "url": "https://www.reddit.com/r/stocks/comments/1x1k5qi/"
   },
   {
    "title": "Data shows that the 10-year Treasury yield is above 5.3% and crude oil prices are above $100, so why is the market sell-off so weak today?",
@@ -119,95 +203,53 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x07jr6/"
   },
   {
+   "title": "Can someone explain to me how the stock market is basically a separate entity from the economy?",
+   "score": 410,
+   "num_comments": 431,
+   "created_utc": 1791177461,
+   "url": "https://www.reddit.com/r/stocks/comments/1wy0ajt/"
+  },
+  {
+   "title": "Only 1 of the 10 biggest US companies earns more than the 30-year Treasury pays",
+   "score": 375,
+   "num_comments": 139,
+   "created_utc": 1790762804,
+   "url": "https://www.reddit.com/r/stocks/comments/1wu10je/"
+  },
+  {
+   "title": "Micron tops Q4 estimates on top and bottom line, offers strong Q1 outlook",
+   "score": 357,
+   "num_comments": 102,
+   "created_utc": 1790799007,
+   "url": "https://www.reddit.com/r/stocks/comments/1wuff1d/"
+  },
+  {
    "title": "Webull stock drops 20% as its ties to China create national security risk as per congressional panel",
-   "score": 299,
-   "num_comments": 66,
+   "score": 312,
+   "num_comments": 67,
    "created_utc": 1791386552,
    "url": "https://www.reddit.com/r/stocks/comments/1wzzd41/"
   },
   {
-   "title": "FCC approves $SPCX to deploy 15,000 Starlink satellites for D2C service",
-   "score": 118,
-   "num_comments": 94,
-   "created_utc": 1791403593,
-   "url": "https://www.reddit.com/r/stocks/comments/1x06ply/"
+   "title": "GOOGL Gemini 4 Argon: Is Google Winning the AI Race?",
+   "score": 311,
+   "num_comments": 162,
+   "created_utc": 1790837030,
+   "url": "https://www.reddit.com/r/stocks/comments/1wusdgk/"
   },
   {
-   "title": "The AI capex boom is increasingly a bet on AGI, not current economics",
-   "score": 85,
-   "num_comments": 245,
-   "created_utc": 1791395835,
-   "url": "https://www.reddit.com/r/stocks/comments/1x03fuu/"
+   "title": "Don\u2019t time the bubbles - S&P 500 rises to record high as oil and yields move lower",
+   "score": 286,
+   "num_comments": 268,
+   "created_utc": 1791293940,
+   "url": "https://www.reddit.com/r/stocks/comments/1wz2uqz/"
   },
   {
-   "title": "Read through the Big Tech nuclear contracts after the CEG/Google deal. Almost none of them just buy existing power",
-   "score": 41,
-   "num_comments": 7,
-   "created_utc": 1791380831,
-   "url": "https://www.reddit.com/r/stocks/comments/1wzwzll/"
-  },
-  {
-   "title": "What are your thoughts on Shopify for its future?",
-   "score": 7,
-   "num_comments": 24,
-   "created_utc": 1791385028,
-   "url": "https://www.reddit.com/r/stocks/comments/1wzyp5o/"
-  },
-  {
-   "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-   "score": 6,
-   "num_comments": 3,
-   "created_utc": 1791485276,
-   "url": "https://www.reddit.com/r/stocks/comments/1x0z6vg/"
-  },
-  {
-   "title": "Thinking about leaving Webull over data privacy concerns. Where are you all going?",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791539227,
-   "url": "https://www.reddit.com/r/stocks/comments/1x1h4u5/"
-  },
-  {
-   "title": "r/Stocks Daily Discussion & Fundamentals Friday Oct 09, 2026",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791538211,
-   "url": "https://www.reddit.com/r/stocks/comments/1x1gv8s/"
-  },
-  {
-   "title": "Is it just me or is kawasaki stock really hard to evaluate?",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791535485,
-   "url": "https://www.reddit.com/r/stocks/comments/1x1g5np/"
-  },
-  {
-   "title": "Let's talk about OpenAI.",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791532450,
-   "url": "https://www.reddit.com/r/stocks/comments/1x1fdj6/"
-  },
-  {
-   "title": "Let's talk about OpenAI.",
-   "score": 1,
-   "num_comments": 1,
-   "created_utc": 1791531979,
-   "url": "https://www.reddit.com/r/stocks/comments/1x1f93w/"
-  },
-  {
-   "title": "Today, let's discuss OpenAI's performance falling short of expectations.",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791531323,
-   "url": "https://www.reddit.com/r/stocks/comments/1x1f3cq/"
-  },
-  {
-   "title": "The Impact of OpenAI's Underperformance Relative to Expectations",
-   "score": 1,
-   "num_comments": 0,
-   "created_utc": 1791530659,
-   "url": "https://www.reddit.com/r/stocks/comments/1x1exdu/"
+   "title": "SpaceX takes aim at US wireless carriers with spectrum acquisition",
+   "score": 275,
+   "num_comments": 192,
+   "created_utc": 1791494446,
+   "url": "https://www.reddit.com/r/stocks/comments/1x136gz/"
   }
  ]
 }
