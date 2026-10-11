@@ -1,22 +1,22 @@
 {
-  "as_of_utc": "2026-10-11T05:01:55+00:00",
+  "as_of_utc": "2026-10-11T06:01:24+00:00",
   "feed": "stocktwits_symbol_stream",
   "tickers": {
     "SPY": {
       "ticker": "SPY",
-      "as_of_utc": "2026-10-11T05:01:55+00:00",
+      "as_of_utc": "2026-10-11T06:01:24+00:00",
       "n_messages": 30,
-      "n_bullish": 5,
+      "n_bullish": 8,
       "n_bearish": 6,
-      "n_tagged": 11,
-      "bull_pct": 0.455,
-      "bear_pct": 0.545,
+      "n_tagged": 14,
+      "bull_pct": 0.571,
+      "bear_pct": 0.429,
       "low_sample": false,
       "flags": []
     },
     "QQQ": {
       "ticker": "QQQ",
-      "as_of_utc": "2026-10-11T05:01:55+00:00",
+      "as_of_utc": "2026-10-11T06:01:24+00:00",
       "n_messages": 30,
       "n_bullish": 10,
       "n_bearish": 3,
@@ -28,7 +28,7 @@
     },
     "NVDA": {
       "ticker": "NVDA",
-      "as_of_utc": "2026-10-11T05:01:55+00:00",
+      "as_of_utc": "2026-10-11T06:01:24+00:00",
       "n_messages": 30,
       "n_bullish": 6,
       "n_bearish": 0,
@@ -42,11 +42,11 @@
     },
     "AAPL": {
       "ticker": "AAPL",
-      "as_of_utc": "2026-10-11T05:01:55+00:00",
+      "as_of_utc": "2026-10-11T06:01:24+00:00",
       "n_messages": 30,
-      "n_bullish": 6,
+      "n_bullish": 7,
       "n_bearish": 0,
-      "n_tagged": 6,
+      "n_tagged": 7,
       "bull_pct": 1.0,
       "bear_pct": 0.0,
       "low_sample": false,
@@ -56,7 +56,7 @@
     },
     "MSFT": {
       "ticker": "MSFT",
-      "as_of_utc": "2026-10-11T05:01:55+00:00",
+      "as_of_utc": "2026-10-11T06:01:24+00:00",
       "n_messages": 30,
       "n_bullish": 3,
       "n_bearish": 3,
@@ -69,7 +69,7 @@
   },
   "flags": [
     "NVDA: EXTREME BULLISH (100% of 6 tagged messages) - contrarian caution, do not chase.",
-    "AAPL: EXTREME BULLISH (100% of 6 tagged messages) - contrarian caution, do not chase."
+    "AAPL: EXTREME BULLISH (100% of 7 tagged messages) - contrarian caution, do not chase."
   ],
   "failures": [],
   "role": "Context layer - informs, never triggers trades alone."
