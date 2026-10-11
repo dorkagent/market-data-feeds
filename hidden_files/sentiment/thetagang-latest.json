@@ -1,8 +1,8 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-10-11T02:39:12.488209+00:00",
+ "generated_at": "2026-10-11T12:44:00.040625+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-16T21:07:12+00:00",
+ "window_start": "2026-08-17T03:00:23+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
@@ -16,14 +16,7 @@
    "mentions": 5,
    "bull": 3,
    "bear": 3,
-   "engagement": 37
-  },
-  {
-   "ticker": "PLTR",
-   "mentions": 4,
-   "bull": 3,
-   "bear": 3,
-   "engagement": 261
+   "engagement": 971
   },
   {
    "ticker": "SPY",
@@ -44,10 +37,17 @@
    "mentions": 3,
    "bull": 3,
    "bear": 2,
-   "engagement": 87
+   "engagement": 96
   },
   {
    "ticker": "INTC",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 214
+  },
+  {
+   "ticker": "PLTR",
    "mentions": 3,
    "bull": 2,
    "bear": 2,
@@ -72,7 +72,7 @@
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 31
+   "engagement": 40
   },
   {
    "ticker": "NVDA",
@@ -117,35 +117,42 @@
    "engagement": 18
   },
   {
-   "ticker": "AMZN",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
    "ticker": "AXTI",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 10
   },
   {
-   "ticker": "NVTS",
+   "ticker": "VXT",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 10
   },
   {
    "ticker": "ROBN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 10
+  },
+  {
+   "ticker": "NVTS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 10
   }
  ],
  "top_posts": [
+  {
+   "title": "Over $1,000,000 in realized gains with RDDT options YTD",
+   "score": 760,
+   "num_comments": 166,
+   "created_utc": 1791557502,
+   "url": "https://www.reddit.com/r/thetagang/comments/1x1nf2p/"
+  },
   {
    "title": "We\u2019ve all been there",
    "score": 454,
@@ -243,13 +250,6 @@
    "num_comments": 62,
    "created_utc": 1788396633,
    "url": "https://www.reddit.com/r/thetagang/comments/1w5so08/"
-  },
-  {
-   "title": "Are options income or just building wealth like buy and hold?",
-   "score": 73,
-   "num_comments": 122,
-   "created_utc": 1788620288,
-   "url": "https://www.reddit.com/r/thetagang/comments/1w82yvs/"
   }
  ]
 }

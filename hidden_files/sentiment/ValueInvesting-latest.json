@@ -1,9 +1,16 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-11T02:39:03.617777+00:00",
+ "generated_at": "2026-10-11T12:43:53.090834+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-27T18:48:07+00:00",
+ "window_start": "2026-09-28T08:42:35+00:00",
  "top_tickers": [
+  {
+   "ticker": "AMZN",
+   "mentions": 7,
+   "bull": 2,
+   "bear": 3,
+   "engagement": 400
+  },
   {
    "ticker": "NFLX",
    "mentions": 6,
@@ -12,18 +19,11 @@
    "engagement": 668
   },
   {
-   "ticker": "AMZN",
-   "mentions": 6,
-   "bull": 2,
-   "bear": 3,
-   "engagement": 399
-  },
-  {
    "ticker": "NVDA",
-   "mentions": 4,
+   "mentions": 5,
    "bull": 1,
    "bear": 2,
-   "engagement": 153
+   "engagement": 154
   },
   {
    "ticker": "MU",
@@ -33,18 +33,18 @@
    "engagement": 51
   },
   {
+   "ticker": "META",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 242
+  },
+  {
    "ticker": "MSFT",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
    "engagement": 109
-  },
-  {
-   "ticker": "META",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 241
   },
   {
    "ticker": "NKE",
@@ -100,24 +100,24 @@
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 2
+   "engagement": 3
   },
   {
    "ticker": "BBD",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 8
   },
   {
-   "ticker": "QQQ",
+   "ticker": "SPY",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 99
   },
   {
-   "ticker": "SPY",
+   "ticker": "QQQ",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -245,11 +245,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wsx5um/"
   },
   {
-   "title": "What\u2019s one stock you\u2019re watching that most people aren\u2019t talking about?",
-   "score": 92,
-   "num_comments": 265,
-   "created_utc": 1790580976,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1ws8624/"
+   "title": "Selling is harder than buying",
+   "score": 89,
+   "num_comments": 52,
+   "created_utc": 1791463881,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x0q3nq/"
   }
  ]
 }

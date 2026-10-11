@@ -1,8 +1,8 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-11T02:38:41.784310+00:00",
+ "generated_at": "2026-10-11T12:43:22.926138+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-07T02:06:29+00:00",
+ "window_start": "2026-10-07T04:31:10+00:00",
  "top_tickers": [
   {
    "ticker": "NBIS",
@@ -23,7 +23,7 @@
    "mentions": 3,
    "bull": 2,
    "bear": 0,
-   "engagement": 18
+   "engagement": 97
   },
   {
    "ticker": "NIO",
@@ -51,17 +51,17 @@
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 2
+   "engagement": 185
   },
   {
-   "ticker": "XRP",
+   "ticker": "XRPN",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "XRPN",
+   "ticker": "XRP",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
@@ -87,20 +87,6 @@
    "bull": 2,
    "bear": 0,
    "engagement": 26
-  },
-  {
-   "ticker": "TTWO",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 24
-  },
-  {
-   "ticker": "HTZ",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 36
   },
   {
    "ticker": "TLT",
@@ -131,6 +117,13 @@
    "engagement": 1
   },
   {
+   "ticker": "APP",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "RDDT",
    "mentions": 1,
    "bull": 0,
@@ -138,11 +131,18 @@
    "engagement": 1
   },
   {
-   "ticker": "APP",
+   "ticker": "WULF",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "SPY",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 186
   }
  ],
  "top_posts": [
@@ -155,8 +155,8 @@
   },
   {
    "title": "I believe Open AI will be the yahoo of the AI era.",
-   "score": 3291,
-   "num_comments": 1002,
+   "score": 3476,
+   "num_comments": 1024,
    "created_utc": 1791504946,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x173ex/"
   },
@@ -217,6 +217,20 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x137d6/"
   },
   {
+   "title": "It just feels numb. Lost most of my money trading options.",
+   "score": 1339,
+   "num_comments": 1121,
+   "created_utc": 1791584831,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1ywdo/"
+  },
+  {
+   "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
+   "score": 1307,
+   "num_comments": 444,
+   "created_utc": 1791573872,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1uh0r/"
+  },
+  {
    "title": "Trump purchased up to $5 million of SpaceX bonds days before major space order",
    "score": 1170,
    "num_comments": 128,
@@ -231,25 +245,11 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x166u4/"
   },
   {
-   "title": "Michael Dell Defends Trump Accounts\u2019 Shift to Individual Company Stocks",
-   "score": 951,
-   "num_comments": 190,
-   "created_utc": 1791412396,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x0agko/"
-  },
-  {
-   "title": "Jensen Huang live show",
-   "score": 880,
-   "num_comments": 101,
-   "created_utc": 1791349348,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1wznync/"
-  },
-  {
-   "title": "Google might win bigly from AI software-cloning. $GOOGL",
-   "score": 813,
-   "num_comments": 244,
-   "created_utc": 1791493016,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x12klg/"
+   "title": "King of the shovels",
+   "score": 958,
+   "num_comments": 92,
+   "created_utc": 1791581548,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1xn3y/"
   }
  ]
 }

@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-11T02:39:17.958728+00:00",
+ "generated_at": "2026-10-11T12:44:06.595857+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-03T12:33:59+00:00",
+ "window_start": "2026-09-03T12:50:09+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -96,14 +96,14 @@
    "engagement": 17
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 5
   },
   {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -117,14 +117,14 @@
    "engagement": 16
   },
   {
-   "ticker": "INTC",
+   "ticker": "TEM",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 17
   },
   {
-   "ticker": "TEM",
+   "ticker": "INTC",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
