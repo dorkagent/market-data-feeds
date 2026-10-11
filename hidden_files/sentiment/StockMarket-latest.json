@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-11T12:43:45.416156+00:00",
+ "generated_at": "2026-10-11T19:36:54.753063+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-29T03:03:04+00:00",
+ "window_start": "2026-08-29T09:21:11+00:00",
  "top_tickers": [
   {
    "ticker": "AMD",
@@ -47,18 +47,18 @@
    "engagement": 29
   },
   {
-   "ticker": "MSFT",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
    "ticker": "GOOGL",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 25
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "AVGO",
@@ -138,7 +138,7 @@
    "engagement": 4
   },
   {
-   "ticker": "CALM",
+   "ticker": "CCO",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -218,8 +218,8 @@
   },
   {
    "title": "Trump Posted This Picture and I Legitimately Have No Idea",
-   "score": 2102,
-   "num_comments": 776,
+   "score": 2100,
+   "num_comments": 775,
    "created_utc": 1791512330,
    "url": "https://www.reddit.com/r/StockMarket/comments/1x19jv0/"
   },

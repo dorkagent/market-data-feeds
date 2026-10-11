@@ -1,22 +1,22 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-11T12:43:53.090834+00:00",
+ "generated_at": "2026-10-11T19:37:05.168646+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-28T08:42:35+00:00",
+ "window_start": "2026-09-28T11:25:33+00:00",
  "top_tickers": [
   {
    "ticker": "AMZN",
-   "mentions": 7,
+   "mentions": 6,
    "bull": 2,
-   "bear": 3,
-   "engagement": 400
+   "bear": 2,
+   "engagement": 325
   },
   {
    "ticker": "NFLX",
    "mentions": 6,
    "bull": 1,
    "bear": 0,
-   "engagement": 668
+   "engagement": 734
   },
   {
    "ticker": "NVDA",
@@ -79,7 +79,7 @@
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 541
+   "engagement": 607
   },
   {
    "ticker": "DECK",
@@ -93,7 +93,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 16
   },
   {
    "ticker": "TOYO",
@@ -168,18 +168,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wyf5gh/"
   },
   {
+   "title": "First to turnaround, (MCD, NFLX, UBER, NIKE)",
+   "score": 271,
+   "num_comments": 335,
+   "created_utc": 1791122294,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wxgcbl/"
+  },
+  {
    "title": "Life Savings on Alphabet",
    "score": 244,
    "num_comments": 479,
    "created_utc": 1791307090,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wz8dhv/"
-  },
-  {
-   "title": "First to turnaround, (MCD, NFLX, UBER, NIKE)",
-   "score": 237,
-   "num_comments": 303,
-   "created_utc": 1791122294,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wxgcbl/"
   },
   {
    "title": "Berkshire Hathaway bought $193M of Lennar in 2 days. The stock is still 41% under its high. What am I missing?",

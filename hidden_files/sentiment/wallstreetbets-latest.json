@@ -1,16 +1,9 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-11T12:43:22.926138+00:00",
+ "generated_at": "2026-10-11T19:36:22.873647+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-07T04:31:10+00:00",
+ "window_start": "2026-10-07T11:34:52+00:00",
  "top_tickers": [
-  {
-   "ticker": "NBIS",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 27
-  },
   {
    "ticker": "NVDA",
    "mentions": 3,
@@ -33,11 +26,18 @@
    "engagement": 0
   },
   {
-   "ticker": "RKLB",
+   "ticker": "BIYA",
    "mentions": 2,
-   "bull": 1,
+   "bull": 0,
    "bear": 1,
-   "engagement": 2
+   "engagement": 7
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 187
   },
   {
    "ticker": "MU",
@@ -45,6 +45,20 @@
    "bull": 1,
    "bear": 1,
    "engagement": 22
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 26
+  },
+  {
+   "ticker": "RKLB",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 2
   },
   {
    "ticker": "ADBE",
@@ -89,6 +103,13 @@
    "engagement": 26
   },
   {
+   "ticker": "SDST",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "TLT",
    "mentions": 1,
    "bull": 0,
@@ -121,28 +142,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "RDDT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "WULF",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "SPY",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 186
+   "engagement": 135
   }
  ],
  "top_posts": [
@@ -162,8 +162,8 @@
   },
   {
    "title": "SHARES OF T MOBILE , AT&T & VERIZON ARE DOWN AROUND 7% AFTER HOURS ON THE NEWS OF SPACEX ACQUIRING LOW BAND SPECTRUM LICENSE",
-   "score": 3187,
-   "num_comments": 996,
+   "score": 3236,
+   "num_comments": 1009,
    "created_utc": 1791507686,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x180e6/"
   },
@@ -187,6 +187,13 @@
    "num_comments": 705,
    "created_utc": 1791478711,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x0wahg/"
+  },
+  {
+   "title": "Investing in Lehman Brothers",
+   "score": 2193,
+   "num_comments": 300,
+   "created_utc": 1791599935,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x241e4/"
   },
   {
    "title": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage",
@@ -243,13 +250,6 @@
    "num_comments": 144,
    "created_utc": 1791502421,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x166u4/"
-  },
-  {
-   "title": "King of the shovels",
-   "score": 958,
-   "num_comments": 92,
-   "created_utc": 1791581548,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1xn3y/"
   }
  ]
 }
