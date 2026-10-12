@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-11T21:34:41.940477+00:00",
+  "generated_utc": "2026-10-12T21:35:45.111920+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. Contrarian sentiment gauge; extreme readings are context, not signals.",
   "source": "CBOE daily market statistics (cboe.com, keyless scrape)",
   "status": "ok",
