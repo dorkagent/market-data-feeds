@@ -23,6 +23,8 @@ lead (never a trade; still needs catalyst + momentum + written thesis).
 import json
 import os
 import sys
+import time
+import urllib.error
 import urllib.request
 from collections import defaultdict
 from datetime import date, datetime, timedelta
@@ -34,10 +36,31 @@ OUT_DIR = os.path.join(GOAL_DIR, "hidden_files", "congress")
 UA = {"User-Agent": "Mozilla/5.0 (compatible; paper-trading-research)"}
 
 
-def get(path, timeout=30):
-    req = urllib.request.Request(BASE + path, headers=UA)
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return json.load(r)
+def get(path, timeout=30, retries=5):
+    """GET with exponential backoff on 429/5xx. Honors Retry-After.
+
+    Added Oct 12 2026: the weekly Actions run died on a single Bargo
+    HTTP 429 with no retry. Retries ride out transient rate limits
+    instead of failing the whole run.
+    """
+    delay = 5
+    for attempt in range(retries):
+        req = urllib.request.Request(BASE + path, headers=UA)
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            retryable = e.code == 429 or 500 <= e.code < 600
+            if not retryable or attempt == retries - 1:
+                raise
+            wait = delay
+            retry_after = e.headers.get("Retry-After")
+            if retry_after and retry_after.isdigit():
+                wait = max(wait, int(retry_after))
+            print(f"HTTP {e.code} on {path}, retry {attempt + 1}/{retries} after {wait}s",
+                  flush=True)
+            time.sleep(wait)
+            delay *= 2
 
 
 def fetch_recent(max_trades=3000, per_page=100):
