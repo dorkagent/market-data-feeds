@@ -1,8 +1,8 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-12T02:41:29.803493+00:00",
+ "generated_at": "2026-10-12T13:04:11.156772+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-30T15:03:28+00:00",
+ "window_start": "2026-09-30T18:31:40+00:00",
  "top_tickers": [
   {
    "ticker": "META",
@@ -44,7 +44,7 @@
    "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 126
+   "engagement": 374
   },
   {
    "ticker": "MRVL",
@@ -68,14 +68,14 @@
    "engagement": 3
   },
   {
-   "ticker": "AVGO",
+   "ticker": "TSLA",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "TSLA",
+   "ticker": "AVGO",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
@@ -182,6 +182,13 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x2a9dn/"
   },
   {
+   "title": "Can someone explain to me how the stock market is basically a separate entity from the economy?",
+   "score": 528,
+   "num_comments": 539,
+   "created_utc": 1791177461,
+   "url": "https://www.reddit.com/r/stocks/comments/1wy0ajt/"
+  },
+  {
    "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
    "score": 513,
    "num_comments": 191,
@@ -208,13 +215,6 @@
    "num_comments": 333,
    "created_utc": 1791405356,
    "url": "https://www.reddit.com/r/stocks/comments/1x07jr6/"
-  },
-  {
-   "title": "Can someone explain to me how the stock market is basically a separate entity from the economy?",
-   "score": 410,
-   "num_comments": 431,
-   "created_utc": 1791177461,
-   "url": "https://www.reddit.com/r/stocks/comments/1wy0ajt/"
   },
   {
    "title": "Micron tops Q4 estimates on top and bottom line, offers strong Q1 outlook",

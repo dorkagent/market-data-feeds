@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-12T02:42:30.921166+00:00",
+ "generated_at": "2026-10-12T13:04:38.458045+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-03T19:10:47+00:00",
+ "window_start": "2026-09-03T20:22:07+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -19,25 +19,18 @@
    "engagement": 18
   },
   {
-   "ticker": "META",
-   "mentions": 5,
-   "bull": 4,
-   "bear": 3,
-   "engagement": 102
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 4,
-   "bull": 3,
-   "bear": 3,
-   "engagement": 144
-  },
-  {
    "ticker": "GME",
    "mentions": 4,
    "bull": 2,
    "bear": 1,
    "engagement": 19
+  },
+  {
+   "ticker": "META",
+   "mentions": 4,
+   "bull": 3,
+   "bear": 2,
+   "engagement": 84
   },
   {
    "ticker": "QQQ",
@@ -47,18 +40,18 @@
    "engagement": 5
   },
   {
+   "ticker": "AMD",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 126
+  },
+  {
    "ticker": "NBIS",
    "mentions": 3,
    "bull": 1,
    "bear": 1,
    "engagement": 15
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 3,
-   "bull": 3,
-   "bear": 1,
-   "engagement": 39
   },
   {
    "ticker": "ORCL",
@@ -89,6 +82,13 @@
    "engagement": 96
   },
   {
+   "ticker": "TSLA",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 21
+  },
+  {
    "ticker": "ZS",
    "mentions": 2,
    "bull": 1,
@@ -96,18 +96,18 @@
    "engagement": 17
   },
   {
-   "ticker": "TICK",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 5
-  },
-  {
    "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 5
+   "engagement": 3
+  },
+  {
+   "ticker": "TICK",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 3
   },
   {
    "ticker": "BB",
@@ -117,14 +117,14 @@
    "engagement": 16
   },
   {
-   "ticker": "INTC",
+   "ticker": "TEM",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 17
   },
   {
-   "ticker": "TEM",
+   "ticker": "INTC",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -146,6 +146,13 @@
   }
  ],
  "top_posts": [
+  {
+   "title": "New paper: an AI options trader made 18.3% in 6 months, until researchers let it read the news",
+   "score": 297,
+   "num_comments": 74,
+   "created_utc": 1791707199,
+   "url": "https://www.reddit.com/r/options/comments/1x32u6l/"
+  },
   {
    "title": "Boredom",
    "score": 243,
@@ -175,18 +182,18 @@
    "url": "https://www.reddit.com/r/options/comments/1w9sps6/"
   },
   {
+   "title": "Fractional options coming in 2026?",
+   "score": 68,
+   "num_comments": 89,
+   "created_utc": 1791678277,
+   "url": "https://www.reddit.com/r/options/comments/1x2uabt/"
+  },
+  {
    "title": "PMCC is absolutely the best strat out there in risk-adjusted return",
    "score": 65,
    "num_comments": 46,
    "created_utc": 1788871163,
    "url": "https://www.reddit.com/r/options/comments/1wanaa3/"
-  },
-  {
-   "title": "Fractional options coming in 2026?",
-   "score": 63,
-   "num_comments": 87,
-   "created_utc": 1791678277,
-   "url": "https://www.reddit.com/r/options/comments/1x2uabt/"
   },
   {
    "title": "First year trading full time. Up 83% and scared about next year.",
@@ -243,13 +250,6 @@
    "num_comments": 29,
    "created_utc": 1788856686,
    "url": "https://www.reddit.com/r/options/comments/1waio7e/"
-  },
-  {
-   "title": "Trying all the option strategies",
-   "score": 49,
-   "num_comments": 29,
-   "created_utc": 1790494191,
-   "url": "https://www.reddit.com/r/options/comments/1wrdvs5/"
   }
  ]
 }

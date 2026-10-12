@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-12T02:41:15.914879+00:00",
+ "generated_at": "2026-10-12T13:04:04.866951+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-20T14:30:35+00:00",
+ "window_start": "2026-09-21T07:24:24+00:00",
  "top_tickers": [
   {
    "ticker": "AMD",
@@ -44,14 +44,14 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 10
+   "engagement": 63
   },
   {
    "ticker": "PLTR",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 17
+   "engagement": 18
   },
   {
    "ticker": "NIO",
@@ -175,6 +175,13 @@
    "url": "https://www.reddit.com/r/investing/comments/1wt6ews/"
   },
   {
+   "title": "At what point did your investments start growing faster than you could save money?",
+   "score": 283,
+   "num_comments": 257,
+   "created_utc": 1791647333,
+   "url": "https://www.reddit.com/r/investing/comments/1x2ijni/"
+  },
+  {
    "title": "Why are people freaking out about bonds now vs 2022?",
    "score": 274,
    "num_comments": 219,
@@ -208,13 +215,6 @@
    "num_comments": 104,
    "created_utc": 1790991403,
    "url": "https://www.reddit.com/r/investing/comments/1wway0s/"
-  },
-  {
-   "title": "Is this start of stagflation?",
-   "score": 173,
-   "num_comments": 72,
-   "created_utc": 1790947086,
-   "url": "https://www.reddit.com/r/investing/comments/1wvtlha/"
   }
  ]
 }

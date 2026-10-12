@@ -1,22 +1,22 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-10-12T02:42:13.061765+00:00",
+ "generated_at": "2026-10-12T13:04:33.247415+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-17T18:53:48+00:00",
+ "window_start": "2026-08-18T03:00:23+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
-   "mentions": 7,
+   "mentions": 9,
    "bull": 6,
-   "bear": 7,
-   "engagement": 78
+   "bear": 9,
+   "engagement": 80
   },
   {
    "ticker": "RDDT",
    "mentions": 5,
    "bull": 3,
    "bear": 3,
-   "engagement": 971
+   "engagement": 1071
   },
   {
    "ticker": "SPY",
@@ -37,7 +37,7 @@
    "mentions": 3,
    "bull": 3,
    "bear": 2,
-   "engagement": 96
+   "engagement": 97
   },
   {
    "ticker": "INTC",
@@ -72,7 +72,7 @@
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 40
+   "engagement": 41
   },
   {
    "ticker": "NVDA",
@@ -117,39 +117,39 @@
    "engagement": 18
   },
   {
-   "ticker": "VST",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 10
-  },
-  {
-   "ticker": "AXTI",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 10
-  },
-  {
    "ticker": "AMZN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 10
+   "engagement": 11
   },
   {
    "ticker": "NVTS",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 10
+   "engagement": 11
+  },
+  {
+   "ticker": "ROBN",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 11
+  },
+  {
+   "ticker": "VST",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 11
   }
  ],
  "top_posts": [
   {
    "title": "Over $1,000,000 in realized gains with RDDT options YTD",
-   "score": 760,
-   "num_comments": 166,
+   "score": 839,
+   "num_comments": 186,
    "created_utc": 1791557502,
    "url": "https://www.reddit.com/r/thetagang/comments/1x1nf2p/"
   },

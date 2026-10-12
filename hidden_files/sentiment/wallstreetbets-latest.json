@@ -1,15 +1,15 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-12T02:41:06.375313+00:00",
+ "generated_at": "2026-10-12T13:03:54.955315+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-07T14:56:29+00:00",
+ "window_start": "2026-10-07T18:28:47+00:00",
  "top_tickers": [
   {
    "ticker": "GME",
    "mentions": 3,
    "bull": 2,
    "bear": 0,
-   "engagement": 97
+   "engagement": 100
   },
   {
    "ticker": "NIO",
@@ -30,14 +30,7 @@
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 187
-  },
-  {
-   "ticker": "MU",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 635
+   "engagement": 213
   },
   {
    "ticker": "RKLB",
@@ -45,6 +38,13 @@
    "bull": 1,
    "bear": 1,
    "engagement": 615
+  },
+  {
+   "ticker": "MU",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 635
   },
   {
    "ticker": "NVDA",
@@ -58,17 +58,17 @@
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 185
+   "engagement": 184
   },
   {
-   "ticker": "XRPN",
+   "ticker": "XRP",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "XRP",
+   "ticker": "XRPN",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
@@ -82,11 +82,32 @@
    "engagement": 2
   },
   {
-   "ticker": "QQQ",
-   "mentions": 2,
-   "bull": 1,
+   "ticker": "IREN",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "META",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "MGM",
+   "mentions": 1,
+   "bull": 0,
    "bear": 1,
-   "engagement": 91
+   "engagement": 1
+  },
+  {
+   "ticker": "HIMS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "MSFT",
@@ -122,30 +143,16 @@
    "bull": 1,
    "bear": 1,
    "engagement": 614
-  },
-  {
-   "ticker": "TLT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "TTD",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
   }
  ],
  "top_posts": [
+  {
+   "title": "Good old days \ud83d\udc3b",
+   "score": 5883,
+   "num_comments": 298,
+   "created_utc": 1791645348,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2hro4/"
+  },
   {
    "title": "OpenAI annualised revenues $20bn less than previously signalled",
    "score": 4351,
@@ -166,6 +173,13 @@
    "num_comments": 1009,
    "created_utc": 1791507686,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x180e6/"
+  },
+  {
+   "title": "Incredible that all this has happened in just 4 years",
+   "score": 3045,
+   "num_comments": 376,
+   "created_utc": 1791664867,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2pibb/"
   },
   {
    "title": "Starbucks has explored takeover of Chipotle in restaurant megadeal",
@@ -203,18 +217,11 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x080v2/"
   },
   {
-   "title": "ADOBE is cooked.",
-   "score": 1681,
-   "num_comments": 728,
-   "created_utc": 1791396413,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x03pn2/"
-  },
-  {
-   "title": "Good old days \ud83d\udc3b",
-   "score": 1500,
-   "num_comments": 122,
-   "created_utc": 1791645348,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2hro4/"
+   "title": "It just feels numb. Lost most of my money trading options.",
+   "score": 1574,
+   "num_comments": 1218,
+   "created_utc": 1791584831,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1ywdo/"
   },
   {
    "title": "Congratulation Americans. U r about to get full coverage soon. $SPCX $TMUS $T $VZ",
@@ -224,15 +231,8 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x137d6/"
   },
   {
-   "title": "It just feels numb. Lost most of my money trading options.",
-   "score": 1339,
-   "num_comments": 1121,
-   "created_utc": 1791584831,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1ywdo/"
-  },
-  {
    "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
-   "score": 1307,
+   "score": 1302,
    "num_comments": 444,
    "created_utc": 1791573872,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1uh0r/"

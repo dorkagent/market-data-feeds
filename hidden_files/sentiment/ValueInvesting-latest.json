@@ -1,15 +1,15 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-12T02:42:06.474461+00:00",
+ "generated_at": "2026-10-12T13:04:23.771193+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-28T14:49:01+00:00",
+ "window_start": "2026-09-29T06:13:04+00:00",
  "top_tickers": [
   {
    "ticker": "AMZN",
    "mentions": 6,
    "bull": 2,
    "bear": 2,
-   "engagement": 325
+   "engagement": 778
   },
   {
    "ticker": "NFLX",
@@ -23,7 +23,7 @@
    "mentions": 5,
    "bull": 1,
    "bear": 2,
-   "engagement": 154
+   "engagement": 607
   },
   {
    "ticker": "MU",
@@ -33,11 +33,18 @@
    "engagement": 51
   },
   {
+   "ticker": "MRVL",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 58
+  },
+  {
    "ticker": "META",
    "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 242
+   "engagement": 695
   },
   {
    "ticker": "PLTR",
@@ -61,13 +68,6 @@
    "engagement": 120
   },
   {
-   "ticker": "MRVL",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 57
-  },
-  {
    "ticker": "SOFI",
    "mentions": 2,
    "bull": 2,
@@ -89,6 +89,48 @@
    "engagement": 607
   },
   {
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "ALAB",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "CRDO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "LITE",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "MAAS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "COHR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "DECK",
    "mentions": 1,
    "bull": 1,
@@ -101,48 +143,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 16
-  },
-  {
-   "ticker": "TOYO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 3
-  },
-  {
-   "ticker": "BBD",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 8
-  },
-  {
-   "ticker": "SPY",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 99
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 99
-  },
-  {
-   "ticker": "NIO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "LAKE",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 3
   }
  ],
  "top_posts": [
@@ -159,6 +159,13 @@
    "num_comments": 338,
    "created_utc": 1790845014,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wuufk2/"
+  },
+  {
+   "title": "My take on ADBE as ex SWE at Adobe",
+   "score": 318,
+   "num_comments": 187,
+   "created_utc": 1791660772,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x2nwm7/"
   },
   {
    "title": "Google a screaming buy?",
@@ -203,6 +210,13 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wu1ekd/"
   },
   {
+   "title": "Which is the best value right now: NVDA, AMZN, GOOGL or META?",
+   "score": 178,
+   "num_comments": 276,
+   "created_utc": 1791722157,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x374pm/"
+  },
+  {
    "title": "MAG 10 (MAG 7 plus Broadcom, Micron and AMD)",
    "score": 175,
    "num_comments": 227,
@@ -224,32 +238,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wvrljc/"
   },
   {
+   "title": "What\u2019s the most CRIMINALLY undervalued stock in the market right now?",
+   "score": 141,
+   "num_comments": 756,
+   "created_utc": 1791651580,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x2k8pf/"
+  },
+  {
    "title": "Spotify Is Becoming a Cash Machine: The Three-Year Case for $1,000",
    "score": 122,
    "num_comments": 71,
    "created_utc": 1791553736,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1luyj/"
-  },
-  {
-   "title": "T, VZ, TMUS all are dropping big time. Elon Musk is hyping SpaceX as they head into the share lockup ending. This is 2017 robo taxi all over",
-   "score": 114,
-   "num_comments": 59,
-   "created_utc": 1791550829,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1kqn6/"
-  },
-  {
-   "title": "Sofi Stock at 15 dollars a share: Is it worth it?",
-   "score": 94,
-   "num_comments": 105,
-   "created_utc": 1790645930,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wsx5um/"
-  },
-  {
-   "title": "Selling is harder than buying",
-   "score": 89,
-   "num_comments": 52,
-   "created_utc": 1791463881,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x0q3nq/"
   }
  ]
 }
