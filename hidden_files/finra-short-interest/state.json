@@ -1,0 +1,60 @@
+{
+  "last_settlement_date": "2026-09-30",
+  "tickers": {
+    "SPY": {
+      "status": "verified",
+      "settlement_date": "2026-09-30",
+      "issue_name": "State Street SPDR S&P 500 ETF",
+      "market_class": "ARCA",
+      "short_position": 98476070,
+      "prev_short_position": 99297854,
+      "avg_daily_volume": 48804519,
+      "days_to_cover": 2.02,
+      "change_pct": -0.83
+    },
+    "QQQ": {
+      "status": "verified",
+      "settlement_date": "2026-09-30",
+      "issue_name": "Invesco QQQ Trust, Series 1",
+      "market_class": "NNM",
+      "short_position": 70458005,
+      "prev_short_position": 65733364,
+      "avg_daily_volume": 36049629,
+      "days_to_cover": 1.95,
+      "change_pct": 7.19
+    },
+    "NVDA": {
+      "status": "verified",
+      "settlement_date": "2026-09-30",
+      "issue_name": "NVIDIA Corporation Common Stoc",
+      "market_class": "NNM",
+      "short_position": 311389688,
+      "prev_short_position": 294225803,
+      "avg_daily_volume": 110290688,
+      "days_to_cover": 2.82,
+      "change_pct": 5.83
+    },
+    "AAPL": {
+      "status": "verified",
+      "settlement_date": "2026-09-30",
+      "issue_name": "Apple Inc. Common Stock",
+      "market_class": "NNM",
+      "short_position": 120763539,
+      "prev_short_position": 128753092,
+      "avg_daily_volume": 39858260,
+      "days_to_cover": 3.03,
+      "change_pct": -6.21
+    },
+    "MSFT": {
+      "status": "verified",
+      "settlement_date": "2026-09-30",
+      "issue_name": "Microsoft Corporation Common S",
+      "market_class": "NNM",
+      "short_position": 61133927,
+      "prev_short_position": 67346414,
+      "avg_daily_volume": 23981233,
+      "days_to_cover": 2.55,
+      "change_pct": -9.22
+    }
+  }
+}
