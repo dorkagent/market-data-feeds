@@ -1,0 +1,30 @@
+{
+  "last_file": "202609a",
+  "tickers": {
+    "SPY": {
+      "settlement_date": "20260914",
+      "fails_qty": 4591440,
+      "price": "764.29"
+    },
+    "QQQ": {
+      "settlement_date": "20260914",
+      "fails_qty": 767045,
+      "price": "714.88"
+    },
+    "NVDA": {
+      "settlement_date": "20260914",
+      "fails_qty": 300,
+      "price": "218.29"
+    },
+    "AAPL": {
+      "settlement_date": "20260914",
+      "fails_qty": 15390,
+      "price": "332.27"
+    },
+    "MSFT": {
+      "settlement_date": "20260914",
+      "fails_qty": 6700,
+      "price": "495.63"
+    }
+  }
+}
