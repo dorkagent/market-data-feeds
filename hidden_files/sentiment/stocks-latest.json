@@ -1,15 +1,15 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-12T13:04:11.156772+00:00",
+ "generated_at": "2026-10-12T19:39:01.313807+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-30T18:31:40+00:00",
+ "window_start": "2026-09-30T23:58:27+00:00",
  "top_tickers": [
   {
    "ticker": "META",
    "mentions": 6,
    "bull": 0,
    "bear": 2,
-   "engagement": 37
+   "engagement": 114
   },
   {
    "ticker": "NVDA",
@@ -20,10 +20,10 @@
   },
   {
    "ticker": "MSFT",
-   "mentions": 4,
+   "mentions": 5,
    "bull": 0,
    "bear": 3,
-   "engagement": 1412
+   "engagement": 1414
   },
   {
    "ticker": "AMD",
@@ -40,13 +40,6 @@
    "engagement": 3
   },
   {
-   "ticker": "ASTS",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 374
-  },
-  {
    "ticker": "MRVL",
    "mentions": 3,
    "bull": 0,
@@ -61,25 +54,18 @@
    "engagement": 3
   },
   {
-   "ticker": "ROLR",
-   "mentions": 3,
+   "ticker": "AVGO",
+   "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 3
+   "engagement": 89
   },
   {
    "ticker": "TSLA",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
+   "engagement": 89
   },
   {
    "ticker": "SPCX",
@@ -131,18 +117,32 @@
    "engagement": 2
   },
   {
-   "ticker": "RKLB",
-   "mentions": 2,
+   "ticker": "ENVX",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 4
+   "engagement": 9
   },
   {
-   "ticker": "DND",
-   "mentions": 2,
+   "ticker": "ASTS",
+   "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 2
+   "engagement": 370
+  },
+  {
+   "ticker": "GRAL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 23
+  },
+  {
+   "ticker": "NFLX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 149
   }
  ],
  "top_posts": [
@@ -217,13 +217,6 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x07jr6/"
   },
   {
-   "title": "Micron tops Q4 estimates on top and bottom line, offers strong Q1 outlook",
-   "score": 357,
-   "num_comments": 102,
-   "created_utc": 1790799007,
-   "url": "https://www.reddit.com/r/stocks/comments/1wuff1d/"
-  },
-  {
    "title": "Webull stock drops 20% as its ties to China create national security risk as per congressional panel",
    "score": 312,
    "num_comments": 67,
@@ -250,6 +243,13 @@
    "num_comments": 192,
    "created_utc": 1791494446,
    "url": "https://www.reddit.com/r/stocks/comments/1x136gz/"
+  },
+  {
+   "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+   "score": 236,
+   "num_comments": 106,
+   "created_utc": 1791485276,
+   "url": "https://www.reddit.com/r/stocks/comments/1x0z6vg/"
   }
  ]
 }

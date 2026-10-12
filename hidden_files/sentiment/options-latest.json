@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-12T13:04:38.458045+00:00",
+ "generated_at": "2026-10-12T19:39:52.628547+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-03T20:22:07+00:00",
+ "window_start": "2026-09-04T03:21:05+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -96,14 +96,14 @@
    "engagement": 17
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 3
   },
   {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,

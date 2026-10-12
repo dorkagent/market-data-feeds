@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-12T13:04:04.866951+00:00",
+ "generated_at": "2026-10-12T19:38:52.861516+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-21T07:24:24+00:00",
+ "window_start": "2026-09-21T10:45:09+00:00",
  "top_tickers": [
   {
    "ticker": "AMD",
@@ -16,7 +16,7 @@
    "mentions": 3,
    "bull": 0,
    "bear": 1,
-   "engagement": 5
+   "engagement": 135
   },
   {
    "ticker": "NKTX",
@@ -65,7 +65,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 50
+   "engagement": 58
   },
   {
    "ticker": "GME",

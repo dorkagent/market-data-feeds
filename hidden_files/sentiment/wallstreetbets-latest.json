@@ -1,9 +1,16 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-12T13:03:54.955315+00:00",
+ "generated_at": "2026-10-12T19:38:40.693529+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-07T18:28:47+00:00",
+ "window_start": "2026-10-08T01:11:22+00:00",
  "top_tickers": [
+  {
+   "ticker": "MU",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 628
+  },
   {
    "ticker": "GME",
    "mentions": 3,
@@ -19,39 +26,32 @@
    "engagement": 0
   },
   {
-   "ticker": "BIYA",
+   "ticker": "DJT",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 7
+   "engagement": 2
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 155
   },
   {
    "ticker": "SPY",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 213
+   "engagement": 531
   },
   {
    "ticker": "RKLB",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 615
-  },
-  {
-   "ticker": "MU",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 635
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 2
+   "engagement": 607
   },
   {
    "ticker": "ADBE",
@@ -80,6 +80,34 @@
    "bull": 0,
    "bear": 0,
    "engagement": 2
+  },
+  {
+   "ticker": "STSM",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "SQQQ",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "NUS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "IREN",
@@ -115,34 +143,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "FRMI",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "RUM",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SDST",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "NBIS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 614
   }
  ],
  "top_posts": [
@@ -204,17 +204,10 @@
   },
   {
    "title": "Investing in Lehman Brothers",
-   "score": 2193,
-   "num_comments": 300,
+   "score": 2483,
+   "num_comments": 339,
    "created_utc": 1791599935,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x241e4/"
-  },
-  {
-   "title": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage",
-   "score": 1968,
-   "num_comments": 384,
-   "created_utc": 1791406433,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x080v2/"
   },
   {
    "title": "It just feels numb. Lost most of my money trading options.",
@@ -250,6 +243,13 @@
    "num_comments": 144,
    "created_utc": 1791502421,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x166u4/"
+  },
+  {
+   "title": "King of the shovels",
+   "score": 952,
+   "num_comments": 92,
+   "created_utc": 1791581548,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1xn3y/"
   }
  ]
 }

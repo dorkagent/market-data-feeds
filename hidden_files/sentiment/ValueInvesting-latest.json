@@ -1,8 +1,8 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-12T13:04:23.771193+00:00",
+ "generated_at": "2026-10-12T19:39:27.014112+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-29T06:13:04+00:00",
+ "window_start": "2026-09-29T16:44:01+00:00",
  "top_tickers": [
   {
    "ticker": "AMZN",
@@ -26,13 +26,6 @@
    "engagement": 607
   },
   {
-   "ticker": "MU",
-   "mentions": 4,
-   "bull": 3,
-   "bear": 1,
-   "engagement": 51
-  },
-  {
    "ticker": "MRVL",
    "mentions": 3,
    "bull": 1,
@@ -45,6 +38,13 @@
    "bull": 1,
    "bear": 1,
    "engagement": 695
+  },
+  {
+   "ticker": "MU",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 17
   },
   {
    "ticker": "PLTR",
@@ -89,24 +89,10 @@
    "engagement": 607
   },
   {
-   "ticker": "AVGO",
+   "ticker": "ASTS",
    "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "ALAB",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "CRDO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
+   "bull": 0,
+   "bear": 1,
    "engagement": 1
   },
   {
@@ -124,7 +110,28 @@
    "engagement": 1
   },
   {
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "CRDO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "COHR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "ALAB",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -136,13 +143,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 29
-  },
-  {
-   "ticker": "SMR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 16
   }
  ],
  "top_posts": [
@@ -161,18 +161,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wuufk2/"
   },
   {
+   "title": "Google a screaming buy?",
+   "score": 384,
+   "num_comments": 294,
+   "created_utc": 1791222479,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wyf5gh/"
+  },
+  {
    "title": "My take on ADBE as ex SWE at Adobe",
    "score": 318,
    "num_comments": 187,
    "created_utc": 1791660772,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x2nwm7/"
-  },
-  {
-   "title": "Google a screaming buy?",
-   "score": 311,
-   "num_comments": 261,
-   "created_utc": 1791222479,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wyf5gh/"
   },
   {
    "title": "First to turnaround, (MCD, NFLX, UBER, NIKE)",
