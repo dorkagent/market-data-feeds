@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-11T19:37:35.248356+00:00",
+ "generated_at": "2026-10-12T02:42:30.921166+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-03T14:04:24+00:00",
+ "window_start": "2026-09-03T19:10:47+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -13,10 +13,10 @@
   },
   {
    "ticker": "NVDA",
-   "mentions": 7,
+   "mentions": 6,
    "bull": 4,
    "bear": 1,
-   "engagement": 41
+   "engagement": 18
   },
   {
    "ticker": "META",
@@ -40,18 +40,18 @@
    "engagement": 19
   },
   {
+   "ticker": "QQQ",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 5
+  },
+  {
    "ticker": "NBIS",
    "mentions": 3,
    "bull": 1,
    "bear": 1,
    "engagement": 15
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 26
   },
   {
    "ticker": "TSLA",
@@ -96,14 +96,14 @@
    "engagement": 17
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 5
   },
   {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -182,6 +182,13 @@
    "url": "https://www.reddit.com/r/options/comments/1wanaa3/"
   },
   {
+   "title": "Fractional options coming in 2026?",
+   "score": 63,
+   "num_comments": 87,
+   "created_utc": 1791678277,
+   "url": "https://www.reddit.com/r/options/comments/1x2uabt/"
+  },
+  {
    "title": "First year trading full time. Up 83% and scared about next year.",
    "score": 63,
    "num_comments": 152,
@@ -243,13 +250,6 @@
    "num_comments": 29,
    "created_utc": 1790494191,
    "url": "https://www.reddit.com/r/options/comments/1wrdvs5/"
-  },
-  {
-   "title": "Is there anything to be learned from open interest?",
-   "score": 49,
-   "num_comments": 22,
-   "created_utc": 1789762359,
-   "url": "https://www.reddit.com/r/options/comments/1wk126l/"
   }
  ]
 }

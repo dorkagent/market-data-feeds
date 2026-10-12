@@ -1,8 +1,8 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-11T19:36:42.945948+00:00",
+ "generated_at": "2026-10-12T02:41:29.803493+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-30T08:47:15+00:00",
+ "window_start": "2026-09-30T15:03:28+00:00",
  "top_tickers": [
   {
    "ticker": "META",
@@ -51,7 +51,7 @@
    "mentions": 3,
    "bull": 0,
    "bear": 0,
-   "engagement": 20
+   "engagement": 24
   },
   {
    "ticker": "QQQ",
@@ -68,14 +68,14 @@
    "engagement": 3
   },
   {
-   "ticker": "TSLA",
+   "ticker": "AVGO",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "AVGO",
+   "ticker": "TSLA",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
@@ -148,8 +148,8 @@
  "top_posts": [
   {
    "title": "Trump purchased up to $5 million of SpaceX bonds days before major space order",
-   "score": 5196,
-   "num_comments": 423,
+   "score": 5565,
+   "num_comments": 477,
    "created_utc": 1791551198,
    "url": "https://www.reddit.com/r/stocks/comments/1x1kvo6/"
   },
@@ -175,6 +175,13 @@
    "url": "https://www.reddit.com/r/stocks/comments/1wvcxxs/"
   },
   {
+   "title": "Anthropic: ~$145B raised, $2T IPO target. What profit makes that work?",
+   "score": 545,
+   "num_comments": 546,
+   "created_utc": 1791621701,
+   "url": "https://www.reddit.com/r/stocks/comments/1x2a9dn/"
+  },
+  {
    "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
    "score": 513,
    "num_comments": 191,
@@ -182,18 +189,18 @@
    "url": "https://www.reddit.com/r/stocks/comments/1wvsroz/"
   },
   {
+   "title": "OpenAI brings in about $50B a year. It signed up to spend $300B with Oracle",
+   "score": 494,
+   "num_comments": 189,
+   "created_utc": 1791549168,
+   "url": "https://www.reddit.com/r/stocks/comments/1x1k5qi/"
+  },
+  {
    "title": "SpaceX Doubling Its Debt With $40B NVDA Chip Buy",
    "score": 462,
    "num_comments": 205,
    "created_utc": 1791372174,
    "url": "https://www.reddit.com/r/stocks/comments/1wztydi/"
-  },
-  {
-   "title": "OpenAI brings in about $50B a year. It signed up to spend $300B with Oracle",
-   "score": 441,
-   "num_comments": 178,
-   "created_utc": 1791549168,
-   "url": "https://www.reddit.com/r/stocks/comments/1x1k5qi/"
   },
   {
    "title": "Data shows that the 10-year Treasury yield is above 5.3% and crude oil prices are above $100, so why is the market sell-off so weak today?",
@@ -208,13 +215,6 @@
    "num_comments": 431,
    "created_utc": 1791177461,
    "url": "https://www.reddit.com/r/stocks/comments/1wy0ajt/"
-  },
-  {
-   "title": "Only 1 of the 10 biggest US companies earns more than the 30-year Treasury pays",
-   "score": 375,
-   "num_comments": 139,
-   "created_utc": 1790762804,
-   "url": "https://www.reddit.com/r/stocks/comments/1wu10je/"
   },
   {
    "title": "Micron tops Q4 estimates on top and bottom line, offers strong Q1 outlook",

@@ -1,8 +1,8 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-11T19:37:05.168646+00:00",
+ "generated_at": "2026-10-12T02:42:06.474461+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-28T11:25:33+00:00",
+ "window_start": "2026-09-28T14:49:01+00:00",
  "top_tickers": [
   {
    "ticker": "AMZN",
@@ -16,7 +16,7 @@
    "mentions": 6,
    "bull": 1,
    "bear": 0,
-   "engagement": 734
+   "engagement": 736
   },
   {
    "ticker": "NVDA",
@@ -38,6 +38,13 @@
    "bull": 1,
    "bear": 1,
    "engagement": 242
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 11
   },
   {
    "ticker": "MSFT",
@@ -86,7 +93,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 22
+   "engagement": 29
   },
   {
    "ticker": "SMR",
@@ -136,29 +143,22 @@
    "bull": 0,
    "bear": 1,
    "engagement": 3
-  },
-  {
-   "ticker": "RBLX",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 18
   }
  ],
  "top_posts": [
+  {
+   "title": "Warren Buffett on When To Give Up on a Business (with transcript)",
+   "score": 595,
+   "num_comments": 40,
+   "created_utc": 1791157984,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wxu6y2/"
+  },
   {
    "title": "Nike reports tonight at a 52-week low. Its CEO and Tim Cook bought at $42 in April",
    "score": 552,
    "num_comments": 338,
    "created_utc": 1790845014,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wuufk2/"
-  },
-  {
-   "title": "Warren Buffett on When To Give Up on a Business (with transcript)",
-   "score": 488,
-   "num_comments": 37,
-   "created_utc": 1791157984,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wxu6y2/"
   },
   {
    "title": "Google a screaming buy?",
@@ -211,8 +211,8 @@
   },
   {
    "title": "Adobe keeps growing and is buying back shares like CRAZY. Is AI the end for the company?",
-   "score": 152,
-   "num_comments": 276,
+   "score": 161,
+   "num_comments": 322,
    "created_utc": 1791549879,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1kehw/"
   },
@@ -224,16 +224,16 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wvrljc/"
   },
   {
-   "title": "LVMH under \u20ac400: Wonderful company at a fair price",
-   "score": 149,
-   "num_comments": 79,
-   "created_utc": 1790599851,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wsdqpv/"
+   "title": "Spotify Is Becoming a Cash Machine: The Three-Year Case for $1,000",
+   "score": 122,
+   "num_comments": 71,
+   "created_utc": 1791553736,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1luyj/"
   },
   {
    "title": "T, VZ, TMUS all are dropping big time. Elon Musk is hyping SpaceX as they head into the share lockup ending. This is 2017 robo taxi all over",
    "score": 114,
-   "num_comments": 58,
+   "num_comments": 59,
    "created_utc": 1791550829,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1kqn6/"
   },

@@ -1,16 +1,9 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-11T19:36:22.873647+00:00",
+ "generated_at": "2026-10-12T02:41:06.375313+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-07T11:34:52+00:00",
+ "window_start": "2026-10-07T14:56:29+00:00",
  "top_tickers": [
-  {
-   "ticker": "NVDA",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 27
-  },
   {
    "ticker": "GME",
    "mentions": 3,
@@ -44,20 +37,20 @@
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 22
-  },
-  {
-   "ticker": "NBIS",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 26
+   "engagement": 635
   },
   {
    "ticker": "RKLB",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
+   "engagement": 615
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
    "engagement": 2
   },
   {
@@ -96,11 +89,25 @@
    "engagement": 91
   },
   {
-   "ticker": "INTC",
-   "mentions": 2,
-   "bull": 2,
+   "ticker": "MSFT",
+   "mentions": 1,
+   "bull": 1,
    "bear": 0,
-   "engagement": 26
+   "engagement": 1
+  },
+  {
+   "ticker": "FRMI",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "RUM",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "SDST",
@@ -108,6 +115,13 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 614
   },
   {
    "ticker": "TLT",
@@ -129,20 +143,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "MAT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "APP",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 135
   }
  ],
  "top_posts": [
@@ -176,8 +176,8 @@
   },
   {
    "title": "[ Removed by moderator ]",
-   "score": 2663,
-   "num_comments": 470,
+   "score": 2667,
+   "num_comments": 469,
    "created_utc": 1791635463,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2e5u4/"
   },
