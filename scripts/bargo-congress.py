@@ -63,23 +63,28 @@ def get(path, timeout=30, retries=5):
             delay *= 2
 
 
-def fetch_recent(max_trades=3000, per_page=100):
-    """Page through /v1/trades (most-recent-first) up to max_trades."""
+def fetch_recent(cutoff_iso, max_trades=3000, per_page=100):
+    """Page through /v1/trades (most-recent-first), stopping once pages
+    pass the cutoff date. Narrows server-side with from= and stops early
+    so a weekly run stays far under the 30 req/day keyless quota."""
     trades, page = [], 1
     while len(trades) < max_trades:
-        d = get(f"/v1/trades?limit={per_page}&page={page}")
+        d = get(f"/v1/trades?limit={per_page}&page={page}&from={cutoff_iso}")
         batch = d.get("trades", [])
         if not batch:
             break
         trades.extend(batch)
+        if batch[-1].get("disclosure_date", "") < cutoff_iso:
+            break
         page += 1
-    return trades[:max_trades]
+    return [t for t in trades
+            if t.get("disclosure_date", "") >= cutoff_iso][:max_trades]
 
 
 def main():
     os.makedirs(OUT_DIR, exist_ok=True)
     cutoff = date.today() - timedelta(days=45)
-    trades = fetch_recent()
+    trades = fetch_recent(cutoff.isoformat())
     recent = [t for t in trades
               if t.get("disclosure_date", "") >= cutoff.isoformat()]
 
