@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-11T01:37:30.087901+00:00",
+  "generated_utc": "2026-10-12T01:41:07.611559+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. Insider cluster buys corroborate the Form 4 feed; a cluster is context, never a trade signal.",
   "source": "OpenInsider latest-cluster-buys (keyless HTML scrape)",
   "status": "ok",
