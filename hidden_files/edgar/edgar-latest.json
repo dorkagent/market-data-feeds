@@ -1,0 +1,143 @@
+{
+  "tickers": [
+    "NVDA",
+    "SPY",
+    "QQQ",
+    "MSFT",
+    "AAPL",
+    "RMD",
+    "OKTA",
+    "SNPS",
+    "ACN",
+    "AMAT",
+    "CRWD",
+    "PANW",
+    "BTCUSD"
+  ],
+  "window": {
+    "startdt": "2026-10-05",
+    "enddt": "2026-10-12"
+  },
+  "days": 7,
+  "companies": [
+    {
+      "ticker": "NVDA",
+      "cik": "0001045810",
+      "title": "NVIDIA CORP",
+      "filings_8k": [],
+      "filings_8k_count": 0,
+      "notable": []
+    },
+    {
+      "ticker": "SPY",
+      "cik": "0000884394",
+      "title": "SPDR S&P 500 ETF TRUST",
+      "filings_8k": [],
+      "filings_8k_count": 0,
+      "notable": []
+    },
+    {
+      "ticker": "QQQ",
+      "status": "error",
+      "error": "ticker QQQ not found in SEC company_tickers.json"
+    },
+    {
+      "ticker": "MSFT",
+      "cik": "0000789019",
+      "title": "MICROSOFT CORP",
+      "filings_8k": [],
+      "filings_8k_count": 0,
+      "notable": []
+    },
+    {
+      "ticker": "AAPL",
+      "cik": "0000320193",
+      "title": "Apple Inc.",
+      "filings_8k": [],
+      "filings_8k_count": 0,
+      "notable": []
+    },
+    {
+      "ticker": "RMD",
+      "cik": "0000943819",
+      "title": "RESMED INC",
+      "filings_8k": [],
+      "filings_8k_count": 0,
+      "notable": []
+    },
+    {
+      "ticker": "OKTA",
+      "cik": "0001660134",
+      "title": "Okta, Inc.",
+      "filings_8k": [],
+      "filings_8k_count": 0,
+      "notable": []
+    },
+    {
+      "ticker": "SNPS",
+      "cik": "0000883241",
+      "title": "SYNOPSYS INC",
+      "filings_8k": [
+        {
+          "company": "SYNOPSYS INC  (SNPS)  (CIK 0000883241)",
+          "form": "8-K",
+          "file_date": "2026-10-05",
+          "items": [
+            "8.01",
+            "9.01"
+          ],
+          "event_tags": [
+            "other"
+          ],
+          "ciks": [
+            "0000883241"
+          ],
+          "ticker": "SNPS"
+        }
+      ],
+      "filings_8k_count": 1,
+      "notable": []
+    },
+    {
+      "ticker": "ACN",
+      "cik": "0001467373",
+      "title": "Accenture plc",
+      "filings_8k": [],
+      "filings_8k_count": 0,
+      "notable": []
+    },
+    {
+      "ticker": "AMAT",
+      "cik": "0000006951",
+      "title": "APPLIED MATERIALS INC /DE",
+      "filings_8k": [],
+      "filings_8k_count": 0,
+      "notable": []
+    },
+    {
+      "ticker": "CRWD",
+      "cik": "0001535527",
+      "title": "CrowdStrike Holdings, Inc.",
+      "filings_8k": [],
+      "filings_8k_count": 0,
+      "notable": []
+    },
+    {
+      "ticker": "PANW",
+      "cik": "0001327567",
+      "title": "Palo Alto Networks Inc",
+      "filings_8k": [],
+      "filings_8k_count": 0,
+      "notable": []
+    },
+    {
+      "ticker": "BTCUSD",
+      "status": "error",
+      "error": "ticker BTCUSD not found in SEC company_tickers.json"
+    }
+  ],
+  "flagged": [],
+  "source": "SEC EDGAR full-text search (efts.sec.gov, keyless)",
+  "generated_utc": "2026-10-12T16:37:22.760115+00:00",
+  "note": "Data feed only \u2014 context layer, never a trade trigger. 8-K/Form-4 event trigger informs the Monday rotation and the premarket brief; it never fires a trade alone."
+}
