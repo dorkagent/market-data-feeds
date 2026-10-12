@@ -1,0 +1,146 @@
+{
+  "generated_utc": "2026-10-12T15:52:23.298702+00:00",
+  "note": "Context layer \u2014 informs, never triggers trades alone. Weekly 8-K/10-K/10-Q keyword radar; a hit is a flag for the news pass, not a trade signal.",
+  "source": "SEC EDGAR full-text search (efts.sec.gov, keyless)",
+  "status": "ok",
+  "window": {
+    "startdt": "2026-10-05",
+    "enddt": "2026-10-12",
+    "forms": "8-K,10-K,10-Q"
+  },
+  "keywords": {
+    "guidance cut": {
+      "total_hits": 0,
+      "watchlist_hits": [],
+      "other_sample": []
+    },
+    "CEO resign": {
+      "total_hits": 0,
+      "watchlist_hits": [],
+      "other_sample": []
+    },
+    "going concern": {
+      "total_hits": 108,
+      "watchlist_hits": [],
+      "other_sample": [
+        {
+          "ticker": null,
+          "company": "Elite Performance Holding Corp  (CIK 0001753681)",
+          "form": "10-Q",
+          "file_date": "2026-10-08",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "STARGUIDE GROUP, INC.  (STRG)  (CIK 0001803096)",
+          "form": "10-Q",
+          "file_date": "2026-10-07",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "MobbQuest Inc.  (CIK 0002109817)",
+          "form": "10-Q",
+          "file_date": "2026-10-08",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "Processa Pharmaceuticals, Inc.  (PCSA)  (CIK 0001533743)",
+          "form": "8-K/A",
+          "file_date": "2026-10-05",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "Protopia Global Holdings Inc.  (CIK 0001959585)",
+          "form": "10-K",
+          "file_date": "2026-10-07",
+          "watchlist": false
+        }
+      ]
+    },
+    "restatement": {
+      "total_hits": 112,
+      "watchlist_hits": [],
+      "other_sample": [
+        {
+          "ticker": null,
+          "company": "Oil-Dri Corp of America  (ODC)  (CIK 0000074046)",
+          "form": "10-K",
+          "file_date": "2026-10-08",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "Transglobal Management Group, Inc.  (TMGI)  (CIK 0001434601)",
+          "form": "8-K",
+          "file_date": "2026-10-07",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "VivoSim Labs, INC.  (VIVS)  (CIK 0001497253)",
+          "form": "8-K",
+          "file_date": "2026-10-06",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "Sports Entertainment Gaming Global Corp  (SEGG, LTRYW)  (CIK 0001673481)",
+          "form": "10-Q",
+          "file_date": "2026-10-08",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "McGraw Hill, Inc.  (MH)  (CIK 0001951070)",
+          "form": "8-K",
+          "file_date": "2026-10-09",
+          "watchlist": false
+        }
+      ]
+    },
+    "Chapter 11": {
+      "total_hits": 12,
+      "watchlist_hits": [],
+      "other_sample": [
+        {
+          "ticker": null,
+          "company": "Leslie's, Inc.  (LESL)  (CIK 0001821806)",
+          "form": "8-K",
+          "file_date": "2026-10-05",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "Leslie's, Inc.  (LESL)  (CIK 0001821806)",
+          "form": "8-K",
+          "file_date": "2026-10-05",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "Leslie's, Inc.  (LESL)  (CIK 0001821806)",
+          "form": "8-K",
+          "file_date": "2026-10-05",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "Copper Property CTL Pass Through Trust  (CPPTL)  (CIK 0001837671)",
+          "form": "8-K",
+          "file_date": "2026-10-07",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "PILLARSTONE CAPITAL REIT  (CIK 0000928953)",
+          "form": "10-Q",
+          "file_date": "2026-10-07",
+          "watchlist": false
+        }
+      ]
+    }
+  }
+}
