@@ -31,8 +31,14 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 
 BASE = "https://www.bargo.ai/free-apis/congress"
-GOAL_DIR = os.path.expanduser("~/workspace/goals/alpaca-paper-trading-simulator")
-OUT_DIR = os.path.join(GOAL_DIR, "hidden_files", "congress")
+# Repo-relative output dir: the Actions runner checks the repo out at
+# /home/runner/work/market-data-feeds/market-data-feeds, NOT ~/workspace,
+# so a hardcoded ~/workspace path writes outside the checkout and the
+# workflow's `git add hidden_files/congress/` finds nothing (fatal).
+# Resolving from the script's own location works on the runner and in a
+# local clone alike.
+REPO_ROOT = Path(__file__).resolve().parent.parent
+OUT_DIR = str(REPO_ROOT / "hidden_files" / "congress")
 UA = {"User-Agent": "Mozilla/5.0 (compatible; paper-trading-research)"}
 
 
