@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-13T02:41:41.027249+00:00",
+ "generated_at": "2026-10-13T12:50:49.832757+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-21T16:29:08+00:00",
+ "window_start": "2026-09-21T18:39:24+00:00",
  "top_tickers": [
   {
    "ticker": "AMD",
@@ -16,7 +16,7 @@
    "mentions": 3,
    "bull": 0,
    "bear": 1,
-   "engagement": 135
+   "engagement": 136
   },
   {
    "ticker": "NKTX",
@@ -182,18 +182,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1wrwjct/"
   },
   {
+   "title": "HYSA/MM Rates Haven't Increased with the Fed Hike",
+   "score": 246,
+   "num_comments": 156,
+   "created_utc": 1791230470,
+   "url": "https://www.reddit.com/r/investing/comments/1wyinsu/"
+  },
+  {
    "title": "How do you decide when to cash out your position?",
    "score": 240,
    "num_comments": 280,
    "created_utc": 1790203980,
    "url": "https://www.reddit.com/r/investing/comments/1wokut8/"
-  },
-  {
-   "title": "HYSA/MM Rates Haven't Increased with the Fed Hike",
-   "score": 226,
-   "num_comments": 152,
-   "created_utc": 1791230470,
-   "url": "https://www.reddit.com/r/investing/comments/1wyinsu/"
   },
   {
    "title": "I know I'm behind for my age.",

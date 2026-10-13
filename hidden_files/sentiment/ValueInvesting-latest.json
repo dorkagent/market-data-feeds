@@ -1,8 +1,8 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-13T02:42:09.447978+00:00",
+ "generated_at": "2026-10-13T12:51:33.372008+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-30T01:21:26+00:00",
+ "window_start": "2026-09-30T10:33:44+00:00",
  "top_tickers": [
   {
    "ticker": "NFLX",
@@ -12,18 +12,18 @@
    "engagement": 736
   },
   {
+   "ticker": "NVDA",
+   "mentions": 5,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 641
+  },
+  {
    "ticker": "AMZN",
    "mentions": 5,
    "bull": 2,
    "bear": 2,
    "engagement": 811
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 640
   },
   {
    "ticker": "SOFI",
@@ -96,20 +96,6 @@
    "engagement": 1
   },
   {
-   "ticker": "COHR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "ALAB",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "MAAS",
    "mentions": 1,
    "bull": 1,
@@ -118,6 +104,20 @@
   },
   {
    "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "COHR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "ALAB",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -203,13 +203,6 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wulzaa/"
   },
   {
-   "title": "Intuit is down 61% in a year while earnings rose 20%. What's going on?",
-   "score": 202,
-   "num_comments": 177,
-   "created_utc": 1790764185,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wu1ekd/"
-  },
-  {
    "title": "Which is the best value right now: NVDA, AMZN, GOOGL or META?",
    "score": 195,
    "num_comments": 302,
@@ -250,6 +243,13 @@
    "num_comments": 71,
    "created_utc": 1791553736,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1luyj/"
+  },
+  {
+   "title": "T, VZ, TMUS all are dropping big time. Elon Musk is hyping SpaceX as they head into the share lockup ending. This is 2017 robo taxi all over",
+   "score": 114,
+   "num_comments": 59,
+   "created_utc": 1791550829,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1kqn6/"
   }
  ]
 }

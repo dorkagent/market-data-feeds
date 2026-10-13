@@ -1,35 +1,35 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-13T02:41:49.911289+00:00",
+ "generated_at": "2026-10-13T12:51:04.797003+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-01T09:41:11+00:00",
+ "window_start": "2026-10-01T16:18:18+00:00",
  "top_tickers": [
   {
    "ticker": "META",
    "mentions": 6,
    "bull": 0,
    "bear": 2,
-   "engagement": 114
+   "engagement": 122
   },
   {
    "ticker": "NVDA",
-   "mentions": 6,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 2107
-  },
-  {
-   "ticker": "MSFT",
    "mentions": 5,
    "bull": 0,
-   "bear": 3,
-   "engagement": 1414
+   "bear": 0,
+   "engagement": 697
   },
   {
    "ticker": "PLTR",
    "mentions": 4,
    "bull": 0,
    "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 4,
+   "bull": 0,
+   "bear": 2,
    "engagement": 4
   },
   {
@@ -58,14 +58,14 @@
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 89
+   "engagement": 111
   },
   {
    "ticker": "AVGO",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 89
+   "engagement": 111
   },
   {
    "ticker": "SPCX",
@@ -161,13 +161,6 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x0x3qh/"
   },
   {
-   "title": "Just sold last NVDA, GOOGL and MSFT",
-   "score": 844,
-   "num_comments": 566,
-   "created_utc": 1790857047,
-   "url": "https://www.reddit.com/r/stocks/comments/1wuxwtu/"
-  },
-  {
    "title": "South Korea Announces $120 Billion Plan For Eight Large-Scale Nuclear Power Plants In US",
    "score": 593,
    "num_comments": 129,
@@ -250,6 +243,13 @@
    "num_comments": 47,
    "created_utc": 1791414714,
    "url": "https://www.reddit.com/r/stocks/comments/1x0bcf0/"
+  },
+  {
+   "title": "Wall Street has normalized a tax on being slower than its fastest computers",
+   "score": 216,
+   "num_comments": 218,
+   "created_utc": 1791346603,
+   "url": "https://www.reddit.com/r/stocks/comments/1wzn6i0/"
   }
  ]
 }

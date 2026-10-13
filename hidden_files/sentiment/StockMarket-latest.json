@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-13T02:41:59.575988+00:00",
+ "generated_at": "2026-10-13T12:51:18.292474+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-30T11:47:11+00:00",
+ "window_start": "2026-08-31T02:12:48+00:00",
  "top_tickers": [
   {
    "ticker": "AMD",
@@ -19,11 +19,11 @@
    "engagement": 475
   },
   {
-   "ticker": "SPY",
+   "ticker": "AVGO",
    "mentions": 4,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 1808
+   "bull": 0,
+   "bear": 0,
+   "engagement": 15
   },
   {
    "ticker": "NVDA",
@@ -31,6 +31,13 @@
    "bull": 1,
    "bear": 1,
    "engagement": 1084
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 1808
   },
   {
    "ticker": "RDDT",
@@ -59,13 +66,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 25
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 13
   },
   {
    "ticker": "AAPL",
@@ -138,7 +138,7 @@
    "engagement": 4
   },
   {
-   "ticker": "DOL",
+   "ticker": "CCO",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
