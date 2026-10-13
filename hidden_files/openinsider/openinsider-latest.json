@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-12T01:41:07.611559+00:00",
+  "generated_utc": "2026-10-13T01:41:52.447788+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. Insider cluster buys corroborate the Form 4 feed; a cluster is context, never a trade signal.",
   "source": "OpenInsider latest-cluster-buys (keyless HTML scrape)",
   "status": "ok",
@@ -453,17 +453,6 @@
       "trade_type": "P - Purchase",
       "price": "$3.65",
       "value": "+$314,795",
-      "watchlist": false
-    },
-    {
-      "ticker": "GLOO",
-      "company": "Gloo Holdings, Inc.",
-      "insiders": 2,
-      "trade_date": "2026-07-09",
-      "filing_date": "2026-09-14 20:19:59",
-      "trade_type": "P - Purchase",
-      "price": "$3.26",
-      "value": "+$3,253,105",
       "watchlist": false
     },
     {
@@ -1072,17 +1061,6 @@
       "watchlist": false
     },
     {
-      "ticker": "CMC",
-      "company": "Commercial Metals Co",
-      "insiders": 2,
-      "trade_date": "2026-07-10",
-      "filing_date": "2026-08-14 08:29:45",
-      "trade_type": "P - Purchase",
-      "price": "$62.83",
-      "value": "+$604,468",
-      "watchlist": false
-    },
-    {
       "ticker": "CC",
       "company": "Chemours Co",
       "insiders": 6,
@@ -1102,6 +1080,28 @@
       "trade_type": "P - Purchase",
       "price": "$26.28",
       "value": "+$367,880",
+      "watchlist": false
+    },
+    {
+      "ticker": "HOG",
+      "company": "Harley-Davidson, Inc.",
+      "insiders": 3,
+      "trade_date": "2026-08-11",
+      "filing_date": "2026-08-13 16:37:37",
+      "trade_type": "P - Purchase",
+      "price": "$25.03",
+      "value": "+$1,439,491",
+      "watchlist": false
+    },
+    {
+      "ticker": "EMBC",
+      "company": "Embecta Corp.",
+      "insiders": 4,
+      "trade_date": "2026-08-12",
+      "filing_date": "2026-08-13 10:50:55",
+      "trade_type": "P - Purchase",
+      "price": "$4.85",
+      "value": "+$557,945",
       "watchlist": false
     }
   ]
