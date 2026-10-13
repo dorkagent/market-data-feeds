@@ -1,16 +1,9 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-12T19:38:40.693529+00:00",
+ "generated_at": "2026-10-13T02:41:35.134292+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-08T01:11:22+00:00",
+ "window_start": "2026-10-08T09:00:32+00:00",
  "top_tickers": [
-  {
-   "ticker": "MU",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 628
-  },
   {
    "ticker": "GME",
    "mentions": 3,
@@ -24,6 +17,13 @@
    "bull": 1,
    "bear": 0,
    "engagement": 0
+  },
+  {
+   "ticker": "MU",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 607
   },
   {
    "ticker": "DJT",

@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-12T19:39:52.628547+00:00",
+ "generated_at": "2026-10-13T02:42:21.510894+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-04T03:21:05+00:00",
+ "window_start": "2026-09-04T06:25:19+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -89,21 +89,14 @@
    "engagement": 21
   },
   {
-   "ticker": "ZS",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 17
-  },
-  {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 3
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -143,13 +136,20 @@
    "bull": 1,
    "bear": 1,
    "engagement": 36
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   }
  ],
  "top_posts": [
   {
    "title": "New paper: an AI options trader made 18.3% in 6 months, until researchers let it read the news",
-   "score": 297,
-   "num_comments": 74,
+   "score": 329,
+   "num_comments": 78,
    "created_utc": 1791707199,
    "url": "https://www.reddit.com/r/options/comments/1x32u6l/"
   },

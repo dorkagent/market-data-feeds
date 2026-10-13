@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-12T19:38:52.861516+00:00",
+ "generated_at": "2026-10-13T02:41:41.027249+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-21T10:45:09+00:00",
+ "window_start": "2026-09-21T16:29:08+00:00",
  "top_tickers": [
   {
    "ticker": "AMD",
@@ -119,13 +119,6 @@
    "url": "https://www.reddit.com/r/investing/comments/1wyuvd5/"
   },
   {
-   "title": "Does anyone else feel that we\u2019re heading towards a financial crisis?",
-   "score": 1510,
-   "num_comments": 1056,
-   "created_utc": 1789998736,
-   "url": "https://www.reddit.com/r/investing/comments/1wmdfam/"
-  },
-  {
    "title": "Disney is hurting themselves by raising Disney+ prices",
    "score": 1428,
    "num_comments": 285,
@@ -215,6 +208,13 @@
    "num_comments": 104,
    "created_utc": 1790991403,
    "url": "https://www.reddit.com/r/investing/comments/1wway0s/"
+  },
+  {
+   "title": "Is this start of stagflation?",
+   "score": 173,
+   "num_comments": 72,
+   "created_utc": 1790947086,
+   "url": "https://www.reddit.com/r/investing/comments/1wvtlha/"
   }
  ]
 }

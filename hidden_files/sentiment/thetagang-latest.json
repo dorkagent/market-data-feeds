@@ -1,8 +1,8 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-10-12T19:39:43.949389+00:00",
+ "generated_at": "2026-10-13T02:42:15.283885+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-18T15:17:43+00:00",
+ "window_start": "2026-08-18T17:42:27+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
@@ -24,13 +24,6 @@
    "bull": 4,
    "bear": 3,
    "engagement": 154
-  },
-  {
-   "ticker": "MU",
-   "mentions": 4,
-   "bull": 2,
-   "bear": 3,
-   "engagement": 413
   },
   {
    "ticker": "NBIS",
@@ -68,6 +61,13 @@
    "engagement": 106
   },
   {
+   "ticker": "MU",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 394
+  },
+  {
    "ticker": "IREN",
    "mentions": 2,
    "bull": 2,
@@ -89,20 +89,6 @@
    "engagement": 3
   },
   {
-   "ticker": "AMDL",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 31
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 173
-  },
-  {
    "ticker": "SMCI",
    "mentions": 2,
    "bull": 1,
@@ -115,6 +101,13 @@
    "bull": 1,
    "bear": 2,
    "engagement": 18
+  },
+  {
+   "ticker": "AXTI",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 11
   },
   {
    "ticker": "NVTS",
@@ -131,7 +124,14 @@
    "engagement": 11
   },
   {
-   "ticker": "SNXX",
+   "ticker": "VST",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 11
+  },
+  {
+   "ticker": "ROBN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,

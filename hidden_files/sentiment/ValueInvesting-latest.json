@@ -1,16 +1,9 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-12T19:39:27.014112+00:00",
+ "generated_at": "2026-10-13T02:42:09.447978+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-29T16:44:01+00:00",
+ "window_start": "2026-09-30T01:21:26+00:00",
  "top_tickers": [
-  {
-   "ticker": "AMZN",
-   "mentions": 6,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 778
-  },
   {
    "ticker": "NFLX",
    "mentions": 6,
@@ -19,11 +12,25 @@
    "engagement": 736
   },
   {
-   "ticker": "NVDA",
+   "ticker": "AMZN",
    "mentions": 5,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 811
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 4,
    "bull": 1,
    "bear": 2,
-   "engagement": 607
+   "engagement": 640
+  },
+  {
+   "ticker": "SOFI",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 103
   },
   {
    "ticker": "MRVL",
@@ -37,7 +44,7 @@
    "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 695
+   "engagement": 738
   },
   {
    "ticker": "MU",
@@ -47,32 +54,11 @@
    "engagement": 17
   },
   {
-   "ticker": "PLTR",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 11
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 109
-  },
-  {
    "ticker": "NKE",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
    "engagement": 120
-  },
-  {
-   "ticker": "SOFI",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 102
   },
   {
    "ticker": "AMD",
@@ -103,20 +89,6 @@
    "engagement": 1
   },
   {
-   "ticker": "MAAS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "CRDO",
    "mentions": 1,
    "bull": 1,
@@ -138,11 +110,39 @@
    "engagement": 1
   },
   {
+   "ticker": "MAAS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "DECK",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 29
+  },
+  {
+   "ticker": "SMR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 16
   }
  ],
  "top_posts": [
@@ -211,8 +211,8 @@
   },
   {
    "title": "Which is the best value right now: NVDA, AMZN, GOOGL or META?",
-   "score": 178,
-   "num_comments": 276,
+   "score": 195,
+   "num_comments": 302,
    "created_utc": 1791722157,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x374pm/"
   },

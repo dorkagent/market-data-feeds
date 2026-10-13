@@ -1,8 +1,8 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-12T19:39:01.313807+00:00",
+ "generated_at": "2026-10-13T02:41:49.911289+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-30T23:58:27+00:00",
+ "window_start": "2026-10-01T09:41:11+00:00",
  "top_tickers": [
   {
    "ticker": "META",
@@ -26,18 +26,18 @@
    "engagement": 1414
   },
   {
+   "ticker": "PLTR",
+   "mentions": 4,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
    "ticker": "AMD",
    "mentions": 4,
    "bull": 1,
    "bear": 0,
    "engagement": 5
-  },
-  {
-   "ticker": "PLTR",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 3
   },
   {
    "ticker": "MRVL",
@@ -54,14 +54,14 @@
    "engagement": 3
   },
   {
-   "ticker": "AVGO",
+   "ticker": "TSLA",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 89
   },
   {
-   "ticker": "TSLA",
+   "ticker": "AVGO",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
@@ -110,13 +110,6 @@
    "engagement": 89
   },
   {
-   "ticker": "MU",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
    "ticker": "ENVX",
    "mentions": 1,
    "bull": 0,
@@ -143,6 +136,13 @@
    "bull": 1,
    "bear": 0,
    "engagement": 149
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   }
  ],
  "top_posts": [
@@ -224,13 +224,6 @@
    "url": "https://www.reddit.com/r/stocks/comments/1wzzd41/"
   },
   {
-   "title": "GOOGL Gemini 4 Argon: Is Google Winning the AI Race?",
-   "score": 311,
-   "num_comments": 162,
-   "created_utc": 1790837030,
-   "url": "https://www.reddit.com/r/stocks/comments/1wusdgk/"
-  },
-  {
    "title": "Don\u2019t time the bubbles - S&P 500 rises to record high as oil and yields move lower",
    "score": 286,
    "num_comments": 268,
@@ -250,6 +243,13 @@
    "num_comments": 106,
    "created_utc": 1791485276,
    "url": "https://www.reddit.com/r/stocks/comments/1x0z6vg/"
+  },
+  {
+   "title": "Samsung forecasts record third-quarter profit of $80 billion for the first time in history - Operating profit jumped 782%",
+   "score": 232,
+   "num_comments": 47,
+   "created_utc": 1791414714,
+   "url": "https://www.reddit.com/r/stocks/comments/1x0bcf0/"
   }
  ]
 }
