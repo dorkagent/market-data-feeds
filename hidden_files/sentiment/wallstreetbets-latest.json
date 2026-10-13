@@ -1,15 +1,22 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-13T12:50:39.814753+00:00",
+ "generated_at": "2026-10-13T19:53:40.592699+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-08T16:45:50+00:00",
+ "window_start": "2026-10-08T21:21:49+00:00",
  "top_tickers": [
   {
    "ticker": "GME",
    "mentions": 4,
    "bull": 3,
    "bear": 1,
-   "engagement": 101
+   "engagement": 88
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "MU",
@@ -54,13 +61,6 @@
    "engagement": 184
   },
   {
-   "ticker": "XRPN",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "XRP",
    "mentions": 2,
    "bull": 0,
@@ -68,11 +68,39 @@
    "engagement": 1
   },
   {
-   "ticker": "NASA",
+   "ticker": "XRPN",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
+   "engagement": 1
+  },
+  {
+   "ticker": "BROS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "TEAD",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "LAC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SPOT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
   },
   {
    "ticker": "TSLA",
@@ -115,50 +143,22 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "META",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "MGM",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "HIMS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
   }
  ],
  "top_posts": [
+  {
+   "title": "Open the casino !!!",
+   "score": 15158,
+   "num_comments": 103,
+   "created_utc": 1791784060,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x3tu14/"
+  },
   {
    "title": "Good old days \ud83d\udc3b",
    "score": 5883,
    "num_comments": 298,
    "created_utc": 1791645348,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2hro4/"
-  },
-  {
-   "title": "OpenAI annualised revenues $20bn less than previously signalled",
-   "score": 4351,
-   "num_comments": 771,
-   "created_utc": 1791478677,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x0w9zh/"
   },
   {
    "title": "I believe Open AI will be the yahoo of the AI era.",
@@ -187,13 +187,6 @@
    "num_comments": 469,
    "created_utc": 1791635463,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2e5u4/"
-  },
-  {
-   "title": "U.S. suspends Microsoft, Adobe and six IT outsourcing giants from green-card labor certification program",
-   "score": 2502,
-   "num_comments": 705,
-   "created_utc": 1791478711,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x0wahg/"
   },
   {
    "title": "Investing in Lehman Brothers",
@@ -250,6 +243,13 @@
    "num_comments": 41,
    "created_utc": 1791591232,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2171n/"
+  },
+  {
+   "title": "Another $600k USD gain on $MRNA (total +1.18M USD gain)",
+   "score": 823,
+   "num_comments": 120,
+   "created_utc": 1791568479,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1s51e/"
   }
  ]
 }

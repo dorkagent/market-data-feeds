@@ -1,15 +1,15 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-13T12:51:04.797003+00:00",
+ "generated_at": "2026-10-13T19:54:01.309859+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-01T16:18:18+00:00",
+ "window_start": "2026-10-01T21:33:14+00:00",
  "top_tickers": [
   {
    "ticker": "META",
-   "mentions": 6,
+   "mentions": 5,
    "bull": 0,
-   "bear": 2,
-   "engagement": 122
+   "bear": 1,
+   "engagement": 119
   },
   {
    "ticker": "NVDA",
@@ -110,6 +110,13 @@
    "engagement": 89
   },
   {
+   "ticker": "WDAY",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "ENVX",
    "mentions": 1,
    "bull": 0,
@@ -136,13 +143,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 149
-  },
-  {
-   "ticker": "RDDT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
   }
  ],
  "top_posts": [

@@ -1,8 +1,8 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-13T12:51:33.372008+00:00",
+ "generated_at": "2026-10-13T19:54:22.754064+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-30T10:33:44+00:00",
+ "window_start": "2026-09-30T17:17:10+00:00",
  "top_tickers": [
   {
    "ticker": "NFLX",
@@ -12,18 +12,18 @@
    "engagement": 736
   },
   {
-   "ticker": "NVDA",
-   "mentions": 5,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 641
-  },
-  {
    "ticker": "AMZN",
    "mentions": 5,
    "bull": 2,
    "bear": 2,
    "engagement": 811
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 4,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 598
   },
   {
    "ticker": "SOFI",
@@ -37,7 +37,7 @@
    "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 58
+   "engagement": 62
   },
   {
    "ticker": "META",
@@ -82,46 +82,46 @@
    "engagement": 1
   },
   {
-   "ticker": "LITE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "CRDO",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "MAAS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
+   "engagement": 5
   },
   {
    "ticker": "COHR",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 5
+  },
+  {
+   "ticker": "MAAS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 5
   },
   {
    "ticker": "ALAB",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 5
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 5
+  },
+  {
+   "ticker": "LITE",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 5
   },
   {
    "ticker": "PLTR",

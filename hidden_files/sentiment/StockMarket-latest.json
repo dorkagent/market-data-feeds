@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-13T12:51:18.292474+00:00",
+ "generated_at": "2026-10-13T19:54:10.541343+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-31T02:12:48+00:00",
+ "window_start": "2026-08-31T14:20:39+00:00",
  "top_tickers": [
   {
    "ticker": "AMD",
@@ -10,13 +10,6 @@
    "bull": 2,
    "bear": 4,
    "engagement": 34
-  },
-  {
-   "ticker": "META",
-   "mentions": 5,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 475
   },
   {
    "ticker": "AVGO",
@@ -40,6 +33,13 @@
    "engagement": 1808
   },
   {
+   "ticker": "META",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 451
+  },
+  {
    "ticker": "RDDT",
    "mentions": 2,
    "bull": 1,
@@ -59,13 +59,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 2
-  },
-  {
-   "ticker": "GOOGL",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 25
   },
   {
    "ticker": "AAPL",
@@ -94,6 +87,13 @@
    "bull": 0,
    "bear": 0,
    "engagement": 11
+  },
+  {
+   "ticker": "GOOGL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "AMZN",
@@ -138,7 +138,7 @@
    "engagement": 4
   },
   {
-   "ticker": "CCO",
+   "ticker": "BRK",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
