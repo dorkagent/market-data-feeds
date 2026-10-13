@@ -1,104 +1,104 @@
 {
-  "generated_utc": "2026-10-12T21:30:00.722187+00:00",
+  "generated_utc": "2026-10-13T21:42:06.889831+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. ~15-min delayed; OI updates once daily. GEX uses the dealer-short-calls/long-puts approximation.",
   "source": "CBOE delayed quotes (cdn.cboe.com, keyless)",
   "status": "ok",
   "symbols": {
     "_SPX": {
-      "spot": 7807.2402,
-      "chain_timestamp": "2026-10-12 21:29:16",
+      "spot": 7805.4502,
+      "chain_timestamp": "2026-10-13 21:41:43",
       "contracts_analyzed": 383,
-      "net_gex_bn": 52.91,
-      "call_gex_bn": 195.155,
-      "put_gex_bn": 142.245,
-      "flip_estimate": 7870.0,
+      "net_gex_bn": 123.976,
+      "call_gex_bn": 275.468,
+      "put_gex_bn": 151.492,
+      "flip_estimate": 7805.0,
       "gamma_walls": [
         {
-          "strike": 7900.0,
-          "net_gex_bn": 9.064
+          "strike": 7805.0,
+          "net_gex_bn": 83.631
         },
         {
-          "strike": 7825.0,
-          "net_gex_bn": 7.171
+          "strike": 7900.0,
+          "net_gex_bn": 8.715
         },
         {
           "strike": 7850.0,
-          "net_gex_bn": 6.939
+          "net_gex_bn": 6.399
         }
       ],
       "max_pain": 7700.0
     },
     "_NDX": {
-      "spot": 30664.6973,
-      "chain_timestamp": "2026-10-12 21:29:37",
-      "contracts_analyzed": 290,
-      "net_gex_bn": -0.27,
-      "call_gex_bn": 5.204,
-      "put_gex_bn": 5.474,
-      "flip_estimate": 30660.0,
+      "spot": 30569.4805,
+      "chain_timestamp": "2026-10-13 21:41:29",
+      "contracts_analyzed": 311,
+      "net_gex_bn": 0.073,
+      "call_gex_bn": 5.37,
+      "put_gex_bn": 5.297,
+      "flip_estimate": 32600.0,
       "gamma_walls": [
         {
-          "strike": 30675.0,
-          "net_gex_bn": -0.59
+          "strike": 29475.0,
+          "net_gex_bn": 0.32
         },
         {
-          "strike": 30670.0,
-          "net_gex_bn": -0.589
+          "strike": 30570.0,
+          "net_gex_bn": -0.295
         },
         {
-          "strike": 31000.0,
-          "net_gex_bn": 0.367
+          "strike": 30800.0,
+          "net_gex_bn": 0.287
         }
       ],
-      "max_pain": 30040.0
+      "max_pain": 30110.0
     },
     "SPY": {
-      "spot": 778.06,
-      "chain_timestamp": "2026-10-12 21:28:49",
-      "contracts_analyzed": 250,
-      "net_gex_bn": 5.384,
-      "call_gex_bn": 31.214,
-      "put_gex_bn": 25.831,
-      "flip_estimate": 785.0,
+      "spot": 778.03,
+      "chain_timestamp": "2026-10-13 21:41:42",
+      "contracts_analyzed": 248,
+      "net_gex_bn": 3.584,
+      "call_gex_bn": 27.033,
+      "put_gex_bn": 23.449,
+      "flip_estimate": 790.0,
       "gamma_walls": [
         {
           "strike": 778.0,
-          "net_gex_bn": 3.122
+          "net_gex_bn": 2.325
         },
         {
           "strike": 785.0,
-          "net_gex_bn": 2.027
+          "net_gex_bn": 1.799
         },
         {
           "strike": 780.0,
-          "net_gex_bn": 1.336
+          "net_gex_bn": 1.556
         }
       ],
-      "max_pain": 771.0
+      "max_pain": 772.0
     },
     "QQQ": {
-      "spot": 745.8,
-      "chain_timestamp": "2026-10-12 21:28:49",
-      "contracts_analyzed": 259,
-      "net_gex_bn": -5.143,
-      "call_gex_bn": 8.76,
-      "put_gex_bn": 13.903,
-      "flip_estimate": 746.0,
+      "spot": 743.58,
+      "chain_timestamp": "2026-10-13 21:41:45",
+      "contracts_analyzed": 256,
+      "net_gex_bn": -3.065,
+      "call_gex_bn": 10.309,
+      "put_gex_bn": 13.374,
+      "flip_estimate": 744.0,
       "gamma_walls": [
         {
-          "strike": 745.0,
-          "net_gex_bn": -1.271
-        },
-        {
-          "strike": 746.0,
-          "net_gex_bn": -0.984
-        },
-        {
           "strike": 760.0,
-          "net_gex_bn": 0.892
+          "net_gex_bn": 0.838
+        },
+        {
+          "strike": 740.0,
+          "net_gex_bn": -0.618
+        },
+        {
+          "strike": 725.0,
+          "net_gex_bn": -0.61
         }
       ],
-      "max_pain": 742.0
+      "max_pain": 740.0
     }
   }
 }
