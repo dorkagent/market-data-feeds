@@ -1,22 +1,22 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-14T02:52:28.690611+00:00",
+ "generated_at": "2026-10-14T13:04:39.573012+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-01T03:48:34+00:00",
+ "window_start": "2026-10-01T10:54:08+00:00",
  "top_tickers": [
+  {
+   "ticker": "AMZN",
+   "mentions": 6,
+   "bull": 3,
+   "bear": 2,
+   "engagement": 812
+  },
   {
    "ticker": "NFLX",
    "mentions": 6,
    "bull": 1,
    "bear": 0,
    "engagement": 736
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 5,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 811
   },
   {
    "ticker": "NVDA",
@@ -28,9 +28,9 @@
   {
    "ticker": "SOFI",
    "mentions": 3,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 103
+   "bull": 3,
+   "bear": 2,
+   "engagement": 105
   },
   {
    "ticker": "MRVL",
@@ -45,13 +45,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 738
-  },
-  {
-   "ticker": "MU",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 17
   },
   {
    "ticker": "NKE",
@@ -82,7 +75,7 @@
    "engagement": 6
   },
   {
-   "ticker": "AVGO",
+   "ticker": "ALAB",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -96,6 +89,13 @@
    "engagement": 5
   },
   {
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 5
+  },
+  {
    "ticker": "COHR",
    "mentions": 1,
    "bull": 1,
@@ -103,7 +103,7 @@
    "engagement": 5
   },
   {
-   "ticker": "ALAB",
+   "ticker": "MAAS",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -111,13 +111,6 @@
   },
   {
    "ticker": "CRDO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 5
-  },
-  {
-   "ticker": "MAAS",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -143,6 +136,13 @@
    "bull": 1,
    "bear": 0,
    "engagement": 16
+  },
+  {
+   "ticker": "TOYO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 5
   }
  ],
  "top_posts": [
@@ -152,13 +152,6 @@
    "num_comments": 40,
    "created_utc": 1791157984,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wxu6y2/"
-  },
-  {
-   "title": "Nike reports tonight at a 52-week low. Its CEO and Tim Cook bought at $42 in April",
-   "score": 552,
-   "num_comments": 338,
-   "created_utc": 1790845014,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wuufk2/"
   },
   {
    "title": "Google a screaming buy?",
@@ -243,6 +236,13 @@
    "num_comments": 59,
    "created_utc": 1791550829,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1kqn6/"
+  },
+  {
+   "title": "Microsoft and Google both around $4 trillion. Which is better investment?",
+   "score": 96,
+   "num_comments": 138,
+   "created_utc": 1791843874,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x4fued/"
   },
   {
    "title": "Selling is harder than buying",

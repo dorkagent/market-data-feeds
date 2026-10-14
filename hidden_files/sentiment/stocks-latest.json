@@ -1,22 +1,15 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-14T02:52:16.635282+00:00",
+ "generated_at": "2026-10-14T13:04:21.209949+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-02T06:41:02+00:00",
+ "window_start": "2026-10-02T16:04:46+00:00",
  "top_tickers": [
   {
    "ticker": "META",
-   "mentions": 5,
+   "mentions": 6,
    "bull": 0,
    "bear": 1,
-   "engagement": 119
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 5,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 697
+   "engagement": 120
   },
   {
    "ticker": "MSFT",
@@ -24,6 +17,13 @@
    "bull": 0,
    "bear": 2,
    "engagement": 4
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 4,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 670
   },
   {
    "ticker": "AMD",
@@ -54,6 +54,20 @@
    "engagement": 3
   },
   {
+   "ticker": "ASTS",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 371
+  },
+  {
+   "ticker": "WDAY",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
    "ticker": "CXDO",
    "mentions": 2,
    "bull": 0,
@@ -61,14 +75,14 @@
    "engagement": 2
   },
   {
-   "ticker": "AVGO",
+   "ticker": "TSLA",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 111
   },
   {
-   "ticker": "TSLA",
+   "ticker": "AVGO",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
@@ -110,39 +124,25 @@
    "engagement": 2
   },
   {
-   "ticker": "WDAY",
+   "ticker": "DXYZ",
    "mentions": 1,
-   "bull": 0,
+   "bull": 1,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "ENVX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 9
-  },
-  {
-   "ticker": "ASTS",
+   "ticker": "BOT",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 370
+   "engagement": 1
   },
   {
-   "ticker": "GRAL",
+   "ticker": "SNAP",
    "mentions": 1,
    "bull": 0,
-   "bear": 1,
-   "engagement": 23
-  },
-  {
-   "ticker": "NFLX",
-   "mentions": 1,
-   "bull": 1,
    "bear": 0,
-   "engagement": 149
+   "engagement": 1
   }
  ],
  "top_posts": [
@@ -173,13 +173,6 @@
    "num_comments": 539,
    "created_utc": 1791177461,
    "url": "https://www.reddit.com/r/stocks/comments/1wy0ajt/"
-  },
-  {
-   "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-   "score": 513,
-   "num_comments": 191,
-   "created_utc": 1790944865,
-   "url": "https://www.reddit.com/r/stocks/comments/1wvsroz/"
   },
   {
    "title": "OpenAI brings in about $50B a year. It signed up to spend $300B with Oracle",
@@ -250,6 +243,13 @@
    "num_comments": 218,
    "created_utc": 1791346603,
    "url": "https://www.reddit.com/r/stocks/comments/1wzn6i0/"
+  },
+  {
+   "title": "1. If Phil or Travis Knight does not take NIKE private, this is not a turnaround story. 2. Warren Buffett and Charlie Munger could see it.",
+   "score": 203,
+   "num_comments": 122,
+   "created_utc": 1791768660,
+   "url": "https://www.reddit.com/r/stocks/comments/1x3p4lr/"
   }
  ]
 }

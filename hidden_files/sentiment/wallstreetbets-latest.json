@@ -1,8 +1,8 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-14T02:51:59.488556+00:00",
+ "generated_at": "2026-10-14T13:04:09.552555+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-09T08:17:48+00:00",
+ "window_start": "2026-10-09T15:02:38+00:00",
  "top_tickers": [
   {
    "ticker": "GME",
@@ -12,14 +12,28 @@
    "engagement": 91
   },
   {
-   "ticker": "IREN",
-   "mentions": 2,
+   "ticker": "NVDA",
+   "mentions": 3,
    "bull": 0,
    "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
    "engagement": 2
   },
   {
-   "ticker": "NVDA",
+   "ticker": "META",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "IREN",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
@@ -30,21 +44,21 @@
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 607
+   "engagement": 628
   },
   {
    "ticker": "DJT",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 2
+   "engagement": 12
   },
   {
    "ticker": "RDDT",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 155
+   "engagement": 1137
   },
   {
    "ticker": "SPY",
@@ -54,18 +68,32 @@
    "engagement": 557
   },
   {
-   "ticker": "RKLB",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 607
-  },
-  {
    "ticker": "ADBE",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
    "engagement": 184
+  },
+  {
+   "ticker": "BSP",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "BTC",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SNAP",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "BMBL",
@@ -103,46 +131,18 @@
    "engagement": 1
   },
   {
-   "ticker": "TSLA",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "SQQQ",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 22
   },
   {
    "ticker": "STSM",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "INTC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "NUS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "META",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
+   "engagement": 22
   }
  ],
  "top_posts": [
@@ -196,6 +196,13 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x241e4/"
   },
   {
+   "title": "I could write an essay but",
+   "score": 1693,
+   "num_comments": 74,
+   "created_utc": 1791836007,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x4cltr/"
+  },
+  {
    "title": "Broadcom CEO Hock Tan calls AI investors casino gamblers",
    "score": 1665,
    "num_comments": 150,
@@ -217,11 +224,11 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1uh0r/"
   },
   {
-   "title": "Trump purchased up to $5 million of SpaceX bonds days before major space order",
-   "score": 1170,
-   "num_comments": 128,
-   "created_utc": 1791550876,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1krg0/"
+   "title": "Bumble stock surges 52% on report of $1B buyout talks",
+   "score": 1283,
+   "num_comments": 312,
+   "created_utc": 1791830940,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x4ac7l/"
   },
   {
    "title": "King of the shovels",
@@ -243,13 +250,6 @@
    "num_comments": 120,
    "created_utc": 1791568479,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1s51e/"
-  },
-  {
-   "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
-   "score": 710,
-   "num_comments": 111,
-   "created_utc": 1791810937,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x41kru/"
   }
  ]
 }

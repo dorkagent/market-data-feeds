@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-14T02:52:23.024991+00:00",
+ "generated_at": "2026-10-14T13:04:28.853054+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-31T15:52:53+00:00",
+ "window_start": "2026-08-31T23:40:46+00:00",
  "top_tickers": [
   {
    "ticker": "AMD",
@@ -19,18 +19,18 @@
    "engagement": 15
   },
   {
-   "ticker": "SPY",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 1808
-  },
-  {
    "ticker": "NVDA",
    "mentions": 4,
    "bull": 1,
    "bear": 1,
    "engagement": 1084
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 1808
   },
   {
    "ticker": "META",
@@ -68,13 +68,6 @@
    "engagement": 291
   },
   {
-   "ticker": "PLTR",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 5
-  },
-  {
    "ticker": "QQQ",
    "mentions": 1,
    "bull": 1,
@@ -89,14 +82,14 @@
    "engagement": 11
   },
   {
-   "ticker": "AMZN",
+   "ticker": "GOOGL",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "GOOGL",
+   "ticker": "AMZN",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -138,7 +131,14 @@
    "engagement": 4
   },
   {
-   "ticker": "WCN",
+   "ticker": "HON",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "CCO",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
