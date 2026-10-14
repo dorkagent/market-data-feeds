@@ -1,7 +1,7 @@
 name: paper-trading-mover-scan
 on:
   schedule:
-    - cron: '55 12 * * 1-5'  # 5:55 AM PT (PDT, UTC-7) weekdays — feeds the 6:00 AM premarket scan
+    - cron: '30 11 * * 1-5'  # 4:30 AM PT (PDT, UTC-7) weekdays — 90min buffer before 6:00 AM premarket (GitHub delays ~25min)
   workflow_dispatch:  # manual trigger
 permissions:
   contents: write
