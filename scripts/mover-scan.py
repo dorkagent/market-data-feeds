@@ -5,9 +5,10 @@ Finds what's actually moving TODAY, beyond the fixed watchlist.
 Feeds Setup A (news-continuation), Setup B (vwap-reversion long),
 and Setup C (short-breakdown) with fresh candidates.
 
-Universe: US-listed, market cap > $300M, no penny stocks (< $5/share).
-Filters: top % gainers AND losers with real dollar volume.
-Output: compact JSON — top 20 movers with the fields the setups need.
+Universe: US-listed, no penny stocks (< $5/share).
+Filters: top % gainers AND losers by price move. Premarket run, so no
+dollar-volume filter — Nasdaq premarket volume is too thin for it and
+it was zeroing out every run. Volume confirmation happens at the open.
 
 Source: Nasdaq API (same as earnings-calendar.py) + Finnhub for market cap.
 Runs: premarket, ~6:00 AM PT, before the premarket scan.
@@ -49,10 +50,10 @@ def main():
                 vol = int(vol) if vol.isdigit() else 0
                 mcap = r.get("marketCap", "0")
                 dollar_vol = price * vol
-                # Filters: no penny stocks, real volume, meaningful move
+                # Filters: no penny stocks, meaningful % move. No dollar-volume
+                # filter — premarket volume is too thin and it zeroed out
+                # every run (Oct 14 fix, per Andrew). Volume confirmed at open.
                 if price < 5:
-                    continue
-                if dollar_vol < 10_000_000:  # $10M minimum
                     continue
                 if abs(pct) < 3:  # at least 3% move
                     continue
@@ -82,7 +83,7 @@ def main():
 
     out = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "universe": "US-listed, price >= $5, dollar volume >= $10M, |move| >= 3%",
+        "universe": "US-listed, price >= $5, |move| >= 3% (premarket: no volume filter)",
         "top_movers": movers,
         "setup_routing": {
             "setup_a_candidates": [m["symbol"] for m in up[:10]],
