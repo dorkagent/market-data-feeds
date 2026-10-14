@@ -1,11 +1,104 @@
 {
- "generated_at": "2026-10-14T16:23:31.575377+00:00",
+ "generated_at": "2026-10-14T16:25:43.187859+00:00",
  "universe": "US-listed, price >= $5, |move| >= 3% (premarket: no volume filter)",
- "top_movers": [],
+ "top_movers": [
+  {
+   "symbol": "AMAT",
+   "pct_change": -6.7,
+   "price": 464.24,
+   "market_cap": "368,419,676,938",
+   "direction": "down"
+  },
+  {
+   "symbol": "JNJ",
+   "pct_change": -5.7,
+   "price": 248.61,
+   "market_cap": "599,124,890,200",
+   "direction": "down"
+  },
+  {
+   "symbol": "C",
+   "pct_change": -5.6,
+   "price": 124.53,
+   "market_cap": "208,891,202,587",
+   "direction": "down"
+  },
+  {
+   "symbol": "SPCX",
+   "pct_change": -4.2,
+   "price": 156.54,
+   "market_cap": "2,124,689,497,178",
+   "direction": "down"
+  },
+  {
+   "symbol": "ORCL",
+   "pct_change": 4.2,
+   "price": 143.2,
+   "market_cap": "434,110,964,537",
+   "direction": "up"
+  },
+  {
+   "symbol": "MU",
+   "pct_change": -3.6,
+   "price": 953.19,
+   "market_cap": "1,078,461,291,446",
+   "direction": "down"
+  },
+  {
+   "symbol": "CAT",
+   "pct_change": -3.3,
+   "price": 772.78,
+   "market_cap": "355,227,560,721",
+   "direction": "down"
+  },
+  {
+   "symbol": "SKHY",
+   "pct_change": -3.2,
+   "price": 157.06,
+   "market_cap": "1,144,756,154,300",
+   "direction": "down"
+  },
+  {
+   "symbol": "KLAC",
+   "pct_change": -3.2,
+   "price": 184.0,
+   "market_cap": "240,121,194,528",
+   "direction": "down"
+  },
+  {
+   "symbol": "WFC",
+   "pct_change": -3.1,
+   "price": 80.74,
+   "market_cap": "244,157,706,389",
+   "direction": "down"
+  },
+  {
+   "symbol": "ANET",
+   "pct_change": -3.0,
+   "price": 204.52,
+   "market_cap": "257,945,665,009",
+   "direction": "down"
+  }
+ ],
  "setup_routing": {
-  "setup_a_candidates": [],
-  "setup_b_candidates": [],
-  "setup_c_candidates": []
+  "setup_a_candidates": [
+   "ORCL"
+  ],
+  "setup_b_candidates": [
+   "ORCL"
+  ],
+  "setup_c_candidates": [
+   "AMAT",
+   "JNJ",
+   "C",
+   "SPCX",
+   "MU",
+   "CAT",
+   "SKHY",
+   "KLAC",
+   "WFC",
+   "ANET"
+  ]
  },
- "count": 0
+ "count": 11
 }
