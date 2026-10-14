@@ -31,44 +31,36 @@ def fetch(url, timeout=20):
 
 def main():
     movers = []
-    # Nasdaq top gainers/losers via their screener API
-    for direction in ["gainers", "losers"]:
-        url = f"https://api.nasdaq.com/api/screener/stocks?tableonly=true&limit=50&offset=0&order=asc&sort=pc&assetclass=stocks"
-        # Nasdaq screener doesn't split gainers/losers cleanly; pull most-active + top % change
+    # Nasdaq screener API. NOTE (Oct 14): response nests rows under
+    # data.table.rows (not data.rows), and no longer returns a volume
+    # column — screen on % move + price only.
+    try:
+        data = fetch("https://api.nasdaq.com/api/screener/stocks?tableonly=true&limit=100&offset=0&order=desc&sort=volume&assetclass=stocks")
+        rows = data.get("data", {}).get("table", {}).get("rows", [])
+    except Exception as e:
+        print(f"Nasdaq screener failed: {e}", file=sys.stderr)
+        rows = []
+    for r in rows:
         try:
-            data = fetch("https://api.nasdaq.com/api/screener/stocks?tableonly=true&limit=100&offset=0&order=desc&sort=volume&assetclass=stocks")
-            rows = data.get("data", {}).get("rows", [])
-        except Exception as e:
-            print(f"Nasdaq screener failed: {e}", file=sys.stderr)
-            rows = []
-        for r in rows:
-            try:
-                sym = r["symbol"].strip()
-                pct = float(r.get("pctchange", "0").replace("%", ""))
-                price = float(r.get("lastsale", "$0").replace("$", "").replace(",", ""))
-                vol = r.get("volume", "0").replace(",", "")
-                vol = int(vol) if vol.isdigit() else 0
-                mcap = r.get("marketCap", "0")
-                dollar_vol = price * vol
-                # Filters: no penny stocks, meaningful % move. No dollar-volume
-                # filter — premarket volume is too thin and it zeroed out
-                # every run (Oct 14 fix, per Andrew). Volume confirmed at open.
-                if price < 5:
-                    continue
-                if abs(pct) < 3:  # at least 3% move
-                    continue
-                movers.append({
-                    "symbol": sym,
-                    "pct_change": round(pct, 1),
-                    "price": round(price, 2),
-                    "volume": vol,
-                    "dollar_volume_m": round(dollar_vol / 1e6, 1),
-                    "market_cap": mcap,
-                    "direction": "up" if pct > 0 else "down",
-                })
-            except (ValueError, KeyError, AttributeError):
+            sym = r["symbol"].strip()
+            pct = float(r.get("pctchange", "0").replace("%", ""))
+            price = float(r.get("lastsale", "$0").replace("$", "").replace(",", ""))
+            mcap = r.get("marketCap", "0")
+            # Filters: no penny stocks, meaningful % move. No volume filter —
+            # premarket volume is too thin and the API dropped the column.
+            if price < 5:
                 continue
-        break  # one pull covers both directions
+            if abs(pct) < 3:  # at least 3% move
+                continue
+            movers.append({
+                "symbol": sym,
+                "pct_change": round(pct, 1),
+                "price": round(price, 2),
+                "market_cap": mcap,
+                "direction": "up" if pct > 0 else "down",
+            })
+        except (ValueError, KeyError, AttributeError):
+            continue
 
     # Dedupe, sort by absolute % change
     seen = {}
@@ -101,7 +93,7 @@ def main():
     print(f"Mover scan: {len(movers)} names ({len(up)} up / {len(down)} down)")
     for m in movers[:10]:
         arrow = "▲" if m["direction"] == "up" else "▼"
-        print(f"  {arrow} {m['symbol']:6s} {m['pct_change']:+6.1f}%  ${m['dollar_volume_m']:.0f}M vol")
+        print(f"  {arrow} {m['symbol']:6s} {m['pct_change']:+6.1f}%  ${m['price']:.2f}")
 
 if __name__ == "__main__":
     main()
