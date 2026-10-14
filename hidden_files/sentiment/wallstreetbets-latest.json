@@ -1,22 +1,22 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-14T13:04:09.552555+00:00",
+ "generated_at": "2026-10-14T19:53:42.765058+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-09T15:02:38+00:00",
+ "window_start": "2026-10-10T00:10:08+00:00",
  "top_tickers": [
-  {
-   "ticker": "GME",
-   "mentions": 5,
-   "bull": 4,
-   "bear": 1,
-   "engagement": 91
-  },
   {
    "ticker": "NVDA",
    "mentions": 3,
    "bull": 0,
    "bear": 0,
    "engagement": 3
+  },
+  {
+   "ticker": "GME",
+   "mentions": 3,
+   "bull": 3,
+   "bear": 1,
+   "engagement": 5
   },
   {
    "ticker": "TSLA",
@@ -61,18 +61,25 @@
    "engagement": 1137
   },
   {
-   "ticker": "SPY",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 557
-  },
-  {
-   "ticker": "ADBE",
-   "mentions": 2,
+   "ticker": "WULF",
+   "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 184
+   "engagement": 1
+  },
+  {
+   "ticker": "LQDA",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "FFAI",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "BSP",
@@ -132,13 +139,6 @@
   },
   {
    "ticker": "SQQQ",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 22
-  },
-  {
-   "ticker": "STSM",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -210,20 +210,6 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x3zx2v/"
   },
   {
-   "title": "It just feels numb. Lost most of my money trading options.",
-   "score": 1574,
-   "num_comments": 1218,
-   "created_utc": 1791584831,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1ywdo/"
-  },
-  {
-   "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
-   "score": 1302,
-   "num_comments": 444,
-   "created_utc": 1791573872,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1uh0r/"
-  },
-  {
    "title": "Bumble stock surges 52% on report of $1B buyout talks",
    "score": 1283,
    "num_comments": 312,
@@ -231,11 +217,11 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x4ac7l/"
   },
   {
-   "title": "King of the shovels",
-   "score": 952,
-   "num_comments": 92,
-   "created_utc": 1791581548,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1xn3y/"
+   "title": "if rich people appear on television suggesting you should buy stock, run. quickly.",
+   "score": 924,
+   "num_comments": 132,
+   "created_utc": 1791995074,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x5vqm4/"
   },
   {
    "title": "A Sign From The Gods\u2026",
@@ -245,11 +231,25 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2171n/"
   },
   {
-   "title": "Another $600k USD gain on $MRNA (total +1.18M USD gain)",
-   "score": 823,
-   "num_comments": 120,
-   "created_utc": 1791568479,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1s51e/"
+   "title": "$6M+ RDDT YOLO. 32,000 shares, 400 ITM calls, and a shitload of conviction!",
+   "score": 710,
+   "num_comments": 273,
+   "created_utc": 1791822661,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x46klu/"
+  },
+  {
+   "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+   "score": 710,
+   "num_comments": 111,
+   "created_utc": 1791810937,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x41kru/"
+  },
+  {
+   "title": "Korean Chip Stocks Slide on China's DRAM Push",
+   "score": 660,
+   "num_comments": 141,
+   "created_utc": 1791875894,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x4q3x5/"
   }
  ]
 }

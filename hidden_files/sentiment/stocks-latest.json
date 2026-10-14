@@ -1,8 +1,8 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-14T13:04:21.209949+00:00",
+ "generated_at": "2026-10-14T19:53:56.559896+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-02T16:04:46+00:00",
+ "window_start": "2026-10-03T10:38:39+00:00",
  "top_tickers": [
   {
    "ticker": "META",
@@ -37,7 +37,7 @@
    "mentions": 3,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
+   "engagement": 3
   },
   {
    "ticker": "MRVL",
@@ -75,14 +75,14 @@
    "engagement": 2
   },
   {
-   "ticker": "TSLA",
+   "ticker": "AVGO",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 111
   },
   {
-   "ticker": "AVGO",
+   "ticker": "TSLA",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
@@ -110,13 +110,6 @@
    "engagement": 52
   },
   {
-   "ticker": "GME",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 13
-  },
-  {
    "ticker": "AAOI",
    "mentions": 2,
    "bull": 0,
@@ -124,24 +117,31 @@
    "engagement": 2
   },
   {
-   "ticker": "DXYZ",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "BOT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SNAP",
+   "ticker": "CRWV",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
+   "engagement": 20
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 20
+  },
+  {
+   "ticker": "PEW",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
+   "ticker": "DELL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
    "engagement": 1
   }
  ],

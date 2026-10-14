@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-14T13:04:14.457553+00:00",
+ "generated_at": "2026-10-14T19:53:50.195425+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-22T13:36:15+00:00",
+ "window_start": "2026-09-22T19:31:40+00:00",
  "top_tickers": [
   {
    "ticker": "AMD",
@@ -33,13 +33,6 @@
    "engagement": 19
   },
   {
-   "ticker": "NVDA",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
    "ticker": "META",
    "mentions": 2,
    "bull": 2,
@@ -52,6 +45,13 @@
    "bull": 1,
    "bear": 0,
    "engagement": 63
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "NIO",

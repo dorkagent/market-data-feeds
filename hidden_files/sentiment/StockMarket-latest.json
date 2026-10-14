@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-14T13:04:28.853054+00:00",
+ "generated_at": "2026-10-14T19:54:04.034950+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-31T23:40:46+00:00",
+ "window_start": "2026-09-02T01:12:39+00:00",
  "top_tickers": [
   {
    "ticker": "AMD",
@@ -34,10 +34,10 @@
   },
   {
    "ticker": "META",
-   "mentions": 4,
+   "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 451
+   "engagement": 381
   },
   {
    "ticker": "RDDT",
@@ -131,14 +131,14 @@
    "engagement": 4
   },
   {
-   "ticker": "HON",
+   "ticker": "CCO",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "CCO",
+   "ticker": "COST",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
