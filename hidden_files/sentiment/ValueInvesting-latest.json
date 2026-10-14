@@ -1,8 +1,8 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-13T19:54:22.754064+00:00",
+ "generated_at": "2026-10-14T02:52:28.690611+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-30T17:17:10+00:00",
+ "window_start": "2026-10-01T03:48:34+00:00",
  "top_tickers": [
   {
    "ticker": "NFLX",
@@ -79,10 +79,17 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 1
+   "engagement": 6
   },
   {
-   "ticker": "CRDO",
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 5
+  },
+  {
+   "ticker": "LITE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -96,13 +103,6 @@
    "engagement": 5
   },
   {
-   "ticker": "MAAS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 5
-  },
-  {
    "ticker": "ALAB",
    "mentions": 1,
    "bull": 1,
@@ -110,14 +110,14 @@
    "engagement": 5
   },
   {
-   "ticker": "AVGO",
+   "ticker": "CRDO",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 5
   },
   {
-   "ticker": "LITE",
+   "ticker": "MAAS",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -196,13 +196,6 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wzu5f7/"
   },
   {
-   "title": "Near 52-week low names you are accumulating or on your watchlist?",
-   "score": 205,
-   "num_comments": 281,
-   "created_utc": 1790816225,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wulzaa/"
-  },
-  {
    "title": "Which is the best value right now: NVDA, AMZN, GOOGL or META?",
    "score": 195,
    "num_comments": 302,
@@ -250,6 +243,13 @@
    "num_comments": 59,
    "created_utc": 1791550829,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1kqn6/"
+  },
+  {
+   "title": "Selling is harder than buying",
+   "score": 89,
+   "num_comments": 52,
+   "created_utc": 1791463881,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x0q3nq/"
   }
  ]
 }

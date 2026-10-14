@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-13T19:54:39.950780+00:00",
+ "generated_at": "2026-10-14T02:52:38.755250+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-04T15:51:24+00:00",
+ "window_start": "2026-09-04T16:07:58+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -89,14 +89,14 @@
    "engagement": 21
   },
   {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 3
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -203,13 +203,6 @@
    "url": "https://www.reddit.com/r/options/comments/1wbfef8/"
   },
   {
-   "title": "A few items which give me an edge in options trading",
-   "score": 60,
-   "num_comments": 100,
-   "created_utc": 1788537211,
-   "url": "https://www.reddit.com/r/options/comments/1w788om/"
-  },
-  {
    "title": "An intuitive way to price an option",
    "score": 54,
    "num_comments": 29,
@@ -250,6 +243,13 @@
    "num_comments": 29,
    "created_utc": 1788856686,
    "url": "https://www.reddit.com/r/options/comments/1waio7e/"
+  },
+  {
+   "title": "Trying all the option strategies",
+   "score": 49,
+   "num_comments": 29,
+   "created_utc": 1790494191,
+   "url": "https://www.reddit.com/r/options/comments/1wrdvs5/"
   }
  ]
 }

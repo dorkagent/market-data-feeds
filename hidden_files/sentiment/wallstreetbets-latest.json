@@ -1,15 +1,22 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-13T19:53:40.592699+00:00",
+ "generated_at": "2026-10-14T02:51:59.488556+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-08T21:21:49+00:00",
+ "window_start": "2026-10-09T08:17:48+00:00",
  "top_tickers": [
   {
    "ticker": "GME",
-   "mentions": 4,
-   "bull": 3,
+   "mentions": 5,
+   "bull": 4,
    "bear": 1,
-   "engagement": 88
+   "engagement": 91
+  },
+  {
+   "ticker": "IREN",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "NVDA",
@@ -61,15 +68,8 @@
    "engagement": 184
   },
   {
-   "ticker": "XRP",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "XRPN",
-   "mentions": 2,
+   "ticker": "BMBL",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
@@ -110,14 +110,14 @@
    "engagement": 1
   },
   {
-   "ticker": "STSM",
+   "ticker": "SQQQ",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 1
   },
   {
-   "ticker": "SQQQ",
+   "ticker": "STSM",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -138,11 +138,11 @@
    "engagement": 1
   },
   {
-   "ticker": "IREN",
+   "ticker": "META",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 0
   }
  ],
  "top_posts": [
@@ -161,18 +161,11 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2hro4/"
   },
   {
-   "title": "I believe Open AI will be the yahoo of the AI era.",
-   "score": 3476,
-   "num_comments": 1024,
-   "created_utc": 1791504946,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x173ex/"
-  },
-  {
-   "title": "SHARES OF T MOBILE , AT&T & VERIZON ARE DOWN AROUND 7% AFTER HOURS ON THE NEWS OF SPACEX ACQUIRING LOW BAND SPECTRUM LICENSE",
-   "score": 3236,
-   "num_comments": 1009,
-   "created_utc": 1791507686,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x180e6/"
+   "title": "I'm absolutely devastated at my sheer stupidity.",
+   "score": 3385,
+   "num_comments": 1276,
+   "created_utc": 1791814934,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x436rq/"
   },
   {
    "title": "Incredible that all this has happened in just 4 years",
@@ -189,6 +182,13 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2e5u4/"
   },
   {
+   "title": "\ud83c\udf82 Bull Market Turns 4 \ud83c\udf82",
+   "score": 2524,
+   "num_comments": 184,
+   "created_utc": 1791810619,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x41gch/"
+  },
+  {
    "title": "Investing in Lehman Brothers",
    "score": 2483,
    "num_comments": 339,
@@ -196,18 +196,18 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x241e4/"
   },
   {
+   "title": "Broadcom CEO Hock Tan calls AI investors casino gamblers",
+   "score": 1665,
+   "num_comments": 150,
+   "created_utc": 1791806299,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x3zx2v/"
+  },
+  {
    "title": "It just feels numb. Lost most of my money trading options.",
    "score": 1574,
    "num_comments": 1218,
    "created_utc": 1791584831,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1ywdo/"
-  },
-  {
-   "title": "Congratulation Americans. U r about to get full coverage soon. $SPCX $TMUS $T $VZ",
-   "score": 1379,
-   "num_comments": 1007,
-   "created_utc": 1791494509,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x137d6/"
   },
   {
    "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
@@ -222,13 +222,6 @@
    "num_comments": 128,
    "created_utc": 1791550876,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1krg0/"
-  },
-  {
-   "title": "16x\ud83d\udcb0",
-   "score": 1024,
-   "num_comments": 144,
-   "created_utc": 1791502421,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x166u4/"
   },
   {
    "title": "King of the shovels",
@@ -250,6 +243,13 @@
    "num_comments": 120,
    "created_utc": 1791568479,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x1s51e/"
+  },
+  {
+   "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+   "score": 710,
+   "num_comments": 111,
+   "created_utc": 1791810937,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x41kru/"
   }
  ]
 }
