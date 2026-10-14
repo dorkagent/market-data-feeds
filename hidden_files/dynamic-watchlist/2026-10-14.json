@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-14",
+  "built_at": "2026-10-14T06:20:33.295545-07:00",
+  "source": "https://stockanalysis.com/markets/premarket/",
+  "names": [
+    {
+      "ticker": "LQDA",
+      "name": "Liquidia Corporation",
+      "pct": 34.09,
+      "price": 35.95,
+      "volume": 2892457,
+      "mcap": "2.40B"
+    }
+  ]
+}
