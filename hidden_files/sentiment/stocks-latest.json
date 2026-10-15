@@ -1,8 +1,8 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-14T19:53:56.559896+00:00",
+ "generated_at": "2026-10-15T02:54:38.119257+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-03T10:38:39+00:00",
+ "window_start": "2026-10-03T11:03:26+00:00",
  "top_tickers": [
   {
    "ticker": "META",
@@ -117,18 +117,18 @@
    "engagement": 2
   },
   {
-   "ticker": "CRWV",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 20
-  },
-  {
    "ticker": "NBIS",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 20
+   "engagement": 125
+  },
+  {
+   "ticker": "CRWV",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 125
   },
   {
    "ticker": "PEW",

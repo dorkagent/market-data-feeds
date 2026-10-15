@@ -1,16 +1,9 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-14T19:53:42.765058+00:00",
+ "generated_at": "2026-10-15T02:54:29.869066+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-10T00:10:08+00:00",
+ "window_start": "2026-10-10T02:38:27+00:00",
  "top_tickers": [
-  {
-   "ticker": "NVDA",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 3
-  },
   {
    "ticker": "GME",
    "mentions": 3,
@@ -23,6 +16,13 @@
    "mentions": 2,
    "bull": 1,
    "bear": 1,
+   "engagement": 19
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
    "engagement": 2
   },
   {
@@ -59,6 +59,27 @@
    "bull": 1,
    "bear": 1,
    "engagement": 1137
+  },
+  {
+   "ticker": "TRIA",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "GRAL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "HOOD",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "WULF",
@@ -122,27 +143,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 1
-  },
-  {
-   "ticker": "LAC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SPOT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "SQQQ",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 22
   }
  ],
  "top_posts": [
@@ -224,13 +224,6 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x5vqm4/"
   },
   {
-   "title": "A Sign From The Gods\u2026",
-   "score": 830,
-   "num_comments": 41,
-   "created_utc": 1791591232,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2171n/"
-  },
-  {
    "title": "$6M+ RDDT YOLO. 32,000 shares, 400 ITM calls, and a shitload of conviction!",
    "score": 710,
    "num_comments": 273,
@@ -250,6 +243,13 @@
    "num_comments": 141,
    "created_utc": 1791875894,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x4q3x5/"
+  },
+  {
+   "title": "Anthropic must pull the IPO in few months. What do you play?",
+   "score": 618,
+   "num_comments": 370,
+   "created_utc": 1791738864,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x3dpm4/"
   }
  ]
 }

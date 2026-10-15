@@ -1,6 +1,6 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-14T19:54:04.034950+00:00",
+ "generated_at": "2026-10-15T02:54:42.230097+00:00",
  "posts_analyzed": 500,
  "window_start": "2026-09-02T01:12:39+00:00",
  "top_tickers": [
@@ -82,14 +82,14 @@
    "engagement": 11
   },
   {
-   "ticker": "GOOGL",
+   "ticker": "AMZN",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "AMZN",
+   "ticker": "GOOGL",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -131,14 +131,14 @@
    "engagement": 4
   },
   {
-   "ticker": "CCO",
+   "ticker": "HONA",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "COST",
+   "ticker": "DOL",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
