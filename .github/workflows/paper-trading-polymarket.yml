@@ -1,7 +1,7 @@
 name: paper-trading-polymarket
 on:
   schedule:
-    - cron: '24 14 * * *'  # daily 07:24 PT (14:24 UTC)
+    - cron: '24 14 * * 1'  # weekly Mondays 07:24 PT (14:24 UTC) — dialed down from daily Oct 2026
   workflow_dispatch:  # manual trigger
 permissions:
   contents: write
