@@ -1,104 +1,171 @@
 {
- "generated_at": "2026-10-14T16:25:43.187859+00:00",
+ "generated_at": "2026-10-15T11:55:48.024052+00:00",
  "universe": "US-listed, price >= $5, |move| >= 3% (premarket: no volume filter)",
  "top_movers": [
   {
-   "symbol": "AMAT",
-   "pct_change": -6.7,
-   "price": 464.24,
-   "market_cap": "368,419,676,938",
-   "direction": "down"
-  },
-  {
-   "symbol": "JNJ",
-   "pct_change": -5.7,
-   "price": 248.61,
-   "market_cap": "599,124,890,200",
-   "direction": "down"
-  },
-  {
-   "symbol": "C",
-   "pct_change": -5.6,
-   "price": 124.53,
-   "market_cap": "208,891,202,587",
-   "direction": "down"
-  },
-  {
-   "symbol": "SPCX",
-   "pct_change": -4.2,
-   "price": 156.54,
-   "market_cap": "2,124,689,497,178",
+   "symbol": "DELL",
+   "pct_change": -11.3,
+   "price": 507.93,
+   "market_cap": "322,948,370,108",
    "direction": "down"
   },
   {
    "symbol": "ORCL",
-   "pct_change": 4.2,
-   "price": 143.2,
-   "market_cap": "434,110,964,537",
-   "direction": "up"
-  },
-  {
-   "symbol": "MU",
-   "pct_change": -3.6,
-   "price": 953.19,
-   "market_cap": "1,078,461,291,446",
+   "pct_change": -8.8,
+   "price": 130.55,
+   "market_cap": "395,762,475,002",
    "direction": "down"
   },
   {
-   "symbol": "CAT",
-   "pct_change": -3.3,
-   "price": 772.78,
-   "market_cap": "355,227,560,721",
+   "symbol": "MRVL",
+   "pct_change": -8.7,
+   "price": 245.28,
+   "market_cap": "215,086,032,000",
+   "direction": "down"
+  },
+  {
+   "symbol": "ARM",
+   "pct_change": -6.8,
+   "price": 238.01,
+   "market_cap": "253,255,790,529",
+   "direction": "down"
+  },
+  {
+   "symbol": "GEV",
+   "pct_change": -6.2,
+   "price": 941.78,
+   "market_cap": "250,827,639,914",
    "direction": "down"
   },
   {
    "symbol": "SKHY",
-   "pct_change": -3.2,
-   "price": 157.06,
-   "market_cap": "1,144,756,154,300",
+   "pct_change": -6.1,
+   "price": 147.55,
+   "market_cap": "1,075,441,045,250",
    "direction": "down"
   },
   {
-   "symbol": "KLAC",
-   "pct_change": -3.2,
-   "price": 184.0,
-   "market_cap": "240,121,194,528",
+   "symbol": "AMD",
+   "pct_change": -5.7,
+   "price": 570.82,
+   "market_cap": "931,849,403,474",
    "direction": "down"
   },
   {
-   "symbol": "WFC",
-   "pct_change": -3.1,
-   "price": 80.74,
-   "market_cap": "244,157,706,389",
+   "symbol": "PANW",
+   "pct_change": -5.5,
+   "price": 375.04,
+   "market_cap": "306,782,720,000",
+   "direction": "down"
+  },
+  {
+   "symbol": "SNDK",
+   "pct_change": -5.3,
+   "price": 1403.34,
+   "market_cap": "203,944,149,258",
+   "direction": "down"
+  },
+  {
+   "symbol": "BAC",
+   "pct_change": -4.8,
+   "price": 51.39,
+   "market_cap": "359,357,338,477",
+   "direction": "down"
+  },
+  {
+   "symbol": "LRCX",
+   "pct_change": -4.7,
+   "price": 286.92,
+   "market_cap": "359,058,677,945",
+   "direction": "down"
+  },
+  {
+   "symbol": "UNH",
+   "pct_change": 4.7,
+   "price": 395.62,
+   "market_cap": "355,106,473,370",
+   "direction": "up"
+  },
+  {
+   "symbol": "INTC",
+   "pct_change": -4.6,
+   "price": 98.12,
+   "market_cap": "518,571,020,419",
+   "direction": "down"
+  },
+  {
+   "symbol": "CRWD",
+   "pct_change": -4.6,
+   "price": 249.29,
+   "market_cap": "255,256,716,762",
    "direction": "down"
   },
   {
    "symbol": "ANET",
-   "pct_change": -3.0,
-   "price": 204.52,
-   "market_cap": "257,945,665,009",
+   "pct_change": -4.4,
+   "price": 195.42,
+   "market_cap": "246,468,520,712",
+   "direction": "down"
+  },
+  {
+   "symbol": "MU",
+   "pct_change": -4.1,
+   "price": 914.13,
+   "market_cap": "1,034,267,900,786",
+   "direction": "down"
+  },
+  {
+   "symbol": "AZN",
+   "pct_change": 4.0,
+   "price": 162.03,
+   "market_cap": "251,264,112,554",
+   "direction": "up"
+  },
+  {
+   "symbol": "ASML",
+   "pct_change": -3.9,
+   "price": 1650.0,
+   "market_cap": "635,939,147,250",
+   "direction": "down"
+  },
+  {
+   "symbol": "MRK",
+   "pct_change": 3.8,
+   "price": 147.37,
+   "market_cap": "363,587,084,292",
+   "direction": "up"
+  },
+  {
+   "symbol": "AMAT",
+   "pct_change": -3.8,
+   "price": 446.63,
+   "market_cap": "354,444,425,967",
    "direction": "down"
   }
  ],
  "setup_routing": {
   "setup_a_candidates": [
-   "ORCL"
+   "UNH",
+   "AZN",
+   "MRK"
   ],
   "setup_b_candidates": [
-   "ORCL"
+   "UNH",
+   "AZN",
+   "MRK"
   ],
   "setup_c_candidates": [
-   "AMAT",
-   "JNJ",
-   "C",
-   "SPCX",
-   "MU",
-   "CAT",
+   "DELL",
+   "ORCL",
+   "MRVL",
+   "ARM",
+   "GEV",
    "SKHY",
-   "KLAC",
-   "WFC",
-   "ANET"
+   "AMD",
+   "PANW",
+   "SNDK",
+   "BAC"
   ]
  },
- "count": 11
+ "count": 20
 }
