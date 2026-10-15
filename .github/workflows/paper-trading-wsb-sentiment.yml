@@ -1,9 +1,7 @@
 name: paper-trading-wsb-sentiment
 on:
   schedule:
-    - cron: '24 12 * * *'  # daily 05:24 PT (12:24 UTC), ~20 min before VM am fetch
-    - cron: '24 19 * * *'  # daily 12:24 PT (19:24 UTC), ~20 min before VM midday fetch
-    - cron: '24 2 * * *'   # daily 19:24 PT (02:24 UTC next day), ~20 min before VM pm fetch
+    - cron: '24 12 * * *'  # daily 05:24 PT — 1x/day demote Oct 15 2026 (midday/pm runs removed, no readers)
   workflow_dispatch:  # manual trigger
 permissions:
   contents: write

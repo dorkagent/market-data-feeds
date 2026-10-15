@@ -1,7 +1,7 @@
 name: paper-trading-cboe-putcall
 on:
   schedule:
-    - cron: '24 21 * * *'  # daily 14:24 PT (21:24 UTC)
+    - cron: '24 21 * * 1'  # weekly Mon 14:24 PT — demoted Oct 15 2026
   workflow_dispatch:  # manual trigger
 permissions:
   contents: write

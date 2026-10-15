@@ -1,7 +1,7 @@
 name: paper-trading-cboe-gex
 on:
   schedule:
-    - cron: '19 21 * * *'  # daily 14:19 PT (21:19 UTC)
+    - cron: '19 21 * * 1'  # weekly Mon 14:19 PT — demoted Oct 15 2026
   workflow_dispatch:  # manual trigger
 permissions:
   contents: write

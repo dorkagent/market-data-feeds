@@ -1,7 +1,7 @@
 name: paper-trading-finra-short
 on:
   schedule:
-    - cron: '24 15 * * 1-5'  # weekdays 08:24 PT (15:24 UTC)
+    - cron: '24 15 * * 1,3,5'  # Mon/Wed/Fri 08:24 PT — demoted Oct 15 2026
   workflow_dispatch:  # manual trigger
 permissions:
   contents: write

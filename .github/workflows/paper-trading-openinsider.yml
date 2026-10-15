@@ -1,7 +1,7 @@
 name: paper-trading-openinsider
 on:
   schedule:
-    - cron: '24 1 * * *'  # daily 18:24 PT (01:24 UTC next day), ~20 min before VM fetch
+    - cron: '24 1 * * 1'  # weekly Mon 18:24 PT — demoted Oct 15 2026
   workflow_dispatch:  # manual trigger
 permissions:
   contents: write

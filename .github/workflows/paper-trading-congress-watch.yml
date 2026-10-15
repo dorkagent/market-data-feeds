@@ -1,7 +1,7 @@
 name: paper-trading-congress-watch
 on:
   schedule:
-    - cron: '19 14 * * 1'  # Mon 07:19 PT (14:19 UTC)
+    - cron: '19 14 1 * *'  # monthly (1st) 07:19 PT — demoted Oct 15 2026
   workflow_dispatch:  # manual trigger
 permissions:
   contents: write
