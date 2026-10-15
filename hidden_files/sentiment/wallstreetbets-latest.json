@@ -1,15 +1,15 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-15T02:54:29.869066+00:00",
+ "generated_at": "2026-10-15T13:07:55.535223+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-10T02:38:27+00:00",
+ "window_start": "2026-10-10T10:39:34+00:00",
  "top_tickers": [
   {
    "ticker": "GME",
-   "mentions": 3,
+   "mentions": 4,
    "bull": 3,
    "bear": 1,
-   "engagement": 5
+   "engagement": 6
   },
   {
    "ticker": "TSLA",
@@ -54,13 +54,6 @@
    "engagement": 12
   },
   {
-   "ticker": "RDDT",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1137
-  },
-  {
    "ticker": "TRIA",
    "mentions": 1,
    "bull": 1,
@@ -72,7 +65,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
+   "engagement": 3
   },
   {
    "ticker": "HOOD",
@@ -143,6 +136,13 @@
    "bull": 1,
    "bear": 1,
    "engagement": 1
+  },
+  {
+   "ticker": "LAC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   }
  ],
  "top_posts": [
@@ -189,13 +189,6 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x41gch/"
   },
   {
-   "title": "Investing in Lehman Brothers",
-   "score": 2483,
-   "num_comments": 339,
-   "created_utc": 1791599935,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x241e4/"
-  },
-  {
    "title": "I could write an essay but",
    "score": 1693,
    "num_comments": 74,
@@ -210,11 +203,32 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x3zx2v/"
   },
   {
+   "title": "Best decision I made",
+   "score": 1590,
+   "num_comments": 183,
+   "created_utc": 1791896801,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x4w4v2/"
+  },
+  {
    "title": "Bumble stock surges 52% on report of $1B buyout talks",
    "score": 1283,
    "num_comments": 312,
    "created_utc": 1791830940,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x4ac7l/"
+  },
+  {
+   "title": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
+   "score": 1239,
+   "num_comments": 140,
+   "created_utc": 1791896557,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x4w1j2/"
+  },
+  {
+   "title": "I used to think girls were silly because they pay $1K to $10K+ for LV/Hermes/Gucci bags. Behold my collection of LVMH/LVMUY bags.",
+   "score": 1022,
+   "num_comments": 83,
+   "created_utc": 1791877997,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x4qmud/"
   },
   {
    "title": "if rich people appear on television suggesting you should buy stock, run. quickly.",
@@ -236,20 +250,6 @@
    "num_comments": 111,
    "created_utc": 1791810937,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x41kru/"
-  },
-  {
-   "title": "Korean Chip Stocks Slide on China's DRAM Push",
-   "score": 660,
-   "num_comments": 141,
-   "created_utc": 1791875894,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x4q3x5/"
-  },
-  {
-   "title": "Anthropic must pull the IPO in few months. What do you play?",
-   "score": 618,
-   "num_comments": 370,
-   "created_utc": 1791738864,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x3dpm4/"
   }
  ]
 }

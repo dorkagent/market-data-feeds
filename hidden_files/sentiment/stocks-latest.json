@@ -1,15 +1,15 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-15T02:54:38.119257+00:00",
+ "generated_at": "2026-10-15T13:08:13.972402+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-03T11:03:26+00:00",
+ "window_start": "2026-10-03T13:24:44+00:00",
  "top_tickers": [
   {
    "ticker": "META",
-   "mentions": 6,
+   "mentions": 5,
    "bull": 0,
    "bear": 1,
-   "engagement": 120
+   "engagement": 119
   },
   {
    "ticker": "MSFT",
@@ -33,6 +33,13 @@
    "engagement": 5
   },
   {
+   "ticker": "ASTS",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 373
+  },
+  {
    "ticker": "PLTR",
    "mentions": 3,
    "bull": 0,
@@ -52,13 +59,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 3
-  },
-  {
-   "ticker": "ASTS",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 371
   },
   {
    "ticker": "WDAY",
@@ -117,18 +117,18 @@
    "engagement": 2
   },
   {
-   "ticker": "NBIS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 125
-  },
-  {
    "ticker": "CRWV",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 125
+   "engagement": 360
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 360
   },
   {
    "ticker": "PEW",
@@ -224,6 +224,13 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x136gz/"
   },
   {
+   "title": "CRWV, NBIS, IREN Stocks Tumble After Gartner Forecasts 80% Of Neocloud Market Will Cease To Exist By 2030",
+   "score": 246,
+   "num_comments": 114,
+   "created_utc": 1792003390,
+   "url": "https://www.reddit.com/r/stocks/comments/1x5zfsd/"
+  },
+  {
    "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
    "score": 236,
    "num_comments": 106,
@@ -243,13 +250,6 @@
    "num_comments": 218,
    "created_utc": 1791346603,
    "url": "https://www.reddit.com/r/stocks/comments/1wzn6i0/"
-  },
-  {
-   "title": "1. If Phil or Travis Knight does not take NIKE private, this is not a turnaround story. 2. Warren Buffett and Charlie Munger could see it.",
-   "score": 203,
-   "num_comments": 122,
-   "created_utc": 1791768660,
-   "url": "https://www.reddit.com/r/stocks/comments/1x3p4lr/"
   }
  ]
 }
