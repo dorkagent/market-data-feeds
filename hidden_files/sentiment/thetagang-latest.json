@@ -1,15 +1,15 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-10-15T13:08:43.498421+00:00",
+ "generated_at": "2026-10-16T13:07:11.653238+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-19T18:02:09+00:00",
+ "window_start": "2026-08-20T07:20:53+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
    "mentions": 9,
    "bull": 6,
    "bear": 9,
-   "engagement": 100
+   "engagement": 101
   },
   {
    "ticker": "RDDT",
@@ -17,6 +17,13 @@
    "bull": 3,
    "bear": 3,
    "engagement": 1071
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 233
   },
   {
    "ticker": "SPY",
@@ -31,13 +38,6 @@
    "bull": 3,
    "bear": 2,
    "engagement": 97
-  },
-  {
-   "ticker": "INTC",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 214
   },
   {
    "ticker": "PLTR",
@@ -72,7 +72,7 @@
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 2
+   "engagement": 32
   },
   {
    "ticker": "IREN",
@@ -117,7 +117,14 @@
    "engagement": 11
   },
   {
-   "ticker": "NVTS",
+   "ticker": "SNXX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 11
+  },
+  {
+   "ticker": "AMZN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -131,14 +138,7 @@
    "engagement": 11
   },
   {
-   "ticker": "SNXX",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 11
-  },
-  {
-   "ticker": "SPCH",
+   "ticker": "VST",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -175,18 +175,25 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1wns02i/"
   },
   {
+   "title": "2026 | $100k target achieved.",
+   "score": 167,
+   "num_comments": 96,
+   "created_utc": 1791473983,
+   "url": "https://www.reddit.com/r/thetagang/comments/1x0u7wm/"
+  },
+  {
+   "title": "Aggressive Wheeling Results Since May",
+   "score": 153,
+   "num_comments": 50,
+   "created_utc": 1791405437,
+   "url": "https://www.reddit.com/r/thetagang/comments/1x07kzr/"
+  },
+  {
    "title": "Triple Witching effect on AMD $550 call today",
    "score": 141,
    "num_comments": 31,
    "created_utc": 1789770188,
    "url": "https://www.reddit.com/r/thetagang/comments/1wk4d9v/"
-  },
-  {
-   "title": "Aggressive Wheeling Results Since May",
-   "score": 135,
-   "num_comments": 48,
-   "created_utc": 1791405437,
-   "url": "https://www.reddit.com/r/thetagang/comments/1x07kzr/"
   },
   {
    "title": "1M options* portfolio feat. $MU",
@@ -203,18 +210,18 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1vvlond/"
   },
   {
+   "title": "Did some dumb mistakes but happy with progress YTD",
+   "score": 125,
+   "num_comments": 61,
+   "created_utc": 1791921511,
+   "url": "https://www.reddit.com/r/thetagang/comments/1x570zk/"
+  },
+  {
    "title": "I backtested all the popular wheeling strategy",
    "score": 121,
    "num_comments": 101,
    "created_utc": 1788128449,
    "url": "https://www.reddit.com/r/thetagang/comments/1w2v9e8/"
-  },
-  {
-   "title": "2026 | $100k target achieved.",
-   "score": 118,
-   "num_comments": 67,
-   "created_utc": 1791473983,
-   "url": "https://www.reddit.com/r/thetagang/comments/1x0u7wm/"
   },
   {
    "title": "What I've learned after 2 years of selling options",
@@ -243,13 +250,6 @@
    "num_comments": 60,
    "created_utc": 1787949632,
    "url": "https://www.reddit.com/r/thetagang/comments/1w12755/"
-  },
-  {
-   "title": "Two sides to the same $2 Bill.",
-   "score": 91,
-   "num_comments": 5,
-   "created_utc": 1791745158,
-   "url": "https://www.reddit.com/r/thetagang/comments/1x3gdpk/"
   }
  ]
 }

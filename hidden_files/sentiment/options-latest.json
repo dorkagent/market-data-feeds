@@ -1,15 +1,15 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-15T13:08:50.697322+00:00",
+ "generated_at": "2026-10-16T13:07:20.428072+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-05T19:08:34+00:00",
+ "window_start": "2026-09-07T14:49:59+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
    "mentions": 10,
    "bull": 7,
    "bear": 5,
-   "engagement": 194
+   "engagement": 223
   },
   {
    "ticker": "NVDA",
@@ -44,7 +44,7 @@
    "mentions": 3,
    "bull": 2,
    "bear": 2,
-   "engagement": 126
+   "engagement": 130
   },
   {
    "ticker": "NBIS",
@@ -65,14 +65,14 @@
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 48
+   "engagement": 52
   },
   {
    "ticker": "TLT",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 21
+   "engagement": 23
   },
   {
    "ticker": "BTC",
@@ -94,6 +94,13 @@
    "bull": 2,
    "bear": 0,
    "engagement": 21
+  },
+  {
+   "ticker": "SPCE",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "TICK",
@@ -136,29 +143,22 @@
    "bull": 0,
    "bear": 0,
    "engagement": 2
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
   }
  ],
  "top_posts": [
+  {
+   "title": "Boredom",
+   "score": 381,
+   "num_comments": 922,
+   "created_utc": 1791401636,
+   "url": "https://www.reddit.com/r/options/comments/1x05x7f/"
+  },
   {
    "title": "New paper: an AI options trader made 18.3% in 6 months, until researchers let it read the news",
    "score": 329,
    "num_comments": 78,
    "created_utc": 1791707199,
    "url": "https://www.reddit.com/r/options/comments/1x32u6l/"
-  },
-  {
-   "title": "Boredom",
-   "score": 243,
-   "num_comments": 551,
-   "created_utc": 1791401636,
-   "url": "https://www.reddit.com/r/options/comments/1x05x7f/"
   },
   {
    "title": "Beware of Bad Advice",
@@ -173,13 +173,6 @@
    "num_comments": 52,
    "created_utc": 1789948504,
    "url": "https://www.reddit.com/r/options/comments/1wlwxee/"
-  },
-  {
-   "title": "Debit spreads taught me that being right too early can still be annoying",
-   "score": 80,
-   "num_comments": 38,
-   "created_utc": 1788788984,
-   "url": "https://www.reddit.com/r/options/comments/1w9sps6/"
   },
   {
    "title": "Fractional options coming in 2026?",
@@ -215,6 +208,13 @@
    "num_comments": 58,
    "created_utc": 1790770818,
    "url": "https://www.reddit.com/r/options/comments/1wu3gas/"
+  },
+  {
+   "title": "Do not download the new Tasty trade 2.0 Desktop major Platform Update",
+   "score": 52,
+   "num_comments": 59,
+   "created_utc": 1791379531,
+   "url": "https://www.reddit.com/r/options/comments/1wzwh80/"
   },
   {
    "title": "I was completely fine losing my AMD shares until it almost happened",

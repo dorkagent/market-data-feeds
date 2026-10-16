@@ -1,22 +1,29 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-15T13:08:20.987354+00:00",
+ "generated_at": "2026-10-16T13:06:57.730692+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-02T04:03:20+00:00",
+ "window_start": "2026-09-04T17:16:46+00:00",
  "top_tickers": [
   {
+   "ticker": "NVDA",
+   "mentions": 5,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1085
+  },
+  {
    "ticker": "AMD",
-   "mentions": 6,
-   "bull": 2,
-   "bear": 4,
-   "engagement": 34
+   "mentions": 4,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 144
   },
   {
    "ticker": "AVGO",
    "mentions": 4,
    "bull": 0,
    "bear": 0,
-   "engagement": 15
+   "engagement": 132
   },
   {
    "ticker": "SPY",
@@ -26,32 +33,25 @@
    "engagement": 1808
   },
   {
-   "ticker": "NVDA",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1084
+   "ticker": "AAPL",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 292
   },
   {
    "ticker": "META",
    "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 381
+   "engagement": 386
   },
   {
    "ticker": "RDDT",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 47
-  },
-  {
-   "ticker": "GFS",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 29
+   "engagement": 52
   },
   {
    "ticker": "MSFT",
@@ -61,18 +61,18 @@
    "engagement": 2
   },
   {
-   "ticker": "AAPL",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 291
-  },
-  {
    "ticker": "QQQ",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 6
+  },
+  {
+   "ticker": "GFS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 24
   },
   {
    "ticker": "UAL",
@@ -131,7 +131,7 @@
    "engagement": 4
   },
   {
-   "ticker": "DOL",
+   "ticker": "COST",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -147,16 +147,16 @@
  ],
  "top_posts": [
   {
-   "title": "Bye bye USD ...",
-   "score": 5672,
-   "num_comments": 1673,
-   "created_utc": 1788529714,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1w74xob/"
+   "title": "$1 trillion wiped out from the US stock market today.",
+   "score": 7617,
+   "num_comments": 964,
+   "created_utc": 1792016646,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1x64yzb/"
   },
   {
    "title": "Are you positioned to benefit from for THE ENEMY trade?",
-   "score": 3883,
-   "num_comments": 1297,
+   "score": 3880,
+   "num_comments": 1290,
    "created_utc": 1791478053,
    "url": "https://www.reddit.com/r/StockMarket/comments/1x0vzyk/"
   },
@@ -166,13 +166,6 @@
    "num_comments": 1003,
    "created_utc": 1790848170,
    "url": "https://www.reddit.com/r/StockMarket/comments/1wuv8o6/"
-  },
-  {
-   "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
-   "score": 3073,
-   "num_comments": 613,
-   "created_utc": 1788531601,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1w75qy6/"
   },
   {
    "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
@@ -250,6 +243,13 @@
    "num_comments": 434,
    "created_utc": 1789501496,
    "url": "https://www.reddit.com/r/StockMarket/comments/1whapog/"
+  },
+  {
+   "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
+   "score": 1791,
+   "num_comments": 161,
+   "created_utc": 1788788663,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1w9sl3r/"
   }
  ]
 }

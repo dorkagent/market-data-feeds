@@ -1,43 +1,64 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-15T13:08:35.259767+00:00",
+ "generated_at": "2026-10-16T13:07:05.329177+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-01T18:21:25+00:00",
+ "window_start": "2026-10-02T23:49:56+00:00",
  "top_tickers": [
   {
+   "ticker": "NVDA",
+   "mentions": 7,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 614
+  },
+  {
    "ticker": "AMZN",
-   "mentions": 6,
+   "mentions": 7,
    "bull": 3,
    "bear": 2,
-   "engagement": 994
+   "engagement": 1040
   },
   {
    "ticker": "NFLX",
    "mentions": 6,
    "bull": 1,
    "bear": 0,
-   "engagement": 736
+   "engagement": 734
   },
   {
    "ticker": "UBER",
    "mentions": 4,
    "bull": 0,
    "bear": 1,
-   "engagement": 617
+   "engagement": 696
   },
   {
-   "ticker": "NVDA",
-   "mentions": 4,
+   "ticker": "AMD",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 404
+  },
+  {
+   "ticker": "APP",
+   "mentions": 3,
    "bull": 0,
    "bear": 1,
-   "engagement": 597
+   "engagement": 28
+  },
+  {
+   "ticker": "META",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 599
   },
   {
    "ticker": "SOFI",
    "mentions": 3,
    "bull": 3,
    "bear": 2,
-   "engagement": 105
+   "engagement": 108
   },
   {
    "ticker": "MRVL",
@@ -47,91 +68,70 @@
    "engagement": 62
   },
   {
-   "ticker": "META",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 738
-  },
-  {
    "ticker": "PEW",
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 2
+   "engagement": 27
   },
   {
    "ticker": "ASTS",
    "mentions": 2,
    "bull": 1,
    "bear": 2,
-   "engagement": 7
+   "engagement": 48
   },
   {
-   "ticker": "NKE",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 120
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 2,
+   "ticker": "YB",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 403
+   "engagement": 1
+  },
+  {
+   "ticker": "CRWV",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "GOOGL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SLQT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 11
+  },
+  {
+   "ticker": "KNSL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 7
   },
   {
    "ticker": "QURE",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 43
   },
   {
    "ticker": "WISH",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "APP",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
+   "engagement": 43
   },
   {
    "ticker": "ALAB",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 5
-  },
-  {
-   "ticker": "CRDO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 5
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 5
-  },
-  {
-   "ticker": "LITE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 5
-  },
-  {
-   "ticker": "COHR",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -168,25 +168,25 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x2nwm7/"
   },
   {
+   "title": "Berkshire Hathaway bought $193M of Lennar in 2 days. The stock is still 41% under its high. What am I missing?",
+   "score": 288,
+   "num_comments": 135,
+   "created_utc": 1791372830,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wzu5f7/"
+  },
+  {
+   "title": "Life Savings on Alphabet",
+   "score": 277,
+   "num_comments": 508,
+   "created_utc": 1791307090,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wz8dhv/"
+  },
+  {
    "title": "First to turnaround, (MCD, NFLX, UBER, NIKE)",
    "score": 271,
    "num_comments": 335,
    "created_utc": 1791122294,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wxgcbl/"
-  },
-  {
-   "title": "Life Savings on Alphabet",
-   "score": 244,
-   "num_comments": 479,
-   "created_utc": 1791307090,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wz8dhv/"
-  },
-  {
-   "title": "Berkshire Hathaway bought $193M of Lennar in 2 days. The stock is still 41% under its high. What am I missing?",
-   "score": 229,
-   "num_comments": 102,
-   "created_utc": 1791372830,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wzu5f7/"
   },
   {
    "title": "Which is the best value right now: NVDA, AMZN, GOOGL or META?",
@@ -196,25 +196,25 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x374pm/"
   },
   {
+   "title": "Adobe keeps growing and is buying back shares like CRAZY. Is AI the end for the company?",
+   "score": 187,
+   "num_comments": 395,
+   "created_utc": 1791549879,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1kehw/"
+  },
+  {
+   "title": "What's the biggest value trap in the market right now,cheap on every metric, and still a bad buy?",
+   "score": 183,
+   "num_comments": 292,
+   "created_utc": 1791933549,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x5buop/"
+  },
+  {
    "title": "MAG 10 (MAG 7 plus Broadcom, Micron and AMD)",
    "score": 175,
    "num_comments": 227,
    "created_utc": 1791048919,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wwszye/"
-  },
-  {
-   "title": "Adobe keeps growing and is buying back shares like CRAZY. Is AI the end for the company?",
-   "score": 161,
-   "num_comments": 322,
-   "created_utc": 1791549879,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1kehw/"
-  },
-  {
-   "title": "NETFLIX - Value Buy?",
-   "score": 149,
-   "num_comments": 264,
-   "created_utc": 1790941319,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wvrljc/"
   },
   {
    "title": "What\u2019s the most CRIMINALLY undervalued stock in the market right now?",
@@ -238,18 +238,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1kqn6/"
   },
   {
+   "title": "Micron lost $150B in four days. It still earns nearly 3x Coke, Pepsi and McDonald's combined",
+   "score": 106,
+   "num_comments": 104,
+   "created_utc": 1791976371,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x5oga2/"
+  },
+  {
    "title": "Microsoft and Google both around $4 trillion. Which is better investment?",
    "score": 96,
    "num_comments": 138,
    "created_utc": 1791843874,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x4fued/"
-  },
-  {
-   "title": "Selling is harder than buying",
-   "score": 89,
-   "num_comments": 52,
-   "created_utc": 1791463881,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x0q3nq/"
   }
  ]
 }

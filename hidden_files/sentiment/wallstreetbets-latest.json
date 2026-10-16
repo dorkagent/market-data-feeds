@@ -1,255 +1,255 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-15T13:07:55.535223+00:00",
+ "generated_at": "2026-10-16T13:06:34.554322+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-10T10:39:34+00:00",
+ "window_start": "2026-10-13T16:58:06+00:00",
  "top_tickers": [
   {
-   "ticker": "GME",
-   "mentions": 4,
-   "bull": 3,
-   "bear": 1,
-   "engagement": 6
-  },
-  {
    "ticker": "TSLA",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 19
+   "mentions": 7,
+   "bull": 2,
+   "bear": 3,
+   "engagement": 25
   },
   {
-   "ticker": "NVDA",
-   "mentions": 2,
-   "bull": 0,
+   "ticker": "GME",
+   "mentions": 5,
+   "bull": 2,
    "bear": 0,
-   "engagement": 2
+   "engagement": 30
   },
   {
    "ticker": "META",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 2
   },
   {
-   "ticker": "IREN",
+   "ticker": "AMD",
    "mentions": 2,
-   "bull": 0,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 2
+  },
+  {
+   "ticker": "FTCI",
+   "mentions": 2,
+   "bull": 2,
    "bear": 0,
    "engagement": 2
   },
   {
+   "ticker": "CRWV",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 109
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 632
+  },
+  {
+   "ticker": "LULU",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "BWEN",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "MP",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 70
+  },
+  {
    "ticker": "MU",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 628
-  },
-  {
-   "ticker": "DJT",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
-   "ticker": "TRIA",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "GRAL",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 3
-  },
-  {
-   "ticker": "HOOD",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "WULF",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "LQDA",
+   "ticker": "MSTR",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 1
+   "engagement": 52
   },
   {
-   "ticker": "FFAI",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "BSP",
+   "ticker": "SPCX",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 371
   },
   {
-   "ticker": "BTC",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SNAP",
+   "ticker": "AAPL",
    "mentions": 1,
    "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "BMBL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "BROS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "TEAD",
-   "mentions": 1,
-   "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 203
   },
   {
-   "ticker": "LAC",
+   "ticker": "ASTS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 150
+  },
+  {
+   "ticker": "DXYZ",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 8
+  },
+  {
+   "ticker": "BORR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 31
+  },
+  {
+   "ticker": "TLT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 107
+  },
+  {
+   "ticker": "MS",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 13
   }
  ],
  "top_posts": [
   {
-   "title": "Open the casino !!!",
-   "score": 15158,
-   "num_comments": 103,
-   "created_utc": 1791784060,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x3tu14/"
+   "title": "broad market is breaking down while top 10 big tech holds up the s&p 500 illusion",
+   "score": 9066,
+   "num_comments": 1098,
+   "created_utc": 1791914819,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x5415v/"
   },
   {
-   "title": "Good old days \ud83d\udc3b",
-   "score": 5883,
-   "num_comments": 298,
-   "created_utc": 1791645348,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2hro4/"
+   "title": "It's over. Done with. Terminated. Donezo.",
+   "score": 8348,
+   "num_comments": 344,
+   "created_utc": 1792062690,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6iuac/"
   },
   {
-   "title": "I'm absolutely devastated at my sheer stupidity.",
-   "score": 3385,
-   "num_comments": 1276,
-   "created_utc": 1791814934,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x436rq/"
+   "title": "\u201cThe name\u2019s Bond. Junk Bond.\u201d",
+   "score": 5955,
+   "num_comments": 313,
+   "created_utc": 1792085203,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6rw40/"
   },
   {
-   "title": "Incredible that all this has happened in just 4 years",
-   "score": 3045,
+   "title": "Consumer prices rose 0.6% in September, putting annual inflation rate at 3.7%",
+   "score": 4538,
+   "num_comments": 531,
+   "created_utc": 1791981522,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x5q4jo/"
+  },
+  {
+   "title": "Michael burry rn",
+   "score": 3833,
+   "num_comments": 285,
+   "created_utc": 1792005801,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x60img/"
+  },
+  {
+   "title": "Tesla has officially lost the plot..",
+   "score": 2874,
+   "num_comments": 1981,
+   "created_utc": 1792114500,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x73hxs/"
+  },
+  {
+   "title": "Might as well buy both",
+   "score": 2727,
+   "num_comments": 71,
+   "created_utc": 1791942063,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x5et93/"
+  },
+  {
+   "title": "Did I just marginalize myself into a millionaire \ud83e\udd14",
+   "score": 2510,
+   "num_comments": 1172,
+   "created_utc": 1791924941,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x58hng/"
+  },
+  {
+   "title": "Bears R Back Once More",
+   "score": 2186,
+   "num_comments": 136,
+   "created_utc": 1792016537,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x64xgu/"
+  },
+  {
+   "title": "KOPSI down another 8%, we\u2019re all fucked tomorrow morning",
+   "score": 2132,
+   "num_comments": 610,
+   "created_utc": 1792036235,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6blz0/"
+  },
+  {
+   "title": "Skydance Stock Down 25% After Warrants Issued to Paramount Investors",
+   "score": 2088,
+   "num_comments": 123,
+   "created_utc": 1791997199,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x5wo9e/"
+  },
+  {
+   "title": "How we feeling about tomorrow?",
+   "score": 1998,
+   "num_comments": 342,
+   "created_utc": 1792038498,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6cage/"
+  },
+  {
+   "title": "US PPI rose by 6.3% compared to a forecast of 5.4%",
+   "score": 1935,
    "num_comments": 376,
-   "created_utc": 1791664867,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2pibb/"
+   "created_utc": 1792068327,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6knyt/"
   },
   {
-   "title": "[ Removed by moderator ]",
-   "score": 2667,
-   "num_comments": 469,
-   "created_utc": 1791635463,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x2e5u4/"
+   "title": "Soo true",
+   "score": 1783,
+   "num_comments": 27,
+   "created_utc": 1791966599,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x5luia/"
   },
   {
-   "title": "\ud83c\udf82 Bull Market Turns 4 \ud83c\udf82",
-   "score": 2524,
-   "num_comments": 184,
-   "created_utc": 1791810619,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x41gch/"
-  },
-  {
-   "title": "I could write an essay but",
-   "score": 1693,
-   "num_comments": 74,
-   "created_utc": 1791836007,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x4cltr/"
-  },
-  {
-   "title": "Broadcom CEO Hock Tan calls AI investors casino gamblers",
-   "score": 1665,
-   "num_comments": 150,
-   "created_utc": 1791806299,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x3zx2v/"
-  },
-  {
-   "title": "Best decision I made",
-   "score": 1590,
-   "num_comments": 183,
-   "created_utc": 1791896801,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x4w4v2/"
-  },
-  {
-   "title": "Bumble stock surges 52% on report of $1B buyout talks",
-   "score": 1283,
-   "num_comments": 312,
-   "created_utc": 1791830940,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x4ac7l/"
-  },
-  {
-   "title": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
-   "score": 1239,
-   "num_comments": 140,
-   "created_utc": 1791896557,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x4w1j2/"
-  },
-  {
-   "title": "I used to think girls were silly because they pay $1K to $10K+ for LV/Hermes/Gucci bags. Behold my collection of LVMH/LVMUY bags.",
-   "score": 1022,
-   "num_comments": 83,
-   "created_utc": 1791877997,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x4qmud/"
-  },
-  {
-   "title": "if rich people appear on television suggesting you should buy stock, run. quickly.",
-   "score": 924,
-   "num_comments": 132,
-   "created_utc": 1791995074,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x5vqm4/"
-  },
-  {
-   "title": "$6M+ RDDT YOLO. 32,000 shares, 400 ITM calls, and a shitload of conviction!",
-   "score": 710,
-   "num_comments": 273,
-   "created_utc": 1791822661,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x46klu/"
-  },
-  {
-   "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
-   "score": 710,
-   "num_comments": 111,
-   "created_utc": 1791810937,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x41kru/"
+   "title": "Current state of the market",
+   "score": 1760,
+   "num_comments": 69,
+   "created_utc": 1792074144,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6mzgj/"
   }
  ]
 }

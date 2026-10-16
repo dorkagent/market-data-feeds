@@ -1,15 +1,29 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-15T13:08:13.972402+00:00",
+ "generated_at": "2026-10-16T13:06:50.123195+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-03T13:24:44+00:00",
+ "window_start": "2026-10-05T19:15:44+00:00",
  "top_tickers": [
   {
    "ticker": "META",
    "mentions": 5,
    "bull": 0,
    "bear": 1,
-   "engagement": 119
+   "engagement": 120
+  },
+  {
+   "ticker": "CRWV",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 439
+  },
+  {
+   "ticker": "MRVL",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 28
   },
   {
    "ticker": "MSFT",
@@ -23,66 +37,59 @@
    "mentions": 4,
    "bull": 0,
    "bear": 0,
-   "engagement": 670
+   "engagement": 726
   },
   {
-   "ticker": "AMD",
-   "mentions": 4,
+   "ticker": "NBIS",
+   "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 5
+   "engagement": 413
   },
   {
    "ticker": "ASTS",
    "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 373
+   "engagement": 406
   },
   {
    "ticker": "PLTR",
    "mentions": 3,
    "bull": 0,
    "bear": 0,
-   "engagement": 3
-  },
-  {
-   "ticker": "MRVL",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 27
+   "engagement": 4
   },
   {
    "ticker": "QQQ",
    "mentions": 3,
    "bull": 0,
    "bear": 0,
-   "engagement": 3
+   "engagement": 2
   },
   {
    "ticker": "WDAY",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
+   "engagement": 7
   },
   {
    "ticker": "CXDO",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
+   "engagement": 9
   },
   {
-   "ticker": "AVGO",
+   "ticker": "TSLA",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 111
   },
   {
-   "ticker": "TSLA",
+   "ticker": "AVGO",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
@@ -93,7 +100,7 @@
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 698
+   "engagement": 726
   },
   {
    "ticker": "NIO",
@@ -107,7 +114,14 @@
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 52
+   "engagement": 60
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "AAOI",
@@ -117,30 +131,16 @@
    "engagement": 2
   },
   {
-   "ticker": "CRWV",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 360
-  },
-  {
-   "ticker": "NBIS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 360
-  },
-  {
-   "ticker": "PEW",
+   "ticker": "OPEN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 2
+   "engagement": 1
   },
   {
-   "ticker": "DELL",
+   "ticker": "SOFI",
    "mentions": 1,
-   "bull": 0,
+   "bull": 1,
    "bear": 1,
    "engagement": 1
   }
@@ -155,10 +155,17 @@
   },
   {
    "title": "OPENAI'S ANNUALIZED REVENUE NEARS $50B, FAR BELOW EARLIER $70B REPORTS",
-   "score": 2015,
-   "num_comments": 375,
+   "score": 2142,
+   "num_comments": 381,
    "created_utc": 1791480565,
    "url": "https://www.reddit.com/r/stocks/comments/1x0x3qh/"
+  },
+  {
+   "title": "US inflation rises more than expected ahead of midterm elections",
+   "score": 1251,
+   "num_comments": 225,
+   "created_utc": 1791984079,
+   "url": "https://www.reddit.com/r/stocks/comments/1x5r2r3/"
   },
   {
    "title": "Anthropic: ~$145B raised, $2T IPO target. What profit makes that work?",
@@ -168,88 +175,81 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x2a9dn/"
   },
   {
-   "title": "Can someone explain to me how the stock market is basically a separate entity from the economy?",
-   "score": 528,
-   "num_comments": 539,
-   "created_utc": 1791177461,
-   "url": "https://www.reddit.com/r/stocks/comments/1wy0ajt/"
+   "title": "If you had $100k to put into just one stock, what would you pick?",
+   "score": 604,
+   "num_comments": 1337,
+   "created_utc": 1791935911,
+   "url": "https://www.reddit.com/r/stocks/comments/1x5corl/"
+  },
+  {
+   "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+   "score": 571,
+   "num_comments": 131,
+   "created_utc": 1792068148,
+   "url": "https://www.reddit.com/r/stocks/comments/1x6klne/"
   },
   {
    "title": "OpenAI brings in about $50B a year. It signed up to spend $300B with Oracle",
-   "score": 494,
-   "num_comments": 189,
+   "score": 544,
+   "num_comments": 199,
    "created_utc": 1791549168,
    "url": "https://www.reddit.com/r/stocks/comments/1x1k5qi/"
   },
   {
+   "title": "Anthropic reports $16.8B in 3Q26, up 50% QoQ, $SMH -2% AH, MoM calculation in Post",
+   "score": 529,
+   "num_comments": 209,
+   "created_utc": 1792020725,
+   "url": "https://www.reddit.com/r/stocks/comments/1x66gqa/"
+  },
+  {
    "title": "SpaceX Doubling Its Debt With $40B NVDA Chip Buy",
-   "score": 462,
-   "num_comments": 205,
+   "score": 507,
+   "num_comments": 216,
    "created_utc": 1791372174,
    "url": "https://www.reddit.com/r/stocks/comments/1wztydi/"
   },
   {
    "title": "Data shows that the 10-year Treasury yield is above 5.3% and crude oil prices are above $100, so why is the market sell-off so weak today?",
-   "score": 413,
-   "num_comments": 333,
+   "score": 446,
+   "num_comments": 349,
    "created_utc": 1791405356,
    "url": "https://www.reddit.com/r/stocks/comments/1x07jr6/"
   },
   {
    "title": "Broadcom CEO Hock Tan calls AI investors casino gamblers",
-   "score": 376,
-   "num_comments": 75,
+   "score": 390,
+   "num_comments": 80,
    "created_utc": 1791811715,
    "url": "https://www.reddit.com/r/stocks/comments/1x41vvb/"
   },
   {
+   "title": "Netflix is laying off roughly 6% of its workforce",
+   "score": 361,
+   "num_comments": 91,
+   "created_utc": 1791986157,
+   "url": "https://www.reddit.com/r/stocks/comments/1x5rvwu/"
+  },
+  {
    "title": "Webull stock drops 20% as its ties to China create national security risk as per congressional panel",
-   "score": 312,
-   "num_comments": 67,
+   "score": 325,
+   "num_comments": 74,
    "created_utc": 1791386552,
    "url": "https://www.reddit.com/r/stocks/comments/1wzzd41/"
   },
   {
-   "title": "Don\u2019t time the bubbles - S&P 500 rises to record high as oil and yields move lower",
-   "score": 286,
-   "num_comments": 268,
-   "created_utc": 1791293940,
-   "url": "https://www.reddit.com/r/stocks/comments/1wz2uqz/"
+   "title": "Best \"Buy the Dip\" Stocks This Week?",
+   "score": 306,
+   "num_comments": 391,
+   "created_utc": 1791989303,
+   "url": "https://www.reddit.com/r/stocks/comments/1x5t70s/"
   },
   {
    "title": "SpaceX takes aim at US wireless carriers with spectrum acquisition",
-   "score": 275,
-   "num_comments": 192,
+   "score": 300,
+   "num_comments": 196,
    "created_utc": 1791494446,
    "url": "https://www.reddit.com/r/stocks/comments/1x136gz/"
-  },
-  {
-   "title": "CRWV, NBIS, IREN Stocks Tumble After Gartner Forecasts 80% Of Neocloud Market Will Cease To Exist By 2030",
-   "score": 246,
-   "num_comments": 114,
-   "created_utc": 1792003390,
-   "url": "https://www.reddit.com/r/stocks/comments/1x5zfsd/"
-  },
-  {
-   "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-   "score": 236,
-   "num_comments": 106,
-   "created_utc": 1791485276,
-   "url": "https://www.reddit.com/r/stocks/comments/1x0z6vg/"
-  },
-  {
-   "title": "Samsung forecasts record third-quarter profit of $80 billion for the first time in history - Operating profit jumped 782%",
-   "score": 232,
-   "num_comments": 47,
-   "created_utc": 1791414714,
-   "url": "https://www.reddit.com/r/stocks/comments/1x0bcf0/"
-  },
-  {
-   "title": "Wall Street has normalized a tax on being slower than its fastest computers",
-   "score": 216,
-   "num_comments": 218,
-   "created_utc": 1791346603,
-   "url": "https://www.reddit.com/r/stocks/comments/1wzn6i0/"
   }
  ]
 }
