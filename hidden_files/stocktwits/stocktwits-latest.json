@@ -1,10 +1,10 @@
 {
-  "as_of_utc": "2026-10-16T03:14:01+00:00",
+  "as_of_utc": "2026-10-16T04:15:53+00:00",
   "feed": "stocktwits_symbol_stream",
   "tickers": {
     "SPY": {
       "ticker": "SPY",
-      "as_of_utc": "2026-10-16T03:14:01+00:00",
+      "as_of_utc": "2026-10-16T04:15:53+00:00",
       "n_messages": 30,
       "n_bullish": 7,
       "n_bearish": 3,
@@ -16,23 +16,25 @@
     },
     "QQQ": {
       "ticker": "QQQ",
-      "as_of_utc": "2026-10-16T03:14:01+00:00",
+      "as_of_utc": "2026-10-16T04:15:53+00:00",
       "n_messages": 30,
       "n_bullish": 8,
-      "n_bearish": 4,
-      "n_tagged": 12,
-      "bull_pct": 0.667,
-      "bear_pct": 0.333,
+      "n_bearish": 1,
+      "n_tagged": 9,
+      "bull_pct": 0.889,
+      "bear_pct": 0.111,
       "low_sample": false,
-      "flags": []
+      "flags": [
+        "extreme_bullish_contrarian_caution"
+      ]
     },
     "NVDA": {
       "ticker": "NVDA",
-      "as_of_utc": "2026-10-16T03:14:01+00:00",
+      "as_of_utc": "2026-10-16T04:15:53+00:00",
       "n_messages": 30,
-      "n_bullish": 10,
+      "n_bullish": 12,
       "n_bearish": 0,
-      "n_tagged": 10,
+      "n_tagged": 12,
       "bull_pct": 1.0,
       "bear_pct": 0.0,
       "low_sample": false,
@@ -42,31 +44,32 @@
     },
     "AAPL": {
       "ticker": "AAPL",
-      "as_of_utc": "2026-10-16T03:14:01+00:00",
+      "as_of_utc": "2026-10-16T04:15:53+00:00",
       "n_messages": 30,
       "n_bullish": 5,
-      "n_bearish": 4,
-      "n_tagged": 9,
-      "bull_pct": 0.556,
-      "bear_pct": 0.444,
+      "n_bearish": 3,
+      "n_tagged": 8,
+      "bull_pct": 0.625,
+      "bear_pct": 0.375,
       "low_sample": false,
       "flags": []
     },
     "MSFT": {
       "ticker": "MSFT",
-      "as_of_utc": "2026-10-16T03:14:01+00:00",
+      "as_of_utc": "2026-10-16T04:15:53+00:00",
       "n_messages": 30,
-      "n_bullish": 9,
+      "n_bullish": 10,
       "n_bearish": 4,
-      "n_tagged": 13,
-      "bull_pct": 0.692,
-      "bear_pct": 0.308,
+      "n_tagged": 14,
+      "bull_pct": 0.714,
+      "bear_pct": 0.286,
       "low_sample": false,
       "flags": []
     }
   },
   "flags": [
-    "NVDA: EXTREME BULLISH (100% of 10 tagged messages) - contrarian caution, do not chase."
+    "QQQ: EXTREME BULLISH (89% of 9 tagged messages) - contrarian caution, do not chase.",
+    "NVDA: EXTREME BULLISH (100% of 12 tagged messages) - contrarian caution, do not chase."
   ],
   "failures": [],
   "role": "Context layer - informs, never triggers trades alone."
