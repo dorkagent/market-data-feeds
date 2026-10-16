@@ -1,22 +1,22 @@
 {
-  "as_of_utc": "2026-10-16T07:24:54+00:00",
+  "as_of_utc": "2026-10-16T08:15:43+00:00",
   "feed": "stocktwits_symbol_stream",
   "tickers": {
     "SPY": {
       "ticker": "SPY",
-      "as_of_utc": "2026-10-16T07:24:54+00:00",
+      "as_of_utc": "2026-10-16T08:15:43+00:00",
       "n_messages": 30,
-      "n_bullish": 4,
-      "n_bearish": 6,
+      "n_bullish": 5,
+      "n_bearish": 5,
       "n_tagged": 10,
-      "bull_pct": 0.4,
-      "bear_pct": 0.6,
+      "bull_pct": 0.5,
+      "bear_pct": 0.5,
       "low_sample": false,
       "flags": []
     },
     "QQQ": {
       "ticker": "QQQ",
-      "as_of_utc": "2026-10-16T07:24:54+00:00",
+      "as_of_utc": "2026-10-16T08:15:43+00:00",
       "n_messages": 30,
       "n_bullish": 5,
       "n_bearish": 4,
@@ -24,13 +24,11 @@
       "bull_pct": 0.556,
       "bear_pct": 0.444,
       "low_sample": false,
-      "flags": [
-        "sudden_bearish_flip"
-      ]
+      "flags": []
     },
     "NVDA": {
       "ticker": "NVDA",
-      "as_of_utc": "2026-10-16T07:24:54+00:00",
+      "as_of_utc": "2026-10-16T08:15:43+00:00",
       "n_messages": 30,
       "n_bullish": 18,
       "n_bearish": 0,
@@ -44,19 +42,19 @@
     },
     "AAPL": {
       "ticker": "AAPL",
-      "as_of_utc": "2026-10-16T07:24:54+00:00",
+      "as_of_utc": "2026-10-16T08:15:43+00:00",
       "n_messages": 30,
-      "n_bullish": 6,
+      "n_bullish": 5,
       "n_bearish": 2,
-      "n_tagged": 8,
-      "bull_pct": 0.75,
-      "bear_pct": 0.25,
+      "n_tagged": 7,
+      "bull_pct": 0.714,
+      "bear_pct": 0.286,
       "low_sample": false,
       "flags": []
     },
     "MSFT": {
       "ticker": "MSFT",
-      "as_of_utc": "2026-10-16T07:24:54+00:00",
+      "as_of_utc": "2026-10-16T08:15:43+00:00",
       "n_messages": 30,
       "n_bullish": 8,
       "n_bearish": 5,
@@ -68,7 +66,6 @@
     }
   },
   "flags": [
-    "QQQ: SUDDEN BEARISH FLIP (bearish share 12% -> 44% since 2026-10-16T06:13:52+00:00) - review any holding.",
     "NVDA: EXTREME BULLISH (100% of 18 tagged messages) - contrarian caution, do not chase."
   ],
   "failures": [],
