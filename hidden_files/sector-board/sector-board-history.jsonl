@@ -4,3 +4,4 @@
 {"t": "2026-10-13T12:53:28+00:00", "status": "ok", "breadth": {"advancers": 8, "decliners": 3, "avg_chg_1d_pct": 0.4, "read": "mixed / narrow"}, "top3": ["XLE", "XLP", "XLC"], "bottom3": ["XLI", "XLY", "XLK"]}
 {"t": "2026-10-14T13:08:18+00:00", "status": "ok", "breadth": {"advancers": 5, "decliners": 6, "avg_chg_1d_pct": 0.11, "read": "mixed / narrow"}, "top3": ["XLE", "XLC", "XLU"], "bottom3": ["XLI", "XLF", "XLV"]}
 {"t": "2026-10-15T13:12:11+00:00", "status": "ok", "breadth": {"advancers": 3, "decliners": 8, "avg_chg_1d_pct": -0.22, "read": "mixed / narrow"}, "top3": ["XLV", "XLP", "XLE"], "bottom3": ["XLI", "XLC", "XLK"]}
+{"t": "2026-10-16T13:10:46+00:00", "status": "ok", "breadth": {"advancers": 8, "decliners": 3, "avg_chg_1d_pct": 0.75, "read": "mixed / narrow"}, "top3": ["XLV", "XLB", "XLY"], "bottom3": ["XLU", "XLK", "XLE"]}
