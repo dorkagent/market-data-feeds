@@ -1,15 +1,15 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-16T13:07:20.428072+00:00",
+ "generated_at": "2026-10-17T12:57:47.851713+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-07T14:49:59+00:00",
+ "window_start": "2026-09-08T17:25:54+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
-   "mentions": 10,
-   "bull": 7,
+   "mentions": 9,
+   "bull": 6,
    "bear": 5,
-   "engagement": 223
+   "engagement": 205
   },
   {
    "ticker": "NVDA",
@@ -19,11 +19,11 @@
    "engagement": 18
   },
   {
-   "ticker": "GME",
-   "mentions": 4,
+   "ticker": "QQQ",
+   "mentions": 5,
    "bull": 2,
    "bear": 1,
-   "engagement": 19
+   "engagement": 7
   },
   {
    "ticker": "META",
@@ -31,13 +31,6 @@
    "bull": 3,
    "bear": 2,
    "engagement": 84
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 4
   },
   {
    "ticker": "AMD",
@@ -54,11 +47,11 @@
    "engagement": 15
   },
   {
-   "ticker": "ORCL",
+   "ticker": "GME",
    "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 4
+   "bull": 2,
+   "bear": 1,
+   "engagement": 18
   },
   {
    "ticker": "MSFT",
@@ -96,6 +89,13 @@
    "engagement": 21
   },
   {
+   "ticker": "ORCL",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
    "ticker": "SPCE",
    "mentions": 1,
    "bull": 0,
@@ -103,14 +103,14 @@
    "engagement": 2
   },
   {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 3
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -124,14 +124,14 @@
    "engagement": 16
   },
   {
-   "ticker": "INTC",
+   "ticker": "TEM",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 17
   },
   {
-   "ticker": "TEM",
+   "ticker": "INTC",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -180,13 +180,6 @@
    "num_comments": 89,
    "created_utc": 1791678277,
    "url": "https://www.reddit.com/r/options/comments/1x2uabt/"
-  },
-  {
-   "title": "PMCC is absolutely the best strat out there in risk-adjusted return",
-   "score": 65,
-   "num_comments": 46,
-   "created_utc": 1788871163,
-   "url": "https://www.reddit.com/r/options/comments/1wanaa3/"
   },
   {
    "title": "First year trading full time. Up 83% and scared about next year.",
@@ -238,18 +231,25 @@
    "url": "https://www.reddit.com/r/options/comments/1wdg574/"
   },
   {
-   "title": "Fact Check: 0DTE Iron Condor Strategy With Zero Losses",
-   "score": 50,
-   "num_comments": 29,
-   "created_utc": 1788856686,
-   "url": "https://www.reddit.com/r/options/comments/1waio7e/"
-  },
-  {
    "title": "Trying all the option strategies",
    "score": 49,
    "num_comments": 29,
    "created_utc": 1790494191,
    "url": "https://www.reddit.com/r/options/comments/1wrdvs5/"
+  },
+  {
+   "title": "Is there anything to be learned from open interest?",
+   "score": 49,
+   "num_comments": 22,
+   "created_utc": 1789762359,
+   "url": "https://www.reddit.com/r/options/comments/1wk126l/"
+  },
+  {
+   "title": "0-1 DTE Traders: Identifying Trend Days and Exits",
+   "score": 47,
+   "num_comments": 48,
+   "created_utc": 1790209489,
+   "url": "https://www.reddit.com/r/options/comments/1womyhg/"
   }
  ]
 }

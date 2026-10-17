@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-16T13:06:43.395398+00:00",
+ "generated_at": "2026-10-17T12:56:45.378833+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-24T01:29:26+00:00",
+ "window_start": "2026-09-25T14:22:33+00:00",
  "top_tickers": [
   {
    "ticker": "QQQ",
@@ -10,13 +10,6 @@
    "bull": 0,
    "bear": 1,
    "engagement": 136
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 6
   },
   {
    "ticker": "NKTX",
@@ -33,11 +26,32 @@
    "engagement": 71
   },
   {
+   "ticker": "AMD",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
    "ticker": "META",
    "mentions": 2,
    "bull": 2,
    "bear": 0,
    "engagement": 23
+  },
+  {
+   "ticker": "FSLR",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "GUTS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 1
   },
   {
    "ticker": "ASTS",
@@ -134,8 +148,8 @@
   },
   {
    "title": "Wholesale prices jump in a wild 6.3% rally, biggest gain since 2022 when inflation ran almost 10%",
-   "score": 535,
-   "num_comments": 141,
+   "score": 749,
+   "num_comments": 164,
    "created_utc": 1792068232,
    "url": "https://www.reddit.com/r/investing/comments/1x6kmqw/"
   },
@@ -145,13 +159,6 @@
    "num_comments": 181,
    "created_utc": 1791061263,
    "url": "https://www.reddit.com/r/investing/comments/1wwxwcd/"
-  },
-  {
-   "title": "Starbucks takes $300M charge to close 250 stores and cut 2026 guidance",
-   "score": 426,
-   "num_comments": 148,
-   "created_utc": 1790253320,
-   "url": "https://www.reddit.com/r/investing/comments/1wp0get/"
   },
   {
    "title": "Only 1 of the 10 biggest US companies earns more than the 30-year Treasury pays",
@@ -215,6 +222,13 @@
    "num_comments": 156,
    "created_utc": 1791230470,
    "url": "https://www.reddit.com/r/investing/comments/1wyinsu/"
+  },
+  {
+   "title": "With Treasury yields above 5%, what would make you choose stocks over bonds right now?",
+   "score": 214,
+   "num_comments": 390,
+   "created_utc": 1791960144,
+   "url": "https://www.reddit.com/r/investing/comments/1x5k7fx/"
   }
  ]
 }

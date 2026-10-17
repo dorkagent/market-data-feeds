@@ -1,22 +1,22 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-16T13:07:05.329177+00:00",
+ "generated_at": "2026-10-17T12:57:27.564664+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-02T23:49:56+00:00",
+ "window_start": "2026-10-04T07:53:30+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 7,
    "bull": 2,
    "bear": 2,
-   "engagement": 614
+   "engagement": 616
   },
   {
    "ticker": "AMZN",
    "mentions": 7,
    "bull": 3,
    "bear": 2,
-   "engagement": 1040
+   "engagement": 1046
   },
   {
    "ticker": "NFLX",
@@ -26,32 +26,32 @@
    "engagement": 734
   },
   {
-   "ticker": "UBER",
-   "mentions": 4,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 696
-  },
-  {
-   "ticker": "AMD",
+   "ticker": "ASTS",
    "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 404
+   "bull": 2,
+   "bear": 3,
+   "engagement": 76
   },
   {
    "ticker": "APP",
    "mentions": 3,
    "bull": 0,
    "bear": 1,
-   "engagement": 28
+   "engagement": 41
   },
   {
    "ticker": "META",
    "mentions": 3,
    "bull": 0,
    "bear": 1,
-   "engagement": 599
+   "engagement": 605
+  },
+  {
+   "ticker": "UBER",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 695
   },
   {
    "ticker": "SOFI",
@@ -68,6 +68,20 @@
    "engagement": 62
   },
   {
+   "ticker": "AVGO",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 6
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
    "ticker": "PEW",
    "mentions": 2,
    "bull": 2,
@@ -75,11 +89,18 @@
    "engagement": 27
   },
   {
-   "ticker": "ASTS",
-   "mentions": 2,
+   "ticker": "NBIS",
+   "mentions": 1,
    "bull": 1,
-   "bear": 2,
-   "engagement": 48
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "FIS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "YB",
@@ -93,14 +114,14 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 7
   },
   {
    "ticker": "GOOGL",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 7
   },
   {
    "ticker": "SLQT",
@@ -114,14 +135,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 7
-  },
-  {
-   "ticker": "QURE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 43
+   "engagement": 8
   },
   {
    "ticker": "WISH",
@@ -129,20 +143,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 43
-  },
-  {
-   "ticker": "ALAB",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 5
-  },
-  {
-   "ticker": "MAAS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 5
   }
  ],
  "top_posts": [
@@ -210,13 +210,6 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x5buop/"
   },
   {
-   "title": "MAG 10 (MAG 7 plus Broadcom, Micron and AMD)",
-   "score": 175,
-   "num_comments": 227,
-   "created_utc": 1791048919,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wwszye/"
-  },
-  {
    "title": "What\u2019s the most CRIMINALLY undervalued stock in the market right now?",
    "score": 141,
    "num_comments": 756,
@@ -232,7 +225,7 @@
   },
   {
    "title": "T, VZ, TMUS all are dropping big time. Elon Musk is hyping SpaceX as they head into the share lockup ending. This is 2017 robo taxi all over",
-   "score": 114,
+   "score": 122,
    "num_comments": 59,
    "created_utc": 1791550829,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1kqn6/"
@@ -250,6 +243,13 @@
    "num_comments": 138,
    "created_utc": 1791843874,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x4fued/"
+  },
+  {
+   "title": "Selling is harder than buying",
+   "score": 94,
+   "num_comments": 56,
+   "created_utc": 1791463881,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x0q3nq/"
   }
  ]
 }

@@ -1,29 +1,57 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-16T13:06:34.554322+00:00",
+ "generated_at": "2026-10-17T12:56:23.623461+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-13T16:58:06+00:00",
+ "window_start": "2026-10-14T19:23:21+00:00",
  "top_tickers": [
   {
    "ticker": "TSLA",
-   "mentions": 7,
+   "mentions": 9,
    "bull": 2,
-   "bear": 3,
-   "engagement": 25
+   "bear": 4,
+   "engagement": 10
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 5,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 182
   },
   {
    "ticker": "GME",
-   "mentions": 5,
-   "bull": 2,
+   "mentions": 4,
+   "bull": 1,
    "bear": 0,
-   "engagement": 30
+   "engagement": 3
   },
   {
-   "ticker": "META",
+   "ticker": "CRWV",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 218
+  },
+  {
+   "ticker": "MU",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "BR",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 2
+  },
+  {
+   "ticker": "RKLB",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 549
   },
   {
    "ticker": "AMD",
@@ -40,13 +68,6 @@
    "engagement": 2
   },
   {
-   "ticker": "CRWV",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 109
-  },
-  {
    "ticker": "SPY",
    "mentions": 2,
    "bull": 0,
@@ -54,125 +75,90 @@
    "engagement": 632
   },
   {
+   "ticker": "QQQ",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "WULF",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SOFI",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "ROPE",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "NVO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "HTZ",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "MRNA",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 0
+  },
+  {
+   "ticker": "META",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "LULU",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "BWEN",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "MP",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "NBIS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 70
-  },
-  {
-   "ticker": "MU",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "MSTR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 52
-  },
-  {
-   "ticker": "SPCX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 371
-  },
-  {
-   "ticker": "AAPL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 203
-  },
-  {
-   "ticker": "ASTS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 150
-  },
-  {
-   "ticker": "DXYZ",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 8
-  },
-  {
-   "ticker": "BORR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 31
-  },
-  {
-   "ticker": "TLT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 107
-  },
-  {
-   "ticker": "MS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 13
   }
  ],
  "top_posts": [
   {
-   "title": "broad market is breaking down while top 10 big tech holds up the s&p 500 illusion",
-   "score": 9066,
-   "num_comments": 1098,
-   "created_utc": 1791914819,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x5415v/"
-  },
-  {
-   "title": "It's over. Done with. Terminated. Donezo.",
-   "score": 8348,
-   "num_comments": 344,
-   "created_utc": 1792062690,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6iuac/"
-  },
-  {
    "title": "\u201cThe name\u2019s Bond. Junk Bond.\u201d",
-   "score": 5955,
-   "num_comments": 313,
+   "score": 10971,
+   "num_comments": 533,
    "created_utc": 1792085203,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6rw40/"
   },
   {
-   "title": "Consumer prices rose 0.6% in September, putting annual inflation rate at 3.7%",
-   "score": 4538,
-   "num_comments": 531,
-   "created_utc": 1791981522,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x5q4jo/"
+   "title": "It's over. Done with. Terminated. Donezo.",
+   "score": 10642,
+   "num_comments": 397,
+   "created_utc": 1792062690,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6iuac/"
   },
   {
    "title": "Michael burry rn",
@@ -182,6 +168,13 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x60img/"
   },
   {
+   "title": "Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month",
+   "score": 3287,
+   "num_comments": 659,
+   "created_utc": 1792110504,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x725yl/"
+  },
+  {
    "title": "Tesla has officially lost the plot..",
    "score": 2874,
    "num_comments": 1981,
@@ -189,18 +182,32 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x73hxs/"
   },
   {
-   "title": "Might as well buy both",
-   "score": 2727,
-   "num_comments": 71,
-   "created_utc": 1791942063,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x5et93/"
+   "title": "Current state of the market",
+   "score": 2773,
+   "num_comments": 85,
+   "created_utc": 1792074144,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6mzgj/"
   },
   {
-   "title": "Did I just marginalize myself into a millionaire \ud83e\udd14",
-   "score": 2510,
-   "num_comments": 1172,
-   "created_utc": 1791924941,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x58hng/"
+   "title": "Game Over",
+   "score": 2238,
+   "num_comments": 534,
+   "created_utc": 1792082216,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6qk73/"
+  },
+  {
+   "title": "US PPI rose by 6.3% compared to a forecast of 5.4%",
+   "score": 2229,
+   "num_comments": 412,
+   "created_utc": 1792068327,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6knyt/"
+  },
+  {
+   "title": "KOPSI down another 8%, we\u2019re all fucked tomorrow morning",
+   "score": 2209,
+   "num_comments": 633,
+   "created_utc": 1792036235,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6blz0/"
   },
   {
    "title": "Bears R Back Once More",
@@ -210,46 +217,39 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x64xgu/"
   },
   {
-   "title": "KOPSI down another 8%, we\u2019re all fucked tomorrow morning",
-   "score": 2132,
-   "num_comments": 610,
-   "created_utc": 1792036235,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6blz0/"
-  },
-  {
-   "title": "Skydance Stock Down 25% After Warrants Issued to Paramount Investors",
-   "score": 2088,
-   "num_comments": 123,
-   "created_utc": 1791997199,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x5wo9e/"
-  },
-  {
    "title": "How we feeling about tomorrow?",
-   "score": 1998,
-   "num_comments": 342,
+   "score": 2159,
+   "num_comments": 349,
    "created_utc": 1792038498,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6cage/"
   },
   {
-   "title": "US PPI rose by 6.3% compared to a forecast of 5.4%",
-   "score": 1935,
-   "num_comments": 376,
-   "created_utc": 1792068327,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6knyt/"
+   "title": "Well...",
+   "score": 1737,
+   "num_comments": 110,
+   "created_utc": 1792034514,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6b32e/"
   },
   {
-   "title": "Soo true",
-   "score": 1783,
-   "num_comments": 27,
-   "created_utc": 1791966599,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x5luia/"
+   "title": "TSMC profit soars 69% in another record quarter fueled by AI boom",
+   "score": 1512,
+   "num_comments": 149,
+   "created_utc": 1792045600,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6eacg/"
   },
   {
-   "title": "Current state of the market",
-   "score": 1760,
-   "num_comments": 69,
-   "created_utc": 1792074144,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6mzgj/"
+   "title": "Feels good, man.",
+   "score": 1438,
+   "num_comments": 160,
+   "created_utc": 1792100485,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6ygfh/"
+  },
+  {
+   "title": "Anthropic Q3 revenue $16.8B",
+   "score": 1345,
+   "num_comments": 1098,
+   "created_utc": 1792016146,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x64s31/"
   }
  ]
 }

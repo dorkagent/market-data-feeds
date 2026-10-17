@@ -1,8 +1,8 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-10-16T13:07:11.653238+00:00",
+ "generated_at": "2026-10-17T12:57:38.763599+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-20T07:20:53+00:00",
+ "window_start": "2026-08-21T16:53:15+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
@@ -19,11 +19,18 @@
    "engagement": 1071
   },
   {
+   "ticker": "QQQ",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 3,
+   "engagement": 108
+  },
+  {
    "ticker": "INTC",
    "mentions": 4,
    "bull": 2,
    "bear": 2,
-   "engagement": 233
+   "engagement": 253
   },
   {
    "ticker": "SPY",
@@ -52,13 +59,6 @@
    "bull": 2,
    "bear": 2,
    "engagement": 31
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 106
   },
   {
    "ticker": "MU",
@@ -110,14 +110,21 @@
    "engagement": 18
   },
   {
-   "ticker": "AXTI",
+   "ticker": "DRAM",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "SNXX",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 11
   },
   {
-   "ticker": "SNXX",
+   "ticker": "SPCH",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -131,14 +138,7 @@
    "engagement": 11
   },
   {
-   "ticker": "ROBN",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 11
-  },
-  {
-   "ticker": "VST",
+   "ticker": "VXT",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
