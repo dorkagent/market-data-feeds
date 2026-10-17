@@ -1,12 +1,22 @@
 {
-  "run_at_utc": "2026-10-16T15:51:54Z",
-  "run_at_pt": "2026-10-16 08:51 PDT",
+  "run_at_utc": "2026-10-17T15:45:02Z",
+  "run_at_pt": "2026-10-17 08:45 PDT",
   "note": "Context layer \u2014 informs, never triggers trades alone.",
   "failures": [],
-  "flags": [],
+  "flags": [
+    {
+      "flag": "protocol_tvl_mover",
+      "detail": "OKX: TVL $34.2B, +9.2% 7d / +10.3% 1d"
+    }
+  ],
   "fear_greed": {
     "status": "live",
     "history_31d": [
+      {
+        "date": "2026-10-17",
+        "value": 55,
+        "classification": "Greed"
+      },
       {
         "date": "2026-10-16",
         "value": 63,
@@ -156,18 +166,13 @@
         "date": "2026-09-17",
         "value": 50,
         "classification": "Neutral"
-      },
-      {
-        "date": "2026-09-16",
-        "value": 51,
-        "classification": "Neutral"
       }
     ],
     "flags": [],
-    "value": 63,
+    "value": 55,
     "classification": "Greed",
-    "date": "2026-10-16",
-    "change_7d": -1
+    "date": "2026-10-17",
+    "change_7d": -6
   },
   "coingecko": {
     "status": "live",
@@ -175,101 +180,101 @@
     "key_status": "pending (keyless fallback, lower rate)",
     "coins": {
       "BTC": {
-        "price_usd": 81530.0,
-        "market_cap_usd": 1638913144851.0,
-        "chg_1h_pct": -0.0651,
-        "chg_24h_pct": -0.93221,
-        "chg_7d_pct": -0.7922
+        "price_usd": 81401.0,
+        "market_cap_usd": 1636048615603.0,
+        "chg_1h_pct": 0.0876,
+        "chg_24h_pct": -0.2632,
+        "chg_7d_pct": -1.5426
       },
       "ETH": {
-        "price_usd": 2438.33,
-        "market_cap_usd": 297838859151.0,
-        "chg_1h_pct": 0.0811,
-        "chg_24h_pct": -0.00376,
-        "chg_7d_pct": -0.9612
+        "price_usd": 2412.46,
+        "market_cap_usd": 294655353964.0,
+        "chg_1h_pct": 0.1164,
+        "chg_24h_pct": -1.20072,
+        "chg_7d_pct": -2.8905
       },
       "SOL": {
-        "price_usd": 104.44,
-        "market_cap_usd": 61553815465.0,
-        "chg_1h_pct": 0.1306,
-        "chg_24h_pct": -1.33442,
-        "chg_7d_pct": -3.5132
+        "price_usd": 103.88,
+        "market_cap_usd": 61226239440.0,
+        "chg_1h_pct": 0.3203,
+        "chg_24h_pct": -0.69461,
+        "chg_7d_pct": -5.1111
       },
       "DOGE": {
-        "price_usd": 0.080657,
-        "market_cap_usd": 12611423202.0,
-        "chg_1h_pct": -0.0384,
-        "chg_24h_pct": -0.72336,
-        "chg_7d_pct": -3.472
+        "price_usd": 0.079362,
+        "market_cap_usd": 12407126500.0,
+        "chg_1h_pct": 0.3607,
+        "chg_24h_pct": -1.78129,
+        "chg_7d_pct": -6.8099
       },
       "SHIB": {
-        "price_usd": 5.09e-06,
-        "market_cap_usd": 3002175890.0,
-        "chg_1h_pct": -0.1442,
-        "chg_24h_pct": -0.16236,
-        "chg_7d_pct": -4.0617
+        "price_usd": 5e-06,
+        "market_cap_usd": 2944381055.0,
+        "chg_1h_pct": 0.2938,
+        "chg_24h_pct": -1.95753,
+        "chg_7d_pct": -7.6808
       },
       "PEPE": {
-        "price_usd": 4e-06,
-        "market_cap_usd": 1682805174.0,
-        "chg_1h_pct": -0.1273,
-        "chg_24h_pct": -3.93236,
-        "chg_7d_pct": 4.5649
+        "price_usd": 3.91e-06,
+        "market_cap_usd": 1643336009.0,
+        "chg_1h_pct": 0.0498,
+        "chg_24h_pct": -2.5987,
+        "chg_7d_pct": -2.3012
       },
       "TRUMP": {
-        "price_usd": 1.83,
-        "market_cap_usd": 514650973.0,
-        "chg_1h_pct": -0.9488,
-        "chg_24h_pct": -2.87856,
-        "chg_7d_pct": 0.3156
+        "price_usd": 1.77,
+        "market_cap_usd": 499538006.0,
+        "chg_1h_pct": 0.4882,
+        "chg_24h_pct": -3.11272,
+        "chg_7d_pct": -4.827
       },
       "BONK": {
-        "price_usd": 3.05e-06,
-        "market_cap_usd": 268333104.0,
-        "chg_1h_pct": -0.4754,
-        "chg_24h_pct": -1.6919,
-        "chg_7d_pct": -6.9974
+        "price_usd": 2.98e-06,
+        "market_cap_usd": 262379985.0,
+        "chg_1h_pct": 0.4596,
+        "chg_24h_pct": -2.47044,
+        "chg_7d_pct": -11.3264
       },
       "WIF": {
-        "price_usd": 0.200599,
-        "market_cap_usd": 200453133.0,
-        "chg_1h_pct": -0.0171,
-        "chg_24h_pct": -0.26819,
-        "chg_7d_pct": -3.4209
+        "price_usd": 0.198859,
+        "market_cap_usd": 198630729.0,
+        "chg_1h_pct": 0.399,
+        "chg_24h_pct": -1.21847,
+        "chg_7d_pct": -7.6418
       }
     }
   },
   "defillama": {
     "status": "live",
     "stablecoins": {
-      "total_supply_usd": 306013204594.99994,
-      "wow_pct": -0.5094562205820583,
-      "day_pct": -0.17036032966369283,
+      "total_supply_usd": 306549498161.1657,
+      "wow_pct": -0.11284582832320267,
+      "day_pct": 0.1286592060477774,
       "top5": [
         {
           "name": "Tether",
           "symbol": "USDT",
-          "circulating_usd": 183473410414.59225
+          "circulating_usd": 183352235428.7486
         },
         {
           "name": "USD Coin",
           "symbol": "USDC",
-          "circulating_usd": 72647745002.12549
+          "circulating_usd": 72635150738.61584
         },
         {
           "name": "Sky Dollar",
           "symbol": "USDS",
-          "circulating_usd": 7055960142.725131
+          "circulating_usd": 7040043426.658603
         },
         {
           "name": "Dai",
           "symbol": "DAI",
-          "circulating_usd": 4725699518.800088
+          "circulating_usd": 4723320862.97211
         },
         {
           "name": "Ethena USDe",
           "symbol": "USDe",
-          "circulating_usd": 4697131798.6738615
+          "circulating_usd": 4684176636.221902
         }
       ],
       "flags": []
@@ -277,95 +282,102 @@
     "protocol_tvl_top15": [
       {
         "name": "Binance CEX",
-        "tvl_usd": 170539340875.524,
-        "change_1d_pct": 1.84,
-        "change_7d_pct": -0.46
+        "tvl_usd": 169136558885.54984,
+        "change_1d_pct": -1.17,
+        "change_7d_pct": -1.95
       },
       {
         "name": "OKX",
-        "tvl_usd": 30918755395.049763,
-        "change_1d_pct": 1.68,
-        "change_7d_pct": -0.64
+        "tvl_usd": 34236347221.678276,
+        "change_1d_pct": 10.27,
+        "change_7d_pct": 9.23
       },
       {
         "name": "Lido",
-        "tvl_usd": 23808824172.624336,
-        "change_1d_pct": 4.55,
-        "change_7d_pct": -1.87
+        "tvl_usd": 23506122005.76476,
+        "change_1d_pct": -1.75,
+        "change_7d_pct": -3.0
       },
       {
         "name": "Bitfinex",
-        "tvl_usd": 21151638065.69058,
-        "change_1d_pct": 0.66,
-        "change_7d_pct": 1.44
+        "tvl_usd": 21023154985.639187,
+        "change_1d_pct": -1.1,
+        "change_7d_pct": 0.54
       },
       {
         "name": "Aave V3",
-        "tvl_usd": 17158950456.721478,
-        "change_1d_pct": 3.0,
-        "change_7d_pct": -1.05
+        "tvl_usd": 16961294111.473587,
+        "change_1d_pct": -1.15,
+        "change_7d_pct": -2.36
       },
       {
         "name": "Bybit",
-        "tvl_usd": 15833268510.52966,
-        "change_1d_pct": 1.96,
-        "change_7d_pct": -1.8
+        "tvl_usd": 15572996556.608793,
+        "change_1d_pct": -1.9,
+        "change_7d_pct": -4.07
       },
       {
         "name": "Robinhood",
-        "tvl_usd": 14852808154.58663,
-        "change_1d_pct": 2.2,
-        "change_7d_pct": -1.59
+        "tvl_usd": 14747609260.387674,
+        "change_1d_pct": -1.26,
+        "change_7d_pct": -2.06
       },
       {
         "name": "SSV Network",
-        "tvl_usd": 12958523649.745708,
-        "change_1d_pct": 4.51,
-        "change_7d_pct": -0.41
+        "tvl_usd": 12669771596.012974,
+        "change_1d_pct": -1.25,
+        "change_7d_pct": -2.95
       },
       {
         "name": "LayerZero V2",
-        "tvl_usd": 11210299478.216026,
-        "change_1d_pct": 0.69,
-        "change_7d_pct": -4.69
+        "tvl_usd": 11328361077.51221,
+        "change_1d_pct": 1.05,
+        "change_7d_pct": -2.36
       },
       {
         "name": "Morpho Blue",
-        "tvl_usd": 11069542382.273626,
-        "change_1d_pct": 1.63,
-        "change_7d_pct": -1.2
+        "tvl_usd": 11014161336.14483,
+        "change_1d_pct": -0.5,
+        "change_7d_pct": -1.99
       },
       {
         "name": "WBTC",
-        "tvl_usd": 9540221879.259117,
-        "change_1d_pct": 1.58,
-        "change_7d_pct": -1.44
+        "tvl_usd": 9495014067.161013,
+        "change_1d_pct": -0.47,
+        "change_7d_pct": -1.75
       },
       {
         "name": "Binance staked ETH",
-        "tvl_usd": 9148022822.384295,
-        "change_1d_pct": 4.33,
-        "change_7d_pct": -1.6
+        "tvl_usd": 9033573924.117466,
+        "change_1d_pct": -1.25,
+        "change_7d_pct": -2.96
       },
       {
         "name": "Coinbase Bridge",
-        "tvl_usd": 7984366676.693868,
-        "change_1d_pct": 1.86,
-        "change_7d_pct": -1.08
+        "tvl_usd": 7939315969.318691,
+        "change_1d_pct": -1.05,
+        "change_7d_pct": -1.58
       },
       {
         "name": "Gate",
-        "tvl_usd": 7263959476.65083,
-        "change_1d_pct": 2.69,
-        "change_7d_pct": -1.52
+        "tvl_usd": 7244406778.280774,
+        "change_1d_pct": -0.36,
+        "change_7d_pct": -2.14
       },
       {
         "name": "Hyperliquid Bridge",
-        "tvl_usd": 6758029288.538402,
-        "change_1d_pct": -0.39,
-        "change_7d_pct": -2.2
+        "tvl_usd": 6728514009.70166,
+        "change_1d_pct": -0.34,
+        "change_7d_pct": -3.34
       }
     ],
-    "protocol_movers": []
+    "protocol_movers": [
+      {
+        "name": "OKX",
+        "tvl_usd": 34236347221.678276,
+        "change_1d_pct": 10.27,
+        "change_7d_pct": 9.23
+      }
+    ]
   }
 }
