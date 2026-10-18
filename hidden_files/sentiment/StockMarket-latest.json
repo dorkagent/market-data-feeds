@@ -1,9 +1,16 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-17T12:57:14.979629+00:00",
+ "generated_at": "2026-10-18T12:56:38.377936+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-07T11:05:20+00:00",
+ "window_start": "2026-09-08T04:09:36+00:00",
  "top_tickers": [
+  {
+   "ticker": "AVGO",
+   "mentions": 5,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 133
+  },
   {
    "ticker": "NVDA",
    "mentions": 5,
@@ -17,13 +24,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 207
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 4,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 132
   },
   {
    "ticker": "SPY",
@@ -131,14 +131,14 @@
    "engagement": 4
   },
   {
-   "ticker": "CCO",
+   "ticker": "HONA",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "DOL",
+   "ticker": "WCN",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -245,11 +245,11 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1whapog/"
   },
   {
-   "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
-   "score": 1791,
-   "num_comments": 161,
-   "created_utc": 1788788663,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1w9sl3r/"
+   "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+   "score": 1688,
+   "num_comments": 64,
+   "created_utc": 1791477252,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1x0vnok/"
   }
  ]
 }

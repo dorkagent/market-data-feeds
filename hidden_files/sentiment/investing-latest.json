@@ -1,23 +1,9 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-17T12:56:45.378833+00:00",
+ "generated_at": "2026-10-18T12:56:25.746519+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-25T14:22:33+00:00",
+ "window_start": "2026-09-25T22:54:18+00:00",
  "top_tickers": [
-  {
-   "ticker": "QQQ",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 136
-  },
-  {
-   "ticker": "NKTX",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 2
-  },
   {
    "ticker": "PLTR",
    "mentions": 2,
@@ -31,6 +17,13 @@
    "bull": 0,
    "bear": 0,
    "engagement": 4
+  },
+  {
+   "ticker": "NKTX",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 0
   },
   {
    "ticker": "META",
@@ -51,7 +44,14 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 1
+   "engagement": 3
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 132
   },
   {
    "ticker": "ASTS",
@@ -189,6 +189,13 @@
    "url": "https://www.reddit.com/r/investing/comments/1wt6ews/"
   },
   {
+   "title": "Coreweave buys 8% of NVIDIA chips, and NVIDIA backs Coreweave. Now Coreweave is having trouble, how about NVIDIA's revenue?",
+   "score": 320,
+   "num_comments": 124,
+   "created_utc": 1792115737,
+   "url": "https://www.reddit.com/r/investing/comments/1x73wod/"
+  },
+  {
    "title": "[ Removed by moderator ]",
    "score": 299,
    "num_comments": 265,
@@ -222,13 +229,6 @@
    "num_comments": 156,
    "created_utc": 1791230470,
    "url": "https://www.reddit.com/r/investing/comments/1wyinsu/"
-  },
-  {
-   "title": "With Treasury yields above 5%, what would make you choose stocks over bonds right now?",
-   "score": 214,
-   "num_comments": 390,
-   "created_utc": 1791960144,
-   "url": "https://www.reddit.com/r/investing/comments/1x5k7fx/"
   }
  ]
 }

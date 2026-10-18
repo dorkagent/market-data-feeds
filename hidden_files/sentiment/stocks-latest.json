@@ -1,16 +1,9 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-17T12:56:57.494492+00:00",
+ "generated_at": "2026-10-18T12:56:31.090217+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-06T23:23:02+00:00",
+ "window_start": "2026-10-07T17:57:15+00:00",
  "top_tickers": [
-  {
-   "ticker": "META",
-   "mentions": 5,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 120
-  },
   {
    "ticker": "BORR",
    "mentions": 4,
@@ -19,25 +12,32 @@
    "engagement": 7
   },
   {
-   "ticker": "NVDA",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 727
-  },
-  {
    "ticker": "CRWV",
    "mentions": 4,
    "bull": 1,
    "bear": 2,
-   "engagement": 439
+   "engagement": 463
   },
   {
-   "ticker": "MRVL",
+   "ticker": "META",
    "mentions": 4,
-   "bull": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 89
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 3,
+   "bull": 0,
    "bear": 0,
-   "engagement": 28
+   "engagement": 113
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 52
   },
   {
    "ticker": "NBIS",
@@ -59,6 +59,13 @@
    "bull": 0,
    "bear": 0,
    "engagement": 4
+  },
+  {
+   "ticker": "MRVL",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 27
   },
   {
    "ticker": "WDAY",
@@ -89,25 +96,11 @@
    "engagement": 111
   },
   {
-   "ticker": "AVGO",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 111
-  },
-  {
    "ticker": "SPCX",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
    "engagement": 726
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
   },
   {
    "ticker": "NIO",
@@ -124,25 +117,32 @@
    "engagement": 60
   },
   {
-   "ticker": "AMD",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "QNT",
+   "ticker": "AAOI",
    "mentions": 1,
    "bull": 0,
-   "bear": 0,
+   "bear": 1,
    "engagement": 1
   },
   {
-   "ticker": "MSTR",
+   "ticker": "TE",
    "mentions": 1,
    "bull": 0,
-   "bear": 0,
-   "engagement": 2
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "KLAR",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "ONDS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 1
   }
  ],
  "top_posts": [
@@ -210,13 +210,6 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x66gqa/"
   },
   {
-   "title": "SpaceX Doubling Its Debt With $40B NVDA Chip Buy",
-   "score": 507,
-   "num_comments": 216,
-   "created_utc": 1791372174,
-   "url": "https://www.reddit.com/r/stocks/comments/1wztydi/"
-  },
-  {
    "title": "Data shows that the 10-year Treasury yield is above 5.3% and crude oil prices are above $100, so why is the market sell-off so weak today?",
    "score": 446,
    "num_comments": 349,
@@ -238,11 +231,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x5rvwu/"
   },
   {
-   "title": "Webull stock drops 20% as its ties to China create national security risk as per congressional panel",
-   "score": 325,
-   "num_comments": 74,
-   "created_utc": 1791386552,
-   "url": "https://www.reddit.com/r/stocks/comments/1wzzd41/"
+   "title": "Just buy, log out, and check back in a month?",
+   "score": 347,
+   "num_comments": 173,
+   "created_utc": 1792171347,
+   "url": "https://www.reddit.com/r/stocks/comments/1x7m9yr/"
   },
   {
    "title": "Best \"Buy the Dip\" Stocks This Week?",
@@ -250,6 +243,13 @@
    "num_comments": 391,
    "created_utc": 1791989303,
    "url": "https://www.reddit.com/r/stocks/comments/1x5t70s/"
+  },
+  {
+   "title": "SpaceX takes aim at US wireless carriers with spectrum acquisition",
+   "score": 300,
+   "num_comments": 196,
+   "created_utc": 1791494446,
+   "url": "https://www.reddit.com/r/stocks/comments/1x136gz/"
   }
  ]
 }

@@ -1,36 +1,29 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-17T12:56:23.623461+00:00",
+ "generated_at": "2026-10-18T12:56:19.735599+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-14T19:23:21+00:00",
+ "window_start": "2026-10-15T05:24:44+00:00",
  "top_tickers": [
   {
    "ticker": "TSLA",
    "mentions": 9,
    "bull": 2,
    "bear": 4,
-   "engagement": 10
+   "engagement": 20584
   },
   {
    "ticker": "NBIS",
    "mentions": 5,
    "bull": 1,
    "bear": 1,
-   "engagement": 182
+   "engagement": 243
   },
   {
    "ticker": "GME",
    "mentions": 4,
    "bull": 1,
    "bear": 0,
-   "engagement": 3
-  },
-  {
-   "ticker": "CRWV",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 218
+   "engagement": 67
   },
   {
    "ticker": "MU",
@@ -40,6 +33,41 @@
    "engagement": 3
   },
   {
+   "ticker": "MSTR",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 70
+  },
+  {
+   "ticker": "ALK",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
+   "ticker": "JBLU",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
+   "ticker": "UAL",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
+   "ticker": "LUV",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
    "ticker": "BR",
    "mentions": 2,
    "bull": 0,
@@ -47,32 +75,39 @@
    "engagement": 2
   },
   {
-   "ticker": "RKLB",
+   "ticker": "CRWV",
    "mentions": 2,
    "bull": 1,
-   "bear": 0,
-   "engagement": 549
+   "bear": 1,
+   "engagement": 179
   },
   {
    "ticker": "AMD",
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 2
+   "engagement": 10468
   },
   {
    "ticker": "FTCI",
    "mentions": 2,
    "bull": 2,
    "bear": 0,
-   "engagement": 2
+   "engagement": 1
   },
   {
    "ticker": "SPY",
-   "mentions": 2,
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 632
+   "engagement": 1
   },
   {
    "ticker": "QQQ",
@@ -93,59 +128,45 @@
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 4
   },
   {
    "ticker": "ROPE",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 10
   },
   {
    "ticker": "NVO",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "HTZ",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "MRNA",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 0
-  },
-  {
-   "ticker": "META",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "LULU",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
+   "engagement": 53
   }
  ],
  "top_posts": [
+  {
+   "title": "Buckle up Fucklehead!",
+   "score": 29784,
+   "num_comments": 1632,
+   "created_utc": 1792173067,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7n0ov/"
+  },
+  {
+   "title": "Tesla has officially lost the plot..",
+   "score": 22320,
+   "num_comments": 8457,
+   "created_utc": 1792114500,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x73hxs/"
+  },
+  {
+   "title": "TSLA chart",
+   "score": 13665,
+   "num_comments": 476,
+   "created_utc": 1792125421,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x76xrt/"
+  },
   {
    "title": "\u201cThe name\u2019s Bond. Junk Bond.\u201d",
    "score": 10971,
@@ -161,11 +182,25 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6iuac/"
   },
   {
-   "title": "Michael burry rn",
-   "score": 3833,
-   "num_comments": 285,
-   "created_utc": 1792005801,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x60img/"
+   "title": "+$16,000,000 on AMD and SOXL. Sold it all.",
+   "score": 9343,
+   "num_comments": 1124,
+   "created_utc": 1792145965,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7chad/"
+  },
+  {
+   "title": "Per Sofia, its puts on $TSLA",
+   "score": 5494,
+   "num_comments": 46,
+   "created_utc": 1792172412,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7mqih/"
+  },
+  {
+   "title": "Congrats, the market is more regarded than you.",
+   "score": 4617,
+   "num_comments": 437,
+   "created_utc": 1792139322,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7apv5/"
   },
   {
    "title": "Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month",
@@ -175,11 +210,11 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x725yl/"
   },
   {
-   "title": "Tesla has officially lost the plot..",
-   "score": 2874,
-   "num_comments": 1981,
-   "created_utc": 1792114500,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x73hxs/"
+   "title": "It's finally over. I'm free.",
+   "score": 3263,
+   "num_comments": 550,
+   "created_utc": 1792164032,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7j1uy/"
   },
   {
    "title": "Current state of the market",
@@ -203,53 +238,18 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6knyt/"
   },
   {
-   "title": "KOPSI down another 8%, we\u2019re all fucked tomorrow morning",
-   "score": 2209,
-   "num_comments": 633,
-   "created_utc": 1792036235,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6blz0/"
+   "title": "Anthropic secured highest junk credit rating in June",
+   "score": 2133,
+   "num_comments": 192,
+   "created_utc": 1792160190,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7hf7q/"
   },
   {
-   "title": "Bears R Back Once More",
-   "score": 2186,
-   "num_comments": 136,
-   "created_utc": 1792016537,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x64xgu/"
-  },
-  {
-   "title": "How we feeling about tomorrow?",
-   "score": 2159,
-   "num_comments": 349,
-   "created_utc": 1792038498,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6cage/"
-  },
-  {
-   "title": "Well...",
-   "score": 1737,
-   "num_comments": 110,
-   "created_utc": 1792034514,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6b32e/"
-  },
-  {
-   "title": "TSMC profit soars 69% in another record quarter fueled by AI boom",
-   "score": 1512,
-   "num_comments": 149,
-   "created_utc": 1792045600,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6eacg/"
-  },
-  {
-   "title": "Feels good, man.",
-   "score": 1438,
-   "num_comments": 160,
-   "created_utc": 1792100485,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6ygfh/"
-  },
-  {
-   "title": "Anthropic Q3 revenue $16.8B",
-   "score": 1345,
-   "num_comments": 1098,
-   "created_utc": 1792016146,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x64s31/"
+   "title": "Me and many of you AI \"investors\" after this week",
+   "score": 2014,
+   "num_comments": 205,
+   "created_utc": 1792168618,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7l2ux/"
   }
  ]
 }

@@ -1,36 +1,36 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-17T12:57:27.564664+00:00",
+ "generated_at": "2026-10-18T12:56:44.278442+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-04T07:53:30+00:00",
+ "window_start": "2026-10-05T00:13:58+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 7,
    "bull": 2,
    "bear": 2,
-   "engagement": 616
+   "engagement": 854
   },
   {
    "ticker": "AMZN",
-   "mentions": 7,
+   "mentions": 6,
    "bull": 3,
    "bear": 2,
-   "engagement": 1046
+   "engagement": 933
   },
   {
    "ticker": "NFLX",
-   "mentions": 6,
+   "mentions": 5,
    "bull": 1,
    "bear": 0,
-   "engagement": 734
+   "engagement": 128
   },
   {
    "ticker": "ASTS",
    "mentions": 3,
    "bull": 2,
    "bear": 3,
-   "engagement": 76
+   "engagement": 80
   },
   {
    "ticker": "APP",
@@ -45,13 +45,6 @@
    "bull": 0,
    "bear": 1,
    "engagement": 605
-  },
-  {
-   "ticker": "UBER",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 695
   },
   {
    "ticker": "SOFI",
@@ -79,7 +72,7 @@
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 2
+   "engagement": 70
   },
   {
    "ticker": "PEW",
@@ -87,6 +80,13 @@
    "bull": 2,
    "bear": 2,
    "engagement": 27
+  },
+  {
+   "ticker": "UBER",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 89
   },
   {
    "ticker": "NBIS",
@@ -100,24 +100,24 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 10
   },
   {
    "ticker": "YB",
    "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
+   "bull": 1,
+   "bear": 1,
+   "engagement": 10
   },
   {
-   "ticker": "CRWV",
+   "ticker": "GOOGL",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 7
   },
   {
-   "ticker": "GOOGL",
+   "ticker": "CRWV",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -147,18 +147,18 @@
  ],
  "top_posts": [
   {
-   "title": "Warren Buffett on When To Give Up on a Business (with transcript)",
-   "score": 595,
-   "num_comments": 40,
-   "created_utc": 1791157984,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wxu6y2/"
-  },
-  {
    "title": "Google a screaming buy?",
    "score": 384,
    "num_comments": 294,
    "created_utc": 1791222479,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wyf5gh/"
+  },
+  {
+   "title": "Another Tesla scam? The flying Roadster edition",
+   "score": 321,
+   "num_comments": 205,
+   "created_utc": 1792156373,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x7fvsx/"
   },
   {
    "title": "My take on ADBE as ex SWE at Adobe",
@@ -180,13 +180,6 @@
    "num_comments": 508,
    "created_utc": 1791307090,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wz8dhv/"
-  },
-  {
-   "title": "First to turnaround, (MCD, NFLX, UBER, NIKE)",
-   "score": 271,
-   "num_comments": 335,
-   "created_utc": 1791122294,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wxgcbl/"
   },
   {
    "title": "Which is the best value right now: NVDA, AMZN, GOOGL or META?",
@@ -229,6 +222,13 @@
    "num_comments": 59,
    "created_utc": 1791550829,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1kqn6/"
+  },
+  {
+   "title": "Indonesian stocks dive 11% as MSCI weighs market reclassification; are there any high quality Indonesian companies that are undervalued due ",
+   "score": 121,
+   "num_comments": 70,
+   "created_utc": 1792190928,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x7uf9t/"
   },
   {
    "title": "Micron lost $150B in four days. It still earns nearly 3x Coke, Pepsi and McDonald's combined",

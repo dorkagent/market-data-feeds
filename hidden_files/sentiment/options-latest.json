@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-17T12:57:47.851713+00:00",
+ "generated_at": "2026-10-18T12:56:57.476802+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-08T17:25:54+00:00",
+ "window_start": "2026-09-09T07:30:54+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -26,13 +26,6 @@
    "engagement": 7
   },
   {
-   "ticker": "META",
-   "mentions": 4,
-   "bull": 3,
-   "bear": 2,
-   "engagement": 84
-  },
-  {
    "ticker": "AMD",
    "mentions": 3,
    "bull": 2,
@@ -52,6 +45,13 @@
    "bull": 2,
    "bear": 1,
    "engagement": 18
+  },
+  {
+   "ticker": "META",
+   "mentions": 3,
+   "bull": 3,
+   "bear": 2,
+   "engagement": 75
   },
   {
    "ticker": "MSFT",
