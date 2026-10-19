@@ -1,32 +1,48 @@
 {
-  "generated_utc": "2026-10-12T16:38:31.225631+00:00",
+  "generated_utc": "2026-10-19T16:56:05.169349+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. Weekly Treasury auction demand; bid-to-cover < 2.0 on long bonds = weak demand context.",
   "source": "FiscalData Treasury auctions_query (keyless)",
   "status": "ok",
   "tenors": {
-    "4-Week": {
-      "auction_date": "2026-10-08",
-      "security_term": "4-Week",
-      "bid_to_cover": 2.4,
-      "high_yield": null,
-      "dealer_share": 0.366,
-      "indirect_share": 0.573
-    },
     "8-Week": {
-      "auction_date": "2026-10-08",
+      "auction_date": "2026-10-15",
       "security_term": "8-Week",
-      "bid_to_cover": 2.77,
+      "bid_to_cover": 2.26,
       "high_yield": null,
-      "dealer_share": 0.234,
-      "indirect_share": 0.703
+      "dealer_share": 0.474,
+      "indirect_share": 0.469
+    },
+    "4-Week": {
+      "auction_date": "2026-10-15",
+      "security_term": "4-Week",
+      "bid_to_cover": 2.56,
+      "high_yield": null,
+      "dealer_share": 0.309,
+      "indirect_share": 0.633
     },
     "17-Week": {
-      "auction_date": "2026-10-07",
+      "auction_date": "2026-10-14",
       "security_term": "17-Week",
-      "bid_to_cover": 3.1,
+      "bid_to_cover": 2.79,
       "high_yield": null,
-      "dealer_share": 0.302,
-      "indirect_share": 0.597
+      "dealer_share": 0.378,
+      "indirect_share": 0.542
+    },
+    "26-Week": {
+      "auction_date": "2026-10-13",
+      "security_term": "26-Week",
+      "bid_to_cover": 2.76,
+      "high_yield": null,
+      "dealer_share": 0.232,
+      "indirect_share": 0.663
+    },
+    "13-Week": {
+      "auction_date": "2026-10-13",
+      "security_term": "13-Week",
+      "bid_to_cover": 2.68,
+      "high_yield": null,
+      "dealer_share": 0.332,
+      "indirect_share": 0.596
     },
     "3-Year": {
       "auction_date": "2026-10-06",
@@ -35,22 +51,6 @@
       "high_yield": 4.932,
       "dealer_share": 0.107,
       "indirect_share": 0.576
-    },
-    "26-Week": {
-      "auction_date": "2026-10-05",
-      "security_term": "26-Week",
-      "bid_to_cover": 2.79,
-      "high_yield": null,
-      "dealer_share": 0.262,
-      "indirect_share": 0.632
-    },
-    "13-Week": {
-      "auction_date": "2026-10-05",
-      "security_term": "13-Week",
-      "bid_to_cover": 2.51,
-      "high_yield": null,
-      "dealer_share": 0.442,
-      "indirect_share": 0.486
     },
     "52-Week": {
       "auction_date": "2026-09-29",
