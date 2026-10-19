@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:10:24",
+  "generated_at": "2026-10-19T16:07:38",
   "universe": [
     "AAPL",
     "MSFT",
@@ -16,7 +16,7 @@
       "distinct_insiders_30d": 0,
       "total_value_30d": 0,
       "max_single_30d": 0,
-      "sales_30d_count": 12,
+      "sales_30d_count": 13,
       "flags": []
     },
     "MSFT": {
@@ -36,7 +36,7 @@
       "distinct_insiders_30d": 0,
       "total_value_30d": 0,
       "max_single_30d": 0,
-      "sales_30d_count": 8,
+      "sales_30d_count": 3,
       "flags": []
     },
     "SPY": {
