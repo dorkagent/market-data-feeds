@@ -1,36 +1,29 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-18T12:56:44.278442+00:00",
+ "generated_at": "2026-10-19T13:09:12.212029+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-05T00:13:58+00:00",
+ "window_start": "2026-10-05T17:20:26+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 7,
    "bull": 2,
    "bear": 2,
-   "engagement": 854
+   "engagement": 937
   },
   {
    "ticker": "AMZN",
    "mentions": 6,
    "bull": 3,
    "bear": 2,
-   "engagement": 933
-  },
-  {
-   "ticker": "NFLX",
-   "mentions": 5,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 128
+   "engagement": 1016
   },
   {
    "ticker": "ASTS",
-   "mentions": 3,
-   "bull": 2,
+   "mentions": 4,
+   "bull": 3,
    "bear": 3,
-   "engagement": 80
+   "engagement": 82
   },
   {
    "ticker": "APP",
@@ -44,7 +37,7 @@
    "mentions": 3,
    "bull": 0,
    "bear": 1,
-   "engagement": 605
+   "engagement": 688
   },
   {
    "ticker": "SOFI",
@@ -61,11 +54,25 @@
    "engagement": 62
   },
   {
+   "ticker": "CRWV",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 9
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 74
+  },
+  {
    "ticker": "AVGO",
    "mentions": 2,
    "bull": 2,
    "bear": 0,
-   "engagement": 6
+   "engagement": 77
   },
   {
    "ticker": "AMD",
@@ -89,9 +96,30 @@
    "engagement": 89
   },
   {
-   "ticker": "NBIS",
+   "ticker": "NFLX",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 107
+  },
+  {
+   "ticker": "RKLB",
    "mentions": 1,
    "bull": 1,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "LENZ",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "AXON",
+   "mentions": 1,
+   "bull": 0,
    "bear": 0,
    "engagement": 1
   },
@@ -115,34 +143,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 7
-  },
-  {
-   "ticker": "CRWV",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 7
-  },
-  {
-   "ticker": "SLQT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 11
-  },
-  {
-   "ticker": "KNSL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 8
-  },
-  {
-   "ticker": "WISH",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 43
   }
  ],
  "top_posts": [
@@ -154,18 +154,25 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wyf5gh/"
   },
   {
+   "title": "My take on ADBE as ex SWE at Adobe",
+   "score": 379,
+   "num_comments": 218,
+   "created_utc": 1791660772,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x2nwm7/"
+  },
+  {
+   "title": "If Nvidia bails out CoreWeave again, it reveals how deeply AI\u2019s fate is tied to CoreWeave",
+   "score": 371,
+   "num_comments": 148,
+   "created_utc": 1792260134,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x8gtjt/"
+  },
+  {
    "title": "Another Tesla scam? The flying Roadster edition",
    "score": 321,
    "num_comments": 205,
    "created_utc": 1792156373,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x7fvsx/"
-  },
-  {
-   "title": "My take on ADBE as ex SWE at Adobe",
-   "score": 318,
-   "num_comments": 187,
-   "created_utc": 1791660772,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x2nwm7/"
   },
   {
    "title": "Berkshire Hathaway bought $193M of Lennar in 2 days. The stock is still 41% under its high. What am I missing?",
@@ -183,10 +190,17 @@
   },
   {
    "title": "Which is the best value right now: NVDA, AMZN, GOOGL or META?",
-   "score": 195,
-   "num_comments": 302,
+   "score": 239,
+   "num_comments": 341,
    "created_utc": 1791722157,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x374pm/"
+  },
+  {
+   "title": "Spotify Is Becoming a Cash Machine: The Three-Year Case for $1,000",
+   "score": 188,
+   "num_comments": 102,
+   "created_utc": 1791553736,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1luyj/"
   },
   {
    "title": "Adobe keeps growing and is buying back shares like CRAZY. Is AI the end for the company?",
@@ -204,17 +218,17 @@
   },
   {
    "title": "What\u2019s the most CRIMINALLY undervalued stock in the market right now?",
-   "score": 141,
-   "num_comments": 756,
+   "score": 140,
+   "num_comments": 754,
    "created_utc": 1791651580,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x2k8pf/"
   },
   {
-   "title": "Spotify Is Becoming a Cash Machine: The Three-Year Case for $1,000",
-   "score": 122,
-   "num_comments": 71,
-   "created_utc": 1791553736,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1luyj/"
+   "title": "Anthropic debt-to-equity restructuring seems inevitable",
+   "score": 124,
+   "num_comments": 188,
+   "created_utc": 1792240423,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x8952f/"
   },
   {
    "title": "T, VZ, TMUS all are dropping big time. Elon Musk is hyping SpaceX as they head into the share lockup ending. This is 2017 robo taxi all over",
@@ -236,20 +250,6 @@
    "num_comments": 104,
    "created_utc": 1791976371,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x5oga2/"
-  },
-  {
-   "title": "Microsoft and Google both around $4 trillion. Which is better investment?",
-   "score": 96,
-   "num_comments": 138,
-   "created_utc": 1791843874,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x4fued/"
-  },
-  {
-   "title": "Selling is harder than buying",
-   "score": 94,
-   "num_comments": 56,
-   "created_utc": 1791463881,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x0q3nq/"
   }
  ]
 }

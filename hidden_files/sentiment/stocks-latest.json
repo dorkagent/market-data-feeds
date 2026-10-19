@@ -1,15 +1,36 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-18T12:56:31.090217+00:00",
+ "generated_at": "2026-10-19T13:08:50.345402+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-07T17:57:15+00:00",
+ "window_start": "2026-10-08T19:50:51+00:00",
  "top_tickers": [
+  {
+   "ticker": "META",
+   "mentions": 5,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 90
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 415
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 114
+  },
   {
    "ticker": "BORR",
    "mentions": 4,
    "bull": 1,
    "bear": 0,
-   "engagement": 7
+   "engagement": 61
   },
   {
    "ticker": "CRWV",
@@ -19,20 +40,6 @@
    "engagement": 463
   },
   {
-   "ticker": "META",
-   "mentions": 4,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 89
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 113
-  },
-  {
    "ticker": "NVDA",
    "mentions": 3,
    "bull": 1,
@@ -40,18 +47,11 @@
    "engagement": 52
   },
   {
-   "ticker": "NBIS",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 413
-  },
-  {
    "ticker": "ASTS",
    "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 406
+   "engagement": 411
   },
   {
    "ticker": "PLTR",
@@ -65,7 +65,7 @@
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 27
+   "engagement": 29
   },
   {
    "ticker": "WDAY",
@@ -89,76 +89,69 @@
    "engagement": 3
   },
   {
-   "ticker": "TSLA",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 111
-  },
-  {
-   "ticker": "SPCX",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 726
-  },
-  {
-   "ticker": "NIO",
-   "mentions": 2,
+   "ticker": "ADUR",
+   "mentions": 1,
    "bull": 1,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "BULL",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 60
+   "bear": 1,
+   "engagement": 1
   },
   {
    "ticker": "AAOI",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "TE",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "KLAR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
+   "engagement": 81
   },
   {
    "ticker": "ONDS",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
+   "engagement": 81
+  },
+  {
+   "ticker": "TE",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 81
+  },
+  {
+   "ticker": "KLAR",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 81
+  },
+  {
+   "ticker": "EOSE",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 81
+  },
+  {
+   "ticker": "NVTS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 81
+  },
+  {
+   "ticker": "QNT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
    "engagement": 1
   }
  ],
  "top_posts": [
   {
    "title": "Trump purchased up to $5 million of SpaceX bonds days before major space order",
-   "score": 5565,
-   "num_comments": 477,
+   "score": 5959,
+   "num_comments": 525,
    "created_utc": 1791551198,
    "url": "https://www.reddit.com/r/stocks/comments/1x1kvo6/"
-  },
-  {
-   "title": "OPENAI'S ANNUALIZED REVENUE NEARS $50B, FAR BELOW EARLIER $70B REPORTS",
-   "score": 2142,
-   "num_comments": 381,
-   "created_utc": 1791480565,
-   "url": "https://www.reddit.com/r/stocks/comments/1x0x3qh/"
   },
   {
    "title": "US inflation rises more than expected ahead of midterm elections",
@@ -175,18 +168,25 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x6wdju/"
   },
   {
+   "title": "Anthropic Offers Junk-Bond rates to Blackstone in the largest AI chip-financing in history",
+   "score": 862,
+   "num_comments": 206,
+   "created_utc": 1792214845,
+   "url": "https://www.reddit.com/r/stocks/comments/1x821pm/"
+  },
+  {
+   "title": "Anthropic: ~$145B raised, $2T IPO target. What profit makes that work?",
+   "score": 694,
+   "num_comments": 607,
+   "created_utc": 1791621701,
+   "url": "https://www.reddit.com/r/stocks/comments/1x2a9dn/"
+  },
+  {
    "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
    "score": 663,
    "num_comments": 152,
    "created_utc": 1792068148,
    "url": "https://www.reddit.com/r/stocks/comments/1x6klne/"
-  },
-  {
-   "title": "Anthropic: ~$145B raised, $2T IPO target. What profit makes that work?",
-   "score": 651,
-   "num_comments": 584,
-   "created_utc": 1791621701,
-   "url": "https://www.reddit.com/r/stocks/comments/1x2a9dn/"
   },
   {
    "title": "If you had $100k to put into just one stock, what would you pick?",
@@ -210,11 +210,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x66gqa/"
   },
   {
-   "title": "Data shows that the 10-year Treasury yield is above 5.3% and crude oil prices are above $100, so why is the market sell-off so weak today?",
-   "score": 446,
-   "num_comments": 349,
-   "created_utc": 1791405356,
-   "url": "https://www.reddit.com/r/stocks/comments/1x07jr6/"
+   "title": "This reeks of Deepseek-style selloff",
+   "score": 441,
+   "num_comments": 299,
+   "created_utc": 1792298969,
+   "url": "https://www.reddit.com/r/stocks/comments/1x8ue2q/"
   },
   {
    "title": "Broadcom CEO Hock Tan calls AI investors casino gamblers",
@@ -238,18 +238,18 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x7m9yr/"
   },
   {
+   "title": "Why the 1 Trillion Dollar AI selloff wasn't about chip demand and why its about a debt refinancing check (Coreweave case study)",
+   "score": 322,
+   "num_comments": 179,
+   "created_utc": 1792225969,
+   "url": "https://www.reddit.com/r/stocks/comments/1x8533t/"
+  },
+  {
    "title": "Best \"Buy the Dip\" Stocks This Week?",
    "score": 306,
    "num_comments": 391,
    "created_utc": 1791989303,
    "url": "https://www.reddit.com/r/stocks/comments/1x5t70s/"
-  },
-  {
-   "title": "SpaceX takes aim at US wireless carriers with spectrum acquisition",
-   "score": 300,
-   "num_comments": 196,
-   "created_utc": 1791494446,
-   "url": "https://www.reddit.com/r/stocks/comments/1x136gz/"
   }
  ]
 }

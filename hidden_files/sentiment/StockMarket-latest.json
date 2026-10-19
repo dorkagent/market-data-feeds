@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-18T12:56:38.377936+00:00",
+ "generated_at": "2026-10-19T13:08:59.544386+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-08T04:09:36+00:00",
+ "window_start": "2026-09-09T22:37:48+00:00",
  "top_tickers": [
   {
    "ticker": "AVGO",
@@ -40,18 +40,18 @@
    "engagement": 386
   },
   {
+   "ticker": "BORR",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
    "ticker": "AAPL",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 2
-  },
-  {
-   "ticker": "RDDT",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 52
   },
   {
    "ticker": "MSFT",
@@ -66,6 +66,13 @@
    "bull": 1,
    "bear": 1,
    "engagement": 6
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 39
   },
   {
    "ticker": "GFS",
@@ -131,14 +138,7 @@
    "engagement": 4
   },
   {
-   "ticker": "HONA",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "WCN",
+   "ticker": "DOL",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -231,13 +231,6 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1wgn4er/"
   },
   {
-   "title": "Well Well Well\u2026",
-   "score": 2027,
-   "num_comments": 509,
-   "created_utc": 1788966657,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wbob64/"
-  },
-  {
    "title": "S&P 500 Could Plunge 30% as AI Bubble Enters \u2018Late Stages\u2019",
    "score": 1936,
    "num_comments": 434,
@@ -250,6 +243,13 @@
    "num_comments": 64,
    "created_utc": 1791477252,
    "url": "https://www.reddit.com/r/StockMarket/comments/1x0vnok/"
+  },
+  {
+   "title": "Only one bubble in the last 200 years had higher market concentration than AI today.",
+   "score": 1515,
+   "num_comments": 486,
+   "created_utc": 1792067680,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1x6kfvn/"
   }
  ]
 }

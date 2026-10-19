@@ -1,22 +1,22 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-10-18T12:56:50.514700+00:00",
+ "generated_at": "2026-10-19T13:09:21.667411+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-21T22:36:32+00:00",
+ "window_start": "2026-08-22T01:27:35+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
    "mentions": 10,
    "bull": 6,
    "bear": 10,
-   "engagement": 102
+   "engagement": 111
   },
   {
    "ticker": "RDDT",
    "mentions": 5,
    "bull": 3,
    "bear": 3,
-   "engagement": 1071
+   "engagement": 1201
   },
   {
    "ticker": "QQQ",
@@ -33,18 +33,11 @@
    "engagement": 253
   },
   {
-   "ticker": "SPY",
-   "mentions": 4,
-   "bull": 4,
-   "bear": 3,
-   "engagement": 154
-  },
-  {
    "ticker": "NBIS",
    "mentions": 3,
    "bull": 3,
    "bear": 2,
-   "engagement": 97
+   "engagement": 98
   },
   {
    "ticker": "PLTR",
@@ -61,6 +54,13 @@
    "engagement": 31
   },
   {
+   "ticker": "SPY",
+   "mentions": 3,
+   "bull": 3,
+   "bear": 3,
+   "engagement": 139
+  },
+  {
    "ticker": "META",
    "mentions": 2,
    "bull": 1,
@@ -72,7 +72,7 @@
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 41
+   "engagement": 42
   },
   {
    "ticker": "NVDA",
@@ -117,39 +117,39 @@
    "engagement": 15
   },
   {
-   "ticker": "SNXX",
+   "ticker": "NVTS",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 11
+   "engagement": 12
   },
   {
-   "ticker": "VST",
+   "ticker": "AMZN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 11
+   "engagement": 12
   },
   {
    "ticker": "AXTI",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 11
+   "engagement": 12
   },
   {
-   "ticker": "VXT",
+   "ticker": "SNXX",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 11
+   "engagement": 12
   }
  ],
  "top_posts": [
   {
    "title": "Over $1,000,000 in realized gains with RDDT options YTD",
-   "score": 839,
-   "num_comments": 186,
+   "score": 962,
+   "num_comments": 192,
    "created_utc": 1791557502,
    "url": "https://www.reddit.com/r/thetagang/comments/1x1nf2p/"
   },

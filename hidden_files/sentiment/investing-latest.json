@@ -1,15 +1,15 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-18T12:56:25.746519+00:00",
+ "generated_at": "2026-10-19T13:08:35.375682+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-25T22:54:18+00:00",
+ "window_start": "2026-09-27T15:19:12+00:00",
  "top_tickers": [
   {
    "ticker": "PLTR",
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 71
+   "engagement": 70
   },
   {
    "ticker": "AMD",
@@ -37,7 +37,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 41
   },
   {
    "ticker": "GUTS",
@@ -133,13 +133,6 @@
    "url": "https://www.reddit.com/r/investing/comments/1wyuvd5/"
   },
   {
-   "title": "Disney is hurting themselves by raising Disney+ prices",
-   "score": 1428,
-   "num_comments": 285,
-   "created_utc": 1790458436,
-   "url": "https://www.reddit.com/r/investing/comments/1wr2a7f/"
-  },
-  {
    "title": "The September jobs report quietly turned July negative",
    "score": 879,
    "num_comments": 140,
@@ -229,6 +222,13 @@
    "num_comments": 156,
    "created_utc": 1791230470,
    "url": "https://www.reddit.com/r/investing/comments/1wyinsu/"
+  },
+  {
+   "title": "With Treasury yields above 5%, what would make you choose stocks over bonds right now?",
+   "score": 214,
+   "num_comments": 390,
+   "created_utc": 1791960144,
+   "url": "https://www.reddit.com/r/investing/comments/1x5k7fx/"
   }
  ]
 }

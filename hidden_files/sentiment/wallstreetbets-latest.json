@@ -1,49 +1,49 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-18T12:56:19.735599+00:00",
+ "generated_at": "2026-10-19T13:08:23.743973+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-15T05:24:44+00:00",
+ "window_start": "2026-10-15T16:36:56+00:00",
  "top_tickers": [
   {
    "ticker": "TSLA",
    "mentions": 9,
    "bull": 2,
    "bear": 4,
-   "engagement": 20584
+   "engagement": 21009
   },
   {
    "ticker": "NBIS",
-   "mentions": 5,
+   "mentions": 6,
    "bull": 1,
    "bear": 1,
-   "engagement": 243
+   "engagement": 244
   },
   {
    "ticker": "GME",
    "mentions": 4,
    "bull": 1,
-   "bear": 0,
+   "bear": 1,
    "engagement": 67
   },
   {
    "ticker": "MU",
    "mentions": 3,
-   "bull": 0,
+   "bull": 1,
    "bear": 0,
    "engagement": 3
   },
   {
-   "ticker": "MSTR",
-   "mentions": 2,
-   "bull": 0,
+   "ticker": "CRWV",
+   "mentions": 3,
+   "bull": 1,
    "bear": 1,
-   "engagement": 70
+   "engagement": 185
   },
   {
-   "ticker": "ALK",
+   "ticker": "SPCX",
    "mentions": 2,
    "bull": 0,
-   "bear": 1,
+   "bear": 0,
    "engagement": 2
   },
   {
@@ -54,7 +54,7 @@
    "engagement": 2
   },
   {
-   "ticker": "UAL",
+   "ticker": "ALK",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
@@ -68,31 +68,59 @@
    "engagement": 2
   },
   {
+   "ticker": "UAL",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
    "ticker": "BR",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "CRWV",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 179
+   "engagement": 16
   },
   {
    "ticker": "AMD",
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 10468
+   "engagement": 11294
   },
   {
    "ticker": "FTCI",
    "mentions": 2,
    "bull": 2,
    "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "BMBL",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "BUMBL",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "RARE",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "XBI",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
    "engagement": 1
   },
   {
@@ -103,46 +131,18 @@
    "engagement": 1
   },
   {
+   "ticker": "MSTR",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "INTC",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "WULF",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SOFI",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 4
-  },
-  {
-   "ticker": "ROPE",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 10
-  },
-  {
-   "ticker": "NVO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 53
+   "engagement": 34
   }
  ],
  "top_posts": [
@@ -175,16 +175,9 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6rw40/"
   },
   {
-   "title": "It's over. Done with. Terminated. Donezo.",
-   "score": 10642,
-   "num_comments": 397,
-   "created_utc": 1792062690,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6iuac/"
-  },
-  {
    "title": "+$16,000,000 on AMD and SOXL. Sold it all.",
-   "score": 9343,
-   "num_comments": 1124,
+   "score": 10097,
+   "num_comments": 1196,
    "created_utc": 1792145965,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7chad/"
   },
@@ -203,11 +196,25 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7apv5/"
   },
   {
+   "title": "Semis 9 down days in a row...BRUTAL",
+   "score": 3437,
+   "num_comments": 105,
+   "created_utc": 1792249140,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x8cbn8/"
+  },
+  {
    "title": "Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month",
    "score": 3287,
    "num_comments": 659,
    "created_utc": 1792110504,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x725yl/"
+  },
+  {
+   "title": "'France, truly, is on the brink', just days away from a make-or-break moment in its debt crisis, analyst warns, as protests turn into riots",
+   "score": 3276,
+   "num_comments": 1095,
+   "created_utc": 1792292660,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x8sixo/"
   },
   {
    "title": "It's finally over. I'm free.",
@@ -217,11 +224,11 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7j1uy/"
   },
   {
-   "title": "Current state of the market",
-   "score": 2773,
-   "num_comments": 85,
-   "created_utc": 1792074144,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6mzgj/"
+   "title": "i never learn i\u2019m actually so idiotic",
+   "score": 2636,
+   "num_comments": 468,
+   "created_utc": 1792215229,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x825kl/"
   },
   {
    "title": "Game Over",
@@ -229,13 +236,6 @@
    "num_comments": 534,
    "created_utc": 1792082216,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6qk73/"
-  },
-  {
-   "title": "US PPI rose by 6.3% compared to a forecast of 5.4%",
-   "score": 2229,
-   "num_comments": 412,
-   "created_utc": 1792068327,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6knyt/"
   },
   {
    "title": "Anthropic secured highest junk credit rating in June",

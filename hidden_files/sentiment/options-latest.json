@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-18T12:56:57.476802+00:00",
+ "generated_at": "2026-10-19T13:09:30.631083+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-09T07:30:54+00:00",
+ "window_start": "2026-09-09T12:00:14+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -23,7 +23,7 @@
    "mentions": 5,
    "bull": 2,
    "bear": 1,
-   "engagement": 7
+   "engagement": 71
   },
   {
    "ticker": "AMD",
@@ -58,7 +58,7 @@
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 52
+   "engagement": 56
   },
   {
    "ticker": "TLT",
@@ -124,14 +124,14 @@
    "engagement": 16
   },
   {
-   "ticker": "TEM",
+   "ticker": "INTC",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 17
   },
   {
-   "ticker": "INTC",
+   "ticker": "TEM",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -155,8 +155,8 @@
   },
   {
    "title": "New paper: an AI options trader made 18.3% in 6 months, until researchers let it read the news",
-   "score": 329,
-   "num_comments": 78,
+   "score": 377,
+   "num_comments": 90,
    "created_utc": 1791707199,
    "url": "https://www.reddit.com/r/options/comments/1x32u6l/"
   },
@@ -168,25 +168,18 @@
    "url": "https://www.reddit.com/r/options/comments/1wfmcyo/"
   },
   {
+   "title": "Fractional options coming in 2026?",
+   "score": 104,
+   "num_comments": 92,
+   "created_utc": 1791678277,
+   "url": "https://www.reddit.com/r/options/comments/1x2uabt/"
+  },
+  {
    "title": "Clarification on being banned from retail brokerage for being consistently profitable",
    "score": 82,
    "num_comments": 52,
    "created_utc": 1789948504,
    "url": "https://www.reddit.com/r/options/comments/1wlwxee/"
-  },
-  {
-   "title": "Fractional options coming in 2026?",
-   "score": 68,
-   "num_comments": 89,
-   "created_utc": 1791678277,
-   "url": "https://www.reddit.com/r/options/comments/1x2uabt/"
-  },
-  {
-   "title": "First year trading full time. Up 83% and scared about next year.",
-   "score": 63,
-   "num_comments": 152,
-   "created_utc": 1788941504,
-   "url": "https://www.reddit.com/r/options/comments/1wbfef8/"
   },
   {
    "title": "An intuitive way to price an option",
@@ -250,6 +243,13 @@
    "num_comments": 48,
    "created_utc": 1790209489,
    "url": "https://www.reddit.com/r/options/comments/1womyhg/"
+  },
+  {
+   "title": "Explanation on 0dte Short Call",
+   "score": 46,
+   "num_comments": 84,
+   "created_utc": 1791511518,
+   "url": "https://www.reddit.com/r/options/comments/1x19ach/"
   }
  ]
 }
