@@ -1,61 +1,61 @@
 {
-  "fetched_at_utc": "2026-10-19T13:12:15+00:00",
+  "fetched_at_utc": "2026-10-20T13:12:30+00:00",
   "status": "ok",
   "note": "Context layer - informs, never triggers trades alone. Futures trade nearly 24/5; quotes are the overnight read into the 06:00 PT premarket scan.",
   "symbols": {
     "ES=F": {
       "name": "S&P 500 e-mini",
-      "price": 7740.25,
-      "change_pct": 0.47,
-      "quote_time_utc": "2026-10-19T13:02:14+00:00"
+      "price": 7722.5,
+      "change_pct": -0.16,
+      "quote_time_utc": "2026-10-20T13:02:27+00:00"
     },
     "NQ=F": {
       "name": "Nasdaq-100 e-mini",
-      "price": 29767.5,
-      "change_pct": 1.28,
-      "quote_time_utc": "2026-10-19T13:02:14+00:00"
+      "price": 29585.25,
+      "change_pct": -0.46,
+      "quote_time_utc": "2026-10-20T13:02:29+00:00"
     },
     "YM=F": {
       "name": "Dow e-mini",
-      "price": 52085.0,
-      "change_pct": -0.25,
-      "quote_time_utc": "2026-10-19T13:02:12+00:00"
+      "price": 52149.0,
+      "change_pct": -0.06,
+      "quote_time_utc": "2026-10-20T13:02:28+00:00"
     },
     "RTY=F": {
       "name": "Russell 2000 e-mini",
-      "price": 2748.4,
-      "change_pct": 0.47,
-      "quote_time_utc": "2026-10-19T13:02:11+00:00"
+      "price": 2742.1,
+      "change_pct": -0.01,
+      "quote_time_utc": "2026-10-20T13:02:28+00:00"
     },
     "^VIX": {
       "name": "VIX spot",
-      "price": 18.56,
-      "change_pct": -7.15,
-      "quote_time_utc": "2026-10-19T12:57:01+00:00"
+      "price": 18.71,
+      "change_pct": 1.46,
+      "quote_time_utc": "2026-10-20T12:57:16+00:00"
     },
     "^VIX3M": {
       "name": "VIX 3-month",
-      "price": 20.5,
-      "change_pct": 10.87,
-      "quote_time_utc": "2026-10-16T20:15:01+00:00"
+      "price": 19.6,
+      "change_pct": -4.39,
+      "quote_time_utc": "2026-10-19T20:15:01+00:00"
     },
     "GC=F": {
       "name": "gold",
-      "price": 4183.3,
-      "change_pct": 0.05,
-      "quote_time_utc": "2026-10-19T13:02:15+00:00"
+      "price": 4133.1,
+      "change_pct": -0.65,
+      "quote_time_utc": "2026-10-20T13:02:30+00:00"
     },
     "CL=F": {
       "name": "WTI crude",
-      "price": 97.79,
-      "change_pct": -3.57,
-      "quote_time_utc": "2026-10-19T13:02:15+00:00"
+      "price": 100.09,
+      "change_pct": -3.44,
+      "quote_time_utc": "2026-10-20T13:02:28+00:00"
     }
   },
   "vix_term_structure": {
-    "spot": 18.56,
-    "three_month": 20.5,
-    "spread": 1.94,
+    "spot": 18.71,
+    "three_month": 19.6,
+    "spread": 0.89,
     "regime": "contango (normal)",
     "leg_note": "^VIX3M used - Yahoo has no VX=F front-month symbol"
   },
