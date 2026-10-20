@@ -1,167 +1,86 @@
 {
- "generated_at": "2026-10-19T11:59:37.531093+00:00",
+ "generated_at": "2026-10-20T11:56:20.902954+00:00",
  "universe": "US-listed, price >= $5, |move| >= 3% (premarket: no volume filter)",
  "top_movers": [
   {
-   "symbol": "PANW",
-   "pct_change": -7.6,
-   "price": 342.0,
-   "market_cap": "279,756,000,000",
-   "direction": "down"
-  },
-  {
-   "symbol": "PLTR",
-   "pct_change": -7.2,
-   "price": 186.03,
-   "market_cap": "446,854,008,884",
-   "direction": "down"
-  },
-  {
-   "symbol": "CRWD",
-   "pct_change": -7.0,
-   "price": 227.39,
-   "market_cap": "232,832,543,722",
-   "direction": "down"
-  },
-  {
-   "symbol": "ARM",
-   "pct_change": -6.9,
-   "price": 227.8,
-   "market_cap": "242,391,786,406",
-   "direction": "down"
-  },
-  {
    "symbol": "SNDK",
-   "pct_change": -6.8,
-   "price": 1299.3,
-   "market_cap": "188,824,257,223",
-   "direction": "down"
+   "pct_change": 5.5,
+   "price": 1371.12,
+   "market_cap": "199,261,691,344",
+   "direction": "up"
+  },
+  {
+   "symbol": "AMZN",
+   "pct_change": 5.0,
+   "price": 262.45,
+   "market_cap": "2,830,867,996,971",
+   "direction": "up"
   },
   {
    "symbol": "SKHY",
-   "pct_change": -6.6,
-   "price": 136.49,
-   "market_cap": "994,828,520,950",
-   "direction": "down"
+   "pct_change": 4.7,
+   "price": 142.87,
+   "market_cap": "1,041,330,139,850",
+   "direction": "up"
   },
   {
-   "symbol": "AMD",
-   "pct_change": -6.0,
-   "price": 528.75,
-   "market_cap": "863,171,178,458",
-   "direction": "down"
-  },
-  {
-   "symbol": "INTC",
-   "pct_change": -5.8,
-   "price": 89.85,
-   "market_cap": "474,863,495,563",
-   "direction": "down"
-  },
-  {
-   "symbol": "MU",
-   "pct_change": -5.6,
-   "price": 878.84,
-   "market_cap": "994,339,975,634",
-   "direction": "down"
+   "symbol": "PLTR",
+   "pct_change": 4.4,
+   "price": 194.15,
+   "market_cap": "466,358,683,142",
+   "direction": "up"
   },
   {
    "symbol": "MRVL",
-   "pct_change": -5.6,
-   "price": 227.83,
-   "market_cap": "199,784,127,000",
-   "direction": "down"
+   "pct_change": 4.1,
+   "price": 237.09,
+   "market_cap": "207,904,221,000",
+   "direction": "up"
   },
   {
-   "symbol": "KLAC",
-   "pct_change": -5.0,
-   "price": 165.74,
-   "market_cap": "216,291,775,984",
-   "direction": "down"
-  },
-  {
-   "symbol": "LRCX",
-   "pct_change": -4.9,
-   "price": 263.94,
-   "market_cap": "330,300,946,106",
-   "direction": "down"
-  },
-  {
-   "symbol": "AMAT",
-   "pct_change": -4.8,
-   "price": 409.29,
-   "market_cap": "324,811,497,445",
-   "direction": "down"
-  },
-  {
-   "symbol": "SHOP",
-   "pct_change": -4.8,
-   "price": 169.52,
-   "market_cap": "219,665,884,958",
-   "direction": "down"
-  },
-  {
-   "symbol": "ORCL",
-   "pct_change": -4.6,
-   "price": 128.23,
-   "market_cap": "388,729,392,336",
-   "direction": "down"
-  },
-  {
-   "symbol": "DELL",
-   "pct_change": -4.6,
-   "price": 451.71,
-   "market_cap": "287,202,977,303",
-   "direction": "down"
+   "symbol": "TSLA",
+   "pct_change": 3.8,
+   "price": 368.06,
+   "market_cap": "1,453,670,413,836",
+   "direction": "up"
   },
   {
    "symbol": "ANET",
-   "pct_change": -4.6,
-   "price": 176.98,
-   "market_cap": "223,211,538,203",
-   "direction": "down"
+   "pct_change": 3.4,
+   "price": 182.95,
+   "market_cap": "230,741,049,352",
+   "direction": "up"
   },
   {
-   "symbol": "AVGO",
-   "pct_change": -4.5,
-   "price": 328.75,
-   "market_cap": "1,569,330,818,119",
-   "direction": "down"
-  },
-  {
-   "symbol": "META",
-   "pct_change": -3.7,
-   "price": 709.33,
-   "market_cap": "1,807,009,853,048",
-   "direction": "down"
-  },
-  {
-   "symbol": "RTX",
-   "pct_change": 3.7,
-   "price": 193.92,
-   "market_cap": "261,357,259,284",
+   "symbol": "LRCX",
+   "pct_change": 3.1,
+   "price": 272.2,
+   "market_cap": "340,637,711,336",
    "direction": "up"
   }
  ],
  "setup_routing": {
   "setup_a_candidates": [
-   "RTX"
+   "SNDK",
+   "AMZN",
+   "SKHY",
+   "PLTR",
+   "MRVL",
+   "TSLA",
+   "ANET",
+   "LRCX"
   ],
   "setup_b_candidates": [
-   "RTX"
-  ],
-  "setup_c_candidates": [
-   "PANW",
-   "PLTR",
-   "CRWD",
-   "ARM",
    "SNDK",
+   "AMZN",
    "SKHY",
-   "AMD",
-   "INTC",
-   "MU",
-   "MRVL"
-  ]
+   "PLTR",
+   "MRVL",
+   "TSLA",
+   "ANET",
+   "LRCX"
+  ],
+  "setup_c_candidates": []
  },
- "count": 20
+ "count": 8
 }
