@@ -1,57 +1,71 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-19T13:08:23.743973+00:00",
+ "generated_at": "2026-10-20T13:07:42.916714+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-15T16:36:56+00:00",
+ "window_start": "2026-10-16T10:33:35+00:00",
  "top_tickers": [
   {
-   "ticker": "TSLA",
-   "mentions": 9,
-   "bull": 2,
-   "bear": 4,
-   "engagement": 21009
-  },
-  {
    "ticker": "NBIS",
-   "mentions": 6,
+   "mentions": 5,
    "bull": 1,
    "bear": 1,
-   "engagement": 244
+   "engagement": 65
   },
   {
-   "ticker": "GME",
+   "ticker": "CRWV",
    "mentions": 4,
    "bull": 1,
    "bear": 1,
-   "engagement": 67
+   "engagement": 15
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 4,
+   "bull": 0,
+   "bear": 2,
+   "engagement": 5988
+  },
+  {
+   "ticker": "GETY",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "GME",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 62
+  },
+  {
+   "ticker": "SPCX",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
   },
   {
    "ticker": "MU",
    "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 3
+   "engagement": 555
   },
   {
-   "ticker": "CRWV",
-   "mentions": 3,
+   "ticker": "HTZ",
+   "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 185
+   "engagement": 2
   },
   {
-   "ticker": "SPCX",
+   "ticker": "META",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "JBLU",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 2
+   "engagement": 135
   },
   {
    "ticker": "ALK",
@@ -61,7 +75,7 @@
    "engagement": 2
   },
   {
-   "ticker": "LUV",
+   "ticker": "JBLU",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
@@ -75,6 +89,13 @@
    "engagement": 2
   },
   {
+   "ticker": "LUV",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
    "ticker": "BR",
    "mentions": 2,
    "bull": 0,
@@ -82,146 +103,104 @@
    "engagement": 16
   },
   {
-   "ticker": "AMD",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 11294
-  },
-  {
-   "ticker": "FTCI",
-   "mentions": 2,
-   "bull": 2,
+   "ticker": "SOUN",
+   "mentions": 1,
+   "bull": 0,
    "bear": 0,
    "engagement": 1
+  },
+  {
+   "ticker": "ALTN",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "NFLX",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "STX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 94
   },
   {
    "ticker": "BMBL",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "BUMBL",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "RARE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "XBI",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "SPY",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "MSTR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "INTC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 34
+   "engagement": 104
   }
  ],
  "top_posts": [
   {
    "title": "Buckle up Fucklehead!",
-   "score": 29784,
-   "num_comments": 1632,
+   "score": 31234,
+   "num_comments": 1670,
    "created_utc": 1792173067,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7n0ov/"
   },
   {
-   "title": "Tesla has officially lost the plot..",
-   "score": 22320,
-   "num_comments": 8457,
-   "created_utc": 1792114500,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x73hxs/"
-  },
-  {
-   "title": "TSLA chart",
-   "score": 13665,
-   "num_comments": 476,
-   "created_utc": 1792125421,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x76xrt/"
-  },
-  {
-   "title": "\u201cThe name\u2019s Bond. Junk Bond.\u201d",
-   "score": 10971,
-   "num_comments": 533,
-   "created_utc": 1792085203,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6rw40/"
-  },
-  {
-   "title": "+$16,000,000 on AMD and SOXL. Sold it all.",
-   "score": 10097,
-   "num_comments": 1196,
-   "created_utc": 1792145965,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7chad/"
+   "title": "Bears Rekt",
+   "score": 6697,
+   "num_comments": 202,
+   "created_utc": 1792416780,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9x0b9/"
   },
   {
    "title": "Per Sofia, its puts on $TSLA",
-   "score": 5494,
+   "score": 5493,
    "num_comments": 46,
    "created_utc": 1792172412,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7mqih/"
   },
   {
-   "title": "Congrats, the market is more regarded than you.",
-   "score": 4617,
-   "num_comments": 437,
-   "created_utc": 1792139322,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7apv5/"
-  },
-  {
    "title": "Semis 9 down days in a row...BRUTAL",
-   "score": 3437,
-   "num_comments": 105,
+   "score": 3685,
+   "num_comments": 107,
    "created_utc": 1792249140,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x8cbn8/"
   },
   {
-   "title": "Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month",
-   "score": 3287,
-   "num_comments": 659,
-   "created_utc": 1792110504,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x725yl/"
+   "title": "It's finally over. I'm free.",
+   "score": 3562,
+   "num_comments": 577,
+   "created_utc": 1792164032,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7j1uy/"
   },
   {
    "title": "'France, truly, is on the brink', just days away from a make-or-break moment in its debt crisis, analyst warns, as protests turn into riots",
-   "score": 3276,
-   "num_comments": 1095,
+   "score": 3277,
+   "num_comments": 1097,
    "created_utc": 1792292660,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x8sixo/"
   },
   {
-   "title": "It's finally over. I'm free.",
-   "score": 3263,
-   "num_comments": 550,
-   "created_utc": 1792164032,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7j1uy/"
+   "title": "Lost 268k in 0DTE options - I will never be able to recover from this financially",
+   "score": 3058,
+   "num_comments": 1254,
+   "created_utc": 1792364011,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9guju/"
+  },
+  {
+   "title": "Bears practicing their shock when 'Black Monday' gets canceled for the 40th week in a row.",
+   "score": 2979,
+   "num_comments": 159,
+   "created_utc": 1792355753,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9domz/"
   },
   {
    "title": "i never learn i\u2019m actually so idiotic",
@@ -231,25 +210,46 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x825kl/"
   },
   {
-   "title": "Game Over",
-   "score": 2238,
-   "num_comments": 534,
-   "created_utc": 1792082216,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x6qk73/"
+   "title": "Houthis Warn Saudi Aramco Shareholders to Sell 'Before It's Too Late' as Attacks on Oil Facilities Escalate",
+   "score": 2392,
+   "num_comments": 233,
+   "created_utc": 1792421582,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9z0oh/"
   },
   {
    "title": "Anthropic secured highest junk credit rating in June",
-   "score": 2133,
-   "num_comments": 192,
+   "score": 2317,
+   "num_comments": 204,
    "created_utc": 1792160190,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7hf7q/"
   },
   {
    "title": "Me and many of you AI \"investors\" after this week",
-   "score": 2014,
+   "score": 2013,
    "num_comments": 205,
    "created_utc": 1792168618,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7l2ux/"
+  },
+  {
+   "title": "1mm swing in a month..Should\u2019ve bought a gogo bar in Pattaya instead",
+   "score": 1845,
+   "num_comments": 510,
+   "created_utc": 1792184696,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x7rzx9/"
+  },
+  {
+   "title": "It\u2019s been real folks",
+   "score": 1833,
+   "num_comments": 422,
+   "created_utc": 1792273892,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x8m9f4/"
+  },
+  {
+   "title": "I am strait",
+   "score": 1711,
+   "num_comments": 92,
+   "created_utc": 1792353105,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9ckxo/"
   }
  ]
 }

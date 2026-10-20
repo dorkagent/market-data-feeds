@@ -1,29 +1,36 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-19T13:09:12.212029+00:00",
+ "generated_at": "2026-10-20T13:09:02.802486+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-05T17:20:26+00:00",
+ "window_start": "2026-10-06T12:24:55+00:00",
  "top_tickers": [
   {
-   "ticker": "NVDA",
+   "ticker": "AMZN",
    "mentions": 7,
-   "bull": 2,
+   "bull": 4,
    "bear": 2,
-   "engagement": 937
+   "engagement": 1289
   },
   {
-   "ticker": "AMZN",
+   "ticker": "NVDA",
    "mentions": 6,
-   "bull": 3,
+   "bull": 2,
    "bear": 2,
-   "engagement": 1016
+   "engagement": 936
   },
   {
    "ticker": "ASTS",
    "mentions": 4,
    "bull": 3,
    "bear": 3,
-   "engagement": 82
+   "engagement": 286
+  },
+  {
+   "ticker": "BRBR",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
   },
   {
    "ticker": "APP",
@@ -51,35 +58,35 @@
    "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 62
+   "engagement": 63
   },
   {
-   "ticker": "CRWV",
+   "ticker": "HOOD",
    "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 9
+   "bull": 0,
+   "bear": 2,
+   "engagement": 3
   },
   {
    "ticker": "NBIS",
    "mentions": 2,
    "bull": 2,
    "bear": 0,
-   "engagement": 74
+   "engagement": 286
+  },
+  {
+   "ticker": "CRWV",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 213
   },
   {
    "ticker": "AVGO",
    "mentions": 2,
    "bull": 2,
    "bear": 0,
-   "engagement": 77
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 70
+   "engagement": 86
   },
   {
    "ticker": "PEW",
@@ -103,56 +110,42 @@
    "engagement": 107
   },
   {
+   "ticker": "CRL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "ITRI",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 8
+  },
+  {
    "ticker": "RKLB",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 2
+   "engagement": 206
   },
   {
    "ticker": "LENZ",
    "mentions": 1,
    "bull": 0,
-   "bear": 0,
-   "engagement": 1
+   "bear": 1,
+   "engagement": 6
   },
   {
    "ticker": "AXON",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "FIS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 10
-  },
-  {
-   "ticker": "YB",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 10
-  },
-  {
-   "ticker": "GOOGL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 7
+   "engagement": 12
   }
  ],
  "top_posts": [
-  {
-   "title": "Google a screaming buy?",
-   "score": 384,
-   "num_comments": 294,
-   "created_utc": 1791222479,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wyf5gh/"
-  },
   {
    "title": "My take on ADBE as ex SWE at Adobe",
    "score": 379,
@@ -194,6 +187,20 @@
    "num_comments": 341,
    "created_utc": 1791722157,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x374pm/"
+  },
+  {
+   "title": "Netflix now trades at a lower P/E than Coca-Cola. It reports tomorrow",
+   "score": 233,
+   "num_comments": 234,
+   "created_utc": 1792410242,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x9un1i/"
+  },
+  {
+   "title": "Amazon ($AMZN) - You don't own enough amazon",
+   "score": 205,
+   "num_comments": 68,
+   "created_utc": 1792418157,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x9xk49/"
   },
   {
    "title": "Spotify Is Becoming a Cash Machine: The Three-Year Case for $1,000",
@@ -243,13 +250,6 @@
    "num_comments": 70,
    "created_utc": 1792190928,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x7uf9t/"
-  },
-  {
-   "title": "Micron lost $150B in four days. It still earns nearly 3x Coke, Pepsi and McDonald's combined",
-   "score": 106,
-   "num_comments": 104,
-   "created_utc": 1791976371,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x5oga2/"
   }
  ]
 }

@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-19T13:09:30.631083+00:00",
+ "generated_at": "2026-10-20T13:09:29.800421+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-09T12:00:14+00:00",
+ "window_start": "2026-09-10T06:23:19+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -12,18 +12,18 @@
    "engagement": 205
   },
   {
-   "ticker": "NVDA",
-   "mentions": 6,
-   "bull": 4,
-   "bear": 1,
-   "engagement": 18
-  },
-  {
    "ticker": "QQQ",
    "mentions": 5,
    "bull": 2,
    "bear": 1,
-   "engagement": 71
+   "engagement": 87
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 5,
+   "bull": 3,
+   "bear": 1,
+   "engagement": 8
   },
   {
    "ticker": "AMD",
@@ -47,11 +47,11 @@
    "engagement": 18
   },
   {
-   "ticker": "META",
-   "mentions": 3,
-   "bull": 3,
-   "bear": 2,
-   "engagement": 75
+   "ticker": "TSLA",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 12
   },
   {
    "ticker": "MSFT",
@@ -68,6 +68,13 @@
    "engagement": 23
   },
   {
+   "ticker": "META",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 49
+  },
+  {
    "ticker": "BTC",
    "mentions": 2,
    "bull": 0,
@@ -82,20 +89,6 @@
    "engagement": 96
   },
   {
-   "ticker": "TSLA",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 21
-  },
-  {
-   "ticker": "ORCL",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 3
-  },
-  {
    "ticker": "SPCE",
    "mentions": 1,
    "bull": 0,
@@ -103,14 +96,14 @@
    "engagement": 2
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 3
   },
   {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -139,6 +132,13 @@
   },
   {
    "ticker": "ETH",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "AVGO",
    "mentions": 1,
    "bull": 0,
    "bear": 0,

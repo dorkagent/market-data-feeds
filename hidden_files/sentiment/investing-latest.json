@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-19T13:08:35.375682+00:00",
+ "generated_at": "2026-10-20T13:08:11.352495+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-27T15:19:12+00:00",
+ "window_start": "2026-09-28T17:32:27+00:00",
  "top_tickers": [
   {
    "ticker": "PLTR",
@@ -26,32 +26,32 @@
    "engagement": 0
   },
   {
-   "ticker": "META",
-   "mentions": 2,
-   "bull": 2,
+   "ticker": "AMZN",
+   "mentions": 1,
+   "bull": 0,
    "bear": 0,
-   "engagement": 23
+   "engagement": 1
   },
   {
    "ticker": "FSLR",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 41
+   "engagement": 45
   },
   {
    "ticker": "GUTS",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 3
+   "engagement": 5
   },
   {
    "ticker": "QQQ",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 132
+   "engagement": 130
   },
   {
    "ticker": "ASTS",
@@ -82,6 +82,13 @@
    "engagement": 58
   },
   {
+   "ticker": "META",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
    "ticker": "GME",
    "mentions": 1,
    "bull": 1,
@@ -108,20 +115,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 3
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 41
-  },
-  {
-   "ticker": "GOOG",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 21
   }
  ],
  "top_posts": [
@@ -159,6 +152,13 @@
    "num_comments": 122,
    "created_utc": 1790765718,
    "url": "https://www.reddit.com/r/investing/comments/1wu1u0u/"
+  },
+  {
+   "title": "How are cryptocurrencies not the dumbest thing ever?",
+   "score": 360,
+   "num_comments": 682,
+   "created_utc": 1792397633,
+   "url": "https://www.reddit.com/r/investing/comments/1x9r2z3/"
   },
   {
    "title": "SpaceX announces 800 MHz spectrum telecom purchase on eve of 120 day IPO investors unlock",
@@ -208,13 +208,6 @@
    "num_comments": 257,
    "created_utc": 1791647333,
    "url": "https://www.reddit.com/r/investing/comments/1x2ijni/"
-  },
-  {
-   "title": "Why are people freaking out about bonds now vs 2022?",
-   "score": 274,
-   "num_comments": 219,
-   "created_utc": 1790545276,
-   "url": "https://www.reddit.com/r/investing/comments/1wrwjct/"
   },
   {
    "title": "HYSA/MM Rates Haven't Increased with the Fed Hike",

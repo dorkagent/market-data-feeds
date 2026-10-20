@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-19T13:08:59.544386+00:00",
+ "generated_at": "2026-10-20T13:08:46.452241+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-09T22:37:48+00:00",
+ "window_start": "2026-09-10T16:26:31+00:00",
  "top_tickers": [
   {
    "ticker": "AVGO",
@@ -44,7 +44,7 @@
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 2
+   "engagement": 43
   },
   {
    "ticker": "AAPL",
@@ -138,7 +138,7 @@
    "engagement": 4
   },
   {
-   "ticker": "DOL",
+   "ticker": "WCN",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -203,13 +203,6 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1wtp71m/"
   },
   {
-   "title": "This should fix that pesky inflation problem!",
-   "score": 2394,
-   "num_comments": 678,
-   "created_utc": 1789007466,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wc6954/"
-  },
-  {
    "title": "Trump Posted This Picture and I Legitimately Have No Idea",
    "score": 2100,
    "num_comments": 775,
@@ -250,6 +243,13 @@
    "num_comments": 486,
    "created_utc": 1792067680,
    "url": "https://www.reddit.com/r/StockMarket/comments/1x6kfvn/"
+  },
+  {
+   "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999",
+   "score": 1484,
+   "num_comments": 238,
+   "created_utc": 1790032493,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wmspao/"
   }
  ]
 }
