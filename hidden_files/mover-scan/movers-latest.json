@@ -1,86 +1,75 @@
 {
- "generated_at": "2026-10-20T11:56:20.902954+00:00",
+ "generated_at": "2026-10-21T11:57:43.892138+00:00",
  "universe": "US-listed, price >= $5, |move| >= 3% (premarket: no volume filter)",
  "top_movers": [
   {
-   "symbol": "SNDK",
-   "pct_change": 5.5,
-   "price": 1371.12,
-   "market_cap": "199,261,691,344",
+   "symbol": "GE",
+   "pct_change": -3.7,
+   "price": 299.87,
+   "market_cap": "311,133,870,773",
+   "direction": "down"
+  },
+  {
+   "symbol": "LLY",
+   "pct_change": 3.5,
+   "price": 1283.66,
+   "market_cap": "1,208,382,410,058",
    "direction": "up"
   },
   {
-   "symbol": "AMZN",
-   "pct_change": 5.0,
-   "price": 262.45,
-   "market_cap": "2,830,867,996,971",
+   "symbol": "MRK",
+   "pct_change": 3.3,
+   "price": 148.3,
+   "market_cap": "365,881,553,915",
    "direction": "up"
   },
   {
-   "symbol": "SKHY",
-   "pct_change": 4.7,
-   "price": 142.87,
-   "market_cap": "1,041,330,139,850",
-   "direction": "up"
-  },
-  {
-   "symbol": "PLTR",
-   "pct_change": 4.4,
-   "price": 194.15,
-   "market_cap": "466,358,683,142",
-   "direction": "up"
-  },
-  {
-   "symbol": "MRVL",
-   "pct_change": 4.1,
-   "price": 237.09,
-   "market_cap": "207,904,221,000",
-   "direction": "up"
-  },
-  {
-   "symbol": "TSLA",
-   "pct_change": 3.8,
-   "price": 368.06,
-   "market_cap": "1,453,670,413,836",
-   "direction": "up"
-  },
-  {
-   "symbol": "ANET",
-   "pct_change": 3.4,
-   "price": 182.95,
-   "market_cap": "230,741,049,352",
+   "symbol": "AMGN",
+   "pct_change": 3.3,
+   "price": 438.94,
+   "market_cap": "237,305,012,275",
    "direction": "up"
   },
   {
    "symbol": "LRCX",
-   "pct_change": 3.1,
-   "price": 272.2,
-   "market_cap": "340,637,711,336",
+   "pct_change": -3.2,
+   "price": 263.45,
+   "market_cap": "329,687,748,169",
+   "direction": "down"
+  },
+  {
+   "symbol": "ARM",
+   "pct_change": -3.1,
+   "price": 221.06,
+   "market_cap": "235,220,054,007",
+   "direction": "down"
+  },
+  {
+   "symbol": "UNH",
+   "pct_change": 3.0,
+   "price": 419.26,
+   "market_cap": "376,325,615,553",
    "direction": "up"
   }
  ],
  "setup_routing": {
   "setup_a_candidates": [
-   "SNDK",
-   "AMZN",
-   "SKHY",
-   "PLTR",
-   "MRVL",
-   "TSLA",
-   "ANET",
-   "LRCX"
+   "LLY",
+   "MRK",
+   "AMGN",
+   "UNH"
   ],
   "setup_b_candidates": [
-   "SNDK",
-   "AMZN",
-   "SKHY",
-   "PLTR",
-   "MRVL",
-   "TSLA",
-   "ANET",
-   "LRCX"
+   "LLY",
+   "MRK",
+   "AMGN",
+   "UNH"
   ],
-  "setup_c_candidates": []
+  "setup_c_candidates": [
+   "GE",
+   "LRCX",
+   "ARM"
+  ]
  },
- "count": 8
+ "count": 7
 }
