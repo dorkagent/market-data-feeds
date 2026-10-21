@@ -1,15 +1,15 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-20T13:09:02.802486+00:00",
+ "generated_at": "2026-10-21T13:09:54.897780+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-06T12:24:55+00:00",
+ "window_start": "2026-10-06T19:42:00+00:00",
  "top_tickers": [
   {
    "ticker": "AMZN",
-   "mentions": 7,
-   "bull": 4,
+   "mentions": 6,
+   "bull": 3,
    "bear": 2,
-   "engagement": 1289
+   "engagement": 1322
   },
   {
    "ticker": "NVDA",
@@ -19,18 +19,32 @@
    "engagement": 936
   },
   {
+   "ticker": "BRBR",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 4
+  },
+  {
    "ticker": "ASTS",
    "mentions": 4,
    "bull": 3,
    "bear": 3,
-   "engagement": 286
+   "engagement": 296
   },
   {
-   "ticker": "BRBR",
+   "ticker": "SOFI",
    "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 3
+   "bull": 3,
+   "bear": 2,
+   "engagement": 62
+  },
+  {
+   "ticker": "CRWV",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 224
   },
   {
    "ticker": "APP",
@@ -45,13 +59,6 @@
    "bull": 0,
    "bear": 1,
    "engagement": 688
-  },
-  {
-   "ticker": "SOFI",
-   "mentions": 3,
-   "bull": 3,
-   "bear": 2,
-   "engagement": 108
   },
   {
    "ticker": "MRVL",
@@ -72,14 +79,7 @@
    "mentions": 2,
    "bull": 2,
    "bear": 0,
-   "engagement": 286
-  },
-  {
-   "ticker": "CRWV",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 213
+   "engagement": 296
   },
   {
    "ticker": "AVGO",
@@ -103,32 +103,32 @@
    "engagement": 89
   },
   {
-   "ticker": "NFLX",
-   "mentions": 2,
+   "ticker": "NU",
+   "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 107
+   "engagement": 1
   },
   {
    "ticker": "CRL",
    "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
+   "bull": 1,
+   "bear": 1,
+   "engagement": 5
   },
   {
    "ticker": "ITRI",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 8
+   "engagement": 9
   },
   {
    "ticker": "RKLB",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 206
+   "engagement": 216
   },
   {
    "ticker": "LENZ",
@@ -147,18 +147,25 @@
  ],
  "top_posts": [
   {
+   "title": "Tootsie Roll (TR) is a cash cow fortress run by an unbothered 94 year old",
+   "score": 914,
+   "num_comments": 206,
+   "created_utc": 1792440056,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xa7d8r/"
+  },
+  {
+   "title": "If Nvidia bails out CoreWeave again, it reveals how deeply AI\u2019s fate is tied to CoreWeave",
+   "score": 412,
+   "num_comments": 159,
+   "created_utc": 1792260134,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x8gtjt/"
+  },
+  {
    "title": "My take on ADBE as ex SWE at Adobe",
    "score": 379,
    "num_comments": 218,
    "created_utc": 1791660772,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x2nwm7/"
-  },
-  {
-   "title": "If Nvidia bails out CoreWeave again, it reveals how deeply AI\u2019s fate is tied to CoreWeave",
-   "score": 371,
-   "num_comments": 148,
-   "created_utc": 1792260134,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x8gtjt/"
   },
   {
    "title": "Another Tesla scam? The flying Roadster edition",
@@ -175,11 +182,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1wzu5f7/"
   },
   {
-   "title": "Life Savings on Alphabet",
-   "score": 277,
-   "num_comments": 508,
-   "created_utc": 1791307090,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wz8dhv/"
+   "title": "Amazon ($AMZN) - You don't own enough amazon",
+   "score": 268,
+   "num_comments": 86,
+   "created_utc": 1792418157,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x9xk49/"
+  },
+  {
+   "title": "Netflix now trades at a lower P/E than Coca-Cola. It reports tomorrow",
+   "score": 248,
+   "num_comments": 262,
+   "created_utc": 1792410242,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x9un1i/"
   },
   {
    "title": "Which is the best value right now: NVDA, AMZN, GOOGL or META?",
@@ -187,20 +201,6 @@
    "num_comments": 341,
    "created_utc": 1791722157,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x374pm/"
-  },
-  {
-   "title": "Netflix now trades at a lower P/E than Coca-Cola. It reports tomorrow",
-   "score": 233,
-   "num_comments": 234,
-   "created_utc": 1792410242,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x9un1i/"
-  },
-  {
-   "title": "Amazon ($AMZN) - You don't own enough amazon",
-   "score": 205,
-   "num_comments": 68,
-   "created_utc": 1792418157,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x9xk49/"
   },
   {
    "title": "Spotify Is Becoming a Cash Machine: The Three-Year Case for $1,000",

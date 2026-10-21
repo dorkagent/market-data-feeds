@@ -1,15 +1,15 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-20T13:09:29.800421+00:00",
+ "generated_at": "2026-10-21T13:10:27.062759+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-10T06:23:19+00:00",
+ "window_start": "2026-09-10T19:37:56+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
-   "mentions": 9,
-   "bull": 6,
-   "bear": 5,
-   "engagement": 205
+   "mentions": 8,
+   "bull": 5,
+   "bear": 4,
+   "engagement": 179
   },
   {
    "ticker": "QQQ",
@@ -245,11 +245,11 @@
    "url": "https://www.reddit.com/r/options/comments/1womyhg/"
   },
   {
-   "title": "Explanation on 0dte Short Call",
+   "title": "Schwab Options Order",
    "score": 46,
-   "num_comments": 84,
-   "created_utc": 1791511518,
-   "url": "https://www.reddit.com/r/options/comments/1x19ach/"
+   "num_comments": 69,
+   "created_utc": 1792421897,
+   "url": "https://www.reddit.com/r/options/comments/1x9z5ge/"
   }
  ]
 }

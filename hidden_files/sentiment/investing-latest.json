@@ -1,15 +1,15 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-20T13:08:11.352495+00:00",
+ "generated_at": "2026-10-21T13:09:22.879137+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-28T17:32:27+00:00",
+ "window_start": "2026-09-29T08:00:23+00:00",
  "top_tickers": [
   {
    "ticker": "PLTR",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 70
+   "mentions": 3,
+   "bull": 3,
+   "bear": 3,
+   "engagement": 71
   },
   {
    "ticker": "AMD",
@@ -26,11 +26,18 @@
    "engagement": 0
   },
   {
-   "ticker": "AMZN",
+   "ticker": "NFLX",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 40
   },
   {
    "ticker": "FSLR",
@@ -147,18 +154,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1wwxwcd/"
   },
   {
+   "title": "How are cryptocurrencies not the dumbest thing ever?",
+   "score": 415,
+   "num_comments": 744,
+   "created_utc": 1792397633,
+   "url": "https://www.reddit.com/r/investing/comments/1x9r2z3/"
+  },
+  {
    "title": "Only 1 of the 10 biggest US companies earns more than the 30-year Treasury pays",
    "score": 368,
    "num_comments": 122,
    "created_utc": 1790765718,
    "url": "https://www.reddit.com/r/investing/comments/1wu1u0u/"
-  },
-  {
-   "title": "How are cryptocurrencies not the dumbest thing ever?",
-   "score": 360,
-   "num_comments": 682,
-   "created_utc": 1792397633,
-   "url": "https://www.reddit.com/r/investing/comments/1x9r2z3/"
   },
   {
    "title": "SpaceX announces 800 MHz spectrum telecom purchase on eve of 120 day IPO investors unlock",

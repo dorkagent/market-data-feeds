@@ -1,8 +1,8 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-20T13:08:24.765048+00:00",
+ "generated_at": "2026-10-21T13:09:36.908064+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-09T19:25:23+00:00",
+ "window_start": "2026-10-11T21:22:44+00:00",
  "top_tickers": [
   {
    "ticker": "CRWV",
@@ -20,10 +20,10 @@
   },
   {
    "ticker": "META",
-   "mentions": 5,
+   "mentions": 4,
    "bull": 1,
-   "bear": 1,
-   "engagement": 88
+   "bear": 0,
+   "engagement": 813
   },
   {
    "ticker": "BORR",
@@ -33,11 +33,18 @@
    "engagement": 69
   },
   {
-   "ticker": "TSLA",
+   "ticker": "SOFI",
    "mentions": 3,
    "bull": 1,
-   "bear": 0,
-   "engagement": 135
+   "bear": 1,
+   "engagement": 27
+  },
+  {
+   "ticker": "ASTS",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 4
   },
   {
    "ticker": "NVDA",
@@ -47,25 +54,32 @@
    "engagement": 52
   },
   {
-   "ticker": "AVGO",
-   "mentions": 3,
-   "bull": 1,
+   "ticker": "NU",
+   "mentions": 2,
+   "bull": 0,
    "bear": 0,
-   "engagement": 229
+   "engagement": 2
   },
   {
-   "ticker": "ASTS",
-   "mentions": 3,
-   "bull": 1,
+   "ticker": "SPCX",
+   "mentions": 2,
+   "bull": 0,
    "bear": 0,
-   "engagement": 411
+   "engagement": 1
   },
   {
-   "ticker": "MRVL",
+   "ticker": "TSLA",
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 29
+   "engagement": 2
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 96
   },
   {
    "ticker": "WDAY",
@@ -82,18 +96,46 @@
    "engagement": 9
   },
   {
-   "ticker": "PLTR",
-   "mentions": 2,
+   "ticker": "PEP",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 4
+   "engagement": 1
   },
   {
-   "ticker": "MSFT",
-   "mentions": 2,
+   "ticker": "BULL",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 3
+   "engagement": 1
+  },
+  {
+   "ticker": "PAR",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "NFLX",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "RDW",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "ALOY",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "IREN",
@@ -101,48 +143,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 1
-  },
-  {
-   "ticker": "SPCX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
-  },
-  {
-   "ticker": "ADUR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 60
-  },
-  {
-   "ticker": "ONDS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 81
-  },
-  {
-   "ticker": "TE",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 81
-  },
-  {
-   "ticker": "AAOI",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 81
-  },
-  {
-   "ticker": "KLAR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 81
   }
  ],
  "top_posts": [
@@ -175,11 +175,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x821pm/"
   },
   {
-   "title": "Anthropic: ~$145B raised, $2T IPO target. What profit makes that work?",
+   "title": "The attention economy is a relic of the 2010s and $META is a $1 trillion boomer casino with a GPU addiction",
    "score": 694,
-   "num_comments": 607,
-   "created_utc": 1791621701,
-   "url": "https://www.reddit.com/r/stocks/comments/1x2a9dn/"
+   "num_comments": 116,
+   "created_utc": 1792431587,
+   "url": "https://www.reddit.com/r/stocks/comments/1xa3hye/"
   },
   {
    "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
@@ -210,6 +210,13 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x8ue2q/"
   },
   {
+   "title": "1987's crash mostly recovered in 2 sessions but the 2000 Nasdaq drop took 15 yrs",
+   "score": 451,
+   "num_comments": 167,
+   "created_utc": 1792389306,
+   "url": "https://www.reddit.com/r/stocks/comments/1x9ovvd/"
+  },
+  {
    "title": "Broadcom CEO Hock Tan calls AI investors casino gamblers",
    "score": 403,
    "num_comments": 79,
@@ -217,11 +224,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x41vvb/"
   },
   {
-   "title": "1987's crash mostly recovered in 2 sessions but the 2000 Nasdaq drop took 15 yrs",
-   "score": 397,
-   "num_comments": 162,
-   "created_utc": 1792389306,
-   "url": "https://www.reddit.com/r/stocks/comments/1x9ovvd/"
+   "title": "Walmart now trades at a higher P/E than Nvidia: 43x vs 27x",
+   "score": 367,
+   "num_comments": 61,
+   "created_utc": 1792410169,
+   "url": "https://www.reddit.com/r/stocks/comments/1x9um6o/"
   },
   {
    "title": "Netflix is laying off roughly 6% of its workforce",
@@ -243,13 +250,6 @@
    "num_comments": 187,
    "created_utc": 1792225969,
    "url": "https://www.reddit.com/r/stocks/comments/1x8533t/"
-  },
-  {
-   "title": "Walmart now trades at a higher P/E than Nvidia: 43x vs 27x",
-   "score": 325,
-   "num_comments": 56,
-   "created_utc": 1792410169,
-   "url": "https://www.reddit.com/r/stocks/comments/1x9um6o/"
   }
  ]
 }
