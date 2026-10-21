@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-21",
+  "built_at": "2026-10-21T05:03:16.018237-07:00",
+  "source": "https://stockanalysis.com/markets/premarket/",
+  "names": [
+    {
+      "ticker": "SMCI",
+      "name": "Super Micro Computer, Inc.",
+      "pct": 11.83,
+      "price": 36.31,
+      "volume": 3071014,
+      "mcap": "21.33B"
+    }
+  ]
+}
