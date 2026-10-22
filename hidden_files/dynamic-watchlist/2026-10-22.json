@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-22",
+  "built_at": "2026-10-22T05:04:03.582203-07:00",
+  "source": "https://stockanalysis.com/markets/premarket/",
+  "names": [
+    {
+      "ticker": "BHVN",
+      "name": "Biohaven Ltd.",
+      "pct": 43.15,
+      "price": 16.82,
+      "volume": 3205242,
+      "mcap": "1.77B"
+    }
+  ]
+}
