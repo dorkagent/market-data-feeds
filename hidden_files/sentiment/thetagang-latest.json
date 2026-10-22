@@ -1,15 +1,15 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-10-21T13:10:08.228442+00:00",
+ "generated_at": "2026-10-22T13:10:24.121005+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-22T19:35:13+00:00",
+ "window_start": "2026-08-23T13:36:01+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
-   "mentions": 10,
-   "bull": 6,
-   "bear": 10,
-   "engagement": 114
+   "mentions": 9,
+   "bull": 5,
+   "bear": 9,
+   "engagement": 92
   },
   {
    "ticker": "RDDT",
@@ -17,6 +17,13 @@
    "bull": 3,
    "bear": 3,
    "engagement": 1201
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 3,
+   "engagement": 215
   },
   {
    "ticker": "QQQ",
@@ -40,13 +47,6 @@
    "engagement": 98
   },
   {
-   "ticker": "PLTR",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 214
-  },
-  {
    "ticker": "ORCL",
    "mentions": 3,
    "bull": 2,
@@ -59,6 +59,13 @@
    "bull": 3,
    "bear": 3,
    "engagement": 139
+  },
+  {
+   "ticker": "NFLX",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 17
   },
   {
    "ticker": "META",
@@ -124,21 +131,14 @@
    "engagement": 12
   },
   {
-   "ticker": "VXT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
-   "ticker": "AXTI",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
    "ticker": "SNXX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "VST",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -203,13 +203,6 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1x7vo34/"
   },
   {
-   "title": "You have 500k, how would you use it to generate monthly income via options as a fresh start?",
-   "score": 129,
-   "num_comments": 240,
-   "created_utc": 1787427313,
-   "url": "https://www.reddit.com/r/thetagang/comments/1vvlond/"
-  },
-  {
    "title": "Did some dumb mistakes but happy with progress YTD",
    "score": 125,
    "num_comments": 61,
@@ -250,6 +243,13 @@
    "num_comments": 101,
    "created_utc": 1790829119,
    "url": "https://www.reddit.com/r/thetagang/comments/1wuq66i/"
+  },
+  {
+   "title": "10x MU Iron Condors expiring OTM *chef\u2019s kiss*",
+   "score": 99,
+   "num_comments": 60,
+   "created_utc": 1787949632,
+   "url": "https://www.reddit.com/r/thetagang/comments/1w12755/"
   }
  ]
 }

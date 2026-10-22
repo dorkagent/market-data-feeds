@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-21T13:10:27.062759+00:00",
+ "generated_at": "2026-10-22T13:10:37.034406+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-10T19:37:56+00:00",
+ "window_start": "2026-09-11T16:27:26+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -26,6 +26,13 @@
    "engagement": 8
   },
   {
+   "ticker": "TSLA",
+   "mentions": 3,
+   "bull": 3,
+   "bear": 2,
+   "engagement": 38
+  },
+  {
    "ticker": "AMD",
    "mentions": 3,
    "bull": 2,
@@ -45,13 +52,6 @@
    "bull": 2,
    "bear": 1,
    "engagement": 18
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 12
   },
   {
    "ticker": "MSFT",
@@ -175,6 +175,13 @@
    "url": "https://www.reddit.com/r/options/comments/1x2uabt/"
   },
   {
+   "title": "Volatility Is the Only Honest Indicator",
+   "score": 84,
+   "num_comments": 59,
+   "created_utc": 1792487868,
+   "url": "https://www.reddit.com/r/options/comments/1xand3o/"
+  },
+  {
    "title": "Clarification on being banned from retail brokerage for being consistently profitable",
    "score": 82,
    "num_comments": 52,
@@ -215,13 +222,6 @@
    "num_comments": 28,
    "created_utc": 1790703700,
    "url": "https://www.reddit.com/r/options/comments/1wtgr2k/"
-  },
-  {
-   "title": "1st time buying leap GOOG",
-   "score": 50,
-   "num_comments": 52,
-   "created_utc": 1789132856,
-   "url": "https://www.reddit.com/r/options/comments/1wdg574/"
   },
   {
    "title": "Trying all the option strategies",

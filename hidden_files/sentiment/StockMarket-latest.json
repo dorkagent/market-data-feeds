@@ -1,29 +1,15 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-21T13:09:47.459271+00:00",
+ "generated_at": "2026-10-22T13:10:01.798401+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-11T14:19:20+00:00",
+ "window_start": "2026-09-13T09:03:31+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 5,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1085
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 4,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 121
-  },
-  {
-   "ticker": "AMD",
    "mentions": 4,
    "bull": 1,
    "bear": 1,
-   "engagement": 207
+   "engagement": 1084
   },
   {
    "ticker": "SPY",
@@ -33,11 +19,32 @@
    "engagement": 1808
   },
   {
+   "ticker": "AVGO",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 127
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 206
+  },
+  {
    "ticker": "META",
    "mentions": 3,
    "bull": 1,
    "bear": 1,
    "engagement": 386
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 40
   },
   {
    "ticker": "BORR",
@@ -47,18 +54,32 @@
    "engagement": 43
   },
   {
-   "ticker": "AAPL",
+   "ticker": "MSFT",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "MSFT",
-   "mentions": 2,
+   "ticker": "UBER",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 2
+  },
+  {
+   "ticker": "NFLX",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "NOK",
@@ -75,17 +96,17 @@
    "engagement": 1
   },
   {
-   "ticker": "NBIS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "PLTR",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
+   "engagement": 23
+  },
+  {
+   "ticker": "AAPL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
    "engagement": 1
   },
   {
@@ -94,13 +115,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 6
-  },
-  {
-   "ticker": "RDDT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 39
   },
   {
    "ticker": "GFS",
@@ -129,20 +143,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "CBRS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 345
-  },
-  {
-   "ticker": "ARM",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 30
   }
  ],
  "top_posts": [

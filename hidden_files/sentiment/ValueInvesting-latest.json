@@ -1,50 +1,43 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-21T13:09:54.897780+00:00",
+ "generated_at": "2026-10-22T13:10:14.952986+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-06T19:42:00+00:00",
+ "window_start": "2026-10-07T20:04:58+00:00",
  "top_tickers": [
   {
-   "ticker": "AMZN",
-   "mentions": 6,
-   "bull": 3,
-   "bear": 2,
-   "engagement": 1322
-  },
-  {
    "ticker": "NVDA",
-   "mentions": 6,
+   "mentions": 7,
    "bull": 2,
    "bear": 2,
-   "engagement": 936
+   "engagement": 937
+  },
+  {
+   "ticker": "ASTS",
+   "mentions": 5,
+   "bull": 4,
+   "bear": 3,
+   "engagement": 297
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 5,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 1265
   },
   {
    "ticker": "BRBR",
    "mentions": 4,
    "bull": 1,
    "bear": 1,
-   "engagement": 4
-  },
-  {
-   "ticker": "ASTS",
-   "mentions": 4,
-   "bull": 3,
-   "bear": 3,
-   "engagement": 296
-  },
-  {
-   "ticker": "SOFI",
-   "mentions": 3,
-   "bull": 3,
-   "bear": 2,
-   "engagement": 62
+   "engagement": 32
   },
   {
    "ticker": "CRWV",
    "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 224
+   "engagement": 280
   },
   {
    "ticker": "APP",
@@ -61,18 +54,25 @@
    "engagement": 688
   },
   {
-   "ticker": "MRVL",
-   "mentions": 3,
+   "ticker": "NFLX",
+   "mentions": 2,
    "bull": 1,
+   "bear": 0,
+   "engagement": 60
+  },
+  {
+   "ticker": "SOFI",
+   "mentions": 2,
+   "bull": 2,
    "bear": 1,
-   "engagement": 63
+   "engagement": 32
   },
   {
    "ticker": "HOOD",
    "mentions": 2,
    "bull": 0,
    "bear": 2,
-   "engagement": 3
+   "engagement": 38
   },
   {
    "ticker": "NBIS",
@@ -103,11 +103,39 @@
    "engagement": 89
   },
   {
+   "ticker": "RDDT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "QSR",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "NCLH",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "BRSL",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
    "ticker": "NU",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 28
   },
   {
    "ticker": "CRL",
@@ -115,34 +143,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 5
-  },
-  {
-   "ticker": "ITRI",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 9
-  },
-  {
-   "ticker": "RKLB",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 216
-  },
-  {
-   "ticker": "LENZ",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 6
-  },
-  {
-   "ticker": "AXON",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 12
   }
  ],
  "top_posts": [
@@ -161,6 +161,13 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x8gtjt/"
   },
   {
+   "title": "The real reason data center stock are crashing",
+   "score": 394,
+   "num_comments": 178,
+   "created_utc": 1792472573,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xaja6c/"
+  },
+  {
    "title": "My take on ADBE as ex SWE at Adobe",
    "score": 379,
    "num_comments": 218,
@@ -173,13 +180,6 @@
    "num_comments": 205,
    "created_utc": 1792156373,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x7fvsx/"
-  },
-  {
-   "title": "Berkshire Hathaway bought $193M of Lennar in 2 days. The stock is still 41% under its high. What am I missing?",
-   "score": 288,
-   "num_comments": 135,
-   "created_utc": 1791372830,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1wzu5f7/"
   },
   {
    "title": "Amazon ($AMZN) - You don't own enough amazon",
@@ -224,6 +224,13 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x5buop/"
   },
   {
+   "title": "SK Hynix seems criminally undervalued at 3x forward PE",
+   "score": 176,
+   "num_comments": 139,
+   "created_utc": 1792513027,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xawi4x/"
+  },
+  {
    "title": "What\u2019s the most CRIMINALLY undervalued stock in the market right now?",
    "score": 140,
    "num_comments": 754,
@@ -243,13 +250,6 @@
    "num_comments": 59,
    "created_utc": 1791550829,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1kqn6/"
-  },
-  {
-   "title": "Indonesian stocks dive 11% as MSCI weighs market reclassification; are there any high quality Indonesian companies that are undervalued due ",
-   "score": 121,
-   "num_comments": 70,
-   "created_utc": 1792190928,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x7uf9t/"
   }
  ]
 }

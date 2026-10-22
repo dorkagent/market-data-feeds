@@ -1,43 +1,50 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-21T13:09:12.661109+00:00",
+ "generated_at": "2026-10-22T13:09:36.189868+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-17T01:48:09+00:00",
+ "window_start": "2026-10-18T16:19:46+00:00",
  "top_tickers": [
   {
-   "ticker": "CRWV",
-   "mentions": 6,
+   "ticker": "NFLX",
+   "mentions": 5,
    "bull": 1,
-   "bear": 1,
-   "engagement": 17
+   "bear": 0,
+   "engagement": 11
+  },
+  {
+   "ticker": "CRWV",
+   "mentions": 5,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 250
+  },
+  {
+   "ticker": "FUN",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 6
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 4
   },
   {
    "ticker": "SPCX",
    "mentions": 4,
    "bull": 0,
    "bear": 0,
-   "engagement": 1487
+   "engagement": 1494
   },
   {
-   "ticker": "GME",
+   "ticker": "META",
    "mentions": 3,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 1
-  },
-  {
-   "ticker": "NFLX",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
+   "bull": 2,
+   "bear": 1,
    "engagement": 3
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 428
   },
   {
    "ticker": "GETY",
@@ -47,81 +54,88 @@
    "engagement": 3
   },
   {
-   "ticker": "META",
+   "ticker": "BTC",
    "mentions": 2,
-   "bull": 1,
-   "bear": 1,
+   "bull": 0,
+   "bear": 0,
    "engagement": 2
   },
   {
    "ticker": "QQQ",
    "mentions": 2,
-   "bull": 2,
+   "bull": 1,
    "bear": 1,
-   "engagement": 2
+   "engagement": 19
+  },
+  {
+   "ticker": "GME",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
   },
   {
    "ticker": "MU",
    "mentions": 2,
    "bull": 2,
    "bear": 0,
-   "engagement": 585
+   "engagement": 847
   },
   {
    "ticker": "SG",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 2
+   "engagement": 23
   },
   {
    "ticker": "NBIS",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
+   "engagement": 241
   },
   {
-   "ticker": "SPY",
-   "mentions": 2,
+   "ticker": "JD",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
+   "engagement": 1
   },
   {
-   "ticker": "JBLU",
-   "mentions": 2,
-   "bull": 0,
+   "ticker": "ORCL",
+   "mentions": 1,
+   "bull": 1,
    "bear": 1,
-   "engagement": 2
+   "engagement": 1
   },
   {
-   "ticker": "ALK",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 2
-  },
-  {
-   "ticker": "LUV",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 2
-  },
-  {
-   "ticker": "UAL",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 2
-  },
-  {
-   "ticker": "BR",
-   "mentions": 2,
+   "ticker": "MSTR",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 16
+   "engagement": 1
+  },
+  {
+   "ticker": "QBTS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "LAES",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "BA",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "AVGO",
@@ -129,43 +143,22 @@
    "bull": 1,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "BULL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "BTBT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
   }
  ],
  "top_posts": [
+  {
+   "title": "Anthropic plans to give each kid in America a portion of its $80B in losses.",
+   "score": 24622,
+   "num_comments": 424,
+   "created_utc": 1792537762,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xb73hx/"
+  },
   {
    "title": "Bears Rekt",
    "score": 7335,
    "num_comments": 209,
    "created_utc": 1792416780,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9x0b9/"
-  },
-  {
-   "title": "Semis 9 down days in a row...BRUTAL",
-   "score": 3685,
-   "num_comments": 107,
-   "created_utc": 1792249140,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x8cbn8/"
-  },
-  {
-   "title": "'France, truly, is on the brink', just days away from a make-or-break moment in its debt crisis, analyst warns, as protests turn into riots",
-   "score": 3277,
-   "num_comments": 1097,
-   "created_utc": 1792292660,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x8sixo/"
   },
   {
    "title": "Lost 268k in 0DTE options - I will never be able to recover from this financially",
@@ -189,18 +182,18 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xa6qjb/"
   },
   {
-   "title": "i never learn i\u2019m actually so idiotic",
-   "score": 2636,
-   "num_comments": 468,
-   "created_utc": 1792215229,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x825kl/"
-  },
-  {
    "title": "Houthis Warn Saudi Aramco Shareholders to Sell 'Before It's Too Late' as Attacks on Oil Facilities Escalate",
    "score": 2633,
    "num_comments": 248,
    "created_utc": 1792421582,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9z0oh/"
+  },
+  {
+   "title": "Why did Ask Jeeves shut down during peak LLM mania?",
+   "score": 2572,
+   "num_comments": 313,
+   "created_utc": 1792502224,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xarwa2/"
   },
   {
    "title": "It\u2019s official. Everything\u2019s gone",
@@ -217,11 +210,25 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xaacc6/"
   },
   {
-   "title": "It\u2019s been real folks",
-   "score": 2001,
-   "num_comments": 453,
-   "created_utc": 1792273892,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x8m9f4/"
+   "title": "4.4 Billion in Profit \ud83d\udd25",
+   "score": 1961,
+   "num_comments": 911,
+   "created_utc": 1792527482,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xb2ztj/"
+  },
+  {
+   "title": "Up $117k/week and $308k Since October 8th With Initial Investment of $15k.  Scalping Spy Options is Completely Regarded.",
+   "score": 1933,
+   "num_comments": 670,
+   "created_utc": 1792514374,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xax3wq/"
+  },
+  {
+   "title": "Tesla and SpaceX have set up committees to explore a merger",
+   "score": 1879,
+   "num_comments": 617,
+   "created_utc": 1792534299,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xb5sqo/"
   },
   {
    "title": "I am strait",
@@ -231,25 +238,18 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9ckxo/"
   },
   {
+   "title": "$2,000,000 in SpaceX Before Earnings",
+   "score": 1605,
+   "num_comments": 651,
+   "created_utc": 1792520592,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xazxfq/"
+  },
+  {
    "title": "Black Monday?",
    "score": 1485,
    "num_comments": 304,
    "created_utc": 1792353259,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9cn6q/"
-  },
-  {
-   "title": "Surprise SpaceX Earnings Tomorrow",
-   "score": 1069,
-   "num_comments": 415,
-   "created_utc": 1792454115,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xad35t/"
-  },
-  {
-   "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
-   "score": 971,
-   "num_comments": 104,
-   "created_utc": 1792375217,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9kmy4/"
   }
  ]
 }

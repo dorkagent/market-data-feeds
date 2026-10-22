@@ -1,22 +1,22 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-21T13:09:36.908064+00:00",
+ "generated_at": "2026-10-22T13:09:52.305002+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-11T21:22:44+00:00",
+ "window_start": "2026-10-13T02:13:21+00:00",
  "top_tickers": [
   {
    "ticker": "CRWV",
    "mentions": 6,
    "bull": 2,
    "bear": 3,
-   "engagement": 465
+   "engagement": 700
   },
   {
    "ticker": "NBIS",
    "mentions": 5,
    "bull": 2,
    "bear": 1,
-   "engagement": 416
+   "engagement": 651
   },
   {
    "ticker": "META",
@@ -33,6 +33,20 @@
    "engagement": 69
   },
   {
+   "ticker": "MSTR",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 97
+  },
+  {
    "ticker": "SOFI",
    "mentions": 3,
    "bull": 1,
@@ -44,7 +58,7 @@
    "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 4
+   "engagement": 206
   },
   {
    "ticker": "NVDA",
@@ -65,7 +79,7 @@
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 179
   },
   {
    "ticker": "TSLA",
@@ -73,13 +87,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 2
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 96
   },
   {
    "ticker": "WDAY",
@@ -94,6 +101,27 @@
    "bull": 0,
    "bear": 0,
    "engagement": 9
+  },
+  {
+   "ticker": "QGEN",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "BTC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "INVE",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "PEP",
@@ -115,34 +143,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "NFLX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "RDW",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "ALOY",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "IREN",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
   }
  ],
  "top_posts": [
@@ -152,6 +152,13 @@
    "num_comments": 524,
    "created_utc": 1792333432,
    "url": "https://www.reddit.com/r/stocks/comments/1x94h24/"
+  },
+  {
+   "title": "It\u2019s happening: Tesla and SpaceX have formed committees to discuss merger",
+   "score": 1426,
+   "num_comments": 527,
+   "created_utc": 1792532709,
+   "url": "https://www.reddit.com/r/stocks/comments/1xb55u7/"
   },
   {
    "title": "US inflation rises more than expected ahead of midterm elections",
@@ -196,6 +203,13 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x5corl/"
   },
   {
+   "title": "SpaceX revenue jumps 161% driven by Starlink and AI",
+   "score": 585,
+   "num_comments": 899,
+   "created_utc": 1792527106,
+   "url": "https://www.reddit.com/r/stocks/comments/1xb2tt8/"
+  },
+  {
    "title": "Anthropic reports $16.8B in 3Q26, up 50% QoQ, $SMH -2% AH, MoM calculation in Post",
    "score": 529,
    "num_comments": 209,
@@ -217,13 +231,6 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x9ovvd/"
   },
   {
-   "title": "Broadcom CEO Hock Tan calls AI investors casino gamblers",
-   "score": 403,
-   "num_comments": 79,
-   "created_utc": 1791811715,
-   "url": "https://www.reddit.com/r/stocks/comments/1x41vvb/"
-  },
-  {
    "title": "Walmart now trades at a higher P/E than Nvidia: 43x vs 27x",
    "score": 367,
    "num_comments": 61,
@@ -243,13 +250,6 @@
    "num_comments": 178,
    "created_utc": 1792171347,
    "url": "https://www.reddit.com/r/stocks/comments/1x7m9yr/"
-  },
-  {
-   "title": "Why the 1 Trillion Dollar AI selloff wasn't about chip demand and why its about a debt refinancing check (Coreweave case study)",
-   "score": 335,
-   "num_comments": 187,
-   "created_utc": 1792225969,
-   "url": "https://www.reddit.com/r/stocks/comments/1x8533t/"
   }
  ]
 }

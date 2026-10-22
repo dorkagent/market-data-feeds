@@ -1,15 +1,15 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-21T13:09:22.879137+00:00",
+ "generated_at": "2026-10-22T13:09:44.501594+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-29T08:00:23+00:00",
+ "window_start": "2026-09-29T13:00:04+00:00",
  "top_tickers": [
   {
    "ticker": "PLTR",
    "mentions": 3,
    "bull": 3,
    "bear": 3,
-   "engagement": 71
+   "engagement": 111
   },
   {
    "ticker": "AMD",
@@ -26,11 +26,18 @@
    "engagement": 0
   },
   {
+   "ticker": "TSLA",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
    "ticker": "NFLX",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 14
   },
   {
    "ticker": "AMZN",
@@ -182,13 +189,6 @@
    "url": "https://www.reddit.com/r/investing/comments/1x4x9ak/"
   },
   {
-   "title": "Oura abruptly postpones $2.2B IPO - Fall IPO window closed?",
-   "score": 322,
-   "num_comments": 180,
-   "created_utc": 1790677286,
-   "url": "https://www.reddit.com/r/investing/comments/1wt6ews/"
-  },
-  {
    "title": "Coreweave buys 8% of NVIDIA chips, and NVIDIA backs Coreweave. Now Coreweave is having trouble, how about NVIDIA's revenue?",
    "score": 320,
    "num_comments": 124,
@@ -229,6 +229,13 @@
    "num_comments": 390,
    "created_utc": 1791960144,
    "url": "https://www.reddit.com/r/investing/comments/1x5k7fx/"
+  },
+  {
+   "title": "I know I'm behind for my age.",
+   "score": 211,
+   "num_comments": 139,
+   "created_utc": 1790833046,
+   "url": "https://www.reddit.com/r/investing/comments/1wuraph/"
   }
  ]
 }
