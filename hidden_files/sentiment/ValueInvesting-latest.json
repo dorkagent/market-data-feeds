@@ -1,15 +1,15 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-22T13:10:14.952986+00:00",
+ "generated_at": "2026-10-23T13:05:41.041232+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-07T20:04:58+00:00",
+ "window_start": "2026-10-09T04:27:38+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 7,
+   "mentions": 6,
    "bull": 2,
-   "bear": 2,
-   "engagement": 937
+   "bear": 1,
+   "engagement": 852
   },
   {
    "ticker": "ASTS",
@@ -19,18 +19,25 @@
    "engagement": 297
   },
   {
-   "ticker": "AMZN",
-   "mentions": 5,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 1265
-  },
-  {
    "ticker": "BRBR",
    "mentions": 4,
    "bull": 1,
    "bear": 1,
    "engagement": 32
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 1164
+  },
+  {
+   "ticker": "META",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 588
   },
   {
    "ticker": "CRWV",
@@ -47,18 +54,11 @@
    "engagement": 41
   },
   {
-   "ticker": "META",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 688
-  },
-  {
-   "ticker": "NFLX",
+   "ticker": "AMD",
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 60
+   "engagement": 70
   },
   {
    "ticker": "SOFI",
@@ -103,6 +103,27 @@
    "engagement": 89
   },
   {
+   "ticker": "AIR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "MU",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "NFLX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "RDDT",
    "mentions": 1,
    "bull": 0,
@@ -122,27 +143,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 2
-  },
-  {
-   "ticker": "BRSL",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "NU",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 28
-  },
-  {
-   "ticker": "CRL",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 5
   }
  ],
  "top_posts": [

@@ -1,15 +1,15 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-22T13:10:37.034406+00:00",
+ "generated_at": "2026-10-23T13:06:01.048576+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-11T16:27:26+00:00",
+ "window_start": "2026-09-13T20:02:41+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
-   "mentions": 8,
-   "bull": 5,
-   "bear": 4,
-   "engagement": 179
+   "mentions": 7,
+   "bull": 4,
+   "bear": 3,
+   "engagement": 165
   },
   {
    "ticker": "QQQ",
@@ -68,13 +68,6 @@
    "engagement": 23
   },
   {
-   "ticker": "META",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 49
-  },
-  {
    "ticker": "BTC",
    "mentions": 2,
    "bull": 0,
@@ -82,11 +75,11 @@
    "engagement": 10
   },
   {
-   "ticker": "UBER",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 96
+   "ticker": "EDV",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "SPCE",
@@ -96,14 +89,14 @@
    "engagement": 2
   },
   {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 3
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -129,6 +122,13 @@
    "bull": 1,
    "bear": 1,
    "engagement": 17
+  },
+  {
+   "ticker": "META",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 25
   },
   {
    "ticker": "ETH",

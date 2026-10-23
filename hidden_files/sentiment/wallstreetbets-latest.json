@@ -1,85 +1,99 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-22T13:09:36.189868+00:00",
+ "generated_at": "2026-10-23T13:05:02.390287+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-18T16:19:46+00:00",
+ "window_start": "2026-10-20T08:29:52+00:00",
  "top_tickers": [
   {
-   "ticker": "NFLX",
-   "mentions": 5,
-   "bull": 1,
+   "ticker": "TSLA",
+   "mentions": 6,
+   "bull": 3,
    "bear": 0,
-   "engagement": 11
+   "engagement": 203
   },
   {
-   "ticker": "CRWV",
-   "mentions": 5,
+   "ticker": "BTC",
+   "mentions": 4,
    "bull": 0,
    "bear": 0,
-   "engagement": 250
+   "engagement": 132
+  },
+  {
+   "ticker": "NFLX",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 3505
   },
   {
    "ticker": "FUN",
    "mentions": 4,
    "bull": 2,
    "bear": 0,
-   "engagement": 6
+   "engagement": 14
   },
   {
-   "ticker": "TSLA",
-   "mentions": 4,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
-   "ticker": "SPCX",
+   "ticker": "CRWV",
    "mentions": 4,
    "bull": 0,
    "bear": 0,
-   "engagement": 1494
+   "engagement": 243
+  },
+  {
+   "ticker": "GME",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 20
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 133
   },
   {
    "ticker": "META",
    "mentions": 3,
    "bull": 2,
-   "bear": 1,
-   "engagement": 3
+   "bear": 2,
+   "engagement": 127
   },
   {
-   "ticker": "GETY",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 3
-  },
-  {
-   "ticker": "BTC",
+   "ticker": "NVDA",
    "mentions": 2,
-   "bull": 0,
-   "bear": 0,
+   "bull": 1,
+   "bear": 1,
    "engagement": 2
   },
   {
-   "ticker": "QQQ",
+   "ticker": "NBIS",
    "mentions": 2,
-   "bull": 1,
+   "bull": 0,
    "bear": 1,
-   "engagement": 19
+   "engagement": 241
   },
   {
-   "ticker": "GME",
+   "ticker": "AVGO",
    "mentions": 2,
    "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "MU",
-   "mentions": 2,
-   "bull": 2,
    "bear": 0,
-   "engagement": 847
+   "engagement": 49
+  },
+  {
+   "ticker": "BRUN",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 1089
   },
   {
    "ticker": "SG",
@@ -89,56 +103,42 @@
    "engagement": 23
   },
   {
-   "ticker": "NBIS",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 241
-  },
-  {
-   "ticker": "JD",
+   "ticker": "AAPL",
    "mentions": 1,
    "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "ORCL",
-   "mentions": 1,
-   "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 2
   },
   {
-   "ticker": "MSTR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "QBTS",
+   "ticker": "AIR",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "LAES",
+   "ticker": "BABA",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "BA",
+   "ticker": "QS",
    "mentions": 1,
-   "bull": 1,
+   "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "AVGO",
+   "ticker": "SE",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "EDV",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -154,39 +154,39 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xb73hx/"
   },
   {
-   "title": "Bears Rekt",
-   "score": 7335,
-   "num_comments": 209,
-   "created_utc": 1792416780,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9x0b9/"
+   "title": "I dont make the rules",
+   "score": 12438,
+   "num_comments": 705,
+   "created_utc": 1792594144,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xbp7th/"
   },
   {
-   "title": "Lost 268k in 0DTE options - I will never be able to recover from this financially",
-   "score": 3058,
-   "num_comments": 1254,
-   "created_utc": 1792364011,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9guju/"
+   "title": "Where my Netflix Bagholders at?",
+   "score": 4728,
+   "num_comments": 663,
+   "created_utc": 1792546551,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xba7u3/"
   },
   {
-   "title": "Bears practicing their shock when 'Black Monday' gets canceled for the 40th week in a row.",
-   "score": 2979,
-   "num_comments": 159,
-   "created_utc": 1792355753,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9domz/"
+   "title": "I will never forgive myself for this",
+   "score": 3097,
+   "num_comments": 1143,
+   "created_utc": 1792558602,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xbe3ce/"
   },
   {
-   "title": "My portfolio since 2021",
-   "score": 2970,
-   "num_comments": 482,
-   "created_utc": 1792438679,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xa6qjb/"
+   "title": "$NFLX longs punching air right now",
+   "score": 3090,
+   "num_comments": 185,
+   "created_utc": 1792555993,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xbdbqm/"
   },
   {
-   "title": "Houthis Warn Saudi Aramco Shareholders to Sell 'Before It's Too Late' as Attacks on Oil Facilities Escalate",
-   "score": 2633,
-   "num_comments": 248,
-   "created_utc": 1792421582,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9z0oh/"
+   "title": "Fidelity just reduced the minimum requirement to participate in IPOs from $500,000 to just $25,000",
+   "score": 2754,
+   "num_comments": 261,
+   "created_utc": 1792546552,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xba7uk/"
   },
   {
    "title": "Why did Ask Jeeves shut down during peak LLM mania?",
@@ -194,20 +194,6 @@
    "num_comments": 313,
    "created_utc": 1792502224,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xarwa2/"
-  },
-  {
-   "title": "It\u2019s official. Everything\u2019s gone",
-   "score": 2454,
-   "num_comments": 743,
-   "created_utc": 1792424508,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xa0bbn/"
-  },
-  {
-   "title": "Next year I will become a child again",
-   "score": 2407,
-   "num_comments": 303,
-   "created_utc": 1792446927,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xaacc6/"
   },
   {
    "title": "4.4 Billion in Profit \ud83d\udd25",
@@ -231,11 +217,11 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xb5sqo/"
   },
   {
-   "title": "I am strait",
-   "score": 1711,
-   "num_comments": 92,
-   "created_utc": 1792353105,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9ckxo/"
+   "title": "Exclusive | Larry Ellison Went on Borrowing Spree to Bankroll His Son\u2019s Warner Bros. Bid (put up shares in Tesla, SpaceX and Paramount)",
+   "score": 1744,
+   "num_comments": 122,
+   "created_utc": 1792590929,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xbnu4r/"
   },
   {
    "title": "$2,000,000 in SpaceX Before Earnings",
@@ -245,11 +231,25 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xazxfq/"
   },
   {
-   "title": "Black Monday?",
-   "score": 1485,
-   "num_comments": 304,
-   "created_utc": 1792353259,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9cn6q/"
+   "title": "Meta tops Q3 revenue expectations, announces 2-for-1 stock split",
+   "score": 1369,
+   "num_comments": 254,
+   "created_utc": 1792614112,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xbyash/"
+  },
+  {
+   "title": "Unsubscribed from Netflix.",
+   "score": 1104,
+   "num_comments": 235,
+   "created_utc": 1792626978,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xc3fdz/"
+  },
+  {
+   "title": "Are you guys done selling yet?",
+   "score": 1008,
+   "num_comments": 80,
+   "created_utc": 1792504581,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xastt4/"
   }
  ]
 }

@@ -1,15 +1,15 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-22T13:10:01.798401+00:00",
+ "generated_at": "2026-10-23T13:05:28.732009+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-13T09:03:31+00:00",
+ "window_start": "2026-09-15T18:58:51+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 4,
+   "mentions": 5,
    "bull": 1,
-   "bear": 1,
-   "engagement": 1084
+   "bear": 2,
+   "engagement": 1085
   },
   {
    "ticker": "SPY",
@@ -40,6 +40,13 @@
    "engagement": 386
   },
   {
+   "ticker": "LMT",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
    "ticker": "RDDT",
    "mentions": 2,
    "bull": 1,
@@ -61,11 +68,18 @@
    "engagement": 2
   },
   {
-   "ticker": "UBER",
+   "ticker": "GME",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
+   "engagement": 1
+  },
+  {
+   "ticker": "OKLO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
   },
   {
    "ticker": "NFLX",
@@ -75,25 +89,32 @@
    "engagement": 2
   },
   {
-   "ticker": "NBIS",
+   "ticker": "UBER",
    "mentions": 1,
-   "bull": 1,
+   "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 2
   },
   {
    "ticker": "NOK",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 417
   },
   {
    "ticker": "SNPS",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 417
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 417
   },
   {
    "ticker": "PLTR",
@@ -122,27 +143,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 24
-  },
-  {
-   "ticker": "UAL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 11
-  },
-  {
-   "ticker": "GOOGL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
   }
  ],
  "top_posts": [
@@ -168,25 +168,18 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1wuv8o6/"
   },
   {
+   "title": "Anthropic books colossal $81B loss, warns of data center backlash as Amodei siblings draw modest salaries",
+   "score": 3082,
+   "num_comments": 404,
+   "created_utc": 1792548191,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xbarw9/"
+  },
+  {
    "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
    "score": 2956,
    "num_comments": 326,
    "created_utc": 1790308305,
    "url": "https://www.reddit.com/r/StockMarket/comments/1wpm92h/"
-  },
-  {
-   "title": "Bessent dared the markets to 'bet against' him. Bond traders did - and appear to be winning.",
-   "score": 2750,
-   "num_comments": 129,
-   "created_utc": 1789323004,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wff1d0/"
-  },
-  {
-   "title": "Around 35% of Donald Trump's personal stock portfolio is invested in AI-related companies",
-   "score": 2555,
-   "num_comments": 76,
-   "created_utc": 1789490917,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wh5qs3/"
   },
   {
    "title": "Trump demands 1% or lower interest rate after first Fed hike since 2023",
@@ -217,13 +210,6 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1wi4v5x/"
   },
   {
-   "title": "We are so doomed\u2026",
-   "score": 2028,
-   "num_comments": 835,
-   "created_utc": 1789437791,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wgn4er/"
-  },
-  {
    "title": "S&P 500 Could Plunge 30% as AI Bubble Enters \u2018Late Stages\u2019",
    "score": 1936,
    "num_comments": 434,
@@ -250,6 +236,20 @@
    "num_comments": 238,
    "created_utc": 1790032493,
    "url": "https://www.reddit.com/r/StockMarket/comments/1wmspao/"
+  },
+  {
+   "title": "President Trump Addresses the United Nations: SPY Down",
+   "score": 1423,
+   "num_comments": 215,
+   "created_utc": 1790088106,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wnbe9d/"
+  },
+  {
+   "title": "How record diesel prices will rip through the U.S. economy. Trucks and rails are only the start",
+   "score": 1414,
+   "num_comments": 158,
+   "created_utc": 1789661257,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wiy7th/"
   }
  ]
 }

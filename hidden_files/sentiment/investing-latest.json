@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-22T13:09:44.501594+00:00",
+ "generated_at": "2026-10-23T13:05:12.713756+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-29T13:00:04+00:00",
+ "window_start": "2026-09-30T16:30:53+00:00",
  "top_tickers": [
   {
    "ticker": "PLTR",
@@ -12,18 +12,25 @@
    "engagement": 111
   },
   {
-   "ticker": "AMD",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
    "ticker": "NKTX",
    "mentions": 2,
    "bull": 2,
    "bear": 0,
    "engagement": 0
+  },
+  {
+   "ticker": "LMT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "OKLO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
   },
   {
    "ticker": "TSLA",
@@ -89,6 +96,13 @@
    "engagement": 1
   },
   {
+   "ticker": "AMD",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
    "ticker": "ARM",
    "mentions": 1,
    "bull": 1,
@@ -115,20 +129,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 2
-  },
-  {
-   "ticker": "INTC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "MOD",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 3
   }
  ],
  "top_posts": [
@@ -154,6 +154,13 @@
    "url": "https://www.reddit.com/r/investing/comments/1x6kmqw/"
   },
   {
+   "title": "Musk reports that SpaceX and Tesla are exploring a merger",
+   "score": 516,
+   "num_comments": 312,
+   "created_utc": 1792597656,
+   "url": "https://www.reddit.com/r/investing/comments/1xbqrmp/"
+  },
+  {
    "title": "Ukraine to hit Russian oil refineries in response to Moscow's new airstrikes, potentially impacting global diesel prices",
    "score": 441,
    "num_comments": 181,
@@ -168,11 +175,11 @@
    "url": "https://www.reddit.com/r/investing/comments/1x9r2z3/"
   },
   {
-   "title": "Only 1 of the 10 biggest US companies earns more than the 30-year Treasury pays",
-   "score": 368,
-   "num_comments": 122,
-   "created_utc": 1790765718,
-   "url": "https://www.reddit.com/r/investing/comments/1wu1u0u/"
+   "title": "To the person going all in on Alphabet (GOOG)",
+   "score": 359,
+   "num_comments": 155,
+   "created_utc": 1791899609,
+   "url": "https://www.reddit.com/r/investing/comments/1x4x9ak/"
   },
   {
    "title": "SpaceX announces 800 MHz spectrum telecom purchase on eve of 120 day IPO investors unlock",
@@ -180,13 +187,6 @@
    "num_comments": 141,
    "created_utc": 1791501209,
    "url": "https://www.reddit.com/r/investing/comments/1x15r3v/"
-  },
-  {
-   "title": "To the person going all in on Alphabet (GOOG)",
-   "score": 324,
-   "num_comments": 142,
-   "created_utc": 1791899609,
-   "url": "https://www.reddit.com/r/investing/comments/1x4x9ak/"
   },
   {
    "title": "Coreweave buys 8% of NVIDIA chips, and NVIDIA backs Coreweave. Now Coreweave is having trouble, how about NVIDIA's revenue?",

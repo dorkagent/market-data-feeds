@@ -1,8 +1,8 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-22T13:09:52.305002+00:00",
+ "generated_at": "2026-10-23T13:05:20.873882+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-13T02:13:21+00:00",
+ "window_start": "2026-10-14T01:00:31+00:00",
  "top_tickers": [
   {
    "ticker": "CRWV",
@@ -33,6 +33,13 @@
    "engagement": 69
   },
   {
+   "ticker": "TSLA",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 3
+  },
+  {
    "ticker": "MSTR",
    "mentions": 3,
    "bull": 0,
@@ -44,7 +51,7 @@
    "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 97
+   "engagement": 105
   },
   {
    "ticker": "SOFI",
@@ -68,6 +75,13 @@
    "engagement": 52
   },
   {
+   "ticker": "NFLX",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 181
+  },
+  {
    "ticker": "NU",
    "mentions": 2,
    "bull": 0,
@@ -82,25 +96,39 @@
    "engagement": 179
   },
   {
-   "ticker": "TSLA",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "WDAY",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 7
-  },
-  {
    "ticker": "CXDO",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 9
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 0
+  },
+  {
+   "ticker": "RBNE",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "KOD",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "BLKB",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "QGEN",
@@ -111,34 +139,6 @@
   },
   {
    "ticker": "BTC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "INVE",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "PEP",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "BULL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "PAR",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -182,6 +182,13 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x821pm/"
   },
   {
+   "title": "Anthropic to publicly file for IPO as early as Friday",
+   "score": 875,
+   "num_comments": 314,
+   "created_utc": 1792630273,
+   "url": "https://www.reddit.com/r/stocks/comments/1xc4lsa/"
+  },
+  {
    "title": "The attention economy is a relic of the 2010s and $META is a $1 trillion boomer casino with a GPU addiction",
    "score": 694,
    "num_comments": 116,
@@ -194,13 +201,6 @@
    "num_comments": 152,
    "created_utc": 1792068148,
    "url": "https://www.reddit.com/r/stocks/comments/1x6klne/"
-  },
-  {
-   "title": "If you had $100k to put into just one stock, what would you pick?",
-   "score": 604,
-   "num_comments": 1337,
-   "created_utc": 1791935911,
-   "url": "https://www.reddit.com/r/stocks/comments/1x5corl/"
   },
   {
    "title": "SpaceX revenue jumps 161% driven by Starlink and AI",
@@ -231,6 +231,13 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x9ovvd/"
   },
   {
+   "title": "Meta tops Q3 revenue expectations, announces 2-for-1 stock split",
+   "score": 394,
+   "num_comments": 172,
+   "created_utc": 1792613288,
+   "url": "https://www.reddit.com/r/stocks/comments/1xbxxwm/"
+  },
+  {
    "title": "Walmart now trades at a higher P/E than Nvidia: 43x vs 27x",
    "score": 367,
    "num_comments": 61,
@@ -243,13 +250,6 @@
    "num_comments": 91,
    "created_utc": 1791986157,
    "url": "https://www.reddit.com/r/stocks/comments/1x5rvwu/"
-  },
-  {
-   "title": "Just buy, log out, and check back in a month?",
-   "score": 355,
-   "num_comments": 178,
-   "created_utc": 1792171347,
-   "url": "https://www.reddit.com/r/stocks/comments/1x7m9yr/"
   }
  ]
 }
