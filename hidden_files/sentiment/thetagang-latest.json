@@ -1,8 +1,8 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-10-23T13:05:53.161472+00:00",
+ "generated_at": "2026-10-24T13:01:21.235084+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-24T16:03:01+00:00",
+ "window_start": "2026-08-25T15:05:48+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
@@ -72,7 +72,7 @@
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 32
+   "engagement": 35
   },
   {
    "ticker": "IREN",
@@ -124,7 +124,7 @@
    "engagement": 16
   },
   {
-   "ticker": "NVTS",
+   "ticker": "SNXX",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -138,7 +138,7 @@
    "engagement": 12
   },
   {
-   "ticker": "VST",
+   "ticker": "AMZN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -189,6 +189,13 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1x07kzr/"
   },
   {
+   "title": "Did some dumb mistakes but happy with progress YTD",
+   "score": 151,
+   "num_comments": 76,
+   "created_utc": 1791921511,
+   "url": "https://www.reddit.com/r/thetagang/comments/1x570zk/"
+  },
+  {
    "title": "Triple Witching effect on AMD $550 call today",
    "score": 141,
    "num_comments": 31,
@@ -203,11 +210,11 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1x7vo34/"
   },
   {
-   "title": "Did some dumb mistakes but happy with progress YTD",
-   "score": 125,
-   "num_comments": 61,
-   "created_utc": 1791921511,
-   "url": "https://www.reddit.com/r/thetagang/comments/1x570zk/"
+   "title": "Days like this\u2026.",
+   "score": 127,
+   "num_comments": 51,
+   "created_utc": 1792700535,
+   "url": "https://www.reddit.com/r/thetagang/comments/1xctp9w/"
   },
   {
    "title": "I backtested all the popular wheeling strategy",
@@ -243,13 +250,6 @@
    "num_comments": 101,
    "created_utc": 1790829119,
    "url": "https://www.reddit.com/r/thetagang/comments/1wuq66i/"
-  },
-  {
-   "title": "10x MU Iron Condors expiring OTM *chef\u2019s kiss*",
-   "score": 99,
-   "num_comments": 60,
-   "created_utc": 1787949632,
-   "url": "https://www.reddit.com/r/thetagang/comments/1w12755/"
   }
  ]
 }

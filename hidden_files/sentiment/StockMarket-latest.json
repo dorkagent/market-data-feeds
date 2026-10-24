@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-23T13:05:28.732009+00:00",
+ "generated_at": "2026-10-24T13:01:04.228219+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-15T18:58:51+00:00",
+ "window_start": "2026-09-15T22:15:12+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -17,6 +17,13 @@
    "bull": 1,
    "bear": 2,
    "engagement": 1808
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 3
   },
   {
    "ticker": "AVGO",
@@ -40,6 +47,13 @@
    "engagement": 386
   },
   {
+   "ticker": "AMZN",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
    "ticker": "LMT",
    "mentions": 2,
    "bull": 0,
@@ -61,11 +75,11 @@
    "engagement": 43
   },
   {
-   "ticker": "MSFT",
-   "mentions": 2,
+   "ticker": "TRUMP",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
+   "engagement": 1
   },
   {
    "ticker": "GME",
@@ -96,6 +110,13 @@
    "engagement": 2
   },
   {
+   "ticker": "NBIS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 417
+  },
+  {
    "ticker": "NOK",
    "mentions": 1,
    "bull": 1,
@@ -104,13 +125,6 @@
   },
   {
    "ticker": "SNPS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 417
-  },
-  {
-   "ticker": "NBIS",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -129,20 +143,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 6
-  },
-  {
-   "ticker": "GFS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 24
   }
  ],
  "top_posts": [
@@ -166,6 +166,13 @@
    "num_comments": 1003,
    "created_utc": 1790848170,
    "url": "https://www.reddit.com/r/StockMarket/comments/1wuv8o6/"
+  },
+  {
+   "title": "MRNA Trading Halted after stock dumped from $250 to $190; data leak reveals that they have NOT cured cancer after all",
+   "score": 3282,
+   "num_comments": 486,
+   "created_utc": 1792688005,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xco0ki/"
   },
   {
    "title": "Anthropic books colossal $81B loss, warns of data center backlash as Amodei siblings draw modest salaries",
@@ -208,13 +215,6 @@
    "num_comments": 237,
    "created_utc": 1789581962,
    "url": "https://www.reddit.com/r/StockMarket/comments/1wi4v5x/"
-  },
-  {
-   "title": "S&P 500 Could Plunge 30% as AI Bubble Enters \u2018Late Stages\u2019",
-   "score": 1936,
-   "num_comments": 434,
-   "created_utc": 1789501496,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1whapog/"
   },
   {
    "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",

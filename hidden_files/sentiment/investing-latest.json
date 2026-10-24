@@ -1,15 +1,15 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-23T13:05:12.713756+00:00",
+ "generated_at": "2026-10-24T13:00:47.338588+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-30T16:30:53+00:00",
+ "window_start": "2026-10-01T08:00:47+00:00",
  "top_tickers": [
   {
    "ticker": "PLTR",
    "mentions": 3,
    "bull": 3,
    "bear": 3,
-   "engagement": 111
+   "engagement": 113
   },
   {
    "ticker": "NKTX",
@@ -23,7 +23,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 110
   },
   {
    "ticker": "OKLO",
@@ -140,6 +140,13 @@
    "url": "https://www.reddit.com/r/investing/comments/1wyuvd5/"
   },
   {
+   "title": "In 2007/09 financial crisis S&P 500 went down 57% and it took 5 and a half years to recover back.",
+   "score": 1037,
+   "num_comments": 437,
+   "created_utc": 1792694070,
+   "url": "https://www.reddit.com/r/investing/comments/1xcqsbh/"
+  },
+  {
    "title": "The September jobs report quietly turned July negative",
    "score": 879,
    "num_comments": 140,
@@ -196,18 +203,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1x73wod/"
   },
   {
+   "title": "Anthropic Opens Its Q3 Books To Institutional Investors Tomorrow",
+   "score": 310,
+   "num_comments": 141,
+   "created_utc": 1791914573,
+   "url": "https://www.reddit.com/r/investing/comments/1x53x31/"
+  },
+  {
    "title": "[ Removed by moderator ]",
    "score": 299,
    "num_comments": 265,
    "created_utc": 1792008397,
    "url": "https://www.reddit.com/r/investing/comments/1x61me1/"
-  },
-  {
-   "title": "Anthropic Opens Its Q3 Books To Institutional Investors Tomorrow",
-   "score": 299,
-   "num_comments": 137,
-   "created_utc": 1791914573,
-   "url": "https://www.reddit.com/r/investing/comments/1x53x31/"
   },
   {
    "title": "At what point did your investments start growing faster than you could save money?",
@@ -225,17 +232,10 @@
   },
   {
    "title": "With Treasury yields above 5%, what would make you choose stocks over bonds right now?",
-   "score": 214,
-   "num_comments": 390,
+   "score": 232,
+   "num_comments": 419,
    "created_utc": 1791960144,
    "url": "https://www.reddit.com/r/investing/comments/1x5k7fx/"
-  },
-  {
-   "title": "I know I'm behind for my age.",
-   "score": 211,
-   "num_comments": 139,
-   "created_utc": 1790833046,
-   "url": "https://www.reddit.com/r/investing/comments/1wuraph/"
   }
  ]
 }

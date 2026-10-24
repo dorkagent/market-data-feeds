@@ -1,8 +1,8 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-23T13:05:20.873882+00:00",
+ "generated_at": "2026-10-24T13:00:54.865247+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-14T01:00:31+00:00",
+ "window_start": "2026-10-14T15:02:39+00:00",
  "top_tickers": [
   {
    "ticker": "CRWV",
@@ -19,11 +19,11 @@
    "engagement": 651
   },
   {
-   "ticker": "META",
+   "ticker": "NVDA",
    "mentions": 4,
    "bull": 1,
-   "bear": 0,
-   "engagement": 813
+   "bear": 1,
+   "engagement": 53
   },
   {
    "ticker": "BORR",
@@ -61,18 +61,18 @@
    "engagement": 27
   },
   {
-   "ticker": "ASTS",
+   "ticker": "META",
    "mentions": 3,
    "bull": 1,
-   "bear": 1,
-   "engagement": 206
+   "bear": 0,
+   "engagement": 812
   },
   {
-   "ticker": "NVDA",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 52
+   "ticker": "AAPL",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
   },
   {
    "ticker": "NFLX",
@@ -96,11 +96,18 @@
    "engagement": 179
   },
   {
-   "ticker": "CXDO",
+   "ticker": "ASTS",
    "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 205
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 9
+   "engagement": 1
   },
   {
    "ticker": "AMD",
@@ -117,30 +124,23 @@
    "engagement": 1
   },
   {
-   "ticker": "KOD",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "BLKB",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 0
+  },
+  {
+   "ticker": "KOD",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 0
   },
   {
    "ticker": "QGEN",
    "mentions": 1,
    "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "BTC",
-   "mentions": 1,
-   "bull": 0,
    "bear": 0,
    "engagement": 1
   }
@@ -159,13 +159,6 @@
    "num_comments": 527,
    "created_utc": 1792532709,
    "url": "https://www.reddit.com/r/stocks/comments/1xb55u7/"
-  },
-  {
-   "title": "US inflation rises more than expected ahead of midterm elections",
-   "score": 1251,
-   "num_comments": 225,
-   "created_utc": 1791984079,
-   "url": "https://www.reddit.com/r/stocks/comments/1x5r2r3/"
   },
   {
    "title": "How is Samsung valued at $1T while Anthropic is looking to IPO at $2T?",
@@ -238,6 +231,13 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xbxxwm/"
   },
   {
+   "title": "Berkshire Hathaway Stock Hits Record High: $360 Billion Cash Generates Interest Income, UBS Lifts Target to $942,000",
+   "score": 380,
+   "num_comments": 54,
+   "created_utc": 1792705707,
+   "url": "https://www.reddit.com/r/stocks/comments/1xcvvd5/"
+  },
+  {
    "title": "Walmart now trades at a higher P/E than Nvidia: 43x vs 27x",
    "score": 367,
    "num_comments": 61,
@@ -245,11 +245,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x9um6o/"
   },
   {
-   "title": "Netflix is laying off roughly 6% of its workforce",
-   "score": 361,
-   "num_comments": 91,
-   "created_utc": 1791986157,
-   "url": "https://www.reddit.com/r/stocks/comments/1x5rvwu/"
+   "title": "Just buy, log out, and check back in a month?",
+   "score": 355,
+   "num_comments": 178,
+   "created_utc": 1792171347,
+   "url": "https://www.reddit.com/r/stocks/comments/1x7m9yr/"
   }
  ]
 }

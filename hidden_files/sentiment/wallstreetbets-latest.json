@@ -1,29 +1,22 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-23T13:05:02.390287+00:00",
+ "generated_at": "2026-10-24T13:00:41.699078+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-20T08:29:52+00:00",
+ "window_start": "2026-10-21T00:57:42+00:00",
  "top_tickers": [
   {
-   "ticker": "TSLA",
-   "mentions": 6,
-   "bull": 3,
-   "bear": 0,
-   "engagement": 203
-  },
-  {
    "ticker": "BTC",
-   "mentions": 4,
+   "mentions": 5,
    "bull": 0,
    "bear": 0,
-   "engagement": 132
+   "engagement": 133
   },
   {
-   "ticker": "NFLX",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 3505
+   "ticker": "TSLA",
+   "mentions": 5,
+   "bull": 4,
+   "bear": 1,
+   "engagement": 243
   },
   {
    "ticker": "FUN",
@@ -33,32 +26,18 @@
    "engagement": 14
   },
   {
-   "ticker": "CRWV",
-   "mentions": 4,
+   "ticker": "MSFT",
+   "mentions": 3,
    "bull": 0,
    "bear": 0,
-   "engagement": 243
+   "engagement": 34
   },
   {
    "ticker": "GME",
    "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 3
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 20
-  },
-  {
-   "ticker": "SPY",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 133
+   "engagement": 64
   },
   {
    "ticker": "META",
@@ -68,77 +47,98 @@
    "engagement": 127
   },
   {
-   "ticker": "NVDA",
-   "mentions": 2,
+   "ticker": "NFLX",
+   "mentions": 3,
    "bull": 1,
-   "bear": 1,
-   "engagement": 2
+   "bear": 0,
+   "engagement": 3522
+  },
+  {
+   "ticker": "AAPL",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 2,
+   "engagement": 3
   },
   {
    "ticker": "NBIS",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 241
+   "engagement": 2
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1670
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 4
   },
   {
    "ticker": "AVGO",
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 49
+   "engagement": 261
   },
   {
-   "ticker": "BRUN",
+   "ticker": "SPY",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 1089
+   "engagement": 454
   },
   {
-   "ticker": "SG",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 23
-  },
-  {
-   "ticker": "AAPL",
+   "ticker": "INTC",
    "mentions": 1,
    "bull": 0,
-   "bear": 1,
-   "engagement": 2
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "AMP",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "UWMC",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 0
+  },
+  {
+   "ticker": "CIBR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "BUG",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "NTSK",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "AIR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "BABA",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "QS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SE",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "EDV",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -147,11 +147,11 @@
  ],
  "top_posts": [
   {
-   "title": "Anthropic plans to give each kid in America a portion of its $80B in losses.",
-   "score": 24622,
-   "num_comments": 424,
-   "created_utc": 1792537762,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xb73hx/"
+   "title": "Moderna Crashes 20% On Reportedly Leaked Cancer Vaccine Data",
+   "score": 13727,
+   "num_comments": 1850,
+   "created_utc": 1792691840,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcproh/"
   },
   {
    "title": "I dont make the rules",
@@ -168,6 +168,13 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xba7u3/"
   },
   {
+   "title": "48k->900k",
+   "score": 4339,
+   "num_comments": 588,
+   "created_utc": 1792697781,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcsgm7/"
+  },
+  {
    "title": "I will never forgive myself for this",
    "score": 3097,
    "num_comments": 1143,
@@ -182,6 +189,13 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xbdbqm/"
   },
   {
+   "title": "Amazon's Nvidia Chips Are Sitting in Warehouses Without Power as AI Spending Soars, Business Insider Reports",
+   "score": 2874,
+   "num_comments": 525,
+   "created_utc": 1792678271,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcjo11/"
+  },
+  {
    "title": "Fidelity just reduced the minimum requirement to participate in IPOs from $500,000 to just $25,000",
    "score": 2754,
    "num_comments": 261,
@@ -189,32 +203,18 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xba7uk/"
   },
   {
-   "title": "Why did Ask Jeeves shut down during peak LLM mania?",
-   "score": 2572,
-   "num_comments": 313,
-   "created_utc": 1792502224,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xarwa2/"
+   "title": "Meta Offers Zuckerberg New Shares to Keep Him in California",
+   "score": 1947,
+   "num_comments": 792,
+   "created_utc": 1792648953,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcam5g/"
   },
   {
-   "title": "4.4 Billion in Profit \ud83d\udd25",
-   "score": 1961,
-   "num_comments": 911,
-   "created_utc": 1792527482,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xb2ztj/"
-  },
-  {
-   "title": "Up $117k/week and $308k Since October 8th With Initial Investment of $15k.  Scalping Spy Options is Completely Regarded.",
-   "score": 1933,
-   "num_comments": 670,
-   "created_utc": 1792514374,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xax3wq/"
-  },
-  {
-   "title": "Tesla and SpaceX have set up committees to explore a merger",
-   "score": 1879,
-   "num_comments": 617,
-   "created_utc": 1792534299,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xb5sqo/"
+   "title": "It's my time to post this!",
+   "score": 1863,
+   "num_comments": 93,
+   "created_utc": 1792699104,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xct1qg/"
   },
   {
    "title": "Exclusive | Larry Ellison Went on Borrowing Spree to Bankroll His Son\u2019s Warner Bros. Bid (put up shares in Tesla, SpaceX and Paramount)",
@@ -224,18 +224,18 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xbnu4r/"
   },
   {
-   "title": "$2,000,000 in SpaceX Before Earnings",
-   "score": 1605,
-   "num_comments": 651,
-   "created_utc": 1792520592,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xazxfq/"
-  },
-  {
    "title": "Meta tops Q3 revenue expectations, announces 2-for-1 stock split",
    "score": 1369,
    "num_comments": 254,
    "created_utc": 1792614112,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xbyash/"
+  },
+  {
+   "title": "Elon Musk made a $1 billion investment in Skydance, report says",
+   "score": 1363,
+   "num_comments": 170,
+   "created_utc": 1792692751,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcq73p/"
   },
   {
    "title": "Unsubscribed from Netflix.",
@@ -245,11 +245,11 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xc3fdz/"
   },
   {
-   "title": "Are you guys done selling yet?",
-   "score": 1008,
-   "num_comments": 80,
-   "created_utc": 1792504581,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xastt4/"
+   "title": "Is the AI bubble finally cracking, or is Wall Street just giving NVDA bulls another heart attack? \ud83d\udcc9\ud83d\udc80",
+   "score": 1055,
+   "num_comments": 614,
+   "created_utc": 1792705713,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcvvg4/"
   }
  ]
 }

@@ -1,21 +1,21 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-23T13:06:01.048576+00:00",
+ "generated_at": "2026-10-24T13:01:28.853641+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-13T20:02:41+00:00",
+ "window_start": "2026-09-14T15:00:40+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
-   "mentions": 7,
-   "bull": 4,
-   "bear": 3,
-   "engagement": 165
+   "mentions": 8,
+   "bull": 5,
+   "bear": 4,
+   "engagement": 166
   },
   {
    "ticker": "QQQ",
    "mentions": 5,
-   "bull": 2,
-   "bear": 1,
+   "bull": 3,
+   "bear": 2,
    "engagement": 87
   },
   {
@@ -24,13 +24,6 @@
    "bull": 3,
    "bear": 1,
    "engagement": 8
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 3,
-   "bull": 3,
-   "bear": 2,
-   "engagement": 38
   },
   {
    "ticker": "AMD",
@@ -52,6 +45,13 @@
    "bull": 2,
    "bear": 1,
    "engagement": 18
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 52
   },
   {
    "ticker": "MSFT",
@@ -147,6 +147,13 @@
  ],
  "top_posts": [
   {
+   "title": "A year of selling boring SPX options",
+   "score": 519,
+   "num_comments": 229,
+   "created_utc": 1792700868,
+   "url": "https://www.reddit.com/r/options/comments/1xctuna/"
+  },
+  {
    "title": "Boredom",
    "score": 381,
    "num_comments": 922,
@@ -159,13 +166,6 @@
    "num_comments": 90,
    "created_utc": 1791707199,
    "url": "https://www.reddit.com/r/options/comments/1x32u6l/"
-  },
-  {
-   "title": "Beware of Bad Advice",
-   "score": 130,
-   "num_comments": 74,
-   "created_utc": 1789340128,
-   "url": "https://www.reddit.com/r/options/comments/1wfmcyo/"
   },
   {
    "title": "Fractional options coming in 2026?",

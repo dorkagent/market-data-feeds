@@ -1,8 +1,8 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-23T13:05:41.041232+00:00",
+ "generated_at": "2026-10-24T13:01:12.705251+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-09T04:27:38+00:00",
+ "window_start": "2026-10-09T22:25:08+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -16,7 +16,7 @@
    "mentions": 5,
    "bull": 4,
    "bear": 3,
-   "engagement": 297
+   "engagement": 414
   },
   {
    "ticker": "BRBR",
@@ -30,14 +30,14 @@
    "mentions": 4,
    "bull": 2,
    "bear": 0,
-   "engagement": 1164
+   "engagement": 1166
   },
   {
    "ticker": "META",
    "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 588
+   "engagement": 760
   },
   {
    "ticker": "CRWV",
@@ -58,7 +58,7 @@
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 70
+   "engagement": 141
   },
   {
    "ticker": "SOFI",
@@ -103,6 +103,20 @@
    "engagement": 89
   },
   {
+   "ticker": "CMG",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "ABNB",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
    "ticker": "AIR",
    "mentions": 1,
    "bull": 1,
@@ -114,14 +128,14 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 173
   },
   {
    "ticker": "NFLX",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 33
   },
   {
    "ticker": "RDDT",
@@ -129,20 +143,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "QSR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "NCLH",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 2
   }
  ],
  "top_posts": [
@@ -203,25 +203,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x374pm/"
   },
   {
-   "title": "Spotify Is Becoming a Cash Machine: The Three-Year Case for $1,000",
-   "score": 188,
-   "num_comments": 102,
-   "created_utc": 1791553736,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1luyj/"
-  },
-  {
-   "title": "Adobe keeps growing and is buying back shares like CRAZY. Is AI the end for the company?",
-   "score": 187,
-   "num_comments": 395,
-   "created_utc": 1791549879,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1kehw/"
-  },
-  {
    "title": "What's the biggest value trap in the market right now,cheap on every metric, and still a bad buy?",
-   "score": 183,
-   "num_comments": 292,
+   "score": 200,
+   "num_comments": 312,
    "created_utc": 1791933549,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x5buop/"
+  },
+  {
+   "title": "Value investors dream of markets like this...",
+   "score": 189,
+   "num_comments": 206,
+   "created_utc": 1792686070,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xcn4yp/"
   },
   {
    "title": "SK Hynix seems criminally undervalued at 3x forward PE",
@@ -231,6 +224,13 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xawi4x/"
   },
   {
+   "title": "How can Alphabet not tank after earnings?",
+   "score": 157,
+   "num_comments": 162,
+   "created_utc": 1792711571,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xcy4gq/"
+  },
+  {
    "title": "What\u2019s the most CRIMINALLY undervalued stock in the market right now?",
    "score": 140,
    "num_comments": 754,
@@ -238,18 +238,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x2k8pf/"
   },
   {
+   "title": "Micron lost $150B in four days. It still earns nearly 3x Coke, Pepsi and McDonald's combined",
+   "score": 131,
+   "num_comments": 116,
+   "created_utc": 1791976371,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x5oga2/"
+  },
+  {
    "title": "Anthropic debt-to-equity restructuring seems inevitable",
    "score": 124,
    "num_comments": 188,
    "created_utc": 1792240423,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x8952f/"
-  },
-  {
-   "title": "T, VZ, TMUS all are dropping big time. Elon Musk is hyping SpaceX as they head into the share lockup ending. This is 2017 robo taxi all over",
-   "score": 122,
-   "num_comments": 59,
-   "created_utc": 1791550829,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x1kqn6/"
   }
  ]
 }
