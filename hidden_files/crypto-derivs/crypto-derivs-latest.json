@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-10-25T21:07:43+00:00",
+  "fetched_at_utc": "2026-10-25T22:06:15+00:00",
   "note": "Context layer - informs, never triggers trades alone.",
   "sources": {
     "hyperliquid": "live (metaAndAssetCtxs + fundingHistory)",
@@ -12,29 +12,29 @@
     "BTC": {
       "venues": {
         "hyperliquid": {
-          "funding_8h_pct": 0.00086752,
-          "open_interest_coins": 42180.91748,
-          "mark_px_usd": 80489.4,
+          "funding_8h_pct": 0.00552736,
+          "open_interest_coins": 42787.91548,
+          "mark_px_usd": 80594.0,
           "funding_trend_48h": {
-            "avg_8h_pct": 0.009279213333333333,
+            "avg_8h_pct": 0.009108416666666666,
             "rising": false
           }
         },
         "binance_via_coingecko": {
-          "funding_8h_pct": 0.004223,
-          "open_interest_usd": 7505185548.97,
-          "volume_24h_usd": 4903306486.705965,
-          "last_traded_at": 1792961747
+          "funding_8h_pct": 0.0033009999999999997,
+          "open_interest_usd": 7499735043.94,
+          "volume_24h_usd": 4966827667.9902,
+          "last_traded_at": 1792965352
         },
         "kraken": {
-          "funding_8h_pct": 0.0088821966666664,
-          "funding_rate_prediction_8h_pct": 0.0096417,
-          "mark_px_usd": 80390.75968569006,
-          "open_interest_coins": 2629.2298,
+          "funding_8h_pct": 0.01014172,
+          "funding_rate_prediction_8h_pct": 0.0091479,
+          "mark_px_usd": 80504.04121314513,
+          "open_interest_coins": 2611.3454,
           "source_note": "relativeFundingRate per 1h, x8 to %/8h"
         },
         "okx": {
-          "funding_8h_pct": 0.00817761205627,
+          "funding_8h_pct": 0.00867456889528,
           "funding_time": "1792972800000"
         }
       },
@@ -46,28 +46,28 @@
       "venues": {
         "hyperliquid": {
           "funding_8h_pct": 0.01,
-          "open_interest_coins": 1107540.1465999999,
-          "mark_px_usd": 2345.7,
+          "open_interest_coins": 1119108.3573999996,
+          "mark_px_usd": 2345.77,
           "funding_trend_48h": {
-            "avg_8h_pct": 0.006775301666666666,
+            "avg_8h_pct": 0.006880628333333334,
             "rising": true
           }
         },
         "binance_via_coingecko": {
-          "funding_8h_pct": 0.008312,
-          "open_interest_usd": 5391768859.75,
-          "volume_24h_usd": 4222715380.8282127,
-          "last_traded_at": 1792961747
+          "funding_8h_pct": 0.008802,
+          "open_interest_usd": 5350787627.3,
+          "volume_24h_usd": 4227100972.643232,
+          "last_traded_at": 1792965352
         },
         "kraken": {
-          "funding_8h_pct": 0.008011850000000001,
-          "funding_rate_prediction_8h_pct": 0.0076819,
-          "mark_px_usd": 2342.97831456753,
-          "open_interest_coins": 30194.974,
+          "funding_8h_pct": 0.00631156,
+          "funding_rate_prediction_8h_pct": -0.0008523,
+          "mark_px_usd": 2343.4365575788,
+          "open_interest_coins": 29724.411,
           "source_note": "relativeFundingRate per 1h, x8 to %/8h"
         },
         "okx": {
-          "funding_8h_pct": 0.00531025205508,
+          "funding_8h_pct": 0.00512515289537,
           "funding_time": "1792972800000"
         }
       },
@@ -79,28 +79,28 @@
       "venues": {
         "hyperliquid": {
           "funding_8h_pct": 0.01,
-          "open_interest_coins": 5526475.22,
-          "mark_px_usd": 101.6324,
+          "open_interest_coins": 5537513.479999999,
+          "mark_px_usd": 101.8223,
           "funding_trend_48h": {
             "avg_8h_pct": 0.005543543333333334,
             "rising": true
           }
         },
         "binance_via_coingecko": {
-          "funding_8h_pct": 0.0076500000000000005,
-          "open_interest_usd": 873371869.23,
-          "volume_24h_usd": 823358700.392444,
-          "last_traded_at": 1792961747
+          "funding_8h_pct": 0.00947,
+          "open_interest_usd": 868283174.58,
+          "volume_24h_usd": 821358894.370596,
+          "last_traded_at": 1792965352
         },
         "kraken": {
-          "funding_8h_pct": -0.0029521133333336,
-          "funding_rate_prediction_8h_pct": -0.0098454,
-          "mark_px_usd": 101.50216302973,
-          "open_interest_coins": 216857.93,
+          "funding_8h_pct": 0.00246622,
+          "funding_rate_prediction_8h_pct": -0.019629,
+          "mark_px_usd": 101.70962958716,
+          "open_interest_coins": 215083.37,
           "source_note": "relativeFundingRate per 1h, x8 to %/8h"
         },
         "okx": {
-          "funding_8h_pct": 0.00481024085069,
+          "funding_8h_pct": 0.00403263086268,
           "funding_time": "1792972800000"
         }
       },
