@@ -1,78 +1,85 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-24T13:01:12.705251+00:00",
+ "generated_at": "2026-10-25T13:01:08.499532+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-09T22:25:08+00:00",
+ "window_start": "2026-10-10T16:59:40+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 6,
    "bull": 2,
    "bear": 1,
-   "engagement": 852
+   "engagement": 916
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 5,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 1172
   },
   {
    "ticker": "ASTS",
    "mentions": 5,
    "bull": 4,
    "bear": 3,
-   "engagement": 414
+   "engagement": 419
+  },
+  {
+   "ticker": "CRWV",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 287
   },
   {
    "ticker": "BRBR",
    "mentions": 4,
    "bull": 1,
    "bear": 1,
-   "engagement": 32
+   "engagement": 33
   },
   {
-   "ticker": "AMZN",
-   "mentions": 4,
-   "bull": 2,
+   "ticker": "AMD",
+   "mentions": 3,
+   "bull": 1,
    "bear": 0,
-   "engagement": 1166
+   "engagement": 160
+  },
+  {
+   "ticker": "SOFI",
+   "mentions": 3,
+   "bull": 3,
+   "bear": 2,
+   "engagement": 34
   },
   {
    "ticker": "META",
    "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 760
-  },
-  {
-   "ticker": "CRWV",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 280
+   "engagement": 765
   },
   {
    "ticker": "APP",
    "mentions": 3,
    "bull": 0,
    "bear": 1,
-   "engagement": 41
+   "engagement": 60
   },
   {
-   "ticker": "AMD",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 141
-  },
-  {
-   "ticker": "SOFI",
+   "ticker": "NFLX",
    "mentions": 2,
    "bull": 2,
-   "bear": 1,
-   "engagement": 32
+   "bear": 0,
+   "engagement": 34
   },
   {
    "ticker": "HOOD",
    "mentions": 2,
    "bull": 0,
    "bear": 2,
-   "engagement": 38
+   "engagement": 39
   },
   {
    "ticker": "NBIS",
@@ -93,14 +100,14 @@
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 27
+   "engagement": 29
   },
   {
    "ticker": "UBER",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 89
+   "engagement": 107
   },
   {
    "ticker": "CMG",
@@ -114,14 +121,14 @@
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 4
   },
   {
    "ticker": "AIR",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 9
   },
   {
    "ticker": "MU",
@@ -129,13 +136,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 173
-  },
-  {
-   "ticker": "NFLX",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 33
   },
   {
    "ticker": "RDDT",
@@ -154,18 +154,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xa7d8r/"
   },
   {
+   "title": "The real reason data center stock are crashing",
+   "score": 424,
+   "num_comments": 184,
+   "created_utc": 1792472573,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xaja6c/"
+  },
+  {
    "title": "If Nvidia bails out CoreWeave again, it reveals how deeply AI\u2019s fate is tied to CoreWeave",
    "score": 412,
    "num_comments": 159,
    "created_utc": 1792260134,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x8gtjt/"
-  },
-  {
-   "title": "The real reason data center stock are crashing",
-   "score": 394,
-   "num_comments": 178,
-   "created_utc": 1792472573,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xaja6c/"
   },
   {
    "title": "My take on ADBE as ex SWE at Adobe",
@@ -218,8 +218,8 @@
   },
   {
    "title": "SK Hynix seems criminally undervalued at 3x forward PE",
-   "score": 176,
-   "num_comments": 139,
+   "score": 185,
+   "num_comments": 146,
    "created_utc": 1792513027,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xawi4x/"
   },

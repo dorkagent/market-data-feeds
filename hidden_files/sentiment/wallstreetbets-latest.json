@@ -1,22 +1,22 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-24T13:00:41.699078+00:00",
+ "generated_at": "2026-10-25T13:00:42.271419+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-21T00:57:42+00:00",
+ "window_start": "2026-10-21T15:48:59+00:00",
  "top_tickers": [
   {
    "ticker": "BTC",
-   "mentions": 5,
+   "mentions": 6,
    "bull": 0,
    "bear": 0,
-   "engagement": 133
+   "engagement": 3413
   },
   {
    "ticker": "TSLA",
    "mentions": 5,
    "bull": 4,
    "bear": 1,
-   "engagement": 243
+   "engagement": 1025
   },
   {
    "ticker": "FUN",
@@ -26,32 +26,18 @@
    "engagement": 14
   },
   {
+   "ticker": "META",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 123
+  },
+  {
    "ticker": "MSFT",
    "mentions": 3,
    "bull": 0,
    "bear": 0,
    "engagement": 34
-  },
-  {
-   "ticker": "GME",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 64
-  },
-  {
-   "ticker": "META",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 127
-  },
-  {
-   "ticker": "NFLX",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 3522
   },
   {
    "ticker": "AAPL",
@@ -75,18 +61,11 @@
    "engagement": 1670
   },
   {
-   "ticker": "QQQ",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 4
-  },
-  {
-   "ticker": "AVGO",
+   "ticker": "GME",
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 261
+   "engagement": 63
   },
   {
    "ticker": "SPY",
@@ -94,6 +73,48 @@
    "bull": 0,
    "bear": 1,
    "engagement": 454
+  },
+  {
+   "ticker": "XLAB",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SMCI",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "DFEN",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "SHFS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "BMNR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
   },
   {
    "ticker": "INTC",
@@ -117,32 +138,11 @@
    "engagement": 0
   },
   {
-   "ticker": "CIBR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "BUG",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "NTSK",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "AIR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
+   "engagement": 17
   }
  ],
  "top_posts": [
@@ -154,18 +154,25 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcproh/"
   },
   {
-   "title": "I dont make the rules",
-   "score": 12438,
-   "num_comments": 705,
-   "created_utc": 1792594144,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xbp7th/"
+   "title": "The bears' future, based on real events",
+   "score": 11471,
+   "num_comments": 114,
+   "created_utc": 1792787805,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xdpchz/"
   },
   {
-   "title": "Where my Netflix Bagholders at?",
-   "score": 4728,
-   "num_comments": 663,
-   "created_utc": 1792546551,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xba7u3/"
+   "title": "Getty Images files for bankruptcy amid mounting debt and AI competition",
+   "score": 6250,
+   "num_comments": 482,
+   "created_utc": 1792719921,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xd13db/"
+  },
+  {
+   "title": "Lost $200k, quit for 3 years, came back and lost another $100k. Decided to go full regard one last time.",
+   "score": 4617,
+   "num_comments": 915,
+   "created_utc": 1792760944,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xddl70/"
   },
   {
    "title": "48k->900k",
@@ -175,18 +182,11 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcsgm7/"
   },
   {
-   "title": "I will never forgive myself for this",
-   "score": 3097,
-   "num_comments": 1143,
-   "created_utc": 1792558602,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xbe3ce/"
-  },
-  {
-   "title": "$NFLX longs punching air right now",
-   "score": 3090,
-   "num_comments": 185,
-   "created_utc": 1792555993,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xbdbqm/"
+   "title": "The McRib is back on 10/27. BTC historically goes up >2x after the McRib returns. Don't fade the McRib.",
+   "score": 3093,
+   "num_comments": 187,
+   "created_utc": 1792740310,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xd7cfi/"
   },
   {
    "title": "Amazon's Nvidia Chips Are Sitting in Warehouses Without Power as AI Spending Soars, Business Insider Reports",
@@ -196,11 +196,18 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcjo11/"
   },
   {
-   "title": "Fidelity just reduced the minimum requirement to participate in IPOs from $500,000 to just $25,000",
-   "score": 2754,
-   "num_comments": 261,
-   "created_utc": 1792546552,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xba7uk/"
+   "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
+   "score": 2600,
+   "num_comments": 393,
+   "created_utc": 1792760220,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xddaem/"
+  },
+  {
+   "title": "Data center spending to more than double to $2.1 trillion by 2028, BofA says",
+   "score": 1988,
+   "num_comments": 400,
+   "created_utc": 1792778616,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xdlc67/"
   },
   {
    "title": "Meta Offers Zuckerberg New Shares to Keep Him in California",
@@ -217,11 +224,18 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xct1qg/"
   },
   {
-   "title": "Exclusive | Larry Ellison Went on Borrowing Spree to Bankroll His Son\u2019s Warner Bros. Bid (put up shares in Tesla, SpaceX and Paramount)",
-   "score": 1744,
-   "num_comments": 122,
-   "created_utc": 1792590929,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xbnu4r/"
+   "title": "Claude Family Tokens",
+   "score": 1762,
+   "num_comments": 94,
+   "created_utc": 1792800384,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xdu6y3/"
+  },
+  {
+   "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+   "score": 1584,
+   "num_comments": 274,
+   "created_utc": 1792764150,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xdex62/"
   },
   {
    "title": "Meta tops Q3 revenue expectations, announces 2-for-1 stock split",
@@ -236,20 +250,6 @@
    "num_comments": 170,
    "created_utc": 1792692751,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcq73p/"
-  },
-  {
-   "title": "Unsubscribed from Netflix.",
-   "score": 1104,
-   "num_comments": 235,
-   "created_utc": 1792626978,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xc3fdz/"
-  },
-  {
-   "title": "Is the AI bubble finally cracking, or is Wall Street just giving NVDA bulls another heart attack? \ud83d\udcc9\ud83d\udc80",
-   "score": 1055,
-   "num_comments": 614,
-   "created_utc": 1792705713,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcvvg4/"
   }
  ]
 }

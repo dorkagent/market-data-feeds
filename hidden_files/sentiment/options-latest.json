@@ -1,22 +1,22 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-24T13:01:28.853641+00:00",
+ "generated_at": "2026-10-25T13:01:19.836475+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-14T15:00:40+00:00",
+ "window_start": "2026-09-14T21:10:53+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
-   "mentions": 8,
-   "bull": 5,
-   "bear": 4,
-   "engagement": 166
+   "mentions": 7,
+   "bull": 4,
+   "bear": 3,
+   "engagement": 275
   },
   {
    "ticker": "QQQ",
    "mentions": 5,
    "bull": 3,
    "bear": 2,
-   "engagement": 87
+   "engagement": 197
   },
   {
    "ticker": "NVDA",
@@ -51,14 +51,14 @@
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 52
+   "engagement": 53
   },
   {
    "ticker": "MSFT",
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 56
+   "engagement": 57
   },
   {
    "ticker": "TLT",
@@ -86,17 +86,17 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
+   "engagement": 1
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 3
   },
   {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -168,6 +168,13 @@
    "url": "https://www.reddit.com/r/options/comments/1x32u6l/"
   },
   {
+   "title": "Volatility Is the Only Honest Indicator",
+   "score": 110,
+   "num_comments": 66,
+   "created_utc": 1792487868,
+   "url": "https://www.reddit.com/r/options/comments/1xand3o/"
+  },
+  {
    "title": "Fractional options coming in 2026?",
    "score": 104,
    "num_comments": 92,
@@ -175,11 +182,11 @@
    "url": "https://www.reddit.com/r/options/comments/1x2uabt/"
   },
   {
-   "title": "Volatility Is the Only Honest Indicator",
-   "score": 84,
-   "num_comments": 59,
-   "created_utc": 1792487868,
-   "url": "https://www.reddit.com/r/options/comments/1xand3o/"
+   "title": "Weeklies beat monthlies for selling premium and it\u2019s not close. Prove me wrong.",
+   "score": 101,
+   "num_comments": 104,
+   "created_utc": 1792784830,
+   "url": "https://www.reddit.com/r/options/comments/1xdo2w2/"
   },
   {
    "title": "Clarification on being banned from retail brokerage for being consistently profitable",
@@ -187,6 +194,13 @@
    "num_comments": 52,
    "created_utc": 1789948504,
    "url": "https://www.reddit.com/r/options/comments/1wlwxee/"
+  },
+  {
+   "title": "I backtested 17,100 option-selling strategies on SPY and QQQ (2022 to 2026)",
+   "score": 74,
+   "num_comments": 37,
+   "created_utc": 1792775059,
+   "url": "https://www.reddit.com/r/options/comments/1xdjrjk/"
   },
   {
    "title": "An intuitive way to price an option",
@@ -236,20 +250,6 @@
    "num_comments": 22,
    "created_utc": 1789762359,
    "url": "https://www.reddit.com/r/options/comments/1wk126l/"
-  },
-  {
-   "title": "0-1 DTE Traders: Identifying Trend Days and Exits",
-   "score": 47,
-   "num_comments": 48,
-   "created_utc": 1790209489,
-   "url": "https://www.reddit.com/r/options/comments/1womyhg/"
-  },
-  {
-   "title": "Schwab Options Order",
-   "score": 46,
-   "num_comments": 69,
-   "created_utc": 1792421897,
-   "url": "https://www.reddit.com/r/options/comments/1x9z5ge/"
   }
  ]
 }

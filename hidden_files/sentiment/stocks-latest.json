@@ -1,22 +1,22 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-24T13:00:54.865247+00:00",
+ "generated_at": "2026-10-25T13:00:55.902065+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-14T15:02:39+00:00",
+ "window_start": "2026-10-15T05:08:45+00:00",
  "top_tickers": [
   {
    "ticker": "CRWV",
-   "mentions": 6,
-   "bull": 2,
-   "bear": 3,
-   "engagement": 700
-  },
-  {
-   "ticker": "NBIS",
    "mentions": 5,
    "bull": 2,
+   "bear": 3,
+   "engagement": 301
+  },
+  {
+   "ticker": "SOFI",
+   "mentions": 4,
+   "bull": 1,
    "bear": 1,
-   "engagement": 651
+   "engagement": 29
   },
   {
    "ticker": "NVDA",
@@ -24,6 +24,13 @@
    "bull": 1,
    "bear": 1,
    "engagement": 53
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 251
   },
   {
    "ticker": "BORR",
@@ -54,18 +61,25 @@
    "engagement": 105
   },
   {
-   "ticker": "SOFI",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 27
-  },
-  {
    "ticker": "META",
    "mentions": 3,
    "bull": 1,
    "bear": 0,
    "engagement": 812
+  },
+  {
+   "ticker": "GME",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 3
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "AAPL",
@@ -79,7 +93,7 @@
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 181
+   "engagement": 204
   },
   {
    "ticker": "NU",
@@ -93,20 +107,27 @@
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 179
+   "engagement": 202
   },
   {
    "ticker": "ASTS",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 205
+   "engagement": 211
   },
   {
-   "ticker": "AMZN",
+   "ticker": "AMGN",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "RAPP",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
    "engagement": 1
   },
   {
@@ -114,7 +135,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 0
+   "engagement": 1
   },
   {
    "ticker": "RBNE",
@@ -122,30 +143,16 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "BLKB",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 0
-  },
-  {
-   "ticker": "KOD",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 0
-  },
-  {
-   "ticker": "QGEN",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
   }
  ],
  "top_posts": [
+  {
+   "title": "It\u2019s happening: Tesla and SpaceX have formed committees to discuss merger",
+   "score": 1498,
+   "num_comments": 551,
+   "created_utc": 1792532709,
+   "url": "https://www.reddit.com/r/stocks/comments/1xb55u7/"
+  },
   {
    "title": "Andy Jassy: AWS is sold out beyond 2028. Different from dotcom.",
    "score": 1446,
@@ -154,16 +161,9 @@
    "url": "https://www.reddit.com/r/stocks/comments/1x94h24/"
   },
   {
-   "title": "It\u2019s happening: Tesla and SpaceX have formed committees to discuss merger",
-   "score": 1426,
-   "num_comments": 527,
-   "created_utc": 1792532709,
-   "url": "https://www.reddit.com/r/stocks/comments/1xb55u7/"
-  },
-  {
    "title": "How is Samsung valued at $1T while Anthropic is looking to IPO at $2T?",
-   "score": 1092,
-   "num_comments": 327,
+   "score": 1236,
+   "num_comments": 347,
    "created_utc": 1792095406,
    "url": "https://www.reddit.com/r/stocks/comments/1x6wdju/"
   },
@@ -182,6 +182,13 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xc4lsa/"
   },
   {
+   "title": "SpaceX could be on the cusp of buying 80,000 cell towers in a bid to really challenge Verizon, AT&T and T-Mobile",
+   "score": 743,
+   "num_comments": 478,
+   "created_utc": 1792756045,
+   "url": "https://www.reddit.com/r/stocks/comments/1xdbspr/"
+  },
+  {
    "title": "The attention economy is a relic of the 2010s and $META is a $1 trillion boomer casino with a GPU addiction",
    "score": 694,
    "num_comments": 116,
@@ -190,24 +197,17 @@
   },
   {
    "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-   "score": 663,
-   "num_comments": 152,
+   "score": 675,
+   "num_comments": 155,
    "created_utc": 1792068148,
    "url": "https://www.reddit.com/r/stocks/comments/1x6klne/"
   },
   {
    "title": "SpaceX revenue jumps 161% driven by Starlink and AI",
-   "score": 585,
-   "num_comments": 899,
+   "score": 618,
+   "num_comments": 927,
    "created_utc": 1792527106,
    "url": "https://www.reddit.com/r/stocks/comments/1xb2tt8/"
-  },
-  {
-   "title": "Anthropic reports $16.8B in 3Q26, up 50% QoQ, $SMH -2% AH, MoM calculation in Post",
-   "score": 529,
-   "num_comments": 209,
-   "created_utc": 1792020725,
-   "url": "https://www.reddit.com/r/stocks/comments/1x66gqa/"
   },
   {
    "title": "This reeks of Deepseek-style selloff",

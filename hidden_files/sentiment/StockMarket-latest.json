@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-24T13:01:04.228219+00:00",
+ "generated_at": "2026-10-25T13:01:01.160002+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-15T22:15:12+00:00",
+ "window_start": "2026-09-16T09:45:37+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -23,7 +23,7 @@
    "mentions": 3,
    "bull": 0,
    "bear": 1,
-   "engagement": 3
+   "engagement": 11
   },
   {
    "ticker": "AVGO",
@@ -37,7 +37,7 @@
    "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 206
+   "engagement": 217
   },
   {
    "ticker": "META",
@@ -51,7 +51,7 @@
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 2
+   "engagement": 10
   },
   {
    "ticker": "LMT",
@@ -110,14 +110,14 @@
    "engagement": 2
   },
   {
-   "ticker": "NBIS",
+   "ticker": "NOK",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 417
   },
   {
-   "ticker": "NOK",
+   "ticker": "NBIS",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -148,8 +148,8 @@
  "top_posts": [
   {
    "title": "$1 trillion wiped out from the US stock market today.",
-   "score": 7617,
-   "num_comments": 964,
+   "score": 8354,
+   "num_comments": 1037,
    "created_utc": 1792016646,
    "url": "https://www.reddit.com/r/StockMarket/comments/1x64yzb/"
   },
@@ -168,18 +168,18 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1wuv8o6/"
   },
   {
+   "title": "Anthropic books colossal $81B loss, warns of data center backlash as Amodei siblings draw modest salaries",
+   "score": 3530,
+   "num_comments": 413,
+   "created_utc": 1792548191,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xbarw9/"
+  },
+  {
    "title": "MRNA Trading Halted after stock dumped from $250 to $190; data leak reveals that they have NOT cured cancer after all",
    "score": 3282,
    "num_comments": 486,
    "created_utc": 1792688005,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xco0ki/"
-  },
-  {
-   "title": "Anthropic books colossal $81B loss, warns of data center backlash as Amodei siblings draw modest salaries",
-   "score": 3082,
-   "num_comments": 404,
-   "created_utc": 1792548191,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xbarw9/"
   },
   {
    "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
@@ -217,18 +217,18 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1wi4v5x/"
   },
   {
+   "title": "Only one bubble in the last 200 years had higher market concentration than AI today.",
+   "score": 1810,
+   "num_comments": 532,
+   "created_utc": 1792067680,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1x6kfvn/"
+  },
+  {
    "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
    "score": 1688,
    "num_comments": 64,
    "created_utc": 1791477252,
    "url": "https://www.reddit.com/r/StockMarket/comments/1x0vnok/"
-  },
-  {
-   "title": "Only one bubble in the last 200 years had higher market concentration than AI today.",
-   "score": 1515,
-   "num_comments": 486,
-   "created_utc": 1792067680,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1x6kfvn/"
   },
   {
    "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999",
