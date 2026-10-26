@@ -15,8 +15,8 @@
     "BTCUSD"
   ],
   "window": {
-    "startdt": "2026-10-12",
-    "enddt": "2026-10-19"
+    "startdt": "2026-10-19",
+    "enddt": "2026-10-26"
   },
   "days": 7,
   "companies": [
@@ -85,25 +85,8 @@
       "ticker": "ACN",
       "cik": "0001467373",
       "title": "Accenture plc",
-      "filings_8k": [
-        {
-          "company": "Accenture plc  (ACN)  (CIK 0001467373)",
-          "form": "8-K",
-          "file_date": "2026-10-14",
-          "items": [
-            "7.01",
-            "9.01"
-          ],
-          "event_tags": [
-            "other"
-          ],
-          "ciks": [
-            "0001467373"
-          ],
-          "ticker": "ACN"
-        }
-      ],
-      "filings_8k_count": 1,
+      "filings_8k": [],
+      "filings_8k_count": 0,
       "notable": []
     },
     {
@@ -138,6 +121,6 @@
   ],
   "flagged": [],
   "source": "SEC EDGAR full-text search (efts.sec.gov, keyless)",
-  "generated_utc": "2026-10-19T16:54:45.658905+00:00",
+  "generated_utc": "2026-10-26T17:01:51.124032+00:00",
   "note": "Data feed only \u2014 context layer, never a trade trigger. 8-K/Form-4 event trigger informs the Monday rotation and the premarket brief; it never fires a trade alone."
 }
