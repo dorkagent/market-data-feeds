@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-19T16:56:05.169349+00:00",
+  "generated_utc": "2026-10-26T17:03:19.968629+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. Weekly Treasury auction demand; bid-to-cover < 2.0 on long bonds = weak demand context.",
   "source": "FiscalData Treasury auctions_query (keyless)",
   "status": "ok",
