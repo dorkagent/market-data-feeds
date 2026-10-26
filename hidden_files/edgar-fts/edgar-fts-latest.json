@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-12T15:52:23.298702+00:00",
+  "generated_utc": "2026-10-26T16:25:23.276449+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. Weekly 8-K/10-K/10-Q keyword radar; a hit is a flag for the news pass, not a trade signal.",
   "source": "SEC EDGAR full-text search (efts.sec.gov, keyless)",
   "status": "ok",
   "window": {
-    "startdt": "2026-10-05",
-    "enddt": "2026-10-12",
+    "startdt": "2026-10-19",
+    "enddt": "2026-10-26",
     "forms": "8-K,10-K,10-Q"
   },
   "keywords": {
@@ -20,42 +20,42 @@
       "other_sample": []
     },
     "going concern": {
-      "total_hits": 108,
+      "total_hits": 141,
       "watchlist_hits": [],
       "other_sample": [
         {
           "ticker": null,
-          "company": "Elite Performance Holding Corp  (CIK 0001753681)",
+          "company": "Tech Tonic Group Corp.  (THTG)  (CIK 0002029303)",
           "form": "10-Q",
-          "file_date": "2026-10-08",
+          "file_date": "2026-10-21",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "STARGUIDE GROUP, INC.  (STRG)  (CIK 0001803096)",
-          "form": "10-Q",
-          "file_date": "2026-10-07",
-          "watchlist": false
-        },
-        {
-          "ticker": null,
-          "company": "MobbQuest Inc.  (CIK 0002109817)",
-          "form": "10-Q",
-          "file_date": "2026-10-08",
-          "watchlist": false
-        },
-        {
-          "ticker": null,
-          "company": "Processa Pharmaceuticals, Inc.  (PCSA)  (CIK 0001533743)",
-          "form": "8-K/A",
-          "file_date": "2026-10-05",
-          "watchlist": false
-        },
-        {
-          "ticker": null,
-          "company": "Protopia Global Holdings Inc.  (CIK 0001959585)",
+          "company": "HOOPS SCOUTING USA  (HSCT)  (CIK 0001721056)",
           "form": "10-K",
-          "file_date": "2026-10-07",
+          "file_date": "2026-10-23",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "BTCS Labs Inc.  (CIK 0002089189)",
+          "form": "10-Q",
+          "file_date": "2026-10-23",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "Synera Studio Inc  (CIK 0002076167)",
+          "form": "10-Q",
+          "file_date": "2026-10-23",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "LOGOOM TECHNOLOGIES, INC.  (CIK 0002124913)",
+          "form": "10-Q",
+          "file_date": "2026-10-22",
           "watchlist": false
         }
       ]
@@ -66,78 +66,78 @@
       "other_sample": [
         {
           "ticker": null,
-          "company": "Oil-Dri Corp of America  (ODC)  (CIK 0000074046)",
-          "form": "10-K",
-          "file_date": "2026-10-08",
+          "company": "Agassi Sports Entertainment Corp.  (AASP)  (CIK 0000930245)",
+          "form": "8-K",
+          "file_date": "2026-10-26",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "Transglobal Management Group, Inc.  (TMGI)  (CIK 0001434601)",
+          "company": "DYNAMIC AEROSPACE SYSTEMS Corp  (BRQL)  (CIK 0001854526)",
           "form": "8-K",
-          "file_date": "2026-10-07",
+          "file_date": "2026-10-23",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "VivoSim Labs, INC.  (VIVS)  (CIK 0001497253)",
-          "form": "8-K",
-          "file_date": "2026-10-06",
+          "company": "COMCAST CORP  (CCZ, CMCSA)  (CIK 0001166691)",
+          "form": "10-Q",
+          "file_date": "2026-10-22",
           "watchlist": false
         },
         {
           "ticker": null,
           "company": "Sports Entertainment Gaming Global Corp  (SEGG, LTRYW)  (CIK 0001673481)",
-          "form": "10-Q",
-          "file_date": "2026-10-08",
+          "form": "8-K",
+          "file_date": "2026-10-20",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "McGraw Hill, Inc.  (MH)  (CIK 0001951070)",
+          "company": "Expion Energy, Inc.  (XPON)  (CIK 0001894954)",
           "form": "8-K",
-          "file_date": "2026-10-09",
+          "file_date": "2026-10-23",
           "watchlist": false
         }
       ]
     },
     "Chapter 11": {
-      "total_hits": 12,
+      "total_hits": 18,
       "watchlist_hits": [],
       "other_sample": [
         {
           "ticker": null,
-          "company": "Leslie's, Inc.  (LESL)  (CIK 0001821806)",
+          "company": "Leslie's, Inc.  (LESL, LESLQ)  (CIK 0001821806)",
           "form": "8-K",
-          "file_date": "2026-10-05",
+          "file_date": "2026-10-22",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "Leslie's, Inc.  (LESL)  (CIK 0001821806)",
+          "company": "Getty Images Holdings, Inc.  (GETY, GETYQ)  (CIK 0001898496)",
           "form": "8-K",
-          "file_date": "2026-10-05",
+          "file_date": "2026-10-26",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "Leslie's, Inc.  (LESL)  (CIK 0001821806)",
+          "company": "Getty Images Holdings, Inc.  (GETY)  (CIK 0001898496)",
           "form": "8-K",
-          "file_date": "2026-10-05",
+          "file_date": "2026-10-21",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "Copper Property CTL Pass Through Trust  (CPPTL)  (CIK 0001837671)",
+          "company": "Getty Images Holdings, Inc.  (GETY)  (CIK 0001898496)",
           "form": "8-K",
-          "file_date": "2026-10-07",
+          "file_date": "2026-10-21",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "PILLARSTONE CAPITAL REIT  (CIK 0000928953)",
-          "form": "10-Q",
-          "file_date": "2026-10-07",
+          "company": "Getty Images Holdings, Inc.  (GETY)  (CIK 0001898496)",
+          "form": "8-K",
+          "file_date": "2026-10-21",
           "watchlist": false
         }
       ]
