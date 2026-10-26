@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-19T17:01:21.224923+00:00",
-  "note": "Context layer \u2014 informs, never triggers trades alone. Biweekly FTD levels; ~2-week lag; settlement-stress gauge.",
+  "generated_utc": "2026-10-26T17:10:33.819410+00:00",
+  "note": "Context layer \u2014 informs, never triggers trades alone. Biweekly FTD levels; ~2-week lag; settlement-stress gauge. Latest available file 202609b already processed.",
   "source": "SEC fails-to-deliver (sec.gov, keyless ZIP)",
-  "status": "ok",
+  "status": "no_new_data",
   "tickers": {
     "SPY": {
       "settlement_date": "20260930",
