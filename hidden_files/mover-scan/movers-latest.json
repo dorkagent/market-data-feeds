@@ -1,169 +1,83 @@
 {
- "generated_at": "2026-10-23T11:56:55.791430+00:00",
+ "generated_at": "2026-10-26T13:42:53.041352+00:00",
  "universe": "US-listed, price >= $5, |move| >= 3% (premarket: no volume filter)",
  "top_movers": [
   {
-   "symbol": "LRCX",
-   "pct_change": -11.8,
-   "price": 230.15,
-   "market_cap": "288,015,316,914",
-   "direction": "down"
+   "symbol": "CRWD",
+   "pct_change": 8.2,
+   "price": 257.57,
+   "market_cap": "263,734,897,254",
+   "direction": "up"
   },
   {
-   "symbol": "GEV",
-   "pct_change": -10.6,
-   "price": 827.42,
-   "market_cap": "220,369,731,591",
-   "direction": "down"
+   "symbol": "PANW",
+   "pct_change": 7.2,
+   "price": 380.55,
+   "market_cap": "311,289,900,000",
+   "direction": "up"
   },
   {
-   "symbol": "KLAC",
-   "pct_change": -9.5,
-   "price": 147.83,
-   "market_cap": "192,919,109,712",
-   "direction": "down"
-  },
-  {
-   "symbol": "SPCX",
-   "pct_change": -9.1,
-   "price": 144.75,
-   "market_cap": "1,964,665,930,219",
-   "direction": "down"
-  },
-  {
-   "symbol": "MRVL",
-   "pct_change": -8.7,
-   "price": 223.47,
-   "market_cap": "195,960,843,000",
-   "direction": "down"
-  },
-  {
-   "symbol": "SNDK",
-   "pct_change": -8.5,
-   "price": 1260.93,
-   "market_cap": "183,248,034,064",
-   "direction": "down"
-  },
-  {
-   "symbol": "AMAT",
-   "pct_change": -8.2,
-   "price": 375.58,
-   "market_cap": "298,059,327,642",
+   "symbol": "CCZ",
+   "pct_change": -4.3,
+   "price": 62.3,
+   "market_cap": "221,227,694,671",
    "direction": "down"
   },
   {
    "symbol": "SKHY",
-   "pct_change": -8.1,
-   "price": 131.69,
-   "market_cap": "959,842,976,950",
-   "direction": "down"
+   "pct_change": 4.0,
+   "price": 137.02,
+   "market_cap": "998,691,508,100",
+   "direction": "up"
   },
   {
-   "symbol": "AMD",
-   "pct_change": -8.1,
-   "price": 507.93,
-   "market_cap": "829,183,048,083",
-   "direction": "down"
-  },
-  {
-   "symbol": "INTC",
-   "pct_change": -8.0,
-   "price": 85.49,
-   "market_cap": "451,820,592,495",
-   "direction": "down"
-  },
-  {
-   "symbol": "APH",
-   "pct_change": -7.7,
-   "price": 73.07,
-   "market_cap": "180,188,202,406",
+   "symbol": "AXP",
+   "pct_change": -3.7,
+   "price": 313.22,
+   "market_cap": "211,520,545,892",
    "direction": "down"
   },
   {
    "symbol": "ACN",
-   "pct_change": 7.7,
-   "price": 258.74,
-   "market_cap": "173,025,340,894",
+   "pct_change": -3.6,
+   "price": 249.37,
+   "market_cap": "166,759,408,127",
+   "direction": "down"
+  },
+  {
+   "symbol": "COP",
+   "pct_change": 3.5,
+   "price": 150.8,
+   "market_cap": "181,161,691,833",
    "direction": "up"
   },
   {
-   "symbol": "ARM",
-   "pct_change": -7.3,
-   "price": 210.1,
-   "market_cap": "223,558,008,445",
-   "direction": "down"
-  },
-  {
-   "symbol": "ANET",
-   "pct_change": -7.2,
-   "price": 171.07,
-   "market_cap": "215,757,700,533",
-   "direction": "down"
-  },
-  {
-   "symbol": "META",
-   "pct_change": -7.0,
-   "price": 648.85,
-   "market_cap": "1,658,617,196,054",
-   "direction": "down"
-  },
-  {
-   "symbol": "ASML",
-   "pct_change": -6.9,
-   "price": 1560.54,
-   "market_cap": "601,459,682,939",
-   "direction": "down"
-  },
-  {
-   "symbol": "DELL",
-   "pct_change": -6.8,
-   "price": 452.95,
-   "market_cap": "287,991,385,113",
-   "direction": "down"
-  },
-  {
-   "symbol": "MU",
-   "pct_change": -6.3,
-   "price": 856.49,
-   "market_cap": "969,052,666,846",
-   "direction": "down"
-  },
-  {
-   "symbol": "PG",
-   "pct_change": 5.6,
-   "price": 165.59,
-   "market_cap": "384,902,870,405",
-   "direction": "up"
-  },
-  {
-   "symbol": "ADI",
-   "pct_change": -5.0,
-   "price": 385.76,
-   "market_cap": "186,925,973,778",
+   "symbol": "NVS",
+   "pct_change": -3.3,
+   "price": 151.12,
+   "market_cap": "288,359,881,730",
    "direction": "down"
   }
  ],
  "setup_routing": {
   "setup_a_candidates": [
-   "ACN",
-   "PG"
+   "CRWD",
+   "PANW",
+   "SKHY",
+   "COP"
   ],
   "setup_b_candidates": [
-   "ACN",
-   "PG"
+   "CRWD",
+   "PANW",
+   "SKHY",
+   "COP"
   ],
   "setup_c_candidates": [
-   "LRCX",
-   "GEV",
-   "KLAC",
-   "SPCX",
-   "MRVL",
-   "SNDK",
-   "AMAT",
-   "SKHY",
-   "AMD",
-   "INTC"
+   "CCZ",
+   "AXP",
+   "ACN",
+   "NVS"
   ]
  },
- "count": 20
+ "count": 8
 }
