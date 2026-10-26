@@ -1,18 +1,84 @@
 {
-  "generated_utc": "2026-10-19T01:51:25.746255+00:00",
+  "generated_utc": "2026-10-26T02:00:44.509393+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. Insider cluster buys corroborate the Form 4 feed; a cluster is context, never a trade signal.",
   "source": "OpenInsider latest-cluster-buys (keyless HTML scrape)",
   "status": "ok",
   "clusters": [
     {
-      "ticker": "BYRN",
-      "company": "Byrna Technologies Inc.",
-      "insiders": 6,
-      "trade_date": "2026-10-14",
-      "filing_date": "2026-10-16 16:01:57",
+      "ticker": "NXG",
+      "company": "Nxg Nextgen Infrastructure Income Fund",
+      "insiders": 3,
+      "trade_date": "2026-10-19",
+      "filing_date": "2026-10-23 17:13:39",
       "trade_type": "P - Purchase",
-      "price": "$3.77",
-      "value": "+$399,582",
+      "price": "$44.17",
+      "value": "+$525,575",
+      "watchlist": false
+    },
+    {
+      "ticker": "RAPP",
+      "company": "Rapport Therapeutics, Inc.",
+      "insiders": 6,
+      "trade_date": "2026-10-23",
+      "filing_date": "2026-10-23 16:01:03",
+      "trade_type": "P - Purchase",
+      "price": "$26.99",
+      "value": "+$1,664,825",
+      "watchlist": false
+    },
+    {
+      "ticker": "CRAFX",
+      "company": "Cascade Real Assets Fund",
+      "insiders": 3,
+      "trade_date": "2026-10-21",
+      "filing_date": "2026-10-23 12:04:57",
+      "trade_type": "P - Purchase",
+      "price": "$10.02",
+      "value": "+$5,731,249",
+      "watchlist": false
+    },
+    {
+      "ticker": "AGMB",
+      "company": "Agomab Therapeutics Nv",
+      "insiders": 3,
+      "trade_date": "2026-10-05",
+      "filing_date": "2026-10-22 08:14:43",
+      "trade_type": "P - Purchase",
+      "price": "$8.70",
+      "value": "+$399,970",
+      "watchlist": false
+    },
+    {
+      "ticker": "BPRE",
+      "company": "Bluerock Private Real Estate Fund",
+      "insiders": 3,
+      "trade_date": "2026-10-19",
+      "filing_date": "2026-10-21 18:21:07",
+      "trade_type": "P - Purchase",
+      "price": "$12.69",
+      "value": "+$32,812,834",
+      "watchlist": false
+    },
+    {
+      "ticker": "DX",
+      "company": "Dynex Capital Inc",
+      "insiders": 3,
+      "trade_date": "2026-10-20",
+      "filing_date": "2026-10-21 16:07:32",
+      "trade_type": "P - Purchase",
+      "price": "$12.01",
+      "value": "+$284,480",
+      "watchlist": false
+    },
+    {
+      "ticker": "FUL",
+      "company": "Fuller H B Co",
+      "insiders": 8,
+      "trade_date": "2026-10-16",
+      "filing_date": "2026-10-19 09:38:01",
+      "trade_type": "P - Purchase",
+      "price": "$49.71",
+      "value": "+$1,123,318",
       "watchlist": false
     },
     {
@@ -35,17 +101,6 @@
       "trade_type": "P - Purchase",
       "price": "$4.44",
       "value": "+$57,144,458",
-      "watchlist": false
-    },
-    {
-      "ticker": "BPRE",
-      "company": "Bluerock Private Real Estate Fund",
-      "insiders": 3,
-      "trade_date": "2026-10-14",
-      "filing_date": "2026-10-15 17:50:25",
-      "trade_type": "P - Purchase",
-      "price": "$12.75",
-      "value": "+$27,045,493",
       "watchlist": false
     },
     {
@@ -112,17 +167,6 @@
       "trade_type": "P - Purchase",
       "price": "$25.41",
       "value": "+$1,029,938",
-      "watchlist": false
-    },
-    {
-      "ticker": "AGMB",
-      "company": "Agomab Therapeutics Nv",
-      "insiders": 3,
-      "trade_date": "2026-10-05",
-      "filing_date": "2026-10-09 08:01:30",
-      "trade_type": "P - Purchase",
-      "price": "$8.64",
-      "value": "+$311,170",
       "watchlist": false
     },
     {
@@ -244,17 +288,6 @@
       "trade_type": "P - Purchase",
       "price": "$12.92",
       "value": "+$293,774",
-      "watchlist": false
-    },
-    {
-      "ticker": "CRAFX",
-      "company": "Cascade Real Assets Fund",
-      "insiders": 2,
-      "trade_date": "2026-09-25",
-      "filing_date": "2026-09-29 10:42:04",
-      "trade_type": "P - Purchase",
-      "price": "$10.00",
-      "value": "+$5,300,000",
       "watchlist": false
     },
     {
@@ -535,12 +568,12 @@
     {
       "ticker": "PNFP",
       "company": "Pinnacle Financial Partners, Inc.",
-      "insiders": 3,
+      "insiders": 2,
       "trade_date": "2026-09-01",
       "filing_date": "2026-09-11 16:09:22",
       "trade_type": "P - Purchase",
-      "price": "$99.38",
-      "value": "+$1,299,640",
+      "price": "$97.66",
+      "value": "+$299,341",
       "watchlist": false
     },
     {
@@ -909,12 +942,12 @@
     {
       "ticker": "TSM",
       "company": "Taiwan Semiconductor Manufacturing Co Ltd",
-      "insiders": 3,
+      "insiders": 2,
       "trade_date": "2026-08-18",
       "filing_date": "2026-08-20 07:41:41",
       "trade_type": "P - Purchase",
-      "price": "$73.60",
-      "value": "+$984,393",
+      "price": "$73.52",
+      "value": "+$320,903",
       "watchlist": false
     },
     {
@@ -1069,39 +1102,6 @@
       "trade_type": "P - Purchase",
       "price": "$112.90",
       "value": "+$902,411",
-      "watchlist": false
-    },
-    {
-      "ticker": "BTDR",
-      "company": "Bitdeer Technologies Group",
-      "insiders": 2,
-      "trade_date": "2026-08-14",
-      "filing_date": "2026-08-17 08:26:31",
-      "trade_type": "P - Purchase",
-      "price": "$8.94",
-      "value": "+$447,000",
-      "watchlist": false
-    },
-    {
-      "ticker": "ONON",
-      "company": "On Holding AG",
-      "insiders": 2,
-      "trade_date": "2026-08-14",
-      "filing_date": "2026-08-17 08:24:05",
-      "trade_type": "P - Purchase",
-      "price": "$30.67",
-      "value": "+$3,987,582",
-      "watchlist": false
-    },
-    {
-      "ticker": "VFC",
-      "company": "V F Corp",
-      "insiders": 2,
-      "trade_date": "2026-08-13",
-      "filing_date": "2026-08-17 07:02:55",
-      "trade_type": "P - Purchase",
-      "price": "$14.89",
-      "value": "+$787,352",
       "watchlist": false
     }
   ]
