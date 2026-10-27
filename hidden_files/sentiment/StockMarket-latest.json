@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-25T13:01:01.160002+00:00",
+ "generated_at": "2026-10-27T13:11:38.415610+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-16T09:45:37+00:00",
+ "window_start": "2026-09-18T11:02:34+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -12,11 +12,18 @@
    "engagement": 1085
   },
   {
-   "ticker": "SPY",
-   "mentions": 4,
-   "bull": 1,
+   "ticker": "SOFI",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 6
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 3,
+   "bull": 2,
    "bear": 2,
-   "engagement": 1808
+   "engagement": 40
   },
   {
    "ticker": "MSFT",
@@ -33,11 +40,11 @@
    "engagement": 127
   },
   {
-   "ticker": "AMD",
+   "ticker": "SPY",
    "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 217
+   "bull": 0,
+   "bear": 2,
+   "engagement": 1679
   },
   {
    "ticker": "META",
@@ -61,18 +68,32 @@
    "engagement": 2
   },
   {
-   "ticker": "RDDT",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 40
-  },
-  {
    "ticker": "BORR",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 43
+   "engagement": 58
+  },
+  {
+   "ticker": "LITE",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "BE",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "RAPP",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 7
   },
   {
    "ticker": "TRUMP",
@@ -96,13 +117,6 @@
    "engagement": 1
   },
   {
-   "ticker": "NFLX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
    "ticker": "UBER",
    "mentions": 1,
    "bull": 0,
@@ -110,39 +124,25 @@
    "engagement": 2
   },
   {
-   "ticker": "NOK",
+   "ticker": "NFLX",
    "mentions": 1,
-   "bull": 1,
+   "bull": 0,
    "bear": 0,
-   "engagement": 417
-  },
-  {
-   "ticker": "NBIS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 417
+   "engagement": 2
   },
   {
    "ticker": "SNPS",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 417
+   "engagement": 494
   },
   {
-   "ticker": "PLTR",
+   "ticker": "NOK",
    "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 23
-  },
-  {
-   "ticker": "AAPL",
-   "mentions": 1,
-   "bull": 0,
+   "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 494
   }
  ],
  "top_posts": [
@@ -176,8 +176,8 @@
   },
   {
    "title": "MRNA Trading Halted after stock dumped from $250 to $190; data leak reveals that they have NOT cured cancer after all",
-   "score": 3282,
-   "num_comments": 486,
+   "score": 3478,
+   "num_comments": 517,
    "created_utc": 1792688005,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xco0ki/"
   },
@@ -187,13 +187,6 @@
    "num_comments": 326,
    "created_utc": 1790308305,
    "url": "https://www.reddit.com/r/StockMarket/comments/1wpm92h/"
-  },
-  {
-   "title": "Trump demands 1% or lower interest rate after first Fed hike since 2023",
-   "score": 2431,
-   "num_comments": 266,
-   "created_utc": 1789594238,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wiahtg/"
   },
   {
    "title": "Mortgage rates hit 7.58%, approaching 3-year high",
@@ -210,11 +203,11 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1x19jv0/"
   },
   {
-   "title": "Fed approves interest rate hike, signals one more to come this year",
-   "score": 2062,
-   "num_comments": 237,
-   "created_utc": 1789581962,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wi4v5x/"
+   "title": "Crash incoming? - Americans have never had more of their money in stocks - not even in the dot-com bubble",
+   "score": 1914,
+   "num_comments": 443,
+   "created_utc": 1792852456,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xea8br/"
   },
   {
    "title": "Only one bubble in the last 200 years had higher market concentration than AI today.",
@@ -231,6 +224,13 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1x0vnok/"
   },
   {
+   "title": "There's gonna be a bloodbath of Neocloud on Monday",
+   "score": 1556,
+   "num_comments": 495,
+   "created_utc": 1792961013,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xfda72/"
+  },
+  {
    "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999",
    "score": 1484,
    "num_comments": 238,
@@ -245,11 +245,11 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1wnbe9d/"
   },
   {
-   "title": "How record diesel prices will rip through the U.S. economy. Trucks and rails are only the start",
-   "score": 1414,
-   "num_comments": 158,
-   "created_utc": 1789661257,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wiy7th/"
+   "title": "Nasdaq sinks more than 2% as investors raise questions about AI debt",
+   "score": 1194,
+   "num_comments": 131,
+   "created_utc": 1792191200,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1x7uiuo/"
   }
  ]
 }

@@ -1,15 +1,15 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-10-25T13:01:14.256883+00:00",
+ "generated_at": "2026-10-27T13:11:48.473405+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-26T13:45:31+00:00",
+ "window_start": "2026-08-26T21:59:18+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
    "mentions": 10,
    "bull": 5,
    "bear": 10,
-   "engagement": 93
+   "engagement": 120
   },
   {
    "ticker": "PLTR",
@@ -82,13 +82,6 @@
    "engagement": 42
   },
   {
-   "ticker": "NVDA",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 18
-  },
-  {
    "ticker": "SOFI",
    "mentions": 2,
    "bull": 0,
@@ -121,24 +114,31 @@
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 16
-  },
-  {
-   "ticker": "SPCH",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
-   "ticker": "VST",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
+   "engagement": 18
   },
   {
    "ticker": "AXTI",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "SNXX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "NVTS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "AMZN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -189,6 +189,13 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1x570zk/"
   },
   {
+   "title": "Good time to sell puts?",
+   "score": 147,
+   "num_comments": 79,
+   "created_utc": 1792194412,
+   "url": "https://www.reddit.com/r/thetagang/comments/1x7vo34/"
+  },
+  {
    "title": "Triple Witching effect on AMD $550 call today",
    "score": 141,
    "num_comments": 31,
@@ -196,15 +203,8 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1wk4d9v/"
   },
   {
-   "title": "Good time to sell puts?",
-   "score": 139,
-   "num_comments": 78,
-   "created_utc": 1792194412,
-   "url": "https://www.reddit.com/r/thetagang/comments/1x7vo34/"
-  },
-  {
    "title": "Days like this\u2026.",
-   "score": 127,
+   "score": 134,
    "num_comments": 51,
    "created_utc": 1792700535,
    "url": "https://www.reddit.com/r/thetagang/comments/1xctp9w/"

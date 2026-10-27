@@ -1,43 +1,50 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-25T13:00:42.271419+00:00",
+ "generated_at": "2026-10-27T13:11:20.938213+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-21T15:48:59+00:00",
+ "window_start": "2026-10-23T00:00:03+00:00",
  "top_tickers": [
   {
+   "ticker": "TSLA",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 977
+  },
+  {
    "ticker": "BTC",
-   "mentions": 6,
+   "mentions": 3,
    "bull": 0,
    "bear": 0,
-   "engagement": 3413
+   "engagement": 3644
   },
   {
-   "ticker": "TSLA",
-   "mentions": 5,
-   "bull": 4,
-   "bear": 1,
-   "engagement": 1025
-  },
-  {
-   "ticker": "FUN",
-   "mentions": 4,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 14
-  },
-  {
-   "ticker": "META",
-   "mentions": 3,
+   "ticker": "CRWV",
+   "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 123
+   "engagement": 256
   },
   {
-   "ticker": "MSFT",
-   "mentions": 3,
+   "ticker": "ANT",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 43
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 34
+   "engagement": 2
   },
   {
    "ticker": "AAPL",
@@ -47,181 +54,195 @@
    "engagement": 3
   },
   {
-   "ticker": "NBIS",
+   "ticker": "MSFT",
    "mentions": 2,
    "bull": 0,
-   "bear": 1,
+   "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "NVDA",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1670
-  },
-  {
-   "ticker": "GME",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 63
-  },
-  {
-   "ticker": "SPY",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 454
-  },
-  {
-   "ticker": "XLAB",
+   "ticker": "FLAPA",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "SMCI",
+   "ticker": "QURE",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 254
   },
   {
-   "ticker": "DFEN",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "SHFS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "BMNR",
+   "ticker": "RDDT",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 291
   },
   {
-   "ticker": "INTC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "AMP",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "UWMC",
+   "ticker": "GOOG",
    "mentions": 1,
    "bull": 1,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "CABO",
+   "mentions": 1,
+   "bull": 0,
    "bear": 0,
    "engagement": 0
   },
   {
-   "ticker": "BUG",
+   "ticker": "GETYQ",
    "mentions": 1,
    "bull": 1,
+   "bear": 1,
+   "engagement": 26
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 3
+  },
+  {
+   "ticker": "VSAT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "NFLX",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "GPUS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "SPCX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "MRNA",
+   "mentions": 1,
+   "bull": 0,
    "bear": 0,
    "engagement": 17
   }
  ],
  "top_posts": [
   {
-   "title": "Moderna Crashes 20% On Reportedly Leaked Cancer Vaccine Data",
-   "score": 13727,
-   "num_comments": 1850,
-   "created_utc": 1792691840,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcproh/"
+   "title": "Sound advice",
+   "score": 15042,
+   "num_comments": 309,
+   "created_utc": 1792938122,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xf3n5p/"
   },
   {
    "title": "The bears' future, based on real events",
-   "score": 11471,
-   "num_comments": 114,
+   "score": 12223,
+   "num_comments": 118,
    "created_utc": 1792787805,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xdpchz/"
   },
   {
+   "title": "Microsoft offers voluntary buyouts to 60,000 employees",
+   "score": 9383,
+   "num_comments": 2022,
+   "created_utc": 1793030717,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xg11cu/"
+  },
+  {
+   "title": "Just the Tip - that's always how it starts...",
+   "score": 7183,
+   "num_comments": 122,
+   "created_utc": 1792850437,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xe9fc7/"
+  },
+  {
    "title": "Getty Images files for bankruptcy amid mounting debt and AI competition",
-   "score": 6250,
-   "num_comments": 482,
+   "score": 6526,
+   "num_comments": 499,
    "created_utc": 1792719921,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xd13db/"
   },
   {
+   "title": "It hurts, man",
+   "score": 6242,
+   "num_comments": 942,
+   "created_utc": 1792976534,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xfj661/"
+  },
+  {
    "title": "Lost $200k, quit for 3 years, came back and lost another $100k. Decided to go full regard one last time.",
-   "score": 4617,
-   "num_comments": 915,
+   "score": 4919,
+   "num_comments": 964,
    "created_utc": 1792760944,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xddl70/"
   },
   {
-   "title": "48k->900k",
-   "score": 4339,
-   "num_comments": 588,
-   "created_utc": 1792697781,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcsgm7/"
+   "title": "CONFIRMED: Anthropic management are regarded",
+   "score": 3837,
+   "num_comments": 491,
+   "created_utc": 1793036131,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xg3jjj/"
   },
   {
    "title": "The McRib is back on 10/27. BTC historically goes up >2x after the McRib returns. Don't fade the McRib.",
-   "score": 3093,
-   "num_comments": 187,
+   "score": 3439,
+   "num_comments": 203,
    "created_utc": 1792740310,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xd7cfi/"
   },
   {
-   "title": "Amazon's Nvidia Chips Are Sitting in Warehouses Without Power as AI Spending Soars, Business Insider Reports",
-   "score": 2874,
-   "num_comments": 525,
-   "created_utc": 1792678271,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcjo11/"
-  },
-  {
    "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
-   "score": 2600,
-   "num_comments": 393,
+   "score": 2712,
+   "num_comments": 397,
    "created_utc": 1792760220,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xddaem/"
   },
   {
+   "title": "Anthropic Reveals It Will Pay SpaceX Up to $120.5B for AI Compute",
+   "score": 2104,
+   "num_comments": 390,
+   "created_utc": 1793034120,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xg2m4l/"
+  },
+  {
    "title": "Data center spending to more than double to $2.1 trillion by 2028, BofA says",
-   "score": 1988,
-   "num_comments": 400,
+   "score": 2099,
+   "num_comments": 412,
    "created_utc": 1792778616,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xdlc67/"
   },
   {
-   "title": "Meta Offers Zuckerberg New Shares to Keep Him in California",
-   "score": 1947,
-   "num_comments": 792,
-   "created_utc": 1792648953,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcam5g/"
+   "title": "[ Removed by moderator ]",
+   "score": 2023,
+   "num_comments": 368,
+   "created_utc": 1793023458,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xfxqnv/"
   },
   {
-   "title": "It's my time to post this!",
-   "score": 1863,
-   "num_comments": 93,
-   "created_utc": 1792699104,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xct1qg/"
+   "title": "Babe wake up a new religion dropped",
+   "score": 1862,
+   "num_comments": 132,
+   "created_utc": 1793048336,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xg90r5/"
   },
   {
    "title": "Claude Family Tokens",
@@ -229,27 +250,6 @@
    "num_comments": 94,
    "created_utc": 1792800384,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xdu6y3/"
-  },
-  {
-   "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-   "score": 1584,
-   "num_comments": 274,
-   "created_utc": 1792764150,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xdex62/"
-  },
-  {
-   "title": "Meta tops Q3 revenue expectations, announces 2-for-1 stock split",
-   "score": 1369,
-   "num_comments": 254,
-   "created_utc": 1792614112,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xbyash/"
-  },
-  {
-   "title": "Elon Musk made a $1 billion investment in Skydance, report says",
-   "score": 1363,
-   "num_comments": 170,
-   "created_utc": 1792692751,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xcq73p/"
   }
  ]
 }

@@ -1,43 +1,43 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-25T13:00:55.902065+00:00",
+ "generated_at": "2026-10-27T13:11:31.794602+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-15T05:08:45+00:00",
+ "window_start": "2026-10-16T23:19:35+00:00",
  "top_tickers": [
-  {
-   "ticker": "CRWV",
-   "mentions": 5,
-   "bull": 2,
-   "bear": 3,
-   "engagement": 301
-  },
   {
    "ticker": "SOFI",
    "mentions": 4,
    "bull": 1,
-   "bear": 1,
-   "engagement": 29
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 53
-  },
-  {
-   "ticker": "NBIS",
-   "mentions": 4,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 251
+   "bear": 0,
+   "engagement": 4
   },
   {
    "ticker": "BORR",
    "mentions": 4,
    "bull": 1,
    "bear": 0,
-   "engagement": 69
+   "engagement": 72
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "ORCL",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 53
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 4
   },
   {
    "ticker": "TSLA",
@@ -47,13 +47,6 @@
    "engagement": 3
   },
   {
-   "ticker": "MSTR",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
    "ticker": "AVGO",
    "mentions": 3,
    "bull": 1,
@@ -61,11 +54,11 @@
    "engagement": 105
   },
   {
-   "ticker": "META",
-   "mentions": 3,
-   "bull": 1,
+   "ticker": "AAPL",
+   "mentions": 2,
+   "bull": 0,
    "bear": 0,
-   "engagement": 812
+   "engagement": 3
   },
   {
    "ticker": "GME",
@@ -79,14 +72,7 @@
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "AAPL",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 3
+   "engagement": 1554
   },
   {
    "ticker": "NFLX",
@@ -94,6 +80,13 @@
    "bull": 0,
    "bear": 0,
    "engagement": 204
+  },
+  {
+   "ticker": "MSTR",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "NU",
@@ -110,35 +103,42 @@
    "engagement": 202
   },
   {
-   "ticker": "ASTS",
+   "ticker": "CRWV",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 211
+   "engagement": 248
   },
   {
-   "ticker": "AMGN",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "RAPP",
-   "mentions": 1,
+   "ticker": "NBIS",
+   "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 249
   },
   {
-   "ticker": "AMD",
+   "ticker": "META",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 951
+  },
+  {
+   "ticker": "RDDT",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 204
   },
   {
-   "ticker": "RBNE",
+   "ticker": "DJT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "INTC",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -147,6 +147,13 @@
  ],
  "top_posts": [
   {
+   "title": "Andy Jassy: AWS is sold out beyond 2028. Different from dotcom.",
+   "score": 1616,
+   "num_comments": 574,
+   "created_utc": 1792333432,
+   "url": "https://www.reddit.com/r/stocks/comments/1x94h24/"
+  },
+  {
    "title": "It\u2019s happening: Tesla and SpaceX have formed committees to discuss merger",
    "score": 1498,
    "num_comments": 551,
@@ -154,53 +161,60 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xb55u7/"
   },
   {
-   "title": "Andy Jassy: AWS is sold out beyond 2028. Different from dotcom.",
-   "score": 1446,
-   "num_comments": 524,
-   "created_utc": 1792333432,
-   "url": "https://www.reddit.com/r/stocks/comments/1x94h24/"
+   "title": "Anthropic just filed to go public. $16.3 BILLION in revenue in six months\u2026 and an $80.7 BILLION reported loss.",
+   "score": 1426,
+   "num_comments": 502,
+   "created_utc": 1793021381,
+   "url": "https://www.reddit.com/r/stocks/comments/1xfwuks/"
   },
   {
-   "title": "How is Samsung valued at $1T while Anthropic is looking to IPO at $2T?",
-   "score": 1236,
-   "num_comments": 347,
-   "created_utc": 1792095406,
-   "url": "https://www.reddit.com/r/stocks/comments/1x6wdju/"
+   "title": "SpaceX just secured $40 BILLION to buy AI chips......$40 billion just for chips.",
+   "score": 1256,
+   "num_comments": 468,
+   "created_utc": 1792960006,
+   "url": "https://www.reddit.com/r/stocks/comments/1xfcv5d/"
   },
   {
-   "title": "Anthropic Offers Junk-Bond rates to Blackstone in the largest AI chip-financing in history",
-   "score": 909,
-   "num_comments": 216,
-   "created_utc": 1792214845,
-   "url": "https://www.reddit.com/r/stocks/comments/1x821pm/"
+   "title": "Robert Reich Says Elon Musk\u2019s SpaceX and Starlink Should Become Publicly Owned, Musk Fires Back: \"Stealing Companies Is a Serious Crime\"",
+   "score": 1239,
+   "num_comments": 521,
+   "created_utc": 1793005174,
+   "url": "https://www.reddit.com/r/stocks/comments/1xfrlff/"
+  },
+  {
+   "title": "Amazon is spending $220 BILLION on AI\u2026 and still can't keep up with demand.",
+   "score": 1095,
+   "num_comments": 458,
+   "created_utc": 1792861014,
+   "url": "https://www.reddit.com/r/stocks/comments/1xedqxi/"
   },
   {
    "title": "Anthropic to publicly file for IPO as early as Friday",
-   "score": 875,
-   "num_comments": 314,
+   "score": 952,
+   "num_comments": 334,
    "created_utc": 1792630273,
    "url": "https://www.reddit.com/r/stocks/comments/1xc4lsa/"
   },
   {
-   "title": "SpaceX could be on the cusp of buying 80,000 cell towers in a bid to really challenge Verizon, AT&T and T-Mobile",
-   "score": 743,
-   "num_comments": 478,
-   "created_utc": 1792756045,
-   "url": "https://www.reddit.com/r/stocks/comments/1xdbspr/"
+   "title": "Anthropic Offers Junk-Bond rates to Blackstone in the largest AI chip-financing in history",
+   "score": 931,
+   "num_comments": 219,
+   "created_utc": 1792214845,
+   "url": "https://www.reddit.com/r/stocks/comments/1x821pm/"
   },
   {
    "title": "The attention economy is a relic of the 2010s and $META is a $1 trillion boomer casino with a GPU addiction",
-   "score": 694,
-   "num_comments": 116,
+   "score": 823,
+   "num_comments": 127,
    "created_utc": 1792431587,
    "url": "https://www.reddit.com/r/stocks/comments/1xa3hye/"
   },
   {
-   "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-   "score": 675,
-   "num_comments": 155,
-   "created_utc": 1792068148,
-   "url": "https://www.reddit.com/r/stocks/comments/1x6klne/"
+   "title": "SpaceX could be on the cusp of buying 80,000 cell towers in a bid to really challenge Verizon, AT&T and T-Mobile",
+   "score": 770,
+   "num_comments": 527,
+   "created_utc": 1792756045,
+   "url": "https://www.reddit.com/r/stocks/comments/1xdbspr/"
   },
   {
    "title": "SpaceX revenue jumps 161% driven by Starlink and AI",
@@ -211,45 +225,31 @@
   },
   {
    "title": "This reeks of Deepseek-style selloff",
-   "score": 462,
-   "num_comments": 308,
+   "score": 515,
+   "num_comments": 328,
    "created_utc": 1792298969,
    "url": "https://www.reddit.com/r/stocks/comments/1x8ue2q/"
   },
   {
    "title": "1987's crash mostly recovered in 2 sessions but the 2000 Nasdaq drop took 15 yrs",
-   "score": 451,
-   "num_comments": 167,
+   "score": 496,
+   "num_comments": 180,
    "created_utc": 1792389306,
    "url": "https://www.reddit.com/r/stocks/comments/1x9ovvd/"
   },
   {
+   "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+   "score": 491,
+   "num_comments": 120,
+   "created_utc": 1793033803,
+   "url": "https://www.reddit.com/r/stocks/comments/1xg2gtp/"
+  },
+  {
    "title": "Meta tops Q3 revenue expectations, announces 2-for-1 stock split",
-   "score": 394,
-   "num_comments": 172,
+   "score": 406,
+   "num_comments": 177,
    "created_utc": 1792613288,
    "url": "https://www.reddit.com/r/stocks/comments/1xbxxwm/"
-  },
-  {
-   "title": "Berkshire Hathaway Stock Hits Record High: $360 Billion Cash Generates Interest Income, UBS Lifts Target to $942,000",
-   "score": 380,
-   "num_comments": 54,
-   "created_utc": 1792705707,
-   "url": "https://www.reddit.com/r/stocks/comments/1xcvvd5/"
-  },
-  {
-   "title": "Walmart now trades at a higher P/E than Nvidia: 43x vs 27x",
-   "score": 367,
-   "num_comments": 61,
-   "created_utc": 1792410169,
-   "url": "https://www.reddit.com/r/stocks/comments/1x9um6o/"
-  },
-  {
-   "title": "Just buy, log out, and check back in a month?",
-   "score": 355,
-   "num_comments": 178,
-   "created_utc": 1792171347,
-   "url": "https://www.reddit.com/r/stocks/comments/1x7m9yr/"
   }
  ]
 }
