@@ -1,83 +1,129 @@
 {
- "generated_at": "2026-10-26T13:42:53.041352+00:00",
+ "generated_at": "2026-10-27T11:58:49.779787+00:00",
  "universe": "US-listed, price >= $5, |move| >= 3% (premarket: no volume filter)",
  "top_movers": [
   {
-   "symbol": "CRWD",
-   "pct_change": 8.2,
-   "price": 257.57,
-   "market_cap": "263,734,897,254",
+   "symbol": "ARM",
+   "pct_change": 6.2,
+   "price": 223.35,
+   "market_cap": "237,656,740,534",
    "direction": "up"
   },
   {
-   "symbol": "PANW",
-   "pct_change": 7.2,
-   "price": 380.55,
-   "market_cap": "311,289,900,000",
+   "symbol": "TSLA",
+   "pct_change": 5.2,
+   "price": 391.62,
+   "market_cap": "1,547,979,066,813",
    "direction": "up"
   },
   {
-   "symbol": "CCZ",
-   "pct_change": -4.3,
-   "price": 62.3,
-   "market_cap": "221,227,694,671",
-   "direction": "down"
+   "symbol": "GEV",
+   "pct_change": 4.9,
+   "price": 855.12,
+   "market_cap": "227,747,171,785",
+   "direction": "up"
+  },
+  {
+   "symbol": "TXN",
+   "pct_change": 4.7,
+   "price": 298.12,
+   "market_cap": "272,413,206,606",
+   "direction": "up"
+  },
+  {
+   "symbol": "ADI",
+   "pct_change": 4.3,
+   "price": 407.93,
+   "market_cap": "197,668,790,137",
+   "direction": "up"
   },
   {
    "symbol": "SKHY",
+   "pct_change": 4.1,
+   "price": 142.62,
+   "market_cap": "1,039,507,976,100",
+   "direction": "up"
+  },
+  {
+   "symbol": "INTC",
    "pct_change": 4.0,
-   "price": 137.02,
-   "market_cap": "998,691,508,100",
+   "price": 90.47,
+   "market_cap": "478,140,238,660",
    "direction": "up"
   },
   {
-   "symbol": "AXP",
+   "symbol": "SAN",
    "pct_change": -3.7,
-   "price": 313.22,
-   "market_cap": "211,520,545,892",
+   "price": 12.37,
+   "market_cap": "179,052,143,341",
    "direction": "down"
   },
   {
-   "symbol": "ACN",
-   "pct_change": -3.6,
-   "price": 249.37,
-   "market_cap": "166,759,408,127",
-   "direction": "down"
-  },
-  {
-   "symbol": "COP",
+   "symbol": "CSCO",
    "pct_change": 3.5,
-   "price": 150.8,
-   "market_cap": "181,161,691,833",
+   "price": 110.24,
+   "market_cap": "434,630,776,880",
    "direction": "up"
   },
   {
-   "symbol": "NVS",
-   "pct_change": -3.3,
-   "price": 151.12,
-   "market_cap": "288,359,881,730",
+   "symbol": "VZ",
+   "pct_change": -3.5,
+   "price": 43.1,
+   "market_cap": "179,070,811,206",
    "direction": "down"
+  },
+  {
+   "symbol": "RTX",
+   "pct_change": 3.4,
+   "price": 197.48,
+   "market_cap": "266,487,519,419",
+   "direction": "up"
+  },
+  {
+   "symbol": "MRK",
+   "pct_change": -3.2,
+   "price": 140.61,
+   "market_cap": "346,909,004,019",
+   "direction": "down"
+  },
+  {
+   "symbol": "LRCX",
+   "pct_change": 3.2,
+   "price": 237.5,
+   "market_cap": "296,678,112,500",
+   "direction": "up"
   }
  ],
  "setup_routing": {
   "setup_a_candidates": [
-   "CRWD",
-   "PANW",
+   "ARM",
+   "TSLA",
+   "GEV",
+   "TXN",
+   "ADI",
    "SKHY",
-   "COP"
+   "INTC",
+   "CSCO",
+   "RTX",
+   "LRCX"
   ],
   "setup_b_candidates": [
-   "CRWD",
-   "PANW",
+   "ARM",
+   "TSLA",
+   "GEV",
+   "TXN",
+   "ADI",
    "SKHY",
-   "COP"
+   "INTC",
+   "CSCO",
+   "RTX",
+   "LRCX"
   ],
   "setup_c_candidates": [
-   "CCZ",
-   "AXP",
-   "ACN",
-   "NVS"
+   "SAN",
+   "VZ",
+   "MRK"
   ]
  },
- "count": 8
+ "count": 13
 }
