@@ -1,69 +1,69 @@
 {
-  "generated_utc": "2026-10-26T16:14:58.982226+00:00",
+  "generated_utc": "2026-10-28T16:07:14.662006+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. FINRA data is T+1, laggy-but-official.",
   "source": "FINRA Reg SHO Daily (api.finra.org keyless Query API)",
   "status": "ok",
-  "latest_finra_date": "2026-10-23",
+  "latest_finra_date": "2026-10-27",
   "tickers": {
     "SPY": {
-      "dates_covered": 31,
+      "dates_covered": 32,
       "flags": [],
       "holding": null,
-      "short_pct": 0.5708,
-      "latest_date": "2026-10-23",
-      "short_pct_z": 0.45,
-      "baseline_mean": 0.5422,
+      "short_pct": 0.5494,
+      "latest_date": "2026-10-27",
+      "short_pct_z": 0.19,
+      "baseline_mean": 0.5379,
       "baseline_days": 20,
-      "dod_pp": 0.0084,
-      "prior_date": "2026-10-22"
+      "dod_pp": 0.0547,
+      "prior_date": "2026-10-26"
     },
     "QQQ": {
-      "dates_covered": 31,
+      "dates_covered": 32,
       "flags": [],
       "holding": null,
-      "short_pct": 0.5599,
-      "latest_date": "2026-10-23",
-      "short_pct_z": -1.1,
-      "baseline_mean": 0.6313,
+      "short_pct": 0.6028,
+      "latest_date": "2026-10-27",
+      "short_pct_z": -0.4,
+      "baseline_mean": 0.6284,
       "baseline_days": 20,
-      "dod_pp": -0.1019,
-      "prior_date": "2026-10-22"
+      "dod_pp": -0.0523,
+      "prior_date": "2026-10-26"
     },
     "NVDA": {
-      "dates_covered": 31,
+      "dates_covered": 32,
       "flags": [],
       "holding": null,
-      "short_pct": 0.2933,
-      "latest_date": "2026-10-23",
-      "short_pct_z": -1.7,
-      "baseline_mean": 0.4396,
+      "short_pct": 0.2289,
+      "latest_date": "2026-10-27",
+      "short_pct_z": -2.2,
+      "baseline_mean": 0.4343,
       "baseline_days": 20,
-      "dod_pp": -0.1214,
-      "prior_date": "2026-10-22"
+      "dod_pp": -0.0491,
+      "prior_date": "2026-10-26"
     },
     "AAPL": {
-      "dates_covered": 31,
+      "dates_covered": 32,
       "flags": [],
       "holding": null,
-      "short_pct": 0.6269,
-      "latest_date": "2026-10-23",
-      "short_pct_z": 1.87,
-      "baseline_mean": 0.529,
+      "short_pct": 0.4775,
+      "latest_date": "2026-10-27",
+      "short_pct_z": -1.05,
+      "baseline_mean": 0.5356,
       "baseline_days": 20,
-      "dod_pp": 0.0485,
-      "prior_date": "2026-10-22"
+      "dod_pp": -0.0968,
+      "prior_date": "2026-10-26"
     },
     "MSFT": {
-      "dates_covered": 31,
+      "dates_covered": 32,
       "flags": [],
       "holding": null,
-      "short_pct": 0.3833,
-      "latest_date": "2026-10-23",
-      "short_pct_z": -0.52,
-      "baseline_mean": 0.4096,
+      "short_pct": 0.3554,
+      "latest_date": "2026-10-27",
+      "short_pct_z": -1.03,
+      "baseline_mean": 0.405,
       "baseline_days": 20,
-      "dod_pp": 0.0008,
-      "prior_date": "2026-10-22"
+      "dod_pp": -0.0079,
+      "prior_date": "2026-10-26"
     }
   }
 }
