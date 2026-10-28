@@ -1,101 +1,101 @@
 {
-  "fetched_at_utc": "2026-10-27T13:17:35+00:00",
+  "fetched_at_utc": "2026-10-28T18:24:56+00:00",
   "status": "ok",
   "note": "Context layer - informs, never triggers trades alone. Answers 'is the rally broad or narrow?' for the premarket scan.",
   "breadth": {
-    "advancers": 7,
-    "decliners": 3,
-    "avg_chg_1d_pct": 0.32,
+    "advancers": 5,
+    "decliners": 6,
+    "avg_chg_1d_pct": -0.19,
     "read": "mixed / narrow"
   },
   "ranking": [
     {
-      "symbol": "XLK",
-      "name": "Technology",
-      "price": 186.32,
-      "chg_1d_pct": 1.69,
-      "mom_5d_pct": 0.19,
-      "quote_time_utc": "2026-10-26T20:00:00+00:00"
-    },
-    {
-      "symbol": "XLI",
-      "name": "Industrials",
-      "price": 166.96,
-      "chg_1d_pct": 1.42,
-      "mom_5d_pct": 0.17,
-      "quote_time_utc": "2026-10-26T20:00:00+00:00"
-    },
-    {
-      "symbol": "XLY",
-      "name": "Consumer Discretionary",
-      "price": 114.26,
-      "chg_1d_pct": 1.03,
-      "mom_5d_pct": -0.17,
-      "quote_time_utc": "2026-10-26T20:00:00+00:00"
-    },
-    {
-      "symbol": "XLRE",
-      "name": "Real Estate",
-      "price": 42.8,
-      "chg_1d_pct": 0.54,
-      "mom_5d_pct": 2.71,
-      "quote_time_utc": "2026-10-26T20:00:00+00:00"
-    },
-    {
       "symbol": "XLE",
       "name": "Energy",
-      "price": 69.64,
-      "chg_1d_pct": 0.45,
-      "mom_5d_pct": 2.71,
-      "quote_time_utc": "2026-10-26T20:00:00+00:00"
-    },
-    {
-      "symbol": "XLF",
-      "name": "Financials",
-      "price": 56.02,
-      "chg_1d_pct": 0.21,
-      "mom_5d_pct": 1.74,
-      "quote_time_utc": "2026-10-26T20:00:00+00:00"
-    },
-    {
-      "symbol": "XLB",
-      "name": "Materials",
-      "price": 51.38,
-      "chg_1d_pct": 0.14,
-      "mom_5d_pct": 0.84,
-      "quote_time_utc": "2026-10-26T20:00:00+00:00"
+      "price": 68.76,
+      "chg_1d_pct": 0.81,
+      "mom_5d_pct": 0.88,
+      "quote_time_utc": "2026-10-28T18:24:55+00:00"
     },
     {
       "symbol": "XLV",
       "name": "Health Care",
-      "price": 179.28,
-      "chg_1d_pct": 0.0,
-      "mom_5d_pct": 2.07,
-      "quote_time_utc": "2026-10-26T20:00:00+00:00"
+      "price": 179.88,
+      "chg_1d_pct": 0.39,
+      "mom_5d_pct": 0.52,
+      "quote_time_utc": "2026-10-28T18:24:53+00:00"
+    },
+    {
+      "symbol": "XLK",
+      "name": "Technology",
+      "price": 190.07,
+      "chg_1d_pct": 0.3,
+      "mom_5d_pct": 0.81,
+      "quote_time_utc": "2026-10-28T18:24:55+00:00"
+    },
+    {
+      "symbol": "XLF",
+      "name": "Financials",
+      "price": 56.03,
+      "chg_1d_pct": 0.27,
+      "mom_5d_pct": -0.02,
+      "quote_time_utc": "2026-10-28T18:24:56+00:00"
+    },
+    {
+      "symbol": "XLI",
+      "name": "Industrials",
+      "price": 168.21,
+      "chg_1d_pct": 0.17,
+      "mom_5d_pct": -0.06,
+      "quote_time_utc": "2026-10-28T18:24:52+00:00"
+    },
+    {
+      "symbol": "XLP",
+      "name": "Consumer Staples",
+      "price": 86.86,
+      "chg_1d_pct": -0.34,
+      "mom_5d_pct": -0.29,
+      "quote_time_utc": "2026-10-28T18:24:53+00:00"
+    },
+    {
+      "symbol": "XLB",
+      "name": "Materials",
+      "price": 51.54,
+      "chg_1d_pct": -0.46,
+      "mom_5d_pct": 0.43,
+      "quote_time_utc": "2026-10-28T18:24:57+00:00"
+    },
+    {
+      "symbol": "XLY",
+      "name": "Consumer Discretionary",
+      "price": 114.8,
+      "chg_1d_pct": -0.56,
+      "mom_5d_pct": -0.63,
+      "quote_time_utc": "2026-10-28T18:24:47+00:00"
     },
     {
       "symbol": "XLU",
       "name": "Utilities",
       "price": 42.55,
-      "chg_1d_pct": -0.02,
-      "mom_5d_pct": 2.88,
-      "quote_time_utc": "2026-10-26T20:00:00+00:00"
-    },
-    {
-      "symbol": "XLP",
-      "name": "Consumer Staples",
-      "price": 87.96,
-      "chg_1d_pct": -0.34,
-      "mom_5d_pct": 0.86,
-      "quote_time_utc": "2026-10-26T20:00:00+00:00"
+      "chg_1d_pct": -0.7,
+      "mom_5d_pct": 1.31,
+      "quote_time_utc": "2026-10-28T18:24:51+00:00"
     },
     {
       "symbol": "XLC",
       "name": "Communication Services",
-      "price": 103.85,
-      "chg_1d_pct": -1.57,
-      "mom_5d_pct": -5.67,
-      "quote_time_utc": "2026-10-26T20:00:00+00:00"
+      "price": 102.66,
+      "chg_1d_pct": -0.89,
+      "mom_5d_pct": -5.79,
+      "quote_time_utc": "2026-10-28T18:24:53+00:00"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "Real Estate",
+      "price": 41.99,
+      "chg_1d_pct": -1.07,
+      "mom_5d_pct": -0.18,
+      "quote_time_utc": "2026-10-28T18:24:13+00:00"
     }
   ]
 }
