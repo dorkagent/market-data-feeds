@@ -1,15 +1,15 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-27T13:11:26.338312+00:00",
+ "generated_at": "2026-10-28T18:23:41.320950+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-02T21:57:57+00:00",
+ "window_start": "2026-10-04T08:00:38+00:00",
  "top_tickers": [
   {
    "ticker": "PLTR",
    "mentions": 3,
    "bull": 3,
    "bear": 3,
-   "engagement": 116
+   "engagement": 119
   },
   {
    "ticker": "QQQ",
@@ -24,6 +24,13 @@
    "bull": 0,
    "bear": 0,
    "engagement": 88
+  },
+  {
+   "ticker": "ANT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 1
   },
   {
    "ticker": "LMT",
@@ -115,13 +122,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 2
-  },
-  {
-   "ticker": "GME",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 13
   }
  ],
  "top_posts": [
@@ -141,15 +141,15 @@
   },
   {
    "title": "Microsoft offers voluntary buyouts to 60,000 employees",
-   "score": 987,
-   "num_comments": 225,
+   "score": 1059,
+   "num_comments": 257,
    "created_utc": 1793032059,
    "url": "https://www.reddit.com/r/investing/comments/1xg1o4j/"
   },
   {
    "title": "BREAKING: Anthropic publicly files IPO prospectus",
-   "score": 890,
-   "num_comments": 465,
+   "score": 972,
+   "num_comments": 495,
    "created_utc": 1793021493,
    "url": "https://www.reddit.com/r/investing/comments/1xfwwbo/"
   },
@@ -162,7 +162,7 @@
   },
   {
    "title": "Musk reports that SpaceX and Tesla are exploring a merger",
-   "score": 561,
+   "score": 582,
    "num_comments": 323,
    "created_utc": 1792597656,
    "url": "https://www.reddit.com/r/investing/comments/1xbqrmp/"
@@ -173,13 +173,6 @@
    "num_comments": 824,
    "created_utc": 1792397633,
    "url": "https://www.reddit.com/r/investing/comments/1x9r2z3/"
-  },
-  {
-   "title": "Ukraine to hit Russian oil refineries in response to Moscow's new airstrikes, potentially impacting global diesel prices",
-   "score": 441,
-   "num_comments": 181,
-   "created_utc": 1791061263,
-   "url": "https://www.reddit.com/r/investing/comments/1wwxwcd/"
   },
   {
    "title": "To the person going all in on Alphabet (GOOG)",
@@ -208,6 +201,13 @@
    "num_comments": 141,
    "created_utc": 1792115737,
    "url": "https://www.reddit.com/r/investing/comments/1x73wod/"
+  },
+  {
+   "title": "Anthropic will pay up to $120.5B for SpaceX's AI Compute",
+   "score": 313,
+   "num_comments": 63,
+   "created_utc": 1793036065,
+   "url": "https://www.reddit.com/r/investing/comments/1xg3ih3/"
   },
   {
    "title": "Anthropic Opens Its Q3 Books To Institutional Investors Tomorrow",

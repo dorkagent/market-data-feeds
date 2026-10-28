@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-27T13:11:38.415610+00:00",
+ "generated_at": "2026-10-28T18:23:58.695232+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-18T11:02:34+00:00",
+ "window_start": "2026-09-21T06:02:44+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -10,6 +10,13 @@
    "bull": 1,
    "bear": 2,
    "engagement": 1085
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 23
   },
   {
    "ticker": "SOFI",
@@ -24,13 +31,6 @@
    "bull": 2,
    "bear": 2,
    "engagement": 40
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 11
   },
   {
    "ticker": "AVGO",
@@ -75,18 +75,18 @@
    "engagement": 58
   },
   {
-   "ticker": "LITE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 3
-  },
-  {
    "ticker": "BE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 3
+   "engagement": 4
+  },
+  {
+   "ticker": "LITE",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 4
   },
   {
    "ticker": "RAPP",
@@ -135,14 +135,14 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 494
+   "engagement": 531
   },
   {
-   "ticker": "NOK",
+   "ticker": "NBIS",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 494
+   "engagement": 531
   }
  ],
  "top_posts": [
@@ -161,18 +161,18 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1x0vzyk/"
   },
   {
+   "title": "Anthropic books colossal $81B loss, warns of data center backlash as Amodei siblings draw modest salaries",
+   "score": 3566,
+   "num_comments": 413,
+   "created_utc": 1792548191,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xbarw9/"
+  },
+  {
    "title": "U.S. Tells France and Germany to Release Diesel Stocks or Face US Export Ban",
    "score": 3566,
    "num_comments": 1003,
    "created_utc": 1790848170,
    "url": "https://www.reddit.com/r/StockMarket/comments/1wuv8o6/"
-  },
-  {
-   "title": "Anthropic books colossal $81B loss, warns of data center backlash as Amodei siblings draw modest salaries",
-   "score": 3530,
-   "num_comments": 413,
-   "created_utc": 1792548191,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xbarw9/"
   },
   {
    "title": "MRNA Trading Halted after stock dumped from $250 to $190; data leak reveals that they have NOT cured cancer after all",
