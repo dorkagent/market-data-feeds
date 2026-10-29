@@ -1,170 +1,120 @@
 {
- "generated_at": "2026-10-28T17:14:05.034334+00:00",
+ "generated_at": "2026-10-29T17:28:59.807028+00:00",
  "universe": "US-listed, price >= $5, |move| >= 3% (premarket: no volume filter)",
  "top_movers": [
   {
-   "symbol": "DELL",
-   "pct_change": 7.5,
-   "price": 501.96,
-   "market_cap": "319,152,567,990",
-   "direction": "up"
-  },
-  {
-   "symbol": "WELL",
-   "pct_change": -5.8,
-   "price": 226.72,
-   "market_cap": "163,407,295,291",
-   "direction": "down"
-  },
-  {
-   "symbol": "HSBC",
-   "pct_change": -5.7,
-   "price": 86.01,
-   "market_cap": "295,301,432,086",
-   "direction": "down"
-  },
-  {
-   "symbol": "AMD",
-   "pct_change": 5.5,
-   "price": 560.26,
-   "market_cap": "914,610,467,031",
-   "direction": "up"
-  },
-  {
-   "symbol": "ANET",
-   "pct_change": 5.5,
-   "price": 187.0,
-   "market_cap": "235,849,009,176",
-   "direction": "up"
-  },
-  {
-   "symbol": "GEV",
-   "pct_change": 4.7,
-   "price": 895.08,
-   "market_cap": "238,389,861,681",
-   "direction": "up"
-  },
-  {
-   "symbol": "SCCO",
-   "pct_change": 4.5,
-   "price": 194.43,
-   "market_cap": "164,157,249,000",
-   "direction": "up"
-  },
-  {
-   "symbol": "BHP",
-   "pct_change": 4.4,
-   "price": 82.6,
-   "market_cap": "209,976,733,533",
-   "direction": "up"
-  },
-  {
-   "symbol": "ADI",
-   "pct_change": 4.3,
-   "price": 425.35,
-   "market_cap": "206,109,920,538",
-   "direction": "up"
-  },
-  {
-   "symbol": "MRVL",
-   "pct_change": 4.2,
-   "price": 243.57,
-   "market_cap": "213,586,533,000",
-   "direction": "up"
-  },
-  {
-   "symbol": "AVGO",
-   "pct_change": 4.0,
-   "price": 342.33,
-   "market_cap": "1,634,156,711,685",
-   "direction": "up"
-  },
-  {
-   "symbol": "TSLA",
-   "pct_change": 4.0,
-   "price": 407.46,
-   "market_cap": "1,610,590,752,677",
-   "direction": "up"
-  },
-  {
-   "symbol": "APH",
-   "pct_change": 3.9,
-   "price": 78.21,
-   "market_cap": "192,863,272,344",
-   "direction": "up"
-  },
-  {
-   "symbol": "SNDK",
-   "pct_change": 3.9,
-   "price": 1304.84,
-   "market_cap": "189,629,372,581",
-   "direction": "up"
-  },
-  {
-   "symbol": "INTC",
-   "pct_change": 3.6,
-   "price": 93.74,
-   "market_cap": "495,422,415,961",
-   "direction": "up"
-  },
-  {
-   "symbol": "TXN",
-   "pct_change": 3.6,
-   "price": 308.91,
-   "market_cap": "282,272,788,316",
+   "symbol": "SKHY",
+   "pct_change": 13.3,
+   "price": 164.7,
+   "market_cap": "1,200,441,478,500",
    "direction": "up"
   },
   {
    "symbol": "ORCL",
+   "pct_change": 10.7,
+   "price": 144.54,
+   "market_cap": "437,050,801,440",
+   "direction": "up"
+  },
+  {
+   "symbol": "SNDK",
+   "pct_change": 7.7,
+   "price": 1404.77,
+   "market_cap": "204,151,967,843",
+   "direction": "up"
+  },
+  {
+   "symbol": "SAN",
+   "pct_change": -6.3,
+   "price": 11.69,
+   "market_cap": "169,209,341,605",
+   "direction": "down"
+  },
+  {
+   "symbol": "MU",
+   "pct_change": 5.9,
+   "price": 983.23,
+   "market_cap": "1,112,449,244,735",
+   "direction": "up"
+  },
+  {
+   "symbol": "LRCX",
+   "pct_change": 5.4,
+   "price": 253.82,
+   "market_cap": "317,064,583,220",
+   "direction": "up"
+  },
+  {
+   "symbol": "AMAT",
+   "pct_change": 5.1,
+   "price": 416.0,
+   "market_cap": "330,136,536,288",
+   "direction": "up"
+  },
+  {
+   "symbol": "ARM",
+   "pct_change": 4.1,
+   "price": 235.9,
+   "market_cap": "251,010,633,947",
+   "direction": "up"
+  },
+  {
+   "symbol": "APH",
    "pct_change": 3.5,
-   "price": 130.53,
-   "market_cap": "394,688,260,080",
+   "price": 80.96,
+   "market_cap": "199,644,681,357",
    "direction": "up"
   },
   {
-   "symbol": "GE",
+   "symbol": "MRVL",
+   "pct_change": 3.3,
+   "price": 251.65,
+   "market_cap": "220,671,885,000",
+   "direction": "up"
+  },
+  {
+   "symbol": "KLAC",
+   "pct_change": 3.3,
+   "price": 158.77,
+   "market_cap": "207,195,880,735",
+   "direction": "up"
+  },
+  {
+   "symbol": "AMD",
    "pct_change": 3.2,
-   "price": 297.66,
-   "market_cap": "307,587,532,805",
-   "direction": "up"
-  },
-  {
-   "symbol": "CAT",
-   "pct_change": 3.1,
-   "price": 713.31,
-   "market_cap": "327,890,695,073",
+   "price": 578.44,
+   "market_cap": "944,288,863,294",
    "direction": "up"
   }
  ],
  "setup_routing": {
   "setup_a_candidates": [
-   "DELL",
-   "AMD",
-   "ANET",
-   "GEV",
-   "SCCO",
-   "BHP",
-   "ADI",
+   "SKHY",
+   "ORCL",
+   "SNDK",
+   "MU",
+   "LRCX",
+   "AMAT",
+   "ARM",
+   "APH",
    "MRVL",
-   "AVGO",
-   "TSLA"
+   "KLAC"
   ],
   "setup_b_candidates": [
-   "DELL",
-   "AMD",
-   "ANET",
-   "GEV",
-   "SCCO",
-   "BHP",
-   "ADI",
+   "SKHY",
+   "ORCL",
+   "SNDK",
+   "MU",
+   "LRCX",
+   "AMAT",
+   "ARM",
+   "APH",
    "MRVL",
-   "AVGO",
-   "TSLA"
+   "KLAC"
   ],
   "setup_c_candidates": [
-   "WELL",
-   "HSBC"
+   "SAN"
   ]
  },
- "count": 19
+ "count": 12
 }
