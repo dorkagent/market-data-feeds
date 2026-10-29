@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-28T18:23:58.695232+00:00",
+ "generated_at": "2026-10-29T18:33:22.922947+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-21T06:02:44+00:00",
+ "window_start": "2026-09-21T17:25:44+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -16,7 +16,7 @@
    "mentions": 4,
    "bull": 1,
    "bear": 1,
-   "engagement": 23
+   "engagement": 30
   },
   {
    "ticker": "SOFI",
@@ -30,7 +30,7 @@
    "mentions": 3,
    "bull": 2,
    "bear": 2,
-   "engagement": 40
+   "engagement": 39
   },
   {
    "ticker": "AVGO",
@@ -75,18 +75,18 @@
    "engagement": 58
   },
   {
-   "ticker": "BE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
    "ticker": "LITE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 4
+   "engagement": 5
+  },
+  {
+   "ticker": "BE",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 5
   },
   {
    "ticker": "RAPP",
@@ -117,13 +117,6 @@
    "engagement": 1
   },
   {
-   "ticker": "UBER",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
    "ticker": "NFLX",
    "mentions": 1,
    "bull": 0,
@@ -131,7 +124,14 @@
    "engagement": 2
   },
   {
-   "ticker": "SNPS",
+   "ticker": "UBER",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "NOK",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -161,6 +161,13 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1x0vzyk/"
   },
   {
+   "title": "MRNA Trading Halted after stock dumped from $250 to $190; data leak reveals that they have NOT cured cancer after all",
+   "score": 3702,
+   "num_comments": 545,
+   "created_utc": 1792688005,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xco0ki/"
+  },
+  {
    "title": "Anthropic books colossal $81B loss, warns of data center backlash as Amodei siblings draw modest salaries",
    "score": 3566,
    "num_comments": 413,
@@ -173,13 +180,6 @@
    "num_comments": 1003,
    "created_utc": 1790848170,
    "url": "https://www.reddit.com/r/StockMarket/comments/1wuv8o6/"
-  },
-  {
-   "title": "MRNA Trading Halted after stock dumped from $250 to $190; data leak reveals that they have NOT cured cancer after all",
-   "score": 3478,
-   "num_comments": 517,
-   "created_utc": 1792688005,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xco0ki/"
   },
   {
    "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",

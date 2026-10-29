@@ -1,15 +1,29 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-28T18:24:05.414069+00:00",
+ "generated_at": "2026-10-29T18:33:30.196411+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-14T14:37:24+00:00",
+ "window_start": "2026-10-15T17:45:22+00:00",
  "top_tickers": [
+  {
+   "ticker": "NFLX",
+   "mentions": 5,
+   "bull": 3,
+   "bear": 0,
+   "engagement": 908
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 675
+  },
   {
    "ticker": "RDDT",
    "mentions": 4,
    "bull": 1,
    "bear": 0,
-   "engagement": 160
+   "engagement": 245
   },
   {
    "ticker": "CRWV",
@@ -19,20 +33,6 @@
    "engagement": 313
   },
   {
-   "ticker": "ASTS",
-   "mentions": 4,
-   "bull": 4,
-   "bear": 2,
-   "engagement": 448
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 4,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 337
-  },
-  {
    "ticker": "BRBR",
    "mentions": 4,
    "bull": 1,
@@ -40,25 +40,18 @@
    "engagement": 35
   },
   {
-   "ticker": "UBER",
+   "ticker": "APP",
    "mentions": 3,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 129
-  },
-  {
-   "ticker": "NFLX",
-   "mentions": 3,
-   "bull": 2,
+   "bull": 1,
    "bear": 0,
-   "engagement": 865
+   "engagement": 70
   },
   {
    "ticker": "META",
    "mentions": 3,
    "bull": 2,
    "bear": 0,
-   "engagement": 213
+   "engagement": 218
   },
   {
    "ticker": "AMD",
@@ -68,18 +61,32 @@
    "engagement": 220
   },
   {
-   "ticker": "AMZN",
+   "ticker": "ASTS",
+   "mentions": 3,
+   "bull": 3,
+   "bear": 1,
+   "engagement": 412
+  },
+  {
+   "ticker": "NVDA",
    "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 673
+   "engagement": 322
   },
   {
-   "ticker": "APP",
-   "mentions": 3,
+   "ticker": "GOOGL",
+   "mentions": 2,
    "bull": 0,
-   "bear": 1,
-   "engagement": 60
+   "bear": 0,
+   "engagement": 13
+  },
+  {
+   "ticker": "UBER",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 67
   },
   {
    "ticker": "SOFI",
@@ -103,11 +110,11 @@
    "engagement": 325
   },
   {
-   "ticker": "PEW",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 29
+   "ticker": "MSFT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "NTFX",
@@ -136,13 +143,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 12
-  },
-  {
-   "ticker": "CMG",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 6
   }
  ],
  "top_posts": [
@@ -152,6 +152,20 @@
    "num_comments": 228,
    "created_utc": 1792440056,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xa7d8r/"
+  },
+  {
+   "title": "Can we shut up about GOOG finally?",
+   "score": 505,
+   "num_comments": 528,
+   "created_utc": 1793218563,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xhz8ol/"
+  },
+  {
+   "title": "Meta's Muse will be a complete flop. Tell me I'm wrong.",
+   "score": 469,
+   "num_comments": 428,
+   "created_utc": 1793156386,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xhcwoa/"
   },
   {
    "title": "If Nvidia bails out CoreWeave again, it reveals how deeply AI\u2019s fate is tied to CoreWeave",
@@ -182,13 +196,6 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x7fvsx/"
   },
   {
-   "title": "Meta's Muse will be a complete flop. Tell me I'm wrong.",
-   "score": 287,
-   "num_comments": 242,
-   "created_utc": 1793156386,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xhcwoa/"
-  },
-  {
    "title": "Netflix now trades at a lower P/E than Coca-Cola. It reports tomorrow",
    "score": 273,
    "num_comments": 294,
@@ -197,8 +204,8 @@
   },
   {
    "title": "Value investors dream of markets like this...",
-   "score": 208,
-   "num_comments": 214,
+   "score": 218,
+   "num_comments": 222,
    "created_utc": 1792686070,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xcn4yp/"
   },
@@ -243,13 +250,6 @@
    "num_comments": 407,
    "created_utc": 1792804706,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xdvn6r/"
-  },
-  {
-   "title": "Indonesian stocks dive 11% as MSCI weighs market reclassification; are there any high quality Indonesian companies that are undervalued due ",
-   "score": 146,
-   "num_comments": 84,
-   "created_utc": 1792190928,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x7uf9t/"
   }
  ]
 }

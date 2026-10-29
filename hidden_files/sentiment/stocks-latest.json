@@ -1,22 +1,22 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-28T18:23:51.385321+00:00",
+ "generated_at": "2026-10-29T18:33:15.288235+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-19T05:55:06+00:00",
+ "window_start": "2026-10-20T14:17:43+00:00",
  "top_tickers": [
   {
    "ticker": "SOFI",
    "mentions": 5,
    "bull": 1,
    "bear": 0,
-   "engagement": 62
+   "engagement": 63
   },
   {
-   "ticker": "NVDA",
+   "ticker": "AMZN",
    "mentions": 4,
    "bull": 0,
-   "bear": 1,
-   "engagement": 5
+   "bear": 0,
+   "engagement": 1555
   },
   {
    "ticker": "AMD",
@@ -24,13 +24,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 4
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 5
   },
   {
    "ticker": "HOOD",
@@ -47,11 +40,32 @@
    "engagement": 53
   },
   {
+   "ticker": "MSFT",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 944
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
    "ticker": "RDDT",
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 266
+   "engagement": 268
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 3
   },
   {
    "ticker": "AAPL",
@@ -66,13 +80,6 @@
    "bull": 1,
    "bear": 2,
    "engagement": 3
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1554
   },
   {
    "ticker": "NFLX",
@@ -96,53 +103,46 @@
    "engagement": 2
   },
   {
-   "ticker": "SPCX",
-   "mentions": 2,
+   "ticker": "MRVL",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 205
+   "engagement": 2
   },
   {
-   "ticker": "CRWV",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 248
+   "ticker": "LLY",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 10
+  },
+  {
+   "ticker": "NVO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 10
+  },
+  {
+   "ticker": "GOOG",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "JOBY",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 100
+   "engagement": 31
   },
   {
    "ticker": "XXB",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 15
-  },
-  {
-   "ticker": "VRT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 140
-  },
-  {
-   "ticker": "ONON",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
+   "engagement": 20
   }
  ],
  "top_posts": [
@@ -183,17 +183,17 @@
   },
   {
    "title": "Anthropic to publicly file for IPO as early as Friday",
-   "score": 952,
-   "num_comments": 334,
+   "score": 971,
+   "num_comments": 337,
    "created_utc": 1792630273,
    "url": "https://www.reddit.com/r/stocks/comments/1xc4lsa/"
   },
   {
-   "title": "The attention economy is a relic of the 2010s and $META is a $1 trillion boomer casino with a GPU addiction",
-   "score": 823,
-   "num_comments": 127,
-   "created_utc": 1792431587,
-   "url": "https://www.reddit.com/r/stocks/comments/1xa3hye/"
+   "title": "Alphabet\u2019s free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
+   "score": 829,
+   "num_comments": 310,
+   "created_utc": 1793218655,
+   "url": "https://www.reddit.com/r/stocks/comments/1xhza38/"
   },
   {
    "title": "SpaceX could be on the cusp of buying 80,000 cell towers in a bid to really challenge Verizon, AT&T and T-Mobile",
@@ -224,32 +224,32 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xg2gtp/"
   },
   {
-   "title": "1987's crash mostly recovered in 2 sessions but the 2000 Nasdaq drop took 15 yrs",
-   "score": 496,
-   "num_comments": 180,
-   "created_utc": 1792389306,
-   "url": "https://www.reddit.com/r/stocks/comments/1x9ovvd/"
+   "title": "GOOGL: Everyone Was Bullish Yesterday, Now Google Is Suddenly Dead?",
+   "score": 484,
+   "num_comments": 277,
+   "created_utc": 1793244078,
+   "url": "https://www.reddit.com/r/stocks/comments/1xi93uc/"
+  },
+  {
+   "title": "Microsoft stock jumps 5% as cloud growth drives earnings and revenue beat",
+   "score": 462,
+   "num_comments": 106,
+   "created_utc": 1793218132,
+   "url": "https://www.reddit.com/r/stocks/comments/1xhz1lc/"
+  },
+  {
+   "title": "GOOG \u2b07\ufe0f 10%: Still the strongest AI stock despite the noise of Search! 14 P/E, $514B Cloud Backlog and $62B TPU Silicon Printing press.",
+   "score": 452,
+   "num_comments": 326,
+   "created_utc": 1793224733,
+   "url": "https://www.reddit.com/r/stocks/comments/1xi1w4h/"
   },
   {
    "title": "Meta tops Q3 revenue expectations, announces 2-for-1 stock split",
-   "score": 406,
-   "num_comments": 177,
+   "score": 404,
+   "num_comments": 180,
    "created_utc": 1792613288,
    "url": "https://www.reddit.com/r/stocks/comments/1xbxxwm/"
-  },
-  {
-   "title": "Berkshire Hathaway Stock Hits Record High: $360 Billion Cash Generates Interest Income, UBS Lifts Target to $942,000",
-   "score": 394,
-   "num_comments": 57,
-   "created_utc": 1792705707,
-   "url": "https://www.reddit.com/r/stocks/comments/1xcvvd5/"
-  },
-  {
-   "title": "Walmart now trades at a higher P/E than Nvidia: 43x vs 27x",
-   "score": 391,
-   "num_comments": 68,
-   "created_utc": 1792410169,
-   "url": "https://www.reddit.com/r/stocks/comments/1x9um6o/"
   }
  ]
 }

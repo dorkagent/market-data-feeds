@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-28T18:23:41.320950+00:00",
+ "generated_at": "2026-10-29T18:33:10.350255+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-04T08:00:38+00:00",
+ "window_start": "2026-10-05T12:15:44+00:00",
  "top_tickers": [
   {
    "ticker": "PLTR",
@@ -30,14 +30,14 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 1
+   "engagement": 51
   },
   {
    "ticker": "LMT",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 111
+   "engagement": 109
   },
   {
    "ticker": "OKLO",
@@ -175,6 +175,13 @@
    "url": "https://www.reddit.com/r/investing/comments/1x9r2z3/"
   },
   {
+   "title": "Three of the four biggest AI spenders now report negative free cash flow",
+   "score": 442,
+   "num_comments": 113,
+   "created_utc": 1793195907,
+   "url": "https://www.reddit.com/r/investing/comments/1xhotkl/"
+  },
+  {
    "title": "To the person going all in on Alphabet (GOOG)",
    "score": 359,
    "num_comments": 155,
@@ -222,13 +229,6 @@
    "num_comments": 262,
    "created_utc": 1792008397,
    "url": "https://www.reddit.com/r/investing/comments/1x61me1/"
-  },
-  {
-   "title": "At what point did your investments start growing faster than you could save money?",
-   "score": 283,
-   "num_comments": 257,
-   "created_utc": 1791647333,
-   "url": "https://www.reddit.com/r/investing/comments/1x2ijni/"
   }
  ]
 }
