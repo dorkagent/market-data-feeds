@@ -1,22 +1,22 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-29T18:33:42.319270+00:00",
+ "generated_at": "2026-10-30T18:05:51.329137+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-17T02:57:18+00:00",
+ "window_start": "2026-09-18T17:55:03+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
-   "mentions": 8,
-   "bull": 4,
+   "mentions": 9,
+   "bull": 5,
    "bear": 2,
-   "engagement": 239
+   "engagement": 269
   },
   {
    "ticker": "QQQ",
-   "mentions": 5,
+   "mentions": 6,
    "bull": 2,
    "bear": 2,
-   "engagement": 220
+   "engagement": 245
   },
   {
    "ticker": "AMD",
@@ -68,6 +68,13 @@
    "engagement": 23
   },
   {
+   "ticker": "AMZN",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
    "ticker": "NFLX",
    "mentions": 1,
    "bull": 1,
@@ -96,14 +103,14 @@
    "engagement": 1
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 3
   },
   {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -136,20 +143,13 @@
    "bull": 1,
    "bear": 0,
    "engagement": 25
-  },
-  {
-   "ticker": "BTC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
   }
  ],
  "top_posts": [
   {
    "title": "A year of selling boring SPX options",
-   "score": 586,
-   "num_comments": 247,
+   "score": 651,
+   "num_comments": 292,
    "created_utc": 1792700868,
    "url": "https://www.reddit.com/r/options/comments/1xctuna/"
   },
@@ -189,6 +189,13 @@
    "url": "https://www.reddit.com/r/options/comments/1x2uabt/"
   },
   {
+   "title": "I backtested 17,100 option-selling strategies on SPY and QQQ (2022 to 2026)",
+   "score": 98,
+   "num_comments": 45,
+   "created_utc": 1792775059,
+   "url": "https://www.reddit.com/r/options/comments/1xdjrjk/"
+  },
+  {
    "title": "Clarification on being banned from retail brokerage for being consistently profitable",
    "score": 82,
    "num_comments": 52,
@@ -196,18 +203,25 @@
    "url": "https://www.reddit.com/r/options/comments/1wlwxee/"
   },
   {
-   "title": "I backtested 17,100 option-selling strategies on SPY and QQQ (2022 to 2026)",
-   "score": 78,
-   "num_comments": 42,
-   "created_utc": 1792775059,
-   "url": "https://www.reddit.com/r/options/comments/1xdjrjk/"
-  },
-  {
    "title": "Are there any consistently profitable retail options traders who trade for a living?",
    "score": 71,
    "num_comments": 199,
    "created_utc": 1792964033,
    "url": "https://www.reddit.com/r/options/comments/1xfei16/"
+  },
+  {
+   "title": "I plotted every retail 0-DTE SPX spread sold this month",
+   "score": 58,
+   "num_comments": 14,
+   "created_utc": 1793302733,
+   "url": "https://www.reddit.com/r/options/comments/1xitwi7/"
+  },
+  {
+   "title": "Beat The Market Selling LEAPS",
+   "score": 58,
+   "num_comments": 60,
+   "created_utc": 1793294489,
+   "url": "https://www.reddit.com/r/options/comments/1xiq83v/"
   },
   {
    "title": "Schwab Options Order",
@@ -236,20 +250,6 @@
    "num_comments": 59,
    "created_utc": 1791379531,
    "url": "https://www.reddit.com/r/options/comments/1wzwh80/"
-  },
-  {
-   "title": "I was completely fine losing my AMD shares until it almost happened",
-   "score": 52,
-   "num_comments": 54,
-   "created_utc": 1790005826,
-   "url": "https://www.reddit.com/r/options/comments/1wmgm9p/"
-  },
-  {
-   "title": "[MU] Earnings IV Crush Setup for Oct 2nd",
-   "score": 50,
-   "num_comments": 28,
-   "created_utc": 1790703700,
-   "url": "https://www.reddit.com/r/options/comments/1wtgr2k/"
   }
  ]
 }

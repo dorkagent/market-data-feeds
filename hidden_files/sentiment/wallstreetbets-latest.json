@@ -1,255 +1,255 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-29T18:33:03.831258+00:00",
+ "generated_at": "2026-10-30T18:05:17.807824+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-26T11:29:18+00:00",
+ "window_start": "2026-10-28T20:01:07+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
-   "mentions": 6,
-   "bull": 3,
-   "bear": 4,
-   "engagement": 501
+   "mentions": 17,
+   "bull": 1,
+   "bear": 5,
+   "engagement": 19865
   },
   {
-   "ticker": "AMD",
-   "mentions": 4,
+   "ticker": "AMZN",
+   "mentions": 9,
    "bull": 2,
-   "bear": 0,
-   "engagement": 39
+   "bear": 1,
+   "engagement": 574
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 5,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 318
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 6
   },
   {
    "ticker": "JBLU",
    "mentions": 3,
    "bull": 2,
    "bear": 3,
-   "engagement": 5
+   "engagement": 6
   },
   {
-   "ticker": "NFLX",
-   "mentions": 3,
+   "ticker": "AMD",
+   "mentions": 2,
    "bull": 0,
-   "bear": 0,
-   "engagement": 3
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 3,
-   "bull": 1,
    "bear": 2,
-   "engagement": 144
+   "engagement": 304
   },
   {
-   "ticker": "SPY",
-   "mentions": 3,
+   "ticker": "AAPL",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 2,
+   "engagement": 2788
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 363
-  },
-  {
-   "ticker": "ANT",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 44
+   "engagement": 499
   },
   {
    "ticker": "BLLN",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
+   "engagement": 0
   },
   {
-   "ticker": "GOOG",
-   "mentions": 2,
+   "ticker": "CCJ",
+   "mentions": 1,
    "bull": 1,
-   "bear": 1,
-   "engagement": 3
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 8
-  },
-  {
-   "ticker": "SLS",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 3
-  },
-  {
-   "ticker": "PRME",
-   "mentions": 2,
-   "bull": 2,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "SPCX",
-   "mentions": 2,
+   "ticker": "TSLA",
+   "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 303
+   "engagement": 1
   },
   {
-   "ticker": "VOO",
+   "ticker": "HTZ",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "PCLA",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "ASPI",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "BHC",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 6
-  },
-  {
-   "ticker": "MUU",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "PYPL",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
-   "ticker": "AMZN",
+   "ticker": "BTC",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 0
+  },
+  {
+   "ticker": "MSTR",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 41
+  },
+  {
+   "ticker": "GOOGL",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1018
+  },
+  {
+   "ticker": "INFQ",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1018
+  },
+  {
+   "ticker": "OPEN",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 628
+  },
+  {
+   "ticker": "META",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 476
+  },
+  {
+   "ticker": "ACUT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   }
  ],
  "top_posts": [
   {
-   "title": "Boeing is dropping so fast it transcended this post lmao",
-   "score": 24842,
-   "num_comments": 483,
-   "created_utc": 1793120872,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xgyccm/"
-  },
-  {
-   "title": "Microsoft offers voluntary buyouts to 60,000 employees",
-   "score": 9795,
-   "num_comments": 2104,
-   "created_utc": 1793030717,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xg11cu/"
-  },
-  {
-   "title": "Anthropic straight rawdogging their IPO",
-   "score": 9740,
-   "num_comments": 1306,
-   "created_utc": 1793100325,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xgpx1n/"
-  },
-  {
-   "title": "CONFIRMED: Anthropic management are regarded",
-   "score": 7170,
-   "num_comments": 819,
-   "created_utc": 1793036131,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xg3jjj/"
+   "title": "Just found out this is what the CEO of ServiceNow looks like",
+   "score": 21595,
+   "num_comments": 2298,
+   "created_utc": 1793293880,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xipxs9/"
   },
   {
    "title": "GOOG bye",
-   "score": 6926,
-   "num_comments": 1251,
+   "score": 7194,
+   "num_comments": 1288,
    "created_utc": 1793217987,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xhyzc9/"
   },
   {
+   "title": "Reddit ($RDDT) is announcing a huge shift: It\u2019s going to start requiring users to log in.",
+   "score": 6883,
+   "num_comments": 2278,
+   "created_utc": 1793305968,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xivd8d/"
+  },
+  {
    "title": "GOOGLE",
-   "score": 6431,
-   "num_comments": 544,
+   "score": 6810,
+   "num_comments": 563,
    "created_utc": 1793219871,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xhztni/"
   },
   {
-   "title": "Babe wake up a new religion dropped",
-   "score": 3340,
-   "num_comments": 163,
-   "created_utc": 1793048336,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xg90r5/"
-  },
-  {
-   "title": "Anthropic\u2019s cash pile towers over nearly every U.S. company.",
-   "score": 2377,
-   "num_comments": 497,
-   "created_utc": 1793138432,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xh6799/"
-  },
-  {
-   "title": "Fed holds rates steady despite concerns over inflation",
-   "score": 2373,
-   "num_comments": 296,
-   "created_utc": 1793210542,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xhvjej/"
-  },
-  {
    "title": "The G in the FAANG\u2026 she gone",
-   "score": 2345,
-   "num_comments": 205,
+   "score": 4407,
+   "num_comments": 310,
    "created_utc": 1793282401,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xikry3/"
   },
   {
-   "title": "Anthropic Reveals It Will Pay SpaceX Up to $120.5B for AI Compute",
-   "score": 2341,
-   "num_comments": 418,
-   "created_utc": 1793034120,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xg2m4l/"
+   "title": "INTEL: Put the chips in the bag",
+   "score": 3771,
+   "num_comments": 162,
+   "created_utc": 1793306040,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xivedc/"
   },
   {
-   "title": "Rich people have been using this strategy for decades.",
-   "score": 2254,
-   "num_comments": 371,
-   "created_utc": 1793143216,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xh84iv/"
+   "title": "$10,000,000 dollar RDDT YOLO - prepped for earnings after market close!",
+   "score": 3474,
+   "num_comments": 1734,
+   "created_utc": 1793298246,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xirx7a/"
   },
   {
-   "title": "Nvidia Backs $164.5 Billion Of AI Data Centers To Keep GPUs Selling",
-   "score": 2215,
-   "num_comments": 243,
-   "created_utc": 1793064459,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xgfee1/"
+   "title": "RDDT leadership is one of us.",
+   "score": 2586,
+   "num_comments": 99,
+   "created_utc": 1793327148,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xj3jao/"
   },
   {
-   "title": "Skydance Is Offering Employees Voluntary Buyouts Ahead of Layoffs, Adopts 5-Days-per-Week In-Office Policy",
-   "score": 2048,
-   "num_comments": 279,
-   "created_utc": 1793040806,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xg5nwl/"
+   "title": "How it feels to be an AAPL shareholder right now",
+   "score": 2550,
+   "num_comments": 237,
+   "created_utc": 1793306719,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xivoun/"
   },
   {
-   "title": "[ Removed by moderator ]",
-   "score": 2022,
-   "num_comments": 367,
-   "created_utc": 1793023458,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xfxqnv/"
+   "title": "ServiceNow shares plunge 24% after earnings revive AI disruption fears",
+   "score": 2216,
+   "num_comments": 438,
+   "created_utc": 1793287069,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1ximtu6/"
+  },
+  {
+   "title": "Big Tech will bleed while Boomer dividend stocks inherit the AI revolution",
+   "score": 2200,
+   "num_comments": 234,
+   "created_utc": 1793315482,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xizb9s/"
+  },
+  {
+   "title": "AWS growth jumps 39% as Amazon hits $201.9 billion in revenue",
+   "score": 2072,
+   "num_comments": 176,
+   "created_utc": 1793304389,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xiunlv/"
+  },
+  {
+   "title": "Crypto exchange Binance hacked of over $6 billion",
+   "score": 1985,
+   "num_comments": 239,
+   "created_utc": 1793341551,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xj7w95/"
+  },
+  {
+   "title": "Just wait till earnings bro market will pump higher\ud83e\udd21",
+   "score": 1974,
+   "num_comments": 148,
+   "created_utc": 1793281327,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xikbhm/"
+  },
+  {
+   "title": "DoorDash to acquire Instacart for $17 billion",
+   "score": 1966,
+   "num_comments": 304,
+   "created_utc": 1793279991,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xijrwm/"
   }
  ]
 }

@@ -1,22 +1,22 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-10-29T18:33:22.922947+00:00",
+ "generated_at": "2026-10-30T18:05:36.434046+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-21T17:25:44+00:00",
+ "window_start": "2026-09-26T11:02:13+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 5,
-   "bull": 1,
+   "mentions": 6,
+   "bull": 2,
    "bear": 2,
-   "engagement": 1085
+   "engagement": 1087
   },
   {
    "ticker": "MSFT",
-   "mentions": 4,
+   "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 30
+   "engagement": 29
   },
   {
    "ticker": "SOFI",
@@ -40,18 +40,11 @@
    "engagement": 127
   },
   {
-   "ticker": "SPY",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 2,
-   "engagement": 1679
-  },
-  {
-   "ticker": "META",
-   "mentions": 3,
+   "ticker": "AAPL",
+   "mentions": 2,
    "bull": 1,
-   "bear": 1,
-   "engagement": 386
+   "bear": 0,
+   "engagement": 25
   },
   {
    "ticker": "AMZN",
@@ -73,6 +66,20 @@
    "bull": 1,
    "bear": 1,
    "engagement": 58
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 2,
+   "engagement": 41
+  },
+  {
+   "ticker": "META",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 40
   },
   {
    "ticker": "LITE",
@@ -131,13 +138,6 @@
    "engagement": 2
   },
   {
-   "ticker": "NOK",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 531
-  },
-  {
    "ticker": "NBIS",
    "mentions": 1,
    "bull": 1,
@@ -182,18 +182,18 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1wuv8o6/"
   },
   {
-   "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
-   "score": 2956,
-   "num_comments": 326,
-   "created_utc": 1790308305,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wpm92h/"
-  },
-  {
    "title": "Mortgage rates hit 7.58%, approaching 3-year high",
    "score": 2405,
    "num_comments": 200,
    "created_utc": 1790723660,
    "url": "https://www.reddit.com/r/StockMarket/comments/1wtp71m/"
+  },
+  {
+   "title": "Alphabet (Google), is having one of the wildest days in its history",
+   "score": 2188,
+   "num_comments": 487,
+   "created_utc": 1793282504,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xiktw3/"
   },
   {
    "title": "Trump Posted This Picture and I Legitimately Have No Idea",
@@ -231,18 +231,11 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xfda72/"
   },
   {
-   "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999",
-   "score": 1484,
-   "num_comments": 238,
-   "created_utc": 1790032493,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wmspao/"
-  },
-  {
-   "title": "President Trump Addresses the United Nations: SPY Down",
-   "score": 1423,
-   "num_comments": 215,
-   "created_utc": 1790088106,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1wnbe9d/"
+   "title": "Extreme Fear is here, who is buying?",
+   "score": 1216,
+   "num_comments": 430,
+   "created_utc": 1792711478,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xcy34q/"
   },
   {
    "title": "Nasdaq sinks more than 2% as investors raise questions about AI debt",
@@ -250,6 +243,13 @@
    "num_comments": 131,
    "created_utc": 1792191200,
    "url": "https://www.reddit.com/r/StockMarket/comments/1x7uiuo/"
+  },
+  {
+   "title": "Trump Rejects Iran\u2019s Cease-Fire Proposal to Reopen Strait of Hormuz\u2026 Red Monday Incoming",
+   "score": 1192,
+   "num_comments": 167,
+   "created_utc": 1790477772,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1wr8zcr/"
   }
  ]
 }

@@ -1,8 +1,8 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-10-29T18:33:37.078709+00:00",
+ "generated_at": "2026-10-30T18:05:46.806956+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-28T16:19:36+00:00",
+ "window_start": "2026-08-29T00:59:33+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
@@ -12,11 +12,11 @@
    "engagement": 120
   },
   {
-   "ticker": "SPY",
-   "mentions": 4,
-   "bull": 4,
-   "bear": 3,
-   "engagement": 141
+   "ticker": "RDDT",
+   "mentions": 7,
+   "bull": 3,
+   "bear": 5,
+   "engagement": 1475
   },
   {
    "ticker": "PLTR",
@@ -33,11 +33,11 @@
    "engagement": 256
   },
   {
-   "ticker": "RDDT",
-   "mentions": 4,
+   "ticker": "SPY",
+   "mentions": 3,
    "bull": 3,
-   "bear": 3,
-   "engagement": 1169
+   "bear": 2,
+   "engagement": 78
   },
   {
    "ticker": "QQQ",
@@ -45,13 +45,6 @@
    "bull": 2,
    "bear": 3,
    "engagement": 106
-  },
-  {
-   "ticker": "NBIS",
-   "mentions": 3,
-   "bull": 3,
-   "bear": 2,
-   "engagement": 98
   },
   {
    "ticker": "ORCL",
@@ -82,6 +75,13 @@
    "engagement": 42
   },
   {
+   "ticker": "NBIS",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 29
+  },
+  {
    "ticker": "SOFI",
    "mentions": 2,
    "bull": 0,
@@ -103,25 +103,18 @@
    "engagement": 18
   },
   {
+   "ticker": "SOXL",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
    "ticker": "DRAM",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 18
-  },
-  {
-   "ticker": "SPCH",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
-   "ticker": "NVTS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
   },
   {
    "ticker": "SNXX",
@@ -131,14 +124,21 @@
    "engagement": 12
   },
   {
-   "ticker": "VST",
+   "ticker": "ROBN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 12
   },
   {
-   "ticker": "VXT",
+   "ticker": "AXTI",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "VST",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -152,13 +152,6 @@
    "num_comments": 192,
    "created_utc": 1791557502,
    "url": "https://www.reddit.com/r/thetagang/comments/1x1nf2p/"
-  },
-  {
-   "title": "It's here!",
-   "score": 342,
-   "num_comments": 122,
-   "created_utc": 1787933976,
-   "url": "https://www.reddit.com/r/thetagang/comments/1w0v3u8/"
   },
   {
    "title": "Friendly Reminder - Options selling isn\u2019t free money",
@@ -196,18 +189,18 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1x7vo34/"
   },
   {
+   "title": "Days like this\u2026.",
+   "score": 141,
+   "num_comments": 54,
+   "created_utc": 1792700535,
+   "url": "https://www.reddit.com/r/thetagang/comments/1xctp9w/"
+  },
+  {
    "title": "Triple Witching effect on AMD $550 call today",
    "score": 141,
    "num_comments": 31,
    "created_utc": 1789770188,
    "url": "https://www.reddit.com/r/thetagang/comments/1wk4d9v/"
-  },
-  {
-   "title": "Days like this\u2026.",
-   "score": 134,
-   "num_comments": 51,
-   "created_utc": 1792700535,
-   "url": "https://www.reddit.com/r/thetagang/comments/1xctp9w/"
   },
   {
    "title": "I backtested all the popular wheeling strategy",
@@ -238,11 +231,18 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1wuq66i/"
   },
   {
-   "title": "10x MU Iron Condors expiring OTM *chef\u2019s kiss*",
-   "score": 99,
-   "num_comments": 60,
-   "created_utc": 1787949632,
-   "url": "https://www.reddit.com/r/thetagang/comments/1w12755/"
+   "title": "Sold puts on RDDT & SFM\u2026!",
+   "score": 95,
+   "num_comments": 45,
+   "created_utc": 1793324271,
+   "url": "https://www.reddit.com/r/thetagang/comments/1xj2jn6/"
+  },
+  {
+   "title": "What RDDT does to you",
+   "score": 95,
+   "num_comments": 69,
+   "created_utc": 1793309528,
+   "url": "https://www.reddit.com/r/thetagang/comments/1xiww3f/"
   },
   {
    "title": "121 theta trades along with a few long calls to test the waters from May to August. 100% win, should I scale up?",

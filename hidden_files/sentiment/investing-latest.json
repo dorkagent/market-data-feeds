@@ -1,9 +1,16 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-29T18:33:10.350255+00:00",
+ "generated_at": "2026-10-30T18:05:23.635363+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-05T12:15:44+00:00",
+ "window_start": "2026-10-06T15:22:06+00:00",
  "top_tickers": [
+  {
+   "ticker": "AMZN",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 90
+  },
   {
    "ticker": "PLTR",
    "mentions": 3,
@@ -19,18 +26,18 @@
    "engagement": 131
   },
   {
-   "ticker": "AMZN",
-   "mentions": 2,
+   "ticker": "MVIS",
+   "mentions": 1,
    "bull": 0,
-   "bear": 0,
-   "engagement": 88
+   "bear": 1,
+   "engagement": 4
   },
   {
    "ticker": "ANT",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 51
+   "engagement": 63
   },
   {
    "ticker": "LMT",
@@ -101,41 +108,13 @@
    "bull": 0,
    "bear": 0,
    "engagement": 2
-  },
-  {
-   "ticker": "NKTX",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 0
-  },
-  {
-   "ticker": "ARM",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 58
-  },
-  {
-   "ticker": "META",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 2
   }
  ],
  "top_posts": [
   {
-   "title": "Goldman Sachs: The S&P 500 Has Disconnected From the Market \u2013 and No Longer Reflects Macro Risks",
-   "score": 2465,
-   "num_comments": 487,
-   "created_utc": 1791265853,
-   "url": "https://www.reddit.com/r/investing/comments/1wyuvd5/"
-  },
-  {
    "title": "In 2007/09 financial crisis S&P 500 went down 57% and it took 5 and a half years to recover back.",
-   "score": 1139,
-   "num_comments": 459,
+   "score": 1268,
+   "num_comments": 489,
    "created_utc": 1792694070,
    "url": "https://www.reddit.com/r/investing/comments/1xcqsbh/"
   },
@@ -168,18 +147,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1xbqrmp/"
   },
   {
+   "title": "Three of the four biggest AI spenders now report negative free cash flow",
+   "score": 535,
+   "num_comments": 151,
+   "created_utc": 1793195907,
+   "url": "https://www.reddit.com/r/investing/comments/1xhotkl/"
+  },
+  {
    "title": "How are cryptocurrencies not the dumbest thing ever?",
    "score": 504,
    "num_comments": 824,
    "created_utc": 1792397633,
    "url": "https://www.reddit.com/r/investing/comments/1x9r2z3/"
-  },
-  {
-   "title": "Three of the four biggest AI spenders now report negative free cash flow",
-   "score": 442,
-   "num_comments": 113,
-   "created_utc": 1793195907,
-   "url": "https://www.reddit.com/r/investing/comments/1xhotkl/"
   },
   {
    "title": "To the person going all in on Alphabet (GOOG)",
@@ -208,6 +187,13 @@
    "num_comments": 141,
    "created_utc": 1792115737,
    "url": "https://www.reddit.com/r/investing/comments/1x73wod/"
+  },
+  {
+   "title": "Another GOOGL buying opportunity",
+   "score": 313,
+   "num_comments": 149,
+   "created_utc": 1793321148,
+   "url": "https://www.reddit.com/r/investing/comments/1xj1fyh/"
   },
   {
    "title": "Anthropic will pay up to $120.5B for SpaceX's AI Compute",

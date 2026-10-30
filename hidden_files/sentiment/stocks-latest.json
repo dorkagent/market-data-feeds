@@ -1,15 +1,15 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-29T18:33:15.288235+00:00",
+ "generated_at": "2026-10-30T18:05:31.516884+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-20T14:17:43+00:00",
+ "window_start": "2026-10-21T20:26:12+00:00",
  "top_tickers": [
   {
-   "ticker": "SOFI",
-   "mentions": 5,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 63
+   "ticker": "RDDT",
+   "mentions": 7,
+   "bull": 3,
+   "bear": 3,
+   "engagement": 274
   },
   {
    "ticker": "AMZN",
@@ -24,6 +24,34 @@
    "bull": 0,
    "bear": 0,
    "engagement": 4
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 3
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 5
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 836
+  },
+  {
+   "ticker": "SOFI",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 61
   },
   {
    "ticker": "HOOD",
@@ -44,28 +72,7 @@
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 944
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 2
-  },
-  {
-   "ticker": "RDDT",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 268
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 3
+   "engagement": 1433
   },
   {
    "ticker": "AAPL",
@@ -82,25 +89,18 @@
    "engagement": 3
   },
   {
-   "ticker": "NFLX",
-   "mentions": 2,
+   "ticker": "UBER",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 207
+   "engagement": 1
   },
   {
-   "ticker": "MSTR",
-   "mentions": 2,
+   "ticker": "COIN",
+   "mentions": 1,
    "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "NU",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
+   "bear": 1,
+   "engagement": 17
   },
   {
    "ticker": "MRVL",
@@ -110,18 +110,18 @@
    "engagement": 2
   },
   {
-   "ticker": "LLY",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 10
-  },
-  {
    "ticker": "NVO",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 10
+   "engagement": 18
+  },
+  {
+   "ticker": "LLY",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 18
   },
   {
    "ticker": "GOOG",
@@ -135,7 +135,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 31
+   "engagement": 33
   },
   {
    "ticker": "XXB",
@@ -154,13 +154,6 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xfwuks/"
   },
   {
-   "title": "It\u2019s happening: Tesla and SpaceX have formed committees to discuss merger",
-   "score": 1511,
-   "num_comments": 553,
-   "created_utc": 1792532709,
-   "url": "https://www.reddit.com/r/stocks/comments/1xb55u7/"
-  },
-  {
    "title": "SpaceX just secured $40 BILLION to buy AI chips......$40 billion just for chips.",
    "score": 1256,
    "num_comments": 468,
@@ -173,6 +166,13 @@
    "num_comments": 519,
    "created_utc": 1793005174,
    "url": "https://www.reddit.com/r/stocks/comments/1xfrlff/"
+  },
+  {
+   "title": "GOOG is now defaulting to search output again rather than defaulting automatically to Gemini",
+   "score": 1181,
+   "num_comments": 167,
+   "created_utc": 1793317614,
+   "url": "https://www.reddit.com/r/stocks/comments/1xj04r1/"
   },
   {
    "title": "Amazon is spending $220 BILLION on AI\u2026 and still can't keep up with demand.",
@@ -190,17 +190,38 @@
   },
   {
    "title": "Alphabet\u2019s free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
-   "score": 829,
-   "num_comments": 310,
+   "score": 855,
+   "num_comments": 314,
    "created_utc": 1793218655,
    "url": "https://www.reddit.com/r/stocks/comments/1xhza38/"
   },
   {
    "title": "SpaceX could be on the cusp of buying 80,000 cell towers in a bid to really challenge Verizon, AT&T and T-Mobile",
-   "score": 770,
-   "num_comments": 527,
+   "score": 803,
+   "num_comments": 586,
    "created_utc": 1792756045,
    "url": "https://www.reddit.com/r/stocks/comments/1xdbspr/"
+  },
+  {
+   "title": "GOOGL: Everyone Was Bullish Yesterday, Now Google Is Suddenly Dead?",
+   "score": 754,
+   "num_comments": 488,
+   "created_utc": 1793244078,
+   "url": "https://www.reddit.com/r/stocks/comments/1xi93uc/"
+  },
+  {
+   "title": "Did anyone notice Kevin Warsh used the term \u2018super intelligence\u2019 in the FOMC presser? Has the Fed clearly lost independence?",
+   "score": 747,
+   "num_comments": 145,
+   "created_utc": 1793279423,
+   "url": "https://www.reddit.com/r/stocks/comments/1xijjls/"
+  },
+  {
+   "title": "BREAKING: Cryptocurrency exchange Binance confirms it was the target of a $6.3 billion crypto heist Thursday, believed to be the largest eve",
+   "score": 670,
+   "num_comments": 102,
+   "created_utc": 1793337172,
+   "url": "https://www.reddit.com/r/stocks/comments/1xj6pk9/"
   },
   {
    "title": "I love Anthropic's products, BUT I think their S1 is a far more scarier than people let on.",
@@ -210,13 +231,6 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xg9f2s/"
   },
   {
-   "title": "SpaceX revenue jumps 161% driven by Starlink and AI",
-   "score": 620,
-   "num_comments": 957,
-   "created_utc": 1792527106,
-   "url": "https://www.reddit.com/r/stocks/comments/1xb2tt8/"
-  },
-  {
    "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
    "score": 515,
    "num_comments": 129,
@@ -224,32 +238,18 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xg2gtp/"
   },
   {
-   "title": "GOOGL: Everyone Was Bullish Yesterday, Now Google Is Suddenly Dead?",
-   "score": 484,
-   "num_comments": 277,
-   "created_utc": 1793244078,
-   "url": "https://www.reddit.com/r/stocks/comments/1xi93uc/"
-  },
-  {
-   "title": "Microsoft stock jumps 5% as cloud growth drives earnings and revenue beat",
-   "score": 462,
-   "num_comments": 106,
-   "created_utc": 1793218132,
-   "url": "https://www.reddit.com/r/stocks/comments/1xhz1lc/"
+   "title": "Isn\u2019t it weird that TSLA stock is detached for the reality for THIS long",
+   "score": 478,
+   "num_comments": 355,
+   "created_utc": 1793322993,
+   "url": "https://www.reddit.com/r/stocks/comments/1xj2391/"
   },
   {
    "title": "GOOG \u2b07\ufe0f 10%: Still the strongest AI stock despite the noise of Search! 14 P/E, $514B Cloud Backlog and $62B TPU Silicon Printing press.",
-   "score": 452,
-   "num_comments": 326,
+   "score": 478,
+   "num_comments": 332,
    "created_utc": 1793224733,
    "url": "https://www.reddit.com/r/stocks/comments/1xi1w4h/"
-  },
-  {
-   "title": "Meta tops Q3 revenue expectations, announces 2-for-1 stock split",
-   "score": 404,
-   "num_comments": 180,
-   "created_utc": 1792613288,
-   "url": "https://www.reddit.com/r/stocks/comments/1xbxxwm/"
   }
  ]
 }
