@@ -1,26 +1,25 @@
 {
-  "generated_utc": "2026-10-29T01:52:20.973163+00:00",
+  "generated_utc": "2026-10-30T02:01:34.776199+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. GDELT news tone/volume; throttled from this VM \u2014 cache-first, degrades silently on 429.",
   "source": "GDELT DOC 2.1 API (keyless, cache-first, 15s pacing)",
   "status": "ok",
   "tickers": {
     "SPY": {
       "timelinetone": {
-        "error": "Expecting value: line 1 column 1 (char 0)"
+        "error": "throttled (429)"
       },
       "timelinevol": {
-        "error": "Expecting value: line 1 column 1 (char 0)"
+        "error": "throttled (429)"
       }
     },
     "QQQ": {
       "timelinetone": {
-        "points": 148,
+        "points": 49,
         "latest": 0.0,
-        "avg_7d": -0.02,
-        "min_7d": -5.08,
-        "max_7d": 3.18,
-        "from_cache": true,
-        "stale": true
+        "avg_7d": 0.17,
+        "min_7d": -0.83,
+        "max_7d": 3.75,
+        "from_cache": false
       },
       "timelinevol": {
         "points": 101,
@@ -54,9 +53,9 @@
     },
     "AAPL": {
       "timelinetone": {
-        "points": 74,
+        "points": 49,
         "latest": 0.0,
-        "avg_7d": 0.42,
+        "avg_7d": 0.23,
         "min_7d": -8.08,
         "max_7d": 7.61,
         "from_cache": false
@@ -78,14 +77,15 @@
         "avg_7d": -0.25,
         "min_7d": -3.2,
         "max_7d": 3.96,
-        "from_cache": false
+        "from_cache": true,
+        "stale": true
       },
       "timelinevol": {
-        "points": 74,
+        "points": 49,
         "latest": 0.63,
-        "avg_7d": 0.34,
-        "min_7d": 0.03,
-        "max_7d": 0.71,
+        "avg_7d": 0.32,
+        "min_7d": 0.08,
+        "max_7d": 0.68,
         "from_cache": false
       }
     }
