@@ -1,15 +1,22 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-10-30T18:05:23.635363+00:00",
+ "generated_at": "2026-10-31T17:17:30.656414+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-06T15:22:06+00:00",
+ "window_start": "2026-10-07T16:09:49+00:00",
  "top_tickers": [
+  {
+   "ticker": "NVDA",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 6
+  },
   {
    "ticker": "AMZN",
    "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 90
+   "engagement": 94
   },
   {
    "ticker": "PLTR",
@@ -19,11 +26,32 @@
    "engagement": 119
   },
   {
+   "ticker": "LRCX",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
    "ticker": "QQQ",
    "mentions": 2,
    "bull": 0,
    "bear": 2,
    "engagement": 131
+  },
+  {
+   "ticker": "BE",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 10
+  },
+  {
+   "ticker": "CELH",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 10
   },
   {
    "ticker": "MVIS",
@@ -89,13 +117,6 @@
    "engagement": 80
   },
   {
-   "ticker": "NVDA",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
    "ticker": "NIO",
    "mentions": 1,
    "bull": 0,
@@ -147,6 +168,13 @@
    "url": "https://www.reddit.com/r/investing/comments/1xbqrmp/"
   },
   {
+   "title": "Another GOOGL buying opportunity",
+   "score": 550,
+   "num_comments": 199,
+   "created_utc": 1793321148,
+   "url": "https://www.reddit.com/r/investing/comments/1xj1fyh/"
+  },
+  {
    "title": "Three of the four biggest AI spenders now report negative free cash flow",
    "score": 535,
    "num_comments": 151,
@@ -161,11 +189,25 @@
    "url": "https://www.reddit.com/r/investing/comments/1x9r2z3/"
   },
   {
+   "title": "Brent at $117 and the SPR has nothing left to give if this gets worse",
+   "score": 363,
+   "num_comments": 126,
+   "created_utc": 1792857330,
+   "url": "https://www.reddit.com/r/investing/comments/1xec7qy/"
+  },
+  {
    "title": "To the person going all in on Alphabet (GOOG)",
    "score": 359,
    "num_comments": 155,
    "created_utc": 1791899609,
    "url": "https://www.reddit.com/r/investing/comments/1x4x9ak/"
+  },
+  {
+   "title": "OpenAI just cut it's latest funding round target by $10B and slashed the valuation to 1.25T",
+   "score": 357,
+   "num_comments": 282,
+   "created_utc": 1793410476,
+   "url": "https://www.reddit.com/r/investing/comments/1xjxjqv/"
   },
   {
    "title": "SpaceX announces 800 MHz spectrum telecom purchase on eve of 120 day IPO investors unlock",
@@ -175,13 +217,6 @@
    "url": "https://www.reddit.com/r/investing/comments/1x15r3v/"
   },
   {
-   "title": "Brent at $117 and the SPR has nothing left to give if this gets worse",
-   "score": 351,
-   "num_comments": 121,
-   "created_utc": 1792857330,
-   "url": "https://www.reddit.com/r/investing/comments/1xec7qy/"
-  },
-  {
    "title": "Coreweave buys 8% of NVIDIA chips, and NVIDIA backs Coreweave. Now Coreweave is having trouble, how about NVIDIA's revenue?",
    "score": 349,
    "num_comments": 141,
@@ -189,11 +224,11 @@
    "url": "https://www.reddit.com/r/investing/comments/1x73wod/"
   },
   {
-   "title": "Another GOOGL buying opportunity",
-   "score": 313,
-   "num_comments": 149,
-   "created_utc": 1793321148,
-   "url": "https://www.reddit.com/r/investing/comments/1xj1fyh/"
+   "title": "67% Returns according to Trump",
+   "score": 314,
+   "num_comments": 339,
+   "created_utc": 1793314789,
+   "url": "https://www.reddit.com/r/investing/comments/1xiz19z/"
   },
   {
    "title": "Anthropic will pay up to $120.5B for SpaceX's AI Compute",
@@ -201,20 +236,6 @@
    "num_comments": 63,
    "created_utc": 1793036065,
    "url": "https://www.reddit.com/r/investing/comments/1xg3ih3/"
-  },
-  {
-   "title": "Anthropic Opens Its Q3 Books To Institutional Investors Tomorrow",
-   "score": 310,
-   "num_comments": 141,
-   "created_utc": 1791914573,
-   "url": "https://www.reddit.com/r/investing/comments/1x53x31/"
-  },
-  {
-   "title": "[ Removed by moderator ]",
-   "score": 299,
-   "num_comments": 262,
-   "created_utc": 1792008397,
-   "url": "https://www.reddit.com/r/investing/comments/1x61me1/"
   }
  ]
 }

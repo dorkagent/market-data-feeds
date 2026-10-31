@@ -1,22 +1,29 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-30T18:05:41.450412+00:00",
+ "generated_at": "2026-10-31T17:17:48.214766+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-17T13:25:19+00:00",
+ "window_start": "2026-10-19T13:37:48+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
-   "mentions": 10,
-   "bull": 3,
-   "bear": 0,
-   "engagement": 467
+   "mentions": 15,
+   "bull": 5,
+   "bear": 1,
+   "engagement": 1382
   },
   {
    "ticker": "NFLX",
-   "mentions": 5,
+   "mentions": 7,
    "bull": 3,
    "bear": 0,
-   "engagement": 911
+   "engagement": 955
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 679
   },
   {
    "ticker": "BRBR",
@@ -26,39 +33,32 @@
    "engagement": 35
   },
   {
+   "ticker": "META",
+   "mentions": 3,
+   "bull": 3,
+   "bear": 0,
+   "engagement": 212
+  },
+  {
    "ticker": "UBER",
    "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 71
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 663
-  },
-  {
-   "ticker": "CRWV",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 301
+   "engagement": 73
   },
   {
    "ticker": "APP",
    "mentions": 2,
    "bull": 2,
    "bear": 0,
-   "engagement": 41
+   "engagement": 51
   },
   {
-   "ticker": "META",
+   "ticker": "CRWV",
    "mentions": 2,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 206
+   "bull": 0,
+   "bear": 1,
+   "engagement": 59
   },
   {
    "ticker": "AMD",
@@ -75,18 +75,39 @@
    "engagement": 98
   },
   {
-   "ticker": "ASTS",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 377
-  },
-  {
    "ticker": "HOOD",
    "mentions": 2,
    "bull": 0,
    "bear": 2,
    "engagement": 40
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "AAPL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 0
+  },
+  {
+   "ticker": "SMRT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "BKNG",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "MSFT",
@@ -122,27 +143,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 4
-  },
-  {
-   "ticker": "RAPP",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
-   "ticker": "CMG",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 6
-  },
-  {
-   "ticker": "ABNB",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 5
   }
  ],
  "top_posts": [
@@ -168,13 +168,6 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xhcwoa/"
   },
   {
-   "title": "If Nvidia bails out CoreWeave again, it reveals how deeply AI\u2019s fate is tied to CoreWeave",
-   "score": 441,
-   "num_comments": 165,
-   "created_utc": 1792260134,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x8gtjt/"
-  },
-  {
    "title": "The real reason data center stock are crashing",
    "score": 429,
    "num_comments": 184,
@@ -189,23 +182,30 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1x9xk49/"
   },
   {
-   "title": "Netflix now trades at a lower P/E than Coca-Cola. It reports tomorrow",
-   "score": 273,
-   "num_comments": 294,
-   "created_utc": 1792410242,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x9un1i/"
-  },
-  {
    "title": "I don't think big tech is aware of what they have created.",
-   "score": 272,
-   "num_comments": 145,
+   "score": 318,
+   "num_comments": 161,
    "created_utc": 1793271702,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xigvj2/"
   },
   {
+   "title": "If you cannot comprehend your stock or markets in general dropping 3%, 5%, 20% or whatever, you should not be in the sub",
+   "score": 283,
+   "num_comments": 152,
+   "created_utc": 1793383112,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xjmihg/"
+  },
+  {
+   "title": "Is GOOGL a buy?",
+   "score": 276,
+   "num_comments": 230,
+   "created_utc": 1792834669,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xe4dju/"
+  },
+  {
    "title": "Google didn't break, Wall Street is just over reacting on earnings",
-   "score": 242,
-   "num_comments": 173,
+   "score": 255,
+   "num_comments": 181,
    "created_utc": 1793276499,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xiignd/"
   },
@@ -224,11 +224,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xfylot/"
   },
   {
-   "title": "Is GOOGL a buy?",
-   "score": 198,
-   "num_comments": 171,
-   "created_utc": 1792834669,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xe4dju/"
+   "title": "One stock for 10 years",
+   "score": 197,
+   "num_comments": 513,
+   "created_utc": 1792804706,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xdvn6r/"
   },
   {
    "title": "Google is a Screaming Buy. Or is it?",

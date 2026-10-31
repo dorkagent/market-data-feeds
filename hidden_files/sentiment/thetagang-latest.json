@@ -1,22 +1,29 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-10-30T18:05:46.806956+00:00",
+ "generated_at": "2026-10-31T17:17:54.239616+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-29T00:59:33+00:00",
+ "window_start": "2026-08-30T20:28:08+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
-   "mentions": 10,
-   "bull": 5,
-   "bear": 10,
-   "engagement": 120
+   "mentions": 9,
+   "bull": 4,
+   "bear": 9,
+   "engagement": 113
   },
   {
    "ticker": "RDDT",
    "mentions": 7,
    "bull": 3,
    "bear": 5,
-   "engagement": 1475
+   "engagement": 1540
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 3,
+   "engagement": 108
   },
   {
    "ticker": "PLTR",
@@ -40,18 +47,18 @@
    "engagement": 78
   },
   {
-   "ticker": "QQQ",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 3,
-   "engagement": 106
-  },
-  {
    "ticker": "ORCL",
    "mentions": 3,
    "bull": 2,
    "bear": 2,
    "engagement": 31
+  },
+  {
+   "ticker": "SOXL",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 155
   },
   {
    "ticker": "NFLX",
@@ -103,13 +110,6 @@
    "engagement": 18
   },
   {
-   "ticker": "SOXL",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
    "ticker": "DRAM",
    "mentions": 1,
    "bull": 1,
@@ -117,21 +117,21 @@
    "engagement": 18
   },
   {
-   "ticker": "SNXX",
+   "ticker": "VXT",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 12
   },
   {
-   "ticker": "ROBN",
+   "ticker": "SPCH",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 12
   },
   {
-   "ticker": "AXTI",
+   "ticker": "AMZN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -152,6 +152,13 @@
    "num_comments": 192,
    "created_utc": 1791557502,
    "url": "https://www.reddit.com/r/thetagang/comments/1x1nf2p/"
+  },
+  {
+   "title": "This past week",
+   "score": 511,
+   "num_comments": 76,
+   "created_utc": 1793410018,
+   "url": "https://www.reddit.com/r/thetagang/comments/1xjxe4x/"
   },
   {
    "title": "Friendly Reminder - Options selling isn\u2019t free money",
@@ -203,11 +210,25 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1wk4d9v/"
   },
   {
+   "title": "Sold puts on RDDT & SFM\u2026!",
+   "score": 132,
+   "num_comments": 58,
+   "created_utc": 1793324271,
+   "url": "https://www.reddit.com/r/thetagang/comments/1xj2jn6/"
+  },
+  {
    "title": "I backtested all the popular wheeling strategy",
    "score": 121,
    "num_comments": 101,
    "created_utc": 1788128449,
    "url": "https://www.reddit.com/r/thetagang/comments/1w2v9e8/"
+  },
+  {
+   "title": "Soooo..whos now the proud owner of some shares",
+   "score": 118,
+   "num_comments": 55,
+   "created_utc": 1793367265,
+   "url": "https://www.reddit.com/r/thetagang/comments/1xjfj4z/"
   },
   {
    "title": "Me checking my portfolio after a red week",
@@ -224,32 +245,11 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1x3gdpk/"
   },
   {
-   "title": "Sept Realized Profits Selling Puts on Portfolio Margin",
-   "score": 103,
-   "num_comments": 101,
-   "created_utc": 1790829119,
-   "url": "https://www.reddit.com/r/thetagang/comments/1wuq66i/"
-  },
-  {
-   "title": "Sold puts on RDDT & SFM\u2026!",
-   "score": 95,
-   "num_comments": 45,
-   "created_utc": 1793324271,
-   "url": "https://www.reddit.com/r/thetagang/comments/1xj2jn6/"
-  },
-  {
    "title": "What RDDT does to you",
-   "score": 95,
-   "num_comments": 69,
+   "score": 108,
+   "num_comments": 71,
    "created_utc": 1793309528,
    "url": "https://www.reddit.com/r/thetagang/comments/1xiww3f/"
-  },
-  {
-   "title": "121 theta trades along with a few long calls to test the waters from May to August. 100% win, should I scale up?",
-   "score": 78,
-   "num_comments": 62,
-   "created_utc": 1788396633,
-   "url": "https://www.reddit.com/r/thetagang/comments/1w5so08/"
   }
  ]
 }
