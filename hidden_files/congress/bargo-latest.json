@@ -1,124 +1,152 @@
 {
-  "as_of": "2026-10-13T07:45:38",
+  "as_of": "2026-11-01T14:50:59",
   "source": "bargo.ai (House + Senate)",
-  "trades_scanned": 97,
-  "trades_last_45d": 97,
+  "trades_scanned": 87,
+  "trades_last_45d": 87,
   "tickers": {
+    "AAPL": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
+      "sell_members": []
+    },
     "ABT": {
       "buys": 1,
       "sells": 0,
       "buy_members": [
-        "Rohit Khanna"
+        "Gilbert Cisneros"
       ],
       "sell_members": []
     },
-    "ADI": {
-      "buys": 0,
-      "sells": 0,
-      "buy_members": [],
-      "sell_members": []
-    },
-    "ALGN": {
-      "buys": 0,
-      "sells": 0,
-      "buy_members": [],
-      "sell_members": []
-    },
-    "ALL": {
-      "buys": 0,
-      "sells": 0,
-      "buy_members": [],
-      "sell_members": []
-    },
-    "BLDR": {
-      "buys": 0,
-      "sells": 0,
-      "buy_members": [],
-      "sell_members": []
-    },
-    "BNS": {
+    "AMGN": {
       "buys": 1,
       "sells": 0,
       "buy_members": [
-        "Sheri Biggs"
+        "David J. Taylor"
       ],
       "sell_members": []
     },
-    "BSX": {
+    "APP": {
+      "buys": 1,
+      "sells": 0,
+      "buy_members": [
+        "Gilbert Cisneros"
+      ],
+      "sell_members": []
+    },
+    "AZO": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
       "sell_members": []
     },
-    "CASY": {
+    "BA": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
+      "sell_members": []
+    },
+    "BCPC": {
       "buys": 1,
       "sells": 0,
       "buy_members": [
-        "Rohit Khanna"
+        "Gilbert Cisneros"
       ],
+      "sell_members": []
+    },
+    "BEPH": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
+      "sell_members": []
+    },
+    "BIIB": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
+      "sell_members": []
+    },
+    "C": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
       "sell_members": []
     },
     "CB": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
+      "sell_members": []
+    },
+    "CINF": {
       "buys": 1,
       "sells": 0,
       "buy_members": [
-        "Kevin Hern"
+        "Gilbert Cisneros"
       ],
       "sell_members": []
     },
-    "CDNS": {
+    "CMG": {
+      "buys": 1,
+      "sells": 0,
+      "buy_members": [
+        "Rohit Khanna"
+      ],
+      "sell_members": []
+    },
+    "COCO": {
+      "buys": 1,
+      "sells": 0,
+      "buy_members": [
+        "Gilbert Cisneros"
+      ],
+      "sell_members": []
+    },
+    "COST": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
       "sell_members": []
     },
-    "CL": {
+    "CRM": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
       "sell_members": []
     },
-    "CR": {
-      "buys": 0,
+    "CSCO": {
+      "buys": 1,
       "sells": 0,
-      "buy_members": [],
+      "buy_members": [
+        "John Boozman"
+      ],
       "sell_members": []
     },
-    "CSX": {
+    "CTVA": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
       "sell_members": []
     },
     "CVX": {
-      "buys": 1,
-      "sells": 0,
-      "buy_members": [
-        "Maria Elvira Salazar"
-      ],
-      "sell_members": []
-    },
-    "CXT": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
       "sell_members": []
     },
-    "DAL": {
+    "DDOG": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
       "sell_members": []
     },
-    "DGX": {
-      "buys": 1,
+    "DECK": {
+      "buys": 0,
       "sells": 0,
-      "buy_members": [
-        "Rohit Khanna"
-      ],
+      "buy_members": [],
       "sell_members": []
     },
-    "DHR": {
+    "DPZ": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
@@ -130,24 +158,44 @@
       "buy_members": [],
       "sell_members": []
     },
-    "EXR": {
+    "EMR": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
       "sell_members": []
     },
-    "F": {
-      "buys": 0,
-      "sells": 0,
-      "buy_members": [],
-      "sell_members": []
-    },
-    "FERG": {
+    "EPAC": {
       "buys": 1,
       "sells": 0,
       "buy_members": [
-        "Rohit Khanna"
+        "Gilbert Cisneros"
       ],
+      "sell_members": []
+    },
+    "FDX": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
+      "sell_members": []
+    },
+    "FIS": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
+      "sell_members": []
+    },
+    "FSS": {
+      "buys": 1,
+      "sells": 0,
+      "buy_members": [
+        "Gilbert Cisneros"
+      ],
+      "sell_members": []
+    },
+    "GE": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
       "sell_members": []
     },
     "GLW": {
@@ -157,23 +205,18 @@
       "sell_members": []
     },
     "GS": {
-      "buys": 1,
+      "buys": 0,
       "sells": 0,
-      "buy_members": [
-        "Michael Rulli"
-      ],
+      "buy_members": [],
       "sell_members": []
     },
     "HD": {
-      "buys": 0,
+      "buys": 3,
       "sells": 0,
-      "buy_members": [],
-      "sell_members": []
-    },
-    "HLT": {
-      "buys": 0,
-      "sells": 0,
-      "buy_members": [],
+      "buy_members": [
+        "David J. Taylor",
+        "Lloyd Doggett"
+      ],
       "sell_members": []
     },
     "HON": {
@@ -182,68 +225,22 @@
       "buy_members": [],
       "sell_members": []
     },
-    "IBM": {
+    "HONA": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
       "sell_members": []
     },
-    "IDXX": {
+    "INTU": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
       "sell_members": []
     },
-    "IQV": {
+    "ITT": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
-      "sell_members": []
-    },
-    "ISRG": {
-      "buys": 1,
-      "sells": 0,
-      "buy_members": [
-        "Rohit Khanna"
-      ],
-      "sell_members": []
-    },
-    "ITW": {
-      "buys": 1,
-      "sells": 0,
-      "buy_members": [
-        "Rohit Khanna"
-      ],
-      "sell_members": []
-    },
-    "JNJ": {
-      "buys": 1,
-      "sells": 0,
-      "buy_members": [
-        "Rohit Khanna"
-      ],
-      "sell_members": []
-    },
-    "JPM": {
-      "buys": 0,
-      "sells": 0,
-      "buy_members": [],
-      "sell_members": []
-    },
-    "KO": {
-      "buys": 1,
-      "sells": 0,
-      "buy_members": [
-        "Kevin Hern"
-      ],
-      "sell_members": []
-    },
-    "LII": {
-      "buys": 1,
-      "sells": 0,
-      "buy_members": [
-        "Rohit Khanna"
-      ],
       "sell_members": []
     },
     "LIN": {
@@ -264,13 +261,41 @@
       "buy_members": [],
       "sell_members": []
     },
-    "LULU": {
+    "MCD": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
       "sell_members": []
     },
-    "LVS": {
+    "META": {
+      "buys": 2,
+      "sells": 0,
+      "buy_members": [
+        "Maria Elvira Salazar"
+      ],
+      "sell_members": []
+    },
+    "MOG.A": {
+      "buys": 1,
+      "sells": 0,
+      "buy_members": [
+        "Gilbert Cisneros"
+      ],
+      "sell_members": []
+    },
+    "MPC": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
+      "sell_members": []
+    },
+    "MRK": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
+      "sell_members": []
+    },
+    "MRNA": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
@@ -282,27 +307,25 @@
       "buy_members": [],
       "sell_members": []
     },
+    "MSFT": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
+      "sell_members": []
+    },
+    "MTSI": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
+      "sell_members": []
+    },
     "MU": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
       "sell_members": []
     },
-    "NEE": {
-      "buys": 0,
-      "sells": 0,
-      "buy_members": [],
-      "sell_members": []
-    },
-    "NSC": {
-      "buys": 1,
-      "sells": 0,
-      "buy_members": [
-        "Rohit Khanna"
-      ],
-      "sell_members": []
-    },
-    "NVO": {
+    "NOW": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
@@ -312,35 +335,45 @@
       "buys": 1,
       "sells": 0,
       "buy_members": [
+        "Gilbert Cisneros"
+      ],
+      "sell_members": []
+    },
+    "O": {
+      "buys": 1,
+      "sells": 0,
+      "buy_members": [
+        "John Boozman"
+      ],
+      "sell_members": []
+    },
+    "OKTA": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
+      "sell_members": []
+    },
+    "ON": {
+      "buys": 1,
+      "sells": 0,
+      "buy_members": [
         "Rohit Khanna"
       ],
       "sell_members": []
     },
-    "OKE": {
+    "PODD": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
       "sell_members": []
     },
-    "ORLY": {
+    "PTON": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
       "sell_members": []
     },
-    "PRGS": {
-      "buys": 0,
-      "sells": 0,
-      "buy_members": [],
-      "sell_members": []
-    },
-    "RA": {
-      "buys": 0,
-      "sells": 0,
-      "buy_members": [],
-      "sell_members": []
-    },
-    "REGN": {
+    "RH": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
@@ -358,61 +391,53 @@
       "buy_members": [],
       "sell_members": []
     },
-    "SHW": {
-      "buys": 0,
-      "sells": 0,
-      "buy_members": [],
-      "sell_members": []
-    },
     "SNOW": {
-      "buys": 2,
+      "buys": 0,
       "sells": 0,
-      "buy_members": [
-        "Maria Elvira Salazar"
-      ],
+      "buy_members": [],
       "sell_members": []
     },
-    "TEL": {
+    "SPCX": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
+      "sell_members": []
+    },
+    "STAG": {
       "buys": 1,
       "sells": 0,
       "buy_members": [
-        "Rohit Khanna"
+        "Gilbert Cisneros"
       ],
       "sell_members": []
     },
-    "TJX": {
-      "buys": 0,
-      "sells": 0,
-      "buy_members": [],
-      "sell_members": []
-    },
-    "TXN": {
-      "buys": 0,
-      "sells": 0,
-      "buy_members": [],
-      "sell_members": []
-    },
-    "UAL": {
-      "buys": 0,
-      "sells": 0,
-      "buy_members": [],
-      "sell_members": []
-    },
-    "UBER": {
+    "TSM": {
       "buys": 1,
       "sells": 0,
       "buy_members": [
-        "Rohit Khanna"
+        "Gilbert Cisneros"
       ],
       "sell_members": []
     },
-    "V": {
+    "TTD": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
       "sell_members": []
     },
-    "VUZI": {
+    "UNH": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
+      "sell_members": []
+    },
+    "UPST": {
+      "buys": 0,
+      "sells": 0,
+      "buy_members": [],
+      "sell_members": []
+    },
+    "URI": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
@@ -422,22 +447,22 @@
       "buys": 1,
       "sells": 0,
       "buy_members": [
-        "Rohit Khanna"
+        "Gilbert Cisneros"
       ],
       "sell_members": []
     },
-    "WFC": {
-      "buys": 1,
-      "sells": 0,
-      "buy_members": [
-        "A. Mitchell McConnell, Jr."
-      ],
-      "sell_members": []
-    },
-    "XOM": {
+    "WDC": {
       "buys": 0,
       "sells": 0,
       "buy_members": [],
+      "sell_members": []
+    },
+    "ZTS": {
+      "buys": 1,
+      "sells": 0,
+      "buy_members": [
+        "Gilbert Cisneros"
+      ],
       "sell_members": []
     }
   },
