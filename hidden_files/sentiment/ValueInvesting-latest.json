@@ -1,43 +1,36 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-10-31T17:17:48.214766+00:00",
+ "generated_at": "2026-11-01T17:59:02.342757+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-19T13:37:48+00:00",
+ "window_start": "2026-10-20T16:17:07+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
-   "mentions": 15,
-   "bull": 5,
-   "bear": 1,
-   "engagement": 1382
+   "mentions": 18,
+   "bull": 7,
+   "bear": 3,
+   "engagement": 1546
   },
   {
    "ticker": "NFLX",
-   "mentions": 7,
+   "mentions": 8,
    "bull": 3,
    "bear": 0,
-   "engagement": 955
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 4,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 679
-  },
-  {
-   "ticker": "BRBR",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 35
+   "engagement": 1243
   },
   {
    "ticker": "META",
    "mentions": 3,
    "bull": 3,
    "bear": 0,
-   "engagement": 212
+   "engagement": 213
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 224
   },
   {
    "ticker": "UBER",
@@ -72,21 +65,14 @@
    "mentions": 2,
    "bull": 2,
    "bear": 1,
-   "engagement": 98
-  },
-  {
-   "ticker": "HOOD",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 2,
-   "engagement": 40
+   "engagement": 106
   },
   {
    "ticker": "AVGO",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 3
+   "engagement": 2
   },
   {
    "ticker": "AAPL",
@@ -100,7 +86,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 4
+   "engagement": 8
   },
   {
    "ticker": "BKNG",
@@ -143,16 +129,23 @@
    "bull": 0,
    "bear": 0,
    "engagement": 4
+  },
+  {
+   "ticker": "RAPP",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 20
+  },
+  {
+   "ticker": "CMG",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 6
   }
  ],
  "top_posts": [
-  {
-   "title": "Tootsie Roll (TR) is a cash cow fortress run by an unbothered 94 year old",
-   "score": 1131,
-   "num_comments": 228,
-   "created_utc": 1792440056,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xa7d8r/"
-  },
   {
    "title": "Can we shut up about GOOG finally?",
    "score": 582,
@@ -168,18 +161,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xhcwoa/"
   },
   {
-   "title": "The real reason data center stock are crashing",
-   "score": 429,
-   "num_comments": 184,
-   "created_utc": 1792472573,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xaja6c/"
-  },
-  {
-   "title": "Amazon ($AMZN) - You don't own enough amazon",
-   "score": 348,
-   "num_comments": 107,
-   "created_utc": 1792418157,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1x9xk49/"
+   "title": "If you cannot comprehend your stock or markets in general dropping 3%, 5%, 20% or whatever, you should not be in the sub",
+   "score": 331,
+   "num_comments": 176,
+   "created_utc": 1793383112,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xjmihg/"
   },
   {
    "title": "I don't think big tech is aware of what they have created.",
@@ -187,13 +173,6 @@
    "num_comments": 161,
    "created_utc": 1793271702,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xigvj2/"
-  },
-  {
-   "title": "If you cannot comprehend your stock or markets in general dropping 3%, 5%, 20% or whatever, you should not be in the sub",
-   "score": 283,
-   "num_comments": 152,
-   "created_utc": 1793383112,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xjmihg/"
   },
   {
    "title": "Is GOOGL a buy?",
@@ -215,6 +194,13 @@
    "num_comments": 222,
    "created_utc": 1792686070,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xcn4yp/"
+  },
+  {
+   "title": "r/valueinvesting \"darling\" RDDT now down 61% YTD",
+   "score": 200,
+   "num_comments": 234,
+   "created_utc": 1793374862,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xjirm6/"
   },
   {
    "title": "Reddit is oversold",
@@ -250,6 +236,20 @@
    "num_comments": 178,
    "created_utc": 1792711571,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xcy4gq/"
+  },
+  {
+   "title": "NFLX seems like a no-brainer at these levels - what am I missing? Please provide the bear arguments!",
+   "score": 169,
+   "num_comments": 358,
+   "created_utc": 1792922162,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xeycwc/"
+  },
+  {
+   "title": "RDDT fell from 33 P/E to 22 P/E at 100$ per share after earnings",
+   "score": 150,
+   "num_comments": 239,
+   "created_utc": 1793351913,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xjak85/"
   }
  ]
 }

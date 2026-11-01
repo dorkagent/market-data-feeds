@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-10-31T17:17:59.516633+00:00",
+ "generated_at": "2026-11-01T17:59:15.011907+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-19T16:05:58+00:00",
+ "window_start": "2026-09-20T21:38:05+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -19,13 +19,6 @@
    "engagement": 245
   },
   {
-   "ticker": "AMD",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 130
-  },
-  {
    "ticker": "NBIS",
    "mentions": 3,
    "bull": 1,
@@ -38,13 +31,6 @@
    "bull": 2,
    "bear": 1,
    "engagement": 18
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 3,
-   "bull": 3,
-   "bear": 1,
-   "engagement": 4
   },
   {
    "ticker": "TSLA",
@@ -61,11 +47,25 @@
    "engagement": 57
   },
   {
+   "ticker": "AMD",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 128
+  },
+  {
    "ticker": "TLT",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
    "engagement": 23
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 2
   },
   {
    "ticker": "AMZN",
@@ -86,7 +86,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 11
+   "engagement": 15
   },
   {
    "ticker": "EDV",
@@ -245,11 +245,11 @@
    "url": "https://www.reddit.com/r/options/comments/1wu3gas/"
   },
   {
-   "title": "Do not download the new Tasty trade 2.0 Desktop major Platform Update",
+   "title": "Anyone actually do this full time as a living?",
    "score": 52,
-   "num_comments": 59,
-   "created_utc": 1791379531,
-   "url": "https://www.reddit.com/r/options/comments/1wzwh80/"
+   "num_comments": 140,
+   "created_utc": 1793404765,
+   "url": "https://www.reddit.com/r/options/comments/1xjvg7t/"
   }
  ]
 }

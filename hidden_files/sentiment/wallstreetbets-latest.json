@@ -1,29 +1,43 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-10-31T17:17:23.979699+00:00",
+ "generated_at": "2026-11-01T17:58:42.994067+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-29T23:04:36+00:00",
+ "window_start": "2026-10-30T10:30:45+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
    "mentions": 19,
-   "bull": 0,
+   "bull": 2,
    "bear": 4,
-   "engagement": 21443
+   "engagement": 13287
   },
   {
    "ticker": "INTC",
    "mentions": 9,
    "bull": 1,
    "bear": 2,
-   "engagement": 1201
+   "engagement": 2398
   },
   {
    "ticker": "AMZN",
    "mentions": 5,
    "bull": 0,
    "bear": 0,
-   "engagement": 26
+   "engagement": 186
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 4,
+   "bull": 4,
+   "bear": 1,
+   "engagement": 332
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 3,
+   "engagement": 556
   },
   {
    "ticker": "NVDA",
@@ -31,13 +45,6 @@
    "bull": 2,
    "bear": 1,
    "engagement": 14441
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 3,
-   "engagement": 463
   },
   {
    "ticker": "TSLA",
@@ -54,11 +61,74 @@
    "engagement": 1
   },
   {
-   "ticker": "NBIS",
-   "mentions": 2,
-   "bull": 2,
+   "ticker": "INO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
+   "ticker": "DRAM",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 62
+  },
+  {
+   "ticker": "HOOD",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 62
+  },
+  {
+   "ticker": "DELL",
+   "mentions": 1,
+   "bull": 0,
    "bear": 0,
-   "engagement": 8
+   "engagement": 1
+  },
+  {
+   "ticker": "CRWV",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "BUG",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 262
+  },
+  {
+   "ticker": "SNDK",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 150
+  },
+  {
+   "ticker": "GOOGL",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 78
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 161
+  },
+  {
+   "ticker": "MSOS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1152
   },
   {
    "ticker": "NDX",
@@ -73,83 +143,13 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 2
-  },
-  {
-   "ticker": "IBIT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "META",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 14
-  },
-  {
-   "ticker": "GME",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "CCJ",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 14
-  },
-  {
-   "ticker": "HTZ",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "BTC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
-  },
-  {
-   "ticker": "MSTR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 41
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 23
-  },
-  {
-   "ticker": "INFQ",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1539
   }
  ],
  "top_posts": [
   {
    "title": "\ud83e\udd14",
-   "score": 15144,
-   "num_comments": 502,
+   "score": 24634,
+   "num_comments": 712,
    "created_utc": 1793404441,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjvc0r/"
   },
@@ -162,94 +162,94 @@
   },
   {
    "title": "$10,000,000 RDDT YOLO Post-Mortem: I Was Wrong :(",
-   "score": 7693,
-   "num_comments": 1317,
+   "score": 8411,
+   "num_comments": 1401,
    "created_utc": 1793378909,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjklng/"
   },
   {
+   "title": "North korea just outperformed everyone",
+   "score": 7630,
+   "num_comments": 216,
+   "created_utc": 1793462604,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xkdzdq/"
+  },
+  {
    "title": "Inverse cramer",
-   "score": 4937,
-   "num_comments": 175,
+   "score": 4941,
+   "num_comments": 179,
    "created_utc": 1793412481,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjy812/"
   },
   {
-   "title": "Big Tech will bleed while Boomer dividend stocks inherit the AI revolution",
-   "score": 4923,
-   "num_comments": 589,
-   "created_utc": 1793315482,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xizb9s/"
-  },
-  {
-   "title": "$10M RDDT guy waking up to this Shrek",
-   "score": 4631,
-   "num_comments": 273,
-   "created_utc": 1793353494,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjazf7/"
-  },
-  {
-   "title": "RDDT leadership is one of us.",
-   "score": 4264,
-   "num_comments": 123,
-   "created_utc": 1793327148,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xj3jao/"
-  },
-  {
    "title": "Anthropic 2025 revenue: $4.6 billion 2025 net loss: -$42 billion IPO valuation: $2 trillion",
-   "score": 3471,
+   "score": 3470,
    "num_comments": 186,
    "created_utc": 1793393998,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjr8v1/"
   },
   {
+   "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+   "score": 3467,
+   "num_comments": 733,
+   "created_utc": 1793432851,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xk472t/"
+  },
+  {
    "title": "iPhone Duo is revolutionary",
-   "score": 3458,
+   "score": 3459,
    "num_comments": 50,
    "created_utc": 1793393847,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjr6ne/"
   },
   {
-   "title": "Intel stock plunges 24% after the CFO said 2027 is unlikely to produce positive free cash flow",
-   "score": 3019,
-   "num_comments": 416,
-   "created_utc": 1793350974,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjabd6/"
-  },
-  {
    "title": "Nasdaq suffers worst month in over a year as AI nerves roil markets",
-   "score": 2681,
-   "num_comments": 206,
+   "score": 2979,
+   "num_comments": 218,
    "created_utc": 1793393293,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjqyei/"
   },
   {
    "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-   "score": 2539,
-   "num_comments": 342,
+   "score": 2667,
+   "num_comments": 361,
    "created_utc": 1793371725,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjhe8k/"
   },
   {
-   "title": "How low can it really go?",
-   "score": 2417,
-   "num_comments": 643,
-   "created_utc": 1793352938,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjau2u/"
-  },
-  {
-   "title": "Crypto exchange Binance hacked of over $6 billion",
-   "score": 2351,
-   "num_comments": 272,
-   "created_utc": 1793341551,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xj7w95/"
-  },
-  {
    "title": "Only his IPO can fix it now!",
-   "score": 1723,
-   "num_comments": 54,
+   "score": 2558,
+   "num_comments": 62,
    "created_utc": 1793402455,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjul8c/"
+  },
+  {
+   "title": "Hey bulls...",
+   "score": 2107,
+   "num_comments": 330,
+   "created_utc": 1793395614,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjrx34/"
+  },
+  {
+   "title": "Happy Friday Everyone",
+   "score": 1727,
+   "num_comments": 66,
+   "created_utc": 1793365858,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjezi9/"
+  },
+  {
+   "title": "Sir, we've just discovered the limits of artificial intelligence. They're financial.",
+   "score": 1566,
+   "num_comments": 102,
+   "created_utc": 1793516222,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xkwg1y/"
+  },
+  {
+   "title": "What do I do in this situation?",
+   "score": 1429,
+   "num_comments": 1128,
+   "created_utc": 1793481177,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xkljs0/"
   }
  ]
 }

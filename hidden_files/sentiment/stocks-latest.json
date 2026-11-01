@@ -1,43 +1,29 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-10-31T17:17:36.639951+00:00",
+ "generated_at": "2026-11-01T17:58:50.260871+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-23T07:18:05+00:00",
+ "window_start": "2026-10-23T23:19:37+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
-   "mentions": 9,
+   "mentions": 11,
    "bull": 5,
    "bear": 4,
-   "engagement": 1289
+   "engagement": 1556
   },
   {
    "ticker": "AMZN",
-   "mentions": 5,
+   "mentions": 4,
    "bull": 0,
    "bear": 0,
-   "engagement": 1824
+   "engagement": 1823
   },
   {
    "ticker": "AAPL",
-   "mentions": 4,
-   "bull": 0,
-   "bear": 2,
-   "engagement": 3
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 4,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
-   "ticker": "NVDA",
    "mentions": 3,
    "bull": 0,
-   "bear": 1,
-   "engagement": 3
+   "bear": 2,
+   "engagement": 1
   },
   {
    "ticker": "INTC",
@@ -61,11 +47,25 @@
    "engagement": 1
   },
   {
+   "ticker": "AMD",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
    "ticker": "ORCL",
    "mentions": 3,
    "bull": 1,
    "bear": 0,
    "engagement": 53
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 2
   },
   {
    "ticker": "TSLA",
@@ -100,7 +100,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 29
+   "engagement": 30
   },
   {
    "ticker": "MRVL",
@@ -110,14 +110,14 @@
    "engagement": 2
   },
   {
-   "ticker": "LLY",
+   "ticker": "NVO",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 18
   },
   {
-   "ticker": "NVO",
+   "ticker": "LLY",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -154,6 +154,13 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xj04r1/"
   },
   {
+   "title": "Anthropic is eyeing a $1.5T IPO while all of Google sits at ~$3.5T. The market\u2019s math makes zero sense.",
+   "score": 2017,
+   "num_comments": 443,
+   "created_utc": 1793404335,
+   "url": "https://www.reddit.com/r/stocks/comments/1xjvaks/"
+  },
+  {
    "title": "Anthropic just filed to go public. $16.3 BILLION in revenue in six months\u2026 and an $80.7 BILLION reported loss.",
    "score": 1687,
    "num_comments": 536,
@@ -182,13 +189,6 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xfrlff/"
   },
   {
-   "title": "Anthropic is eyeing a $1.5T IPO while all of Google sits at ~$3.5T. The market\u2019s math makes zero sense.",
-   "score": 1222,
-   "num_comments": 290,
-   "created_utc": 1793404335,
-   "url": "https://www.reddit.com/r/stocks/comments/1xjvaks/"
-  },
-  {
    "title": "Alphabet\u2019s free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
    "score": 855,
    "num_comments": 314,
@@ -210,13 +210,6 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xijjls/"
   },
   {
-   "title": "SpaceX could be on the cusp of buying 80,000 cell towers in a bid to really challenge Verizon, AT&T and T-Mobile",
-   "score": 803,
-   "num_comments": 586,
-   "created_utc": 1792756045,
-   "url": "https://www.reddit.com/r/stocks/comments/1xdbspr/"
-  },
-  {
    "title": "GOOGL: Everyone Was Bullish Yesterday, Now Google Is Suddenly Dead?",
    "score": 754,
    "num_comments": 488,
@@ -225,8 +218,8 @@
   },
   {
    "title": "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
-   "score": 705,
-   "num_comments": 185,
+   "score": 724,
+   "num_comments": 186,
    "created_utc": 1793364307,
    "url": "https://www.reddit.com/r/stocks/comments/1xjedyq/"
   },
@@ -243,6 +236,13 @@
    "num_comments": 270,
    "created_utc": 1793049234,
    "url": "https://www.reddit.com/r/stocks/comments/1xg9f2s/"
+  },
+  {
+   "title": "Best F'ng buying opportunity in a while",
+   "score": 535,
+   "num_comments": 246,
+   "created_utc": 1793467008,
+   "url": "https://www.reddit.com/r/stocks/comments/1xkft7x/"
   },
   {
    "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
