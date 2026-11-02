@@ -1,9 +1,108 @@
 {
-  "generated_utc": "2026-10-26T02:00:44.509393+00:00",
+  "generated_utc": "2026-11-02T02:18:16.787325+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. Insider cluster buys corroborate the Form 4 feed; a cluster is context, never a trade signal.",
   "source": "OpenInsider latest-cluster-buys (keyless HTML scrape)",
   "status": "ok",
   "clusters": [
+    {
+      "ticker": "RAPP",
+      "company": "Rapport Therapeutics, Inc.",
+      "insiders": 7,
+      "trade_date": "2026-10-23",
+      "filing_date": "2026-10-30 19:32:45",
+      "trade_type": "P - Purchase",
+      "price": "$21.36",
+      "value": "+$22,023,905",
+      "watchlist": false
+    },
+    {
+      "ticker": "PNFP",
+      "company": "Pinnacle Financial Partners, Inc.",
+      "insiders": 3,
+      "trade_date": "2026-09-01",
+      "filing_date": "2026-10-29 16:41:11",
+      "trade_type": "P - Purchase",
+      "price": "$98.81",
+      "value": "+$1,290,941",
+      "watchlist": false
+    },
+    {
+      "ticker": "NPB",
+      "company": "Northpointe Bancshares Inc",
+      "insiders": 4,
+      "trade_date": "2026-09-01",
+      "filing_date": "2026-10-29 16:05:19",
+      "trade_type": "P - Purchase",
+      "price": "$16.23",
+      "value": "+$4,569,382",
+      "watchlist": false
+    },
+    {
+      "ticker": "TTMI",
+      "company": "Ttm Technologies Inc",
+      "insiders": 3,
+      "trade_date": "2026-10-28",
+      "filing_date": "2026-10-28 20:54:28",
+      "trade_type": "P - Purchase",
+      "price": "$99.50",
+      "value": "+$2,985,011",
+      "watchlist": false
+    },
+    {
+      "ticker": "BPRE",
+      "company": "Bluerock Private Real Estate Fund",
+      "insiders": 3,
+      "trade_date": "2026-10-26",
+      "filing_date": "2026-10-28 17:46:42",
+      "trade_type": "P - Purchase",
+      "price": "$12.66",
+      "value": "+$37,168,650",
+      "watchlist": false
+    },
+    {
+      "ticker": "ACN",
+      "company": "Accenture Plc",
+      "insiders": 2,
+      "trade_date": "2026-10-26",
+      "filing_date": "2026-10-28 06:45:40",
+      "trade_type": "P - Purchase",
+      "price": "$246.22",
+      "value": "+$3,200,889",
+      "watchlist": false
+    },
+    {
+      "ticker": "STC",
+      "company": "Stewart Information Services Corp",
+      "insiders": 5,
+      "trade_date": "2026-10-23",
+      "filing_date": "2026-10-27 16:35:46",
+      "trade_type": "P - Purchase",
+      "price": "$46.10",
+      "value": "+$460,970",
+      "watchlist": false
+    },
+    {
+      "ticker": "CTEV",
+      "company": "Claritev Corp",
+      "insiders": 2,
+      "trade_date": "2026-08-27",
+      "filing_date": "2026-10-27 16:31:19",
+      "trade_type": "P - Purchase",
+      "price": "$24.34",
+      "value": "+$3,605,876",
+      "watchlist": false
+    },
+    {
+      "ticker": "THRM",
+      "company": "Gentherm Inc",
+      "insiders": 2,
+      "trade_date": "2026-10-23",
+      "filing_date": "2026-10-26 17:43:38",
+      "trade_type": "P - Purchase",
+      "price": "$26.50",
+      "value": "+$662,600",
+      "watchlist": false
+    },
     {
       "ticker": "NXG",
       "company": "Nxg Nextgen Infrastructure Income Fund",
@@ -13,17 +112,6 @@
       "trade_type": "P - Purchase",
       "price": "$44.17",
       "value": "+$525,575",
-      "watchlist": false
-    },
-    {
-      "ticker": "RAPP",
-      "company": "Rapport Therapeutics, Inc.",
-      "insiders": 6,
-      "trade_date": "2026-10-23",
-      "filing_date": "2026-10-23 16:01:03",
-      "trade_type": "P - Purchase",
-      "price": "$26.99",
-      "value": "+$1,664,825",
       "watchlist": false
     },
     {
@@ -46,17 +134,6 @@
       "trade_type": "P - Purchase",
       "price": "$8.70",
       "value": "+$399,970",
-      "watchlist": false
-    },
-    {
-      "ticker": "BPRE",
-      "company": "Bluerock Private Real Estate Fund",
-      "insiders": 3,
-      "trade_date": "2026-10-19",
-      "filing_date": "2026-10-21 18:21:07",
-      "trade_type": "P - Purchase",
-      "price": "$12.69",
-      "value": "+$32,812,834",
       "watchlist": false
     },
     {
@@ -566,17 +643,6 @@
       "watchlist": false
     },
     {
-      "ticker": "PNFP",
-      "company": "Pinnacle Financial Partners, Inc.",
-      "insiders": 2,
-      "trade_date": "2026-09-01",
-      "filing_date": "2026-09-11 16:09:22",
-      "trade_type": "P - Purchase",
-      "price": "$97.66",
-      "value": "+$299,341",
-      "watchlist": false
-    },
-    {
       "ticker": "KMT",
       "company": "Kennametal Inc",
       "insiders": 2,
@@ -852,17 +918,6 @@
       "watchlist": false
     },
     {
-      "ticker": "TTMI",
-      "company": "Ttm Technologies Inc",
-      "insiders": 2,
-      "trade_date": "2026-08-25",
-      "filing_date": "2026-08-25 20:42:01",
-      "trade_type": "P - Purchase",
-      "price": "$109.48",
-      "value": "+$1,642,200",
-      "watchlist": false
-    },
-    {
       "ticker": "BCML",
       "company": "Baycom Corp",
       "insiders": 3,
@@ -946,8 +1001,8 @@
       "trade_date": "2026-08-18",
       "filing_date": "2026-08-20 07:41:41",
       "trade_type": "P - Purchase",
-      "price": "$73.52",
-      "value": "+$320,903",
+      "price": "$73.76",
+      "value": "+$247,083",
       "watchlist": false
     },
     {
@@ -1047,61 +1102,6 @@
       "trade_type": "P - Purchase",
       "price": "$14.14",
       "value": "+$8,250,009",
-      "watchlist": false
-    },
-    {
-      "ticker": "XRN",
-      "company": "Chiron Real Estate Inc.",
-      "insiders": 4,
-      "trade_date": "2026-08-14",
-      "filing_date": "2026-08-17 17:24:55",
-      "trade_type": "P - Purchase",
-      "price": "$36.06",
-      "value": "+$2,559,504",
-      "watchlist": false
-    },
-    {
-      "ticker": "CHCT",
-      "company": "Community Healthcare Trust Inc",
-      "insiders": 2,
-      "trade_date": "2026-08-14",
-      "filing_date": "2026-08-17 16:15:12",
-      "trade_type": "P - Purchase",
-      "price": "$15.17",
-      "value": "+$272,980",
-      "watchlist": false
-    },
-    {
-      "ticker": "CE",
-      "company": "Celanese Corp",
-      "insiders": 3,
-      "trade_date": "2026-08-14",
-      "filing_date": "2026-08-17 16:10:57",
-      "trade_type": "P - Purchase",
-      "price": "$45.53",
-      "value": "+$230,062",
-      "watchlist": false
-    },
-    {
-      "ticker": "APTV",
-      "company": "Aptiv Plc",
-      "insiders": 4,
-      "trade_date": "2026-08-13",
-      "filing_date": "2026-08-17 16:02:23",
-      "trade_type": "P - Purchase",
-      "price": "$48.01",
-      "value": "+$8,254,508",
-      "watchlist": false
-    },
-    {
-      "ticker": "MLAB",
-      "company": "Mesa Laboratories Inc /Co/",
-      "insiders": 2,
-      "trade_date": "2026-08-13",
-      "filing_date": "2026-08-17 11:49:47",
-      "trade_type": "P - Purchase",
-      "price": "$112.90",
-      "value": "+$902,411",
       "watchlist": false
     }
   ]
