@@ -1,61 +1,61 @@
 {
-  "fetched_at_utc": "2026-10-30T18:07:25+00:00",
+  "fetched_at_utc": "2026-11-02T21:50:39+00:00",
   "status": "ok",
   "note": "Context layer - informs, never triggers trades alone. Futures trade nearly 24/5; quotes are the overnight read into the 06:00 PT premarket scan.",
   "symbols": {
     "ES=F": {
       "name": "S&P 500 e-mini",
-      "price": 7593.25,
-      "change_pct": -2.08,
-      "quote_time_utc": "2026-10-30T17:56:25+00:00"
+      "price": 7589.75,
+      "change_pct": -0.32,
+      "quote_time_utc": "2026-11-02T21:40:38+00:00"
     },
     "NQ=F": {
       "name": "Nasdaq-100 e-mini",
-      "price": 28393.25,
-      "change_pct": -3.95,
-      "quote_time_utc": "2026-10-30T17:56:05+00:00"
+      "price": 28226.25,
+      "change_pct": -1.08,
+      "quote_time_utc": "2026-11-02T21:40:38+00:00"
     },
     "YM=F": {
       "name": "Dow e-mini",
-      "price": 51917.0,
-      "change_pct": -1.13,
-      "quote_time_utc": "2026-10-30T17:56:22+00:00"
+      "price": 52176.0,
+      "change_pct": 0.5,
+      "quote_time_utc": "2026-11-02T21:40:23+00:00"
     },
     "RTY=F": {
       "name": "Russell 2000 e-mini",
-      "price": 2807.7,
-      "change_pct": -2.08,
-      "quote_time_utc": "2026-10-30T17:56:16+00:00"
+      "price": 2820.3,
+      "change_pct": -0.04,
+      "quote_time_utc": "2026-11-02T21:40:38+00:00"
     },
     "^VIX": {
       "name": "VIX spot",
-      "price": 21.6,
-      "change_pct": 25.58,
-      "quote_time_utc": "2026-10-30T17:51:16+00:00"
+      "price": 21.15,
+      "change_pct": 8.91,
+      "quote_time_utc": "2026-11-02T21:15:01+00:00"
     },
     "^VIX3M": {
       "name": "VIX 3-month",
-      "price": 21.85,
-      "change_pct": 12.8,
-      "quote_time_utc": "2026-10-30T17:51:16+00:00"
+      "price": 21.6,
+      "change_pct": 3.95,
+      "quote_time_utc": "2026-11-02T21:15:01+00:00"
     },
     "GC=F": {
       "name": "gold",
-      "price": 3893.1,
-      "change_pct": -3.43,
-      "quote_time_utc": "2026-10-30T17:56:19+00:00"
+      "price": 3955.1,
+      "change_pct": 1.44,
+      "quote_time_utc": "2026-11-02T21:40:32+00:00"
     },
     "CL=F": {
       "name": "WTI crude",
-      "price": 104.83,
-      "change_pct": 2.77,
-      "quote_time_utc": "2026-10-30T17:21:33+00:00"
+      "price": 96.41,
+      "change_pct": -7.4,
+      "quote_time_utc": "2026-11-02T21:40:31+00:00"
     }
   },
   "vix_term_structure": {
-    "spot": 21.6,
-    "three_month": 21.85,
-    "spread": 0.25,
+    "spot": 21.15,
+    "three_month": 21.6,
+    "spread": 0.45,
     "regime": "contango (normal)",
     "leg_note": "^VIX3M used - Yahoo has no VX=F front-month symbol"
   },
@@ -65,38 +65,38 @@
     "markets": {
       "sp500": {
         "market": "E-MINI S&P 500 - CHICAGO MERCANTILE EXCHANGE",
-        "report_date": "2026-10-20",
-        "spec_net": -142671,
-        "spec_net_prev_week": -140995,
-        "open_interest": 1935470
+        "report_date": "2026-10-27",
+        "spec_net": -134368,
+        "spec_net_prev_week": -142671,
+        "open_interest": 1955711
       },
       "nasdaq100": {
         "market": "NASDAQ-100 Consolidated - CHICAGO MERCANTILE EXCHANGE",
-        "report_date": "2026-10-20",
-        "spec_net": 46885,
-        "spec_net_prev_week": 42334,
-        "open_interest": 285882
+        "report_date": "2026-10-27",
+        "spec_net": 46552,
+        "spec_net_prev_week": 46885,
+        "open_interest": 281669
       },
       "vix": {
         "market": "VIX FUTURES - CBOE FUTURES EXCHANGE",
-        "report_date": "2026-10-20",
-        "spec_net": -96509,
-        "spec_net_prev_week": -96455,
-        "open_interest": 433778
+        "report_date": "2026-10-27",
+        "spec_net": -77466,
+        "spec_net_prev_week": -96509,
+        "open_interest": 378372
       },
       "gold": {
         "market": "GOLD - COMMODITY EXCHANGE INC.",
-        "report_date": "2026-10-20",
-        "spec_net": 199865,
-        "spec_net_prev_week": 207879,
-        "open_interest": 402279
+        "report_date": "2026-10-27",
+        "spec_net": 186451,
+        "spec_net_prev_week": 199865,
+        "open_interest": 396810
       },
       "crude": {
         "market": "WTI FINANCIAL CRUDE OIL - NEW YORK MERCANTILE EXCHANGE",
-        "report_date": "2026-10-20",
-        "spec_net": 45252,
-        "spec_net_prev_week": 43110,
-        "open_interest": 210374
+        "report_date": "2026-10-27",
+        "spec_net": 49095,
+        "spec_net_prev_week": 45252,
+        "open_interest": 214869
       }
     }
   }
