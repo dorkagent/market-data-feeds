@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-26T16:25:23.276449+00:00",
+  "generated_utc": "2026-11-02T16:32:59.425630+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. Weekly 8-K/10-K/10-Q keyword radar; a hit is a flag for the news pass, not a trade signal.",
   "source": "SEC EDGAR full-text search (efts.sec.gov, keyless)",
   "status": "ok",
   "window": {
-    "startdt": "2026-10-19",
-    "enddt": "2026-10-26",
+    "startdt": "2026-10-26",
+    "enddt": "2026-11-02",
     "forms": "8-K,10-K,10-Q"
   },
   "keywords": {
@@ -20,48 +20,48 @@
       "other_sample": []
     },
     "going concern": {
-      "total_hits": 141,
+      "total_hits": 177,
       "watchlist_hits": [],
       "other_sample": [
         {
           "ticker": null,
-          "company": "Tech Tonic Group Corp.  (THTG)  (CIK 0002029303)",
-          "form": "10-Q",
-          "file_date": "2026-10-21",
+          "company": "Datavault AI Inc.  (DVLT)  (CIK 0001682149)",
+          "form": "8-K",
+          "file_date": "2026-10-26",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "HOOPS SCOUTING USA  (HSCT)  (CIK 0001721056)",
+          "company": "Naploy Corp.  (NPLY)  (CIK 0001978111)",
           "form": "10-K",
-          "file_date": "2026-10-23",
+          "file_date": "2026-10-30",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "BTCS Labs Inc.  (CIK 0002089189)",
-          "form": "10-Q",
-          "file_date": "2026-10-23",
+          "company": "Cycurion, Inc.  (CYCU, CYCUW)  (CIK 0001868419)",
+          "form": "8-K/A",
+          "file_date": "2026-10-28",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "Synera Studio Inc  (CIK 0002076167)",
-          "form": "10-Q",
-          "file_date": "2026-10-23",
+          "company": "DBV Technologies S.A.  (DBVT, DBVTF)  (CIK 0001613780)",
+          "form": "8-K",
+          "file_date": "2026-10-28",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "LOGOOM TECHNOLOGIES, INC.  (CIK 0002124913)",
+          "company": "TechCom, Inc.  (TCRI)  (CIK 0001481443)",
           "form": "10-Q",
-          "file_date": "2026-10-22",
+          "file_date": "2026-10-27",
           "watchlist": false
         }
       ]
     },
     "restatement": {
-      "total_hits": 112,
+      "total_hits": 223,
       "watchlist_hits": [],
       "other_sample": [
         {
@@ -73,45 +73,38 @@
         },
         {
           "ticker": null,
-          "company": "DYNAMIC AEROSPACE SYSTEMS Corp  (BRQL)  (CIK 0001854526)",
+          "company": "HOST HOTELS & RESORTS, INC.  (HST)  (CIK 0001070750)",
           "form": "8-K",
-          "file_date": "2026-10-23",
+          "file_date": "2026-10-26",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "COMCAST CORP  (CCZ, CMCSA)  (CIK 0001166691)",
+          "company": "RESOURCES CONNECTION, INC.  (RGP)  (CIK 0001084765)",
+          "form": "8-K",
+          "file_date": "2026-10-27",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "PINTEREST, INC.  (PINS)  (CIK 0001506293)",
           "form": "10-Q",
-          "file_date": "2026-10-22",
+          "file_date": "2026-10-29",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "Sports Entertainment Gaming Global Corp  (SEGG, LTRYW)  (CIK 0001673481)",
+          "company": "Barings Capital Investment Corp  (CIK 0001811972)",
           "form": "8-K",
-          "file_date": "2026-10-20",
-          "watchlist": false
-        },
-        {
-          "ticker": null,
-          "company": "Expion Energy, Inc.  (XPON)  (CIK 0001894954)",
-          "form": "8-K",
-          "file_date": "2026-10-23",
+          "file_date": "2026-10-27",
           "watchlist": false
         }
       ]
     },
     "Chapter 11": {
-      "total_hits": 18,
+      "total_hits": 50,
       "watchlist_hits": [],
       "other_sample": [
-        {
-          "ticker": null,
-          "company": "Leslie's, Inc.  (LESL, LESLQ)  (CIK 0001821806)",
-          "form": "8-K",
-          "file_date": "2026-10-22",
-          "watchlist": false
-        },
         {
           "ticker": null,
           "company": "Getty Images Holdings, Inc.  (GETY, GETYQ)  (CIK 0001898496)",
@@ -121,23 +114,30 @@
         },
         {
           "ticker": null,
-          "company": "Getty Images Holdings, Inc.  (GETY)  (CIK 0001898496)",
+          "company": "QVC Group, Inc.  (QVCG)  (CIK 0001254699)",
           "form": "8-K",
-          "file_date": "2026-10-21",
+          "file_date": "2026-10-30",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "Getty Images Holdings, Inc.  (GETY)  (CIK 0001898496)",
-          "form": "8-K",
-          "file_date": "2026-10-21",
+          "company": "MINERALS TECHNOLOGIES INC  (MTX)  (CIK 0000891014)",
+          "form": "10-Q",
+          "file_date": "2026-10-30",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "Getty Images Holdings, Inc.  (GETY)  (CIK 0001898496)",
+          "company": "Bloomin' Brands, Inc.  (BLMN)  (CIK 0001546417)",
           "form": "8-K",
-          "file_date": "2026-10-21",
+          "file_date": "2026-11-02",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "MINERALS TECHNOLOGIES INC  (MTX)  (CIK 0000891014)",
+          "form": "10-Q",
+          "file_date": "2026-10-30",
           "watchlist": false
         }
       ]
