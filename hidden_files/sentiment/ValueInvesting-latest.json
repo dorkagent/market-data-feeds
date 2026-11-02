@@ -1,22 +1,29 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-01T17:59:02.342757+00:00",
+ "generated_at": "2026-11-02T21:48:41.287375+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-20T16:17:07+00:00",
+ "window_start": "2026-10-22T01:47:30+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
    "mentions": 18,
    "bull": 7,
    "bear": 3,
-   "engagement": 1546
+   "engagement": 1590
   },
   {
    "ticker": "NFLX",
    "mentions": 8,
    "bull": 3,
    "bear": 0,
-   "engagement": 1243
+   "engagement": 1342
+  },
+  {
+   "ticker": "APP",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 62
   },
   {
    "ticker": "META",
@@ -40,18 +47,18 @@
    "engagement": 73
   },
   {
-   "ticker": "APP",
+   "ticker": "SOFI",
    "mentions": 2,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 51
+   "bull": 1,
+   "bear": 1,
+   "engagement": 80
   },
   {
-   "ticker": "CRWV",
+   "ticker": "GOOGL",
    "mentions": 2,
    "bull": 0,
-   "bear": 1,
-   "engagement": 59
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "AMD",
@@ -61,11 +68,60 @@
    "engagement": 142
   },
   {
-   "ticker": "SOFI",
-   "mentions": 2,
-   "bull": 2,
+   "ticker": "BFAM",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "SMCI",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "COST",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 41
+  },
+  {
+   "ticker": "MRVL",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 35
+  },
+  {
+   "ticker": "LITE",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 35
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 1,
+   "bull": 0,
    "bear": 1,
-   "engagement": 106
+   "engagement": 58
+  },
+  {
+   "ticker": "GOO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "GOOG",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "AVGO",
@@ -87,62 +143,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 8
-  },
-  {
-   "ticker": "BKNG",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "GOOGL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
-  },
-  {
-   "ticker": "NTFX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "ORCL",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 85
-  },
-  {
-   "ticker": "PURR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
-   "ticker": "RAPP",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 20
-  },
-  {
-   "ticker": "CMG",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 6
   }
  ],
  "top_posts": [
@@ -196,18 +196,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xcn4yp/"
   },
   {
+   "title": "Reddit is oversold",
+   "score": 208,
+   "num_comments": 191,
+   "created_utc": 1793025422,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xfylot/"
+  },
+  {
    "title": "r/valueinvesting \"darling\" RDDT now down 61% YTD",
    "score": 200,
    "num_comments": 234,
    "created_utc": 1793374862,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xjirm6/"
-  },
-  {
-   "title": "Reddit is oversold",
-   "score": 200,
-   "num_comments": 171,
-   "created_utc": 1793025422,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xfylot/"
   },
   {
    "title": "One stock for 10 years",
@@ -224,13 +224,6 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xi8h85/"
   },
   {
-   "title": "SK Hynix seems criminally undervalued at 3x forward PE",
-   "score": 188,
-   "num_comments": 145,
-   "created_utc": 1792513027,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xawi4x/"
-  },
-  {
    "title": "How can Alphabet not tank after earnings?",
    "score": 185,
    "num_comments": 178,
@@ -243,6 +236,13 @@
    "num_comments": 358,
    "created_utc": 1792922162,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xeycwc/"
+  },
+  {
+   "title": "NFLX bag holders",
+   "score": 156,
+   "num_comments": 301,
+   "created_utc": 1793043077,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xg6p97/"
   },
   {
    "title": "RDDT fell from 33 P/E to 22 P/E at 100$ per share after earnings",

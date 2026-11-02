@@ -1,29 +1,36 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-01T17:58:50.260871+00:00",
+ "generated_at": "2026-11-02T21:48:26.952959+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-23T23:19:37+00:00",
+ "window_start": "2026-10-25T17:24:42+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
    "mentions": 11,
    "bull": 5,
    "bear": 4,
-   "engagement": 1556
+   "engagement": 1567
+  },
+  {
+   "ticker": "AAPL",
+   "mentions": 5,
+   "bull": 1,
+   "bear": 3,
+   "engagement": 56
   },
   {
    "ticker": "AMZN",
    "mentions": 4,
    "bull": 0,
    "bear": 0,
-   "engagement": 1823
+   "engagement": 4
   },
   {
-   "ticker": "AAPL",
+   "ticker": "MSFT",
    "mentions": 3,
-   "bull": 0,
-   "bear": 2,
-   "engagement": 1
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1434
   },
   {
    "ticker": "INTC",
@@ -31,13 +38,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 5
-  },
-  {
-   "ticker": "SOFI",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 61
   },
   {
    "ticker": "HOOD",
@@ -58,7 +58,7 @@
    "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 53
+   "engagement": 60
   },
   {
    "ticker": "NVDA",
@@ -75,18 +75,18 @@
    "engagement": 1336
   },
   {
-   "ticker": "MSFT",
+   "ticker": "SOFI",
    "mentions": 2,
    "bull": 1,
-   "bear": 1,
-   "engagement": 1433
+   "bear": 0,
+   "engagement": 60
   },
   {
-   "ticker": "GME",
-   "mentions": 2,
+   "ticker": "ARI",
+   "mentions": 1,
    "bull": 1,
-   "bear": 2,
-   "engagement": 3
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "UBER",
@@ -162,28 +162,21 @@
   },
   {
    "title": "Anthropic just filed to go public. $16.3 BILLION in revenue in six months\u2026 and an $80.7 BILLION reported loss.",
-   "score": 1687,
-   "num_comments": 536,
+   "score": 1967,
+   "num_comments": 650,
    "created_utc": 1793021381,
    "url": "https://www.reddit.com/r/stocks/comments/1xfwuks/"
   },
   {
-   "title": "Amazon is spending $220 BILLION on AI\u2026 and still can't keep up with demand.",
-   "score": 1296,
-   "num_comments": 525,
-   "created_utc": 1792861014,
-   "url": "https://www.reddit.com/r/stocks/comments/1xedqxi/"
-  },
-  {
    "title": "SpaceX just secured $40 BILLION to buy AI chips......$40 billion just for chips.",
-   "score": 1256,
-   "num_comments": 468,
+   "score": 1391,
+   "num_comments": 505,
    "created_utc": 1792960006,
    "url": "https://www.reddit.com/r/stocks/comments/1xfcv5d/"
   },
   {
    "title": "Robert Reich Says Elon Musk\u2019s SpaceX and Starlink Should Become Publicly Owned, Musk Fires Back: \"Stealing Companies Is a Serious Crime\"",
-   "score": 1240,
+   "score": 1239,
    "num_comments": 519,
    "created_utc": 1793005174,
    "url": "https://www.reddit.com/r/stocks/comments/1xfrlff/"
@@ -210,11 +203,25 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xijjls/"
   },
   {
+   "title": "I love Anthropic's products, BUT I think their S1 is a far more scarier than people let on.",
+   "score": 768,
+   "num_comments": 290,
+   "created_utc": 1793049234,
+   "url": "https://www.reddit.com/r/stocks/comments/1xg9f2s/"
+  },
+  {
    "title": "GOOGL: Everyone Was Bullish Yesterday, Now Google Is Suddenly Dead?",
    "score": 754,
    "num_comments": 488,
    "created_utc": 1793244078,
    "url": "https://www.reddit.com/r/stocks/comments/1xi93uc/"
+  },
+  {
+   "title": "Best F'ng buying opportunity in a while",
+   "score": 732,
+   "num_comments": 302,
+   "created_utc": 1793467008,
+   "url": "https://www.reddit.com/r/stocks/comments/1xkft7x/"
   },
   {
    "title": "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
@@ -231,25 +238,18 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xj6pk9/"
   },
   {
-   "title": "I love Anthropic's products, BUT I think their S1 is a far more scarier than people let on.",
-   "score": 670,
-   "num_comments": 270,
-   "created_utc": 1793049234,
-   "url": "https://www.reddit.com/r/stocks/comments/1xg9f2s/"
+   "title": "OpenAI CEO Sam Altman Thinks It's 'Terrible' for You to Have RAM in Your PC",
+   "score": 610,
+   "num_comments": 277,
+   "created_utc": 1793452063,
+   "url": "https://www.reddit.com/r/stocks/comments/1xk9rn1/"
   },
   {
-   "title": "Best F'ng buying opportunity in a while",
-   "score": 535,
-   "num_comments": 246,
-   "created_utc": 1793467008,
-   "url": "https://www.reddit.com/r/stocks/comments/1xkft7x/"
-  },
-  {
-   "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-   "score": 515,
-   "num_comments": 129,
-   "created_utc": 1793033803,
-   "url": "https://www.reddit.com/r/stocks/comments/1xg2gtp/"
+   "title": "Anthropic Reports 1,127% Revenue Surge, $895 Billion in Commitments",
+   "score": 543,
+   "num_comments": 383,
+   "created_utc": 1793630159,
+   "url": "https://www.reddit.com/r/stocks/comments/1xlyuja/"
   }
  ]
 }

@@ -1,15 +1,15 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-11-01T17:59:09.279398+00:00",
+ "generated_at": "2026-11-02T21:48:47.595946+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-08-30T22:23:56+00:00",
+ "window_start": "2026-08-31T13:57:00+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
    "mentions": 10,
    "bull": 4,
    "bear": 10,
-   "engagement": 123
+   "engagement": 134
   },
   {
    "ticker": "RDDT",
@@ -117,7 +117,14 @@
    "engagement": 18
   },
   {
-   "ticker": "SPCH",
+   "ticker": "ROBN",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "AXTI",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -132,13 +139,6 @@
   },
   {
    "ticker": "VXT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
-   "ticker": "AXTI",
    "mentions": 1,
    "bull": 1,
    "bear": 1,

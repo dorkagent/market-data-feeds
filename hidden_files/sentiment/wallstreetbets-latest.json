@@ -1,63 +1,126 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-11-01T17:58:42.994067+00:00",
+ "generated_at": "2026-11-02T21:48:13.450585+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-30T10:30:45+00:00",
+ "window_start": "2026-10-30T19:19:58+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
-   "mentions": 19,
-   "bull": 2,
+   "mentions": 14,
+   "bull": 6,
    "bear": 4,
-   "engagement": 13287
+   "engagement": 1979
   },
   {
    "ticker": "INTC",
-   "mentions": 9,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 2398
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 5,
+   "mentions": 7,
    "bull": 0,
    "bear": 0,
-   "engagement": 186
+   "engagement": 2466
+  },
+  {
+   "ticker": "MRVL",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 13
+  },
+  {
+   "ticker": "SMCI",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
   },
   {
    "ticker": "NBIS",
-   "mentions": 4,
-   "bull": 4,
+   "mentions": 3,
+   "bull": 3,
    "bear": 1,
-   "engagement": 332
+   "engagement": 586
+  },
+  {
+   "ticker": "SPX",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "AMD",
-   "mentions": 4,
-   "bull": 2,
-   "bear": 3,
-   "engagement": 556
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 4,
+   "mentions": 2,
    "bull": 2,
    "bear": 1,
-   "engagement": 14441
+   "engagement": 2
   },
   {
-   "ticker": "TSLA",
+   "ticker": "AMZN",
    "mentions": 2,
    "bull": 0,
+   "bear": 0,
+   "engagement": 212
+  },
+  {
+   "ticker": "GDX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 1,
+   "bull": 0,
    "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "VIX",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "LITE",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 12
+  },
+  {
+   "ticker": "CHGG",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "GOOG",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
    "engagement": 5
   },
   {
-   "ticker": "AAPL",
-   "mentions": 2,
+   "ticker": "COIN",
+   "mentions": 1,
    "bull": 0,
-   "bear": 2,
+   "bear": 0,
+   "engagement": 13
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
    "engagement": 1
   },
   {
@@ -65,84 +128,21 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 2
+   "engagement": 1
   },
   {
    "ticker": "DRAM",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 62
+   "engagement": 143
   },
   {
    "ticker": "HOOD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 62
-  },
-  {
-   "ticker": "DELL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "CRWV",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "BUG",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 262
-  },
-  {
-   "ticker": "SNDK",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 150
-  },
-  {
-   "ticker": "GOOGL",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 78
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 161
-  },
-  {
-   "ticker": "MSOS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1152
-  },
-  {
-   "ticker": "NDX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SPX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
+   "engagement": 143
   }
  ],
  "top_posts": [
@@ -161,39 +161,53 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjx858/"
   },
   {
-   "title": "$10,000,000 RDDT YOLO Post-Mortem: I Was Wrong :(",
-   "score": 8411,
-   "num_comments": 1401,
-   "created_utc": 1793378909,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjklng/"
+   "title": "FINALLY, I WAS RIGHT",
+   "score": 10559,
+   "num_comments": 579,
+   "created_utc": 1793571753,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xlg9s5/"
   },
   {
    "title": "North korea just outperformed everyone",
-   "score": 7630,
-   "num_comments": 216,
+   "score": 8869,
+   "num_comments": 266,
    "created_utc": 1793462604,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xkdzdq/"
   },
   {
+   "title": "POV bears on Monday",
+   "score": 8169,
+   "num_comments": 310,
+   "created_utc": 1793564459,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xldc50/"
+  },
+  {
+   "title": "Anthropic is asking candidates what they\u2019d do if stock fell to zero",
+   "score": 5888,
+   "num_comments": 630,
+   "created_utc": 1793562956,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xlcpce/"
+  },
+  {
    "title": "Inverse cramer",
-   "score": 4941,
+   "score": 4940,
    "num_comments": 179,
    "created_utc": 1793412481,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjy812/"
   },
   {
+   "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+   "score": 3676,
+   "num_comments": 755,
+   "created_utc": 1793432851,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xk472t/"
+  },
+  {
    "title": "Anthropic 2025 revenue: $4.6 billion 2025 net loss: -$42 billion IPO valuation: $2 trillion",
-   "score": 3470,
+   "score": 3468,
    "num_comments": 186,
    "created_utc": 1793393998,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjr8v1/"
-  },
-  {
-   "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
-   "score": 3467,
-   "num_comments": 733,
-   "created_utc": 1793432851,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xk472t/"
   },
   {
    "title": "iPhone Duo is revolutionary",
@@ -203,6 +217,20 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjr6ne/"
   },
   {
+   "title": "We'll see what happens.",
+   "score": 3155,
+   "num_comments": 387,
+   "created_utc": 1793571788,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xlga86/"
+  },
+  {
+   "title": "Are we ready for Monday?",
+   "score": 3025,
+   "num_comments": 146,
+   "created_utc": 1793563598,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xlcz7m/"
+  },
+  {
    "title": "Nasdaq suffers worst month in over a year as AI nerves roil markets",
    "score": 2979,
    "num_comments": 218,
@@ -210,46 +238,18 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjqyei/"
   },
   {
-   "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-   "score": 2667,
-   "num_comments": 361,
-   "created_utc": 1793371725,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjhe8k/"
+   "title": "Halloween Costume in China",
+   "score": 2976,
+   "num_comments": 73,
+   "created_utc": 1793543265,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xl4f2k/"
   },
   {
    "title": "Only his IPO can fix it now!",
-   "score": 2558,
+   "score": 2557,
    "num_comments": 62,
    "created_utc": 1793402455,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjul8c/"
-  },
-  {
-   "title": "Hey bulls...",
-   "score": 2107,
-   "num_comments": 330,
-   "created_utc": 1793395614,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjrx34/"
-  },
-  {
-   "title": "Happy Friday Everyone",
-   "score": 1727,
-   "num_comments": 66,
-   "created_utc": 1793365858,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjezi9/"
-  },
-  {
-   "title": "Sir, we've just discovered the limits of artificial intelligence. They're financial.",
-   "score": 1566,
-   "num_comments": 102,
-   "created_utc": 1793516222,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xkwg1y/"
-  },
-  {
-   "title": "What do I do in this situation?",
-   "score": 1429,
-   "num_comments": 1128,
-   "created_utc": 1793481177,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xkljs0/"
   }
  ]
 }

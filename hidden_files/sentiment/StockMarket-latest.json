@@ -1,15 +1,15 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-01T17:58:56.349722+00:00",
+ "generated_at": "2026-11-02T21:48:34.150997+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-01T12:02:59+00:00",
+ "window_start": "2026-10-04T15:48:38+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
    "mentions": 5,
    "bull": 3,
    "bear": 2,
-   "engagement": 170
+   "engagement": 335
   },
   {
    "ticker": "NVDA",
@@ -17,6 +17,13 @@
    "bull": 1,
    "bear": 2,
    "engagement": 5
+  },
+  {
+   "ticker": "AAPL",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 26
   },
   {
    "ticker": "SOFI",
@@ -37,7 +44,7 @@
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 25
+   "engagement": 91
   },
   {
    "ticker": "AMZN",
@@ -45,13 +52,6 @@
    "bull": 0,
    "bear": 1,
    "engagement": 10
-  },
-  {
-   "ticker": "AAPL",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 25
   },
   {
    "ticker": "MSFT",
@@ -124,13 +124,6 @@
    "engagement": 1
   },
   {
-   "ticker": "UBER",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
    "ticker": "NFLX",
    "mentions": 1,
    "bull": 0,
@@ -138,7 +131,14 @@
    "engagement": 2
   },
   {
-   "ticker": "NOK",
+   "ticker": "UBER",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "SNPS",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -203,6 +203,13 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1x19jv0/"
   },
   {
+   "title": "There's gonna be a bloodbath of Neocloud on Monday",
+   "score": 1835,
+   "num_comments": 517,
+   "created_utc": 1792961013,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xfda72/"
+  },
+  {
    "title": "Only one bubble in the last 200 years had higher market concentration than AI today.",
    "score": 1810,
    "num_comments": 532,
@@ -217,13 +224,6 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1x0vnok/"
   },
   {
-   "title": "There's gonna be a bloodbath of Neocloud on Monday",
-   "score": 1556,
-   "num_comments": 495,
-   "created_utc": 1792961013,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xfda72/"
-  },
-  {
    "title": "It\u2019s Finally Friday!",
    "score": 1450,
    "num_comments": 38,
@@ -231,18 +231,18 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xjkzpj/"
   },
   {
+   "title": "Happy Halloween guys",
+   "score": 1421,
+   "num_comments": 31,
+   "created_utc": 1793440789,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xk69kt/"
+  },
+  {
    "title": "Extreme Fear is here, who is buying?",
    "score": 1216,
    "num_comments": 430,
    "created_utc": 1792711478,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xcy34q/"
-  },
-  {
-   "title": "Happy Halloween guys",
-   "score": 1200,
-   "num_comments": 30,
-   "created_utc": 1793440789,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xk69kt/"
   },
   {
    "title": "Amazon\u2019s Free Cash Flow aka Cash Burn is now -42.4B TTM.",
