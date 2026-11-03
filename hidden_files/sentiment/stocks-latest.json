@@ -1,22 +1,22 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-02T21:48:26.952959+00:00",
+ "generated_at": "2026-11-03T19:37:33.070221+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-25T17:24:42+00:00",
+ "window_start": "2026-10-26T13:00:57+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
-   "mentions": 11,
-   "bull": 5,
-   "bear": 4,
-   "engagement": 1567
+   "mentions": 12,
+   "bull": 6,
+   "bear": 5,
+   "engagement": 1614
   },
   {
    "ticker": "AAPL",
-   "mentions": 5,
+   "mentions": 4,
    "bull": 1,
    "bear": 3,
-   "engagement": 56
+   "engagement": 55
   },
   {
    "ticker": "AMZN",
@@ -26,18 +26,18 @@
    "engagement": 4
   },
   {
+   "ticker": "AMD",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 74
+  },
+  {
    "ticker": "MSFT",
    "mentions": 3,
    "bull": 1,
    "bear": 1,
    "engagement": 1434
-  },
-  {
-   "ticker": "INTC",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 5
   },
   {
    "ticker": "HOOD",
@@ -47,25 +47,18 @@
    "engagement": 1
   },
   {
-   "ticker": "AMD",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 3
-  },
-  {
-   "ticker": "ORCL",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 60
-  },
-  {
    "ticker": "NVDA",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
    "engagement": 2
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 4
   },
   {
    "ticker": "TSLA",
@@ -79,14 +72,14 @@
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 60
+   "engagement": 64
   },
   {
    "ticker": "ARI",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 5
   },
   {
    "ticker": "UBER",
@@ -110,14 +103,14 @@
    "engagement": 2
   },
   {
-   "ticker": "NVO",
+   "ticker": "LLY",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 18
   },
   {
-   "ticker": "LLY",
+   "ticker": "NVO",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -143,6 +136,13 @@
    "bull": 1,
    "bear": 1,
    "engagement": 20
+  },
+  {
+   "ticker": "VRT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 201
   }
  ],
  "top_posts": [
@@ -166,20 +166,6 @@
    "num_comments": 650,
    "created_utc": 1793021381,
    "url": "https://www.reddit.com/r/stocks/comments/1xfwuks/"
-  },
-  {
-   "title": "SpaceX just secured $40 BILLION to buy AI chips......$40 billion just for chips.",
-   "score": 1391,
-   "num_comments": 505,
-   "created_utc": 1792960006,
-   "url": "https://www.reddit.com/r/stocks/comments/1xfcv5d/"
-  },
-  {
-   "title": "Robert Reich Says Elon Musk\u2019s SpaceX and Starlink Should Become Publicly Owned, Musk Fires Back: \"Stealing Companies Is a Serious Crime\"",
-   "score": 1239,
-   "num_comments": 519,
-   "created_utc": 1793005174,
-   "url": "https://www.reddit.com/r/stocks/comments/1xfrlff/"
   },
   {
    "title": "Alphabet\u2019s free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
@@ -217,6 +203,13 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xi93uc/"
   },
   {
+   "title": "Anthropic Reports 1,127% Revenue Surge, $895 Billion in Commitments",
+   "score": 744,
+   "num_comments": 501,
+   "created_utc": 1793630159,
+   "url": "https://www.reddit.com/r/stocks/comments/1xlyuja/"
+  },
+  {
    "title": "Best F'ng buying opportunity in a while",
    "score": 732,
    "num_comments": 302,
@@ -245,11 +238,18 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xk9rn1/"
   },
   {
-   "title": "Anthropic Reports 1,127% Revenue Surge, $895 Billion in Commitments",
-   "score": 543,
-   "num_comments": 383,
-   "created_utc": 1793630159,
-   "url": "https://www.reddit.com/r/stocks/comments/1xlyuja/"
+   "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+   "score": 526,
+   "num_comments": 131,
+   "created_utc": 1793033803,
+   "url": "https://www.reddit.com/r/stocks/comments/1xg2gtp/"
+  },
+  {
+   "title": "GOOG \u2b07\ufe0f 10%: Still the strongest AI stock despite the noise of Search! 14 P/E, $514B Cloud Backlog and $62B TPU Silicon Printing press.",
+   "score": 478,
+   "num_comments": 332,
+   "created_utc": 1793224733,
+   "url": "https://www.reddit.com/r/stocks/comments/1xi1w4h/"
   }
  ]
 }

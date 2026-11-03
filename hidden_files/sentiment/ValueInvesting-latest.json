@@ -1,36 +1,43 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-02T21:48:41.287375+00:00",
+ "generated_at": "2026-11-03T19:38:02.297724+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-22T01:47:30+00:00",
+ "window_start": "2026-10-22T18:53:48+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
-   "mentions": 18,
-   "bull": 7,
+   "mentions": 19,
+   "bull": 8,
    "bear": 3,
-   "engagement": 1590
+   "engagement": 1655
   },
   {
    "ticker": "NFLX",
-   "mentions": 8,
-   "bull": 3,
+   "mentions": 7,
+   "bull": 2,
    "bear": 0,
-   "engagement": 1342
+   "engagement": 1303
   },
   {
    "ticker": "APP",
    "mentions": 4,
    "bull": 2,
    "bear": 2,
-   "engagement": 62
+   "engagement": 61
   },
   {
-   "ticker": "META",
+   "ticker": "AAPL",
    "mentions": 3,
-   "bull": 3,
-   "bear": 0,
-   "engagement": 213
+   "bull": 1,
+   "bear": 1,
+   "engagement": 34
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 156
   },
   {
    "ticker": "AMZN",
@@ -47,6 +54,20 @@
    "engagement": 73
   },
   {
+   "ticker": "BKNG",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 16
+  },
+  {
+   "ticker": "CRWV",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 15
+  },
+  {
    "ticker": "SOFI",
    "mentions": 2,
    "bull": 1,
@@ -58,7 +79,14 @@
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
+   "engagement": 4
+  },
+  {
+   "ticker": "META",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 24
   },
   {
    "ticker": "AMD",
@@ -66,6 +94,34 @@
    "bull": 0,
    "bear": 0,
    "engagement": 142
+  },
+  {
+   "ticker": "CHGG",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "COPY",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 14
+  },
+  {
+   "ticker": "EXPE",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 15
+  },
+  {
+   "ticker": "TRVG",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 15
   },
   {
    "ticker": "BFAM",
@@ -86,63 +142,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 41
-  },
-  {
-   "ticker": "MRVL",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 35
-  },
-  {
-   "ticker": "LITE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 35
-  },
-  {
-   "ticker": "PLTR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 58
-  },
-  {
-   "ticker": "GOO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "GOOG",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "AAPL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 0
-  },
-  {
-   "ticker": "SMRT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 8
+   "engagement": 49
   }
  ],
  "top_posts": [
@@ -189,11 +189,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xiignd/"
   },
   {
-   "title": "Value investors dream of markets like this...",
-   "score": 218,
-   "num_comments": 222,
-   "created_utc": 1792686070,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xcn4yp/"
+   "title": "Alphabet shows a P/E of about 15. But, take out the gains on its stakes and I get about 27.",
+   "score": 234,
+   "num_comments": 149,
+   "created_utc": 1793648014,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xm71fj/"
   },
   {
    "title": "Reddit is oversold",
@@ -231,6 +231,13 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xcy4gq/"
   },
   {
+   "title": "Google search growing 12% is not a slow down.",
+   "score": 169,
+   "num_comments": 188,
+   "created_utc": 1793552693,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xl8bq7/"
+  },
+  {
    "title": "NFLX seems like a no-brainer at these levels - what am I missing? Please provide the bear arguments!",
    "score": 169,
    "num_comments": 358,
@@ -243,13 +250,6 @@
    "num_comments": 301,
    "created_utc": 1793043077,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xg6p97/"
-  },
-  {
-   "title": "RDDT fell from 33 P/E to 22 P/E at 100$ per share after earnings",
-   "score": 150,
-   "num_comments": 239,
-   "created_utc": 1793351913,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xjak85/"
   }
  ]
 }

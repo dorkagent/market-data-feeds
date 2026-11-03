@@ -1,29 +1,36 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-11-02T21:48:13.450585+00:00",
+ "generated_at": "2026-11-03T19:37:15.900488+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-30T19:19:58+00:00",
+ "window_start": "2026-10-31T02:13:10+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
-   "mentions": 14,
-   "bull": 6,
+   "mentions": 15,
+   "bull": 7,
+   "bear": 6,
+   "engagement": 2138
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 6,
+   "bull": 5,
    "bear": 4,
-   "engagement": 1979
+   "engagement": 728
   },
   {
    "ticker": "INTC",
-   "mentions": 7,
+   "mentions": 6,
    "bull": 0,
    "bear": 0,
-   "engagement": 2466
+   "engagement": 2224
   },
   {
    "ticker": "MRVL",
-   "mentions": 3,
+   "mentions": 4,
    "bull": 1,
    "bear": 1,
-   "engagement": 13
+   "engagement": 25
   },
   {
    "ticker": "SMCI",
@@ -37,7 +44,42 @@
    "mentions": 3,
    "bull": 3,
    "bear": 1,
-   "engagement": 586
+   "engagement": 604
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "AAPL",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 93
+  },
+  {
+   "ticker": "CHTR",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 28
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 77
   },
   {
    "ticker": "SPX",
@@ -47,39 +89,53 @@
    "engagement": 2
   },
   {
-   "ticker": "AMD",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 2
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 2,
-   "bull": 0,
+   "ticker": "GRAB",
+   "mentions": 1,
+   "bull": 1,
    "bear": 0,
-   "engagement": 212
+   "engagement": 21
   },
   {
-   "ticker": "GDX",
+   "ticker": "HOG",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "PLTR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "SPY",
+   "ticker": "GME",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
+  },
+  {
+   "ticker": "ORCL",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SLS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "GDX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 0
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 87
   },
   {
    "ticker": "VIX",
@@ -87,85 +143,29 @@
    "bull": 0,
    "bear": 0,
    "engagement": 3
-  },
-  {
-   "ticker": "LITE",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 12
-  },
-  {
-   "ticker": "CHGG",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "GOOG",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 5
-  },
-  {
-   "ticker": "COIN",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 13
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "INO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "DRAM",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 143
-  },
-  {
-   "ticker": "HOOD",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 143
   }
  ],
  "top_posts": [
   {
-   "title": "\ud83e\udd14",
-   "score": 24634,
-   "num_comments": 712,
-   "created_utc": 1793404441,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjvc0r/"
-  },
-  {
-   "title": "Sold NVDA Bought a Lambo",
-   "score": 12827,
-   "num_comments": 1612,
-   "created_utc": 1793409531,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjx858/"
+   "title": "Out of sight, out of mind \ud83e\udd17",
+   "score": 11889,
+   "num_comments": 123,
+   "created_utc": 1793656418,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xmaqz8/"
   },
   {
    "title": "FINALLY, I WAS RIGHT",
-   "score": 10559,
-   "num_comments": 579,
+   "score": 11677,
+   "num_comments": 638,
    "created_utc": 1793571753,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xlg9s5/"
+  },
+  {
+   "title": "POV bears on Monday",
+   "score": 9189,
+   "num_comments": 338,
+   "created_utc": 1793564459,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xldc50/"
   },
   {
    "title": "North korea just outperformed everyone",
@@ -175,25 +175,18 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xkdzdq/"
   },
   {
-   "title": "POV bears on Monday",
-   "score": 8169,
-   "num_comments": 310,
-   "created_utc": 1793564459,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xldc50/"
-  },
-  {
    "title": "Anthropic is asking candidates what they\u2019d do if stock fell to zero",
-   "score": 5888,
-   "num_comments": 630,
+   "score": 6446,
+   "num_comments": 678,
    "created_utc": 1793562956,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xlcpce/"
   },
   {
-   "title": "Inverse cramer",
-   "score": 4940,
-   "num_comments": 179,
-   "created_utc": 1793412481,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjy812/"
+   "title": "Me, \ud83d\ude0ethe moment I decide to buy the dip.",
+   "score": 3859,
+   "num_comments": 98,
+   "created_utc": 1793681972,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xmk1xj/"
   },
   {
    "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
@@ -203,53 +196,60 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xk472t/"
   },
   {
-   "title": "Anthropic 2025 revenue: $4.6 billion 2025 net loss: -$42 billion IPO valuation: $2 trillion",
-   "score": 3468,
-   "num_comments": 186,
-   "created_utc": 1793393998,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjr8v1/"
-  },
-  {
-   "title": "iPhone Duo is revolutionary",
-   "score": 3459,
-   "num_comments": 50,
-   "created_utc": 1793393847,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjr6ne/"
-  },
-  {
-   "title": "We'll see what happens.",
-   "score": 3155,
-   "num_comments": 387,
-   "created_utc": 1793571788,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xlga86/"
-  },
-  {
    "title": "Are we ready for Monday?",
-   "score": 3025,
-   "num_comments": 146,
+   "score": 3515,
+   "num_comments": 157,
    "created_utc": 1793563598,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xlcz7m/"
   },
   {
-   "title": "Nasdaq suffers worst month in over a year as AI nerves roil markets",
-   "score": 2979,
-   "num_comments": 218,
-   "created_utc": 1793393293,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjqyei/"
+   "title": "We'll see what happens.",
+   "score": 3442,
+   "num_comments": 446,
+   "created_utc": 1793571788,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xlga86/"
   },
   {
    "title": "Halloween Costume in China",
-   "score": 2976,
-   "num_comments": 73,
+   "score": 2973,
+   "num_comments": 72,
    "created_utc": 1793543265,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xl4f2k/"
   },
   {
-   "title": "Only his IPO can fix it now!",
-   "score": 2557,
-   "num_comments": 62,
-   "created_utc": 1793402455,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjul8c/"
+   "title": "panda express seems to know me very well",
+   "score": 2575,
+   "num_comments": 54,
+   "created_utc": 1793677449,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xmilpo/"
+  },
+  {
+   "title": "They can liquidate me I don't care",
+   "score": 2558,
+   "num_comments": 409,
+   "created_utc": 1793644282,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xm5apu/"
+  },
+  {
+   "title": "AI will prevail, most AI companies will go bankrupt. This is almost a carbon copy of Dot Com.",
+   "score": 2406,
+   "num_comments": 574,
+   "created_utc": 1793679663,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xmjblp/"
+  },
+  {
+   "title": "3k-80k today using SPX ODTE's",
+   "score": 2366,
+   "num_comments": 321,
+   "created_utc": 1793653487,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xm9h54/"
+  },
+  {
+   "title": "When you discover leverage for the 1st time",
+   "score": 2122,
+   "num_comments": 39,
+   "created_utc": 1793545941,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xl5hlj/"
   }
  ]
 }

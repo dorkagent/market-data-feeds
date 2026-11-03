@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-02T21:48:20.490460+00:00",
+ "generated_at": "2026-11-03T19:37:24.644191+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-09T16:43:48+00:00",
+ "window_start": "2026-10-10T23:39:59+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -19,13 +19,6 @@
    "engagement": 94
   },
   {
-   "ticker": "PLTR",
-   "mentions": 3,
-   "bull": 3,
-   "bear": 3,
-   "engagement": 119
-  },
-  {
    "ticker": "LRCX",
    "mentions": 2,
    "bull": 0,
@@ -38,6 +31,20 @@
    "bull": 0,
    "bear": 2,
    "engagement": 131
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 102
+  },
+  {
+   "ticker": "SN",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 25
   },
   {
    "ticker": "CELH",
@@ -108,13 +115,6 @@
    "bull": 0,
    "bear": 1,
    "engagement": 7
-  },
-  {
-   "ticker": "ASTS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 80
   }
  ],
  "top_posts": [

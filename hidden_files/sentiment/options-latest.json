@@ -1,15 +1,15 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-02T21:48:53.467209+00:00",
+ "generated_at": "2026-11-03T19:38:24.391797+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-22T11:17:01+00:00",
+ "window_start": "2026-09-22T19:11:24+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
    "mentions": 8,
    "bull": 4,
    "bear": 2,
-   "engagement": 223
+   "engagement": 225
   },
   {
    "ticker": "QQQ",
@@ -17,6 +17,13 @@
    "bull": 2,
    "bear": 2,
    "engagement": 245
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 3,
+   "engagement": 84
   },
   {
    "ticker": "NBIS",
@@ -31,20 +38,6 @@
    "bull": 2,
    "bear": 1,
    "engagement": 18
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 53
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 57
   },
   {
    "ticker": "TLT",
@@ -103,14 +96,21 @@
    "engagement": 1
   },
   {
-   "ticker": "TICK",
+   "ticker": "MSFT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 21
+  },
+  {
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 3
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -131,14 +131,14 @@
    "engagement": 16
   },
   {
-   "ticker": "INTC",
+   "ticker": "TEM",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 17
   },
   {
-   "ticker": "TEM",
+   "ticker": "INTC",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -203,6 +203,13 @@
    "url": "https://www.reddit.com/r/options/comments/1xdjrjk/"
   },
   {
+   "title": "Weekend crypto vol predicts Monday S&P 500 vol since 2024, even after controlling for Friday's VIX",
+   "score": 71,
+   "num_comments": 14,
+   "created_utc": 1793552015,
+   "url": "https://www.reddit.com/r/options/comments/1xl811x/"
+  },
+  {
    "title": "Beat The Market Selling LEAPS",
    "score": 70,
    "num_comments": 69,
@@ -215,13 +222,6 @@
    "num_comments": 16,
    "created_utc": 1793302733,
    "url": "https://www.reddit.com/r/options/comments/1xitwi7/"
-  },
-  {
-   "title": "Weekend crypto vol predicts Monday S&P 500 vol since 2024, even after controlling for Friday's VIX",
-   "score": 60,
-   "num_comments": 13,
-   "created_utc": 1793552015,
-   "url": "https://www.reddit.com/r/options/comments/1xl811x/"
   },
   {
    "title": "Schwab Options Order",

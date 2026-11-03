@@ -1,15 +1,15 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-02T21:48:34.150997+00:00",
+ "generated_at": "2026-11-03T19:37:45.971642+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-04T15:48:38+00:00",
+ "window_start": "2026-10-06T13:36:32+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
-   "mentions": 5,
+   "mentions": 6,
    "bull": 3,
    "bear": 2,
-   "engagement": 335
+   "engagement": 336
   },
   {
    "ticker": "NVDA",
@@ -23,7 +23,7 @@
    "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 26
+   "engagement": 52
   },
   {
    "ticker": "SOFI",
@@ -38,6 +38,13 @@
    "bull": 0,
    "bear": 0,
    "engagement": 127
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 31
   },
   {
    "ticker": "SPY",
@@ -82,14 +89,14 @@
    "engagement": 40
   },
   {
-   "ticker": "BE",
+   "ticker": "LITE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 5
   },
   {
-   "ticker": "LITE",
+   "ticker": "BE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -124,13 +131,6 @@
    "engagement": 1
   },
   {
-   "ticker": "NFLX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
    "ticker": "UBER",
    "mentions": 1,
    "bull": 0,
@@ -138,11 +138,11 @@
    "engagement": 2
   },
   {
-   "ticker": "SNPS",
+   "ticker": "NFLX",
    "mentions": 1,
-   "bull": 1,
+   "bull": 0,
    "bear": 0,
-   "engagement": 531
+   "engagement": 2
   }
  ],
  "top_posts": [
@@ -152,6 +152,13 @@
    "num_comments": 1546,
    "created_utc": 1793378482,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xjkelc/"
+  },
+  {
+   "title": "US$700Bn wiped out in 2.5 hours",
+   "score": 11714,
+   "num_comments": 1091,
+   "created_utc": 1793652395,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xm901d/"
   },
   {
    "title": "$1 trillion wiped out from the US stock market today.",
@@ -243,13 +250,6 @@
    "num_comments": 430,
    "created_utc": 1792711478,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xcy34q/"
-  },
-  {
-   "title": "Amazon\u2019s Free Cash Flow aka Cash Burn is now -42.4B TTM.",
-   "score": 1198,
-   "num_comments": 141,
-   "created_utc": 1793320157,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xj13qp/"
   }
  ]
 }
