@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-03T19:37:24.644191+00:00",
+ "generated_at": "2026-11-04T19:53:42.126960+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-10T23:39:59+00:00",
+ "window_start": "2026-10-13T07:50:20+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -26,13 +26,6 @@
    "engagement": 4
   },
   {
-   "ticker": "QQQ",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 2,
-   "engagement": 131
-  },
-  {
    "ticker": "PLTR",
    "mentions": 2,
    "bull": 2,
@@ -40,21 +33,35 @@
    "engagement": 102
   },
   {
+   "ticker": "DUOL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 18
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "SN",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 25
+   "engagement": 23
   },
   {
-   "ticker": "CELH",
+   "ticker": "BE",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "BE",
+   "ticker": "CELH",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -72,7 +79,14 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 63
+   "engagement": 86
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 1
   },
   {
    "ticker": "LMT",
@@ -154,6 +168,13 @@
    "url": "https://www.reddit.com/r/investing/comments/1xjxjqv/"
   },
   {
+   "title": "Three of the four biggest AI spenders now report negative free cash flow",
+   "score": 602,
+   "num_comments": 160,
+   "created_utc": 1793195907,
+   "url": "https://www.reddit.com/r/investing/comments/1xhotkl/"
+  },
+  {
    "title": "Musk reports that SpaceX and Tesla are exploring a merger",
    "score": 582,
    "num_comments": 323,
@@ -168,18 +189,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1xj1fyh/"
   },
   {
-   "title": "Three of the four biggest AI spenders now report negative free cash flow",
-   "score": 535,
-   "num_comments": 151,
-   "created_utc": 1793195907,
-   "url": "https://www.reddit.com/r/investing/comments/1xhotkl/"
-  },
-  {
    "title": "How are cryptocurrencies not the dumbest thing ever?",
    "score": 504,
    "num_comments": 824,
    "created_utc": 1792397633,
    "url": "https://www.reddit.com/r/investing/comments/1x9r2z3/"
+  },
+  {
+   "title": "Midterms reduce uncertainty",
+   "score": 443,
+   "num_comments": 151,
+   "created_utc": 1793768511,
+   "url": "https://www.reddit.com/r/investing/comments/1xnfjmf/"
   },
   {
    "title": "Brent at $117 and the SPR has nothing left to give if this gets worse",
@@ -215,13 +236,6 @@
    "num_comments": 65,
    "created_utc": 1793036065,
    "url": "https://www.reddit.com/r/investing/comments/1xg3ih3/"
-  },
-  {
-   "title": "67% Returns according to Trump",
-   "score": 314,
-   "num_comments": 339,
-   "created_utc": 1793314789,
-   "url": "https://www.reddit.com/r/investing/comments/1xiz19z/"
   }
  ]
 }

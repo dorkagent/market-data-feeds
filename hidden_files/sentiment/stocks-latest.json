@@ -1,15 +1,22 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-03T19:37:33.070221+00:00",
+ "generated_at": "2026-11-04T19:53:53.410988+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-26T13:00:57+00:00",
+ "window_start": "2026-10-27T11:44:33+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
-   "mentions": 12,
+   "mentions": 11,
    "bull": 6,
    "bear": 5,
-   "engagement": 1614
+   "engagement": 1416
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 5,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 817
   },
   {
    "ticker": "AAPL",
@@ -26,18 +33,11 @@
    "engagement": 4
   },
   {
-   "ticker": "AMD",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 74
-  },
-  {
    "ticker": "MSFT",
    "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 1434
+   "engagement": 1435
   },
   {
    "ticker": "HOOD",
@@ -45,6 +45,13 @@
    "bull": 1,
    "bear": 0,
    "engagement": 1
+  },
+  {
+   "ticker": "UBER",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 12
   },
   {
    "ticker": "NVDA",
@@ -75,18 +82,25 @@
    "engagement": 64
   },
   {
+   "ticker": "NBIS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 22
+  },
+  {
+   "ticker": "SMCI",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
    "ticker": "ARI",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 5
-  },
-  {
-   "ticker": "UBER",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
   },
   {
    "ticker": "COIN",
@@ -103,14 +117,14 @@
    "engagement": 2
   },
   {
-   "ticker": "LLY",
+   "ticker": "NVO",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 18
   },
   {
-   "ticker": "NVO",
+   "ticker": "LLY",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -128,21 +142,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 33
-  },
-  {
-   "ticker": "XXB",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 20
-  },
-  {
-   "ticker": "VRT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 201
+   "engagement": 34
   }
  ],
  "top_posts": [
@@ -161,11 +161,18 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xjvaks/"
   },
   {
-   "title": "Anthropic just filed to go public. $16.3 BILLION in revenue in six months\u2026 and an $80.7 BILLION reported loss.",
-   "score": 1967,
-   "num_comments": 650,
-   "created_utc": 1793021381,
-   "url": "https://www.reddit.com/r/stocks/comments/1xfwuks/"
+   "title": "Dow Surges Over 1,000 Points in Broad Market Rebound",
+   "score": 1183,
+   "num_comments": 137,
+   "created_utc": 1793803686,
+   "url": "https://www.reddit.com/r/stocks/comments/1xnq2z6/"
+  },
+  {
+   "title": "Stocks UP pre-market after Democrats sweep Congress in repudiation of Trump",
+   "score": 957,
+   "num_comments": 198,
+   "created_utc": 1793783334,
+   "url": "https://www.reddit.com/r/stocks/comments/1xnjlxz/"
   },
   {
    "title": "Alphabet\u2019s free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
@@ -189,11 +196,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xijjls/"
   },
   {
-   "title": "I love Anthropic's products, BUT I think their S1 is a far more scarier than people let on.",
-   "score": 768,
-   "num_comments": 290,
-   "created_utc": 1793049234,
-   "url": "https://www.reddit.com/r/stocks/comments/1xg9f2s/"
+   "title": "Anthropic Reports 1,127% Revenue Surge, $895 Billion in Commitments",
+   "score": 757,
+   "num_comments": 520,
+   "created_utc": 1793630159,
+   "url": "https://www.reddit.com/r/stocks/comments/1xlyuja/"
   },
   {
    "title": "GOOGL: Everyone Was Bullish Yesterday, Now Google Is Suddenly Dead?",
@@ -201,13 +208,6 @@
    "num_comments": 488,
    "created_utc": 1793244078,
    "url": "https://www.reddit.com/r/stocks/comments/1xi93uc/"
-  },
-  {
-   "title": "Anthropic Reports 1,127% Revenue Surge, $895 Billion in Commitments",
-   "score": 744,
-   "num_comments": 501,
-   "created_utc": 1793630159,
-   "url": "https://www.reddit.com/r/stocks/comments/1xlyuja/"
   },
   {
    "title": "Best F'ng buying opportunity in a while",
@@ -238,18 +238,18 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xk9rn1/"
   },
   {
-   "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-   "score": 526,
-   "num_comments": 131,
-   "created_utc": 1793033803,
-   "url": "https://www.reddit.com/r/stocks/comments/1xg2gtp/"
-  },
-  {
    "title": "GOOG \u2b07\ufe0f 10%: Still the strongest AI stock despite the noise of Search! 14 P/E, $514B Cloud Backlog and $62B TPU Silicon Printing press.",
    "score": 478,
    "num_comments": 332,
    "created_utc": 1793224733,
    "url": "https://www.reddit.com/r/stocks/comments/1xi1w4h/"
+  },
+  {
+   "title": "Microsoft stock jumps 5% as cloud growth drives earnings and revenue beat",
+   "score": 470,
+   "num_comments": 113,
+   "created_utc": 1793218132,
+   "url": "https://www.reddit.com/r/stocks/comments/1xhz1lc/"
   }
  ]
 }

@@ -1,15 +1,29 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-03T19:37:45.971642+00:00",
+ "generated_at": "2026-11-04T19:54:00.588225+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-06T13:36:32+00:00",
+ "window_start": "2026-10-08T16:34:12+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
    "mentions": 6,
    "bull": 3,
    "bear": 2,
-   "engagement": 336
+   "engagement": 335
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 4,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 816
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 4,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 128
   },
   {
    "ticker": "NVDA",
@@ -23,7 +37,7 @@
    "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 52
+   "engagement": 54
   },
   {
    "ticker": "SOFI",
@@ -33,18 +47,11 @@
    "engagement": 6
   },
   {
-   "ticker": "AVGO",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 127
-  },
-  {
    "ticker": "PLTR",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 31
+   "engagement": 30
   },
   {
    "ticker": "SPY",
@@ -89,14 +96,35 @@
    "engagement": 40
   },
   {
-   "ticker": "LITE",
+   "ticker": "WDC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "CLSK",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "VST",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "BE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 5
   },
   {
-   "ticker": "BE",
+   "ticker": "LITE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -115,50 +143,22 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "GME",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "OKLO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "UBER",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "NFLX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
   }
  ],
  "top_posts": [
+  {
+   "title": "US$700Bn wiped out in 2.5 hours",
+   "score": 15147,
+   "num_comments": 1338,
+   "created_utc": 1793652395,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xm901d/"
+  },
   {
    "title": "Almost a trillion USD wiped out",
    "score": 12569,
    "num_comments": 1546,
    "created_utc": 1793378482,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xjkelc/"
-  },
-  {
-   "title": "US$700Bn wiped out in 2.5 hours",
-   "score": 11714,
-   "num_comments": 1091,
-   "created_utc": 1793652395,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xm901d/"
   },
   {
    "title": "$1 trillion wiped out from the US stock market today.",

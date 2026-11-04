@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-03T19:38:24.391797+00:00",
+ "generated_at": "2026-11-04T19:54:29.164671+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-22T19:11:24+00:00",
+ "window_start": "2026-09-23T22:12:20+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -23,7 +23,7 @@
    "mentions": 3,
    "bull": 2,
    "bear": 3,
-   "engagement": 84
+   "engagement": 88
   },
   {
    "ticker": "NBIS",
@@ -131,14 +131,14 @@
    "engagement": 16
   },
   {
-   "ticker": "TEM",
+   "ticker": "INTC",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 17
   },
   {
-   "ticker": "INTC",
+   "ticker": "TEM",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -166,6 +166,20 @@
    "num_comments": 90,
    "created_utc": 1791707199,
    "url": "https://www.reddit.com/r/options/comments/1x32u6l/"
+  },
+  {
+   "title": "Boyfriend lost all money to trading options. Again. Our relationship is in deep dookie.",
+   "score": 226,
+   "num_comments": 273,
+   "created_utc": 1793759801,
+   "url": "https://www.reddit.com/r/options/comments/1xncptw/"
+  },
+  {
+   "title": "I backtested a simple 0DTE SPX strategy for 2 years. Is this overfit or actually realistic?",
+   "score": 141,
+   "num_comments": 97,
+   "created_utc": 1793715846,
+   "url": "https://www.reddit.com/r/options/comments/1xmu9tv/"
   },
   {
    "title": "Weeklies beat monthlies for selling premium and it\u2019s not close. Prove me wrong.",
@@ -236,20 +250,6 @@
    "num_comments": 29,
    "created_utc": 1790948186,
    "url": "https://www.reddit.com/r/options/comments/1wvu0qq/"
-  },
-  {
-   "title": "Is deep ITM LEAPS just leveraged stocks?",
-   "score": 53,
-   "num_comments": 58,
-   "created_utc": 1790770818,
-   "url": "https://www.reddit.com/r/options/comments/1wu3gas/"
-  },
-  {
-   "title": "Anyone actually do this full time as a living?",
-   "score": 52,
-   "num_comments": 140,
-   "created_utc": 1793404765,
-   "url": "https://www.reddit.com/r/options/comments/1xjvg7t/"
   }
  ]
 }
