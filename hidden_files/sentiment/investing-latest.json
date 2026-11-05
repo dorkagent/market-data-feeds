@@ -1,15 +1,15 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-04T19:53:42.126960+00:00",
+ "generated_at": "2026-11-05T20:07:00.373277+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-13T07:50:20+00:00",
+ "window_start": "2026-10-15T08:00:41+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 3,
+   "mentions": 4,
    "bull": 0,
    "bear": 1,
-   "engagement": 6
+   "engagement": 8
   },
   {
    "ticker": "AMZN",
@@ -19,6 +19,13 @@
    "engagement": 94
   },
   {
+   "ticker": "NFLX",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 26
+  },
+  {
    "ticker": "LRCX",
    "mentions": 2,
    "bull": 0,
@@ -26,18 +33,39 @@
    "engagement": 4
   },
   {
-   "ticker": "PLTR",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 102
+   "ticker": "AAPL",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 16
+  },
+  {
+   "ticker": "ZETA",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 12
+  },
+  {
+   "ticker": "OSCR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 12
+  },
+  {
+   "ticker": "APP",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 12
   },
   {
    "ticker": "DUOL",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 18
+   "engagement": 25
   },
   {
    "ticker": "RDDT",
@@ -54,14 +82,14 @@
    "engagement": 23
   },
   {
-   "ticker": "BE",
+   "ticker": "CELH",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "CELH",
+   "ticker": "BE",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -110,25 +138,11 @@
    "engagement": 2
   },
   {
-   "ticker": "NFLX",
+   "ticker": "PLTR",
    "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 14
-  },
-  {
-   "ticker": "FSLR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 47
-  },
-  {
-   "ticker": "GUTS",
-   "mentions": 1,
-   "bull": 0,
+   "bull": 1,
    "bear": 1,
-   "engagement": 7
+   "engagement": 47
   }
  ],
  "top_posts": [
@@ -182,6 +196,13 @@
    "url": "https://www.reddit.com/r/investing/comments/1xbqrmp/"
   },
   {
+   "title": "Midterms reduce uncertainty",
+   "score": 552,
+   "num_comments": 190,
+   "created_utc": 1793768511,
+   "url": "https://www.reddit.com/r/investing/comments/1xnfjmf/"
+  },
+  {
    "title": "Another GOOGL buying opportunity",
    "score": 550,
    "num_comments": 199,
@@ -194,13 +215,6 @@
    "num_comments": 824,
    "created_utc": 1792397633,
    "url": "https://www.reddit.com/r/investing/comments/1x9r2z3/"
-  },
-  {
-   "title": "Midterms reduce uncertainty",
-   "score": 443,
-   "num_comments": 151,
-   "created_utc": 1793768511,
-   "url": "https://www.reddit.com/r/investing/comments/1xnfjmf/"
   },
   {
    "title": "Brent at $117 and the SPR has nothing left to give if this gets worse",
@@ -217,13 +231,6 @@
    "url": "https://www.reddit.com/r/investing/comments/1xjbfdg/"
   },
   {
-   "title": "To the person going all in on Alphabet (GOOG)",
-   "score": 359,
-   "num_comments": 155,
-   "created_utc": 1791899609,
-   "url": "https://www.reddit.com/r/investing/comments/1x4x9ak/"
-  },
-  {
    "title": "Coreweave buys 8% of NVIDIA chips, and NVIDIA backs Coreweave. Now Coreweave is having trouble, how about NVIDIA's revenue?",
    "score": 349,
    "num_comments": 141,
@@ -236,6 +243,13 @@
    "num_comments": 65,
    "created_utc": 1793036065,
    "url": "https://www.reddit.com/r/investing/comments/1xg3ih3/"
+  },
+  {
+   "title": "67% Returns according to Trump",
+   "score": 314,
+   "num_comments": 339,
+   "created_utc": 1793314789,
+   "url": "https://www.reddit.com/r/investing/comments/1xiz19z/"
   }
  ]
 }

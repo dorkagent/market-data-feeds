@@ -1,255 +1,255 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-11-04T19:53:33.436469+00:00",
+ "generated_at": "2026-11-05T20:06:42.081339+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-01T22:15:15+00:00",
+ "window_start": "2026-11-04T06:38:29+00:00",
  "top_tickers": [
   {
-   "ticker": "AMD",
-   "mentions": 9,
-   "bull": 4,
-   "bear": 5,
-   "engagement": 5862
-  },
-  {
-   "ticker": "RDDT",
-   "mentions": 9,
-   "bull": 5,
-   "bear": 4,
-   "engagement": 916
-  },
-  {
-   "ticker": "MRVL",
+   "ticker": "APP",
    "mentions": 6,
    "bull": 2,
-   "bear": 2,
-   "engagement": 147
-  },
-  {
-   "ticker": "INTC",
-   "mentions": 4,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 684
-  },
-  {
-   "ticker": "SMCI",
-   "mentions": 4,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
-   "ticker": "LITE",
-   "mentions": 3,
-   "bull": 1,
    "bear": 1,
-   "engagement": 39
+   "engagement": 200
   },
   {
    "ticker": "SPY",
-   "mentions": 3,
+   "mentions": 5,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 238
+  },
+  {
+   "ticker": "SWBI",
+   "mentions": 5,
    "bull": 0,
    "bear": 0,
-   "engagement": 29
+   "engagement": 5
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 28
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 10
   },
   {
    "ticker": "AMZN",
-   "mentions": 2,
-   "bull": 2,
+   "mentions": 3,
+   "bull": 3,
    "bear": 1,
-   "engagement": 96
+   "engagement": 197
   },
   {
-   "ticker": "TSLA",
+   "ticker": "NBIS",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 240
+   "engagement": 4
   },
   {
-   "ticker": "SPX",
+   "ticker": "MU",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 2502
+   "engagement": 8
   },
   {
-   "ticker": "CHTR",
+   "ticker": "WEN",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 6
+  },
+  {
+   "ticker": "GOOGL",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 19
+  },
+  {
+   "ticker": "FIG",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "ARM",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SWBI",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "DJT",
-   "mentions": 1,
+   "mentions": 2,
    "bull": 0,
-   "bear": 1,
-   "engagement": 326
+   "bear": 2,
+   "engagement": 770
   },
   {
-   "ticker": "PLUG",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "MU",
+   "ticker": "RUN",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "WEN",
+   "ticker": "MSTR",
    "mentions": 1,
-   "bull": 1,
+   "bull": 0,
    "bear": 0,
    "engagement": 3
   },
   {
-   "ticker": "IREN",
+   "ticker": "AVGO",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 18
+   "engagement": 19
   },
   {
-   "ticker": "NBIS",
+   "ticker": "SMTC",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 0
+   "engagement": 7
+  },
+  {
+   "ticker": "ASTS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "AMC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 47
+  },
+  {
+   "ticker": "IONQ",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "CHTR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 17
   }
  ],
  "top_posts": [
   {
-   "title": "Out of sight, out of mind \ud83e\udd17",
-   "score": 15214,
-   "num_comments": 151,
-   "created_utc": 1793656418,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xmaqz8/"
+   "title": "Buy the dip",
+   "score": 20428,
+   "num_comments": 887,
+   "created_utc": 1793886684,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xoj597/"
   },
   {
-   "title": "FINALLY, I WAS RIGHT",
-   "score": 11677,
-   "num_comments": 638,
-   "created_utc": 1793571753,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xlg9s5/"
+   "title": "Suicide is never the answer, 800-273-8255",
+   "score": 7363,
+   "num_comments": 654,
+   "created_utc": 1793896346,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xon6o3/"
   },
   {
-   "title": "Trading Space stocks this year",
-   "score": 5930,
-   "num_comments": 108,
-   "created_utc": 1793733328,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xn27k9/"
+   "title": "Market green, portfolio red. Classic.",
+   "score": 5840,
+   "num_comments": 298,
+   "created_utc": 1793817754,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xnw7vq/"
   },
   {
-   "title": "Me, \ud83d\ude0ethe moment I decide to buy the dip.",
-   "score": 5120,
-   "num_comments": 119,
-   "created_utc": 1793681972,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xmk1xj/"
+   "title": "I told u.",
+   "score": 2281,
+   "num_comments": 405,
+   "created_utc": 1793892680,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xolme8/"
   },
   {
-   "title": "AMD stock jumps 7% on earnings as data center revenue nearly doubles",
-   "score": 3924,
-   "num_comments": 329,
-   "created_utc": 1793741195,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xn5pkg/"
+   "title": "Democrats realizing it\u2019s finally their turn to insider trade.",
+   "score": 1597,
+   "num_comments": 92,
+   "created_utc": 1793881191,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xoh8qa/"
   },
   {
-   "title": "We'll see what happens.",
-   "score": 3442,
-   "num_comments": 446,
-   "created_utc": 1793571788,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xlga86/"
+   "title": "$1300 to $111k in 2 days",
+   "score": 1492,
+   "num_comments": 315,
+   "created_utc": 1793895759,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xomxf5/"
   },
   {
-   "title": "3k-80k today using SPX ODTE's",
-   "score": 3279,
-   "num_comments": 395,
-   "created_utc": 1793653487,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xm9h54/"
+   "title": "How it feels being a Canadian waking up this morning",
+   "score": 1252,
+   "num_comments": 77,
+   "created_utc": 1793800928,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xnoyta/"
   },
   {
-   "title": "AI will prevail, most AI companies will go bankrupt. This is almost a carbon copy of Dot Com.",
-   "score": 3160,
-   "num_comments": 681,
-   "created_utc": 1793679663,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xmjblp/"
+   "title": "Murica for a win",
+   "score": 1220,
+   "num_comments": 89,
+   "created_utc": 1793860915,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xobuiz/"
   },
   {
-   "title": "It's been a BRUTAL earnings season \ud83d\udc80",
-   "score": 3114,
-   "num_comments": 286,
-   "created_utc": 1793715821,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xmu9ft/"
+   "title": "Bought the election dip. Bought the AI dip. Now I\u2019m one dip away from a fucking GoFundMe.",
+   "score": 1211,
+   "num_comments": 135,
+   "created_utc": 1793899011,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xoocw2/"
   },
   {
-   "title": "They can liquidate me I don't care",
-   "score": 2650,
-   "num_comments": 419,
-   "created_utc": 1793644282,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xm5apu/"
+   "title": "Defense regards realizing they have to pivot to climate tech",
+   "score": 798,
+   "num_comments": 52,
+   "created_utc": 1793882189,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xohk95/"
   },
   {
-   "title": "panda express seems to know me very well",
-   "score": 2573,
-   "num_comments": 53,
-   "created_utc": 1793677449,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xmilpo/"
+   "title": "NQ close to circuit breaker (last seen 2020). Currently down -5%, trigger is -7%.",
+   "score": 783,
+   "num_comments": 203,
+   "created_utc": 1793893205,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xolu89/"
   },
   {
-   "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
-   "score": 2157,
-   "num_comments": 841,
-   "created_utc": 1793632398,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xlztez/"
+   "title": "DJT is going to get wrecked",
+   "score": 642,
+   "num_comments": 127,
+   "created_utc": 1793805847,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xnqzmc/"
   },
   {
-   "title": "TEXAS",
-   "score": 2143,
-   "num_comments": 358,
-   "created_utc": 1793767109,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xnf3rc/"
+   "title": "$1,300 to $34,000 in SPX 0dte calls gambling on a V recovery on midterms",
+   "score": 631,
+   "num_comments": 118,
+   "created_utc": 1793806647,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xnrbng/"
   },
   {
-   "title": "Apple reports fourth quarter results",
-   "score": 2052,
-   "num_comments": 369,
-   "created_utc": 1793658042,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xmbft6/"
+   "title": "Is your portfolio awake yet? \ud83d\udef8",
+   "score": 506,
+   "num_comments": 112,
+   "created_utc": 1793787328,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xnkmyk/"
   },
   {
-   "title": "The fomo in GOOGL is real",
-   "score": 1622,
-   "num_comments": 283,
-   "created_utc": 1793695867,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xmnwlb/"
+   "title": "US weekly jobless claims at 57-year lows amid low layoffs",
+   "score": 498,
+   "num_comments": 199,
+   "created_utc": 1793887040,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xoja30/"
   }
  ]
 }

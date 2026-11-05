@@ -1,43 +1,43 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-04T19:54:13.063341+00:00",
+ "generated_at": "2026-11-05T20:07:44.910339+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-23T16:23:01+00:00",
+ "window_start": "2026-10-26T01:35:57+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
    "mentions": 22,
    "bull": 10,
    "bear": 3,
-   "engagement": 1734
+   "engagement": 1777
   },
   {
    "ticker": "NFLX",
-   "mentions": 7,
-   "bull": 2,
+   "mentions": 6,
+   "bull": 1,
    "bear": 0,
-   "engagement": 1302
+   "engagement": 775
+  },
+  {
+   "ticker": "APP",
+   "mentions": 5,
+   "bull": 3,
+   "bear": 3,
+   "engagement": 82
   },
   {
    "ticker": "UBER",
    "mentions": 4,
    "bull": 2,
    "bear": 0,
-   "engagement": 112
-  },
-  {
-   "ticker": "APP",
-   "mentions": 4,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 61
+   "engagement": 130
   },
   {
    "ticker": "AAPL",
    "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 75
+   "engagement": 77
   },
   {
    "ticker": "PLTR",
@@ -47,39 +47,60 @@
    "engagement": 157
   },
   {
-   "ticker": "AMZN",
-   "mentions": 3,
+   "ticker": "NVDA",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 102
+  },
+  {
+   "ticker": "CRWV",
+   "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 224
+   "engagement": 29
+  },
+  {
+   "ticker": "ACN",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "LITE",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 83
+  },
+  {
+   "ticker": "MRVL",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 83
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 47
   },
   {
    "ticker": "BFAM",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 7
+   "engagement": 8
   },
   {
    "ticker": "BKNG",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 20
-  },
-  {
-   "ticker": "CRWV",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 15
-  },
-  {
-   "ticker": "SOFI",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 81
+   "engagement": 22
   },
   {
    "ticker": "GOOGL",
@@ -89,63 +110,49 @@
    "engagement": 4
   },
   {
-   "ticker": "META",
+   "ticker": "AMZN",
    "mentions": 2,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 24
+   "bull": 1,
+   "bear": 1,
+   "engagement": 4
   },
   {
-   "ticker": "DUOL",
+   "ticker": "BODI",
    "mentions": 1,
    "bull": 0,
-   "bear": 0,
-   "engagement": 38
-  },
-  {
-   "ticker": "CLBK",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
+   "bear": 1,
    "engagement": 2
   },
   {
-   "ticker": "CHGG",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 5
-  },
-  {
-   "ticker": "COPY",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 16
-  },
-  {
-   "ticker": "TRVG",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 19
-  },
-  {
-   "ticker": "EXPE",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 19
-  },
-  {
-   "ticker": "SMCI",
+   "ticker": "ZETA",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
+  },
+  {
+   "ticker": "LMND",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "OSCR",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 5
   }
  ],
  "top_posts": [
+  {
+   "title": "Can we shut up about GOOG finally?",
+   "score": 645,
+   "num_comments": 571,
+   "created_utc": 1793218563,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xhz8ol/"
+  },
   {
    "title": "Meta's Muse will be a complete flop. Tell me I'm wrong.",
    "score": 624,
@@ -154,11 +161,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xhcwoa/"
   },
   {
-   "title": "Can we shut up about GOOG finally?",
-   "score": 582,
-   "num_comments": 557,
-   "created_utc": 1793218563,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xhz8ol/"
+   "title": "I don't think big tech is aware of what they have created.",
+   "score": 395,
+   "num_comments": 186,
+   "created_utc": 1793271702,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xigvj2/"
   },
   {
    "title": "If you cannot comprehend your stock or markets in general dropping 3%, 5%, 20% or whatever, you should not be in the sub",
@@ -168,23 +175,9 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xjmihg/"
   },
   {
-   "title": "I don't think big tech is aware of what they have created.",
-   "score": 318,
-   "num_comments": 161,
-   "created_utc": 1793271702,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xigvj2/"
-  },
-  {
-   "title": "Is GOOGL a buy?",
-   "score": 276,
-   "num_comments": 230,
-   "created_utc": 1792834669,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xe4dju/"
-  },
-  {
    "title": "Google didn't break, Wall Street is just over reacting on earnings",
-   "score": 255,
-   "num_comments": 181,
+   "score": 281,
+   "num_comments": 185,
    "created_utc": 1793276499,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xiignd/"
   },
@@ -194,6 +187,20 @@
    "num_comments": 155,
    "created_utc": 1793648014,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xm71fj/"
+  },
+  {
+   "title": "Google is a Screaming Buy. Or is it?",
+   "score": 215,
+   "num_comments": 303,
+   "created_utc": 1793242203,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xi8h85/"
+  },
+  {
+   "title": "Google now below Buffett's price.  Are you buying?",
+   "score": 212,
+   "num_comments": 159,
+   "created_utc": 1793714310,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xmtmlj/"
   },
   {
    "title": "Reddit is oversold",
@@ -210,25 +217,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xjirm6/"
   },
   {
-   "title": "Google now below Buffett's price.  Are you buying?",
-   "score": 198,
-   "num_comments": 156,
-   "created_utc": 1793714310,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xmtmlj/"
-  },
-  {
-   "title": "One stock for 10 years",
-   "score": 197,
-   "num_comments": 513,
-   "created_utc": 1792804706,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xdvn6r/"
-  },
-  {
-   "title": "Google is a Screaming Buy. Or is it?",
-   "score": 189,
-   "num_comments": 282,
-   "created_utc": 1793242203,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xi8h85/"
+   "title": "Google Is Still Expensive Despite a Nearly 10% Drop After Q3 Earnings.",
+   "score": 176,
+   "num_comments": 332,
+   "created_utc": 1793262174,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xie7pf/"
   },
   {
    "title": "Google search growing 12% is not a slow down.",
@@ -238,18 +231,25 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xl8bq7/"
   },
   {
-   "title": "NFLX seems like a no-brainer at these levels - what am I missing? Please provide the bear arguments!",
-   "score": 169,
-   "num_comments": 358,
-   "created_utc": 1792922162,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xeycwc/"
-  },
-  {
    "title": "NFLX bag holders",
    "score": 156,
    "num_comments": 301,
    "created_utc": 1793043077,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xg6p97/"
+  },
+  {
+   "title": "RDDT fell from 33 P/E to 22 P/E at 100$ per share after earnings",
+   "score": 150,
+   "num_comments": 239,
+   "created_utc": 1793351913,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xjak85/"
+  },
+  {
+   "title": "20 stocks at a discount",
+   "score": 146,
+   "num_comments": 169,
+   "created_utc": 1793522550,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xky35h/"
   }
  ]
 }

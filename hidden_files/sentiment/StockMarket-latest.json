@@ -1,22 +1,22 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-04T19:54:00.588225+00:00",
+ "generated_at": "2026-11-05T20:07:36.574937+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-08T16:34:12+00:00",
+ "window_start": "2026-10-10T03:44:44+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
-   "mentions": 6,
-   "bull": 3,
-   "bear": 2,
-   "engagement": 335
+   "mentions": 5,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 296
   },
   {
    "ticker": "AMD",
    "mentions": 4,
    "bull": 0,
    "bear": 1,
-   "engagement": 816
+   "engagement": 973
   },
   {
    "ticker": "AVGO",
@@ -51,7 +51,7 @@
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 30
+   "engagement": 31
   },
   {
    "ticker": "SPY",
@@ -89,11 +89,11 @@
    "engagement": 58
   },
   {
-   "ticker": "META",
-   "mentions": 2,
+   "ticker": "APP",
+   "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 40
+   "engagement": 2356
   },
   {
    "ticker": "WDC",
@@ -117,14 +117,14 @@
    "engagement": 1
   },
   {
-   "ticker": "BE",
+   "ticker": "LITE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 5
   },
   {
-   "ticker": "LITE",
+   "ticker": "BE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -168,13 +168,6 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1x64yzb/"
   },
   {
-   "title": "Are you positioned to benefit from for THE ENEMY trade?",
-   "score": 3880,
-   "num_comments": 1290,
-   "created_utc": 1791478053,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1x0vzyk/"
-  },
-  {
    "title": "MRNA Trading Halted after stock dumped from $250 to $190; data leak reveals that they have NOT cured cancer after all",
    "score": 3702,
    "num_comments": 545,
@@ -190,8 +183,8 @@
   },
   {
    "title": "Alphabet (Google), is having one of the wildest days in its history",
-   "score": 2602,
-   "num_comments": 540,
+   "score": 2864,
+   "num_comments": 554,
    "created_utc": 1793282504,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xiktw3/"
   },
@@ -203,11 +196,11 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xea8br/"
   },
   {
-   "title": "Trump Posted This Picture and I Legitimately Have No Idea",
-   "score": 2100,
-   "num_comments": 775,
-   "created_utc": 1791512330,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1x19jv0/"
+   "title": "Americans overwhelmingly voted against data centers in the midterms",
+   "score": 1988,
+   "num_comments": 234,
+   "created_utc": 1793807059,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xnri1d/"
   },
   {
    "title": "There's gonna be a bloodbath of Neocloud on Monday",
@@ -224,11 +217,11 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1x6kfvn/"
   },
   {
-   "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-   "score": 1688,
-   "num_comments": 64,
-   "created_utc": 1791477252,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1x0vnok/"
+   "title": "NASDAQ futures down 4.5%. What the actual F is happening to this market?",
+   "score": 1472,
+   "num_comments": 884,
+   "created_utc": 1793892168,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xolejn/"
   },
   {
    "title": "It\u2019s Finally Friday!",
@@ -250,6 +243,13 @@
    "num_comments": 430,
    "created_utc": 1792711478,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xcy34q/"
+  },
+  {
+   "title": "Amazon\u2019s Free Cash Flow aka Cash Burn is now -42.4B TTM.",
+   "score": 1198,
+   "num_comments": 141,
+   "created_utc": 1793320157,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xj13qp/"
   }
  ]
 }

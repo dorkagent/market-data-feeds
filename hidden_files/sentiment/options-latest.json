@@ -1,15 +1,15 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-04T19:54:29.164671+00:00",
+ "generated_at": "2026-11-05T20:08:01.817872+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-23T22:12:20+00:00",
+ "window_start": "2026-09-24T20:22:25+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
    "mentions": 8,
-   "bull": 4,
-   "bear": 2,
-   "engagement": 225
+   "bull": 5,
+   "bear": 3,
+   "engagement": 235
   },
   {
    "ticker": "QQQ",
@@ -19,6 +19,13 @@
    "engagement": 245
   },
   {
+   "ticker": "GME",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 8
+  },
+  {
    "ticker": "TSLA",
    "mentions": 3,
    "bull": 2,
@@ -26,18 +33,11 @@
    "engagement": 88
   },
   {
-   "ticker": "NBIS",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 15
-  },
-  {
-   "ticker": "GME",
-   "mentions": 3,
+   "ticker": "MSFT",
+   "mentions": 2,
    "bull": 2,
-   "bear": 1,
-   "engagement": 18
+   "bear": 2,
+   "engagement": 211
   },
   {
    "ticker": "TLT",
@@ -52,6 +52,20 @@
    "bull": 2,
    "bear": 1,
    "engagement": 2
+  },
+  {
+   "ticker": "SOFI",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "META",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 190
   },
   {
    "ticker": "INO",
@@ -96,21 +110,14 @@
    "engagement": 1
   },
   {
-   "ticker": "MSFT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 21
-  },
-  {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 3
   },
   {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -124,25 +131,18 @@
    "engagement": 22
   },
   {
+   "ticker": "NBIS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 13
+  },
+  {
    "ticker": "BB",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 16
-  },
-  {
-   "ticker": "INTC",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 17
-  },
-  {
-   "ticker": "TEM",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 17
   }
  ],
  "top_posts": [
@@ -169,17 +169,24 @@
   },
   {
    "title": "Boyfriend lost all money to trading options. Again. Our relationship is in deep dookie.",
-   "score": 226,
-   "num_comments": 273,
+   "score": 356,
+   "num_comments": 361,
    "created_utc": 1793759801,
    "url": "https://www.reddit.com/r/options/comments/1xncptw/"
   },
   {
    "title": "I backtested a simple 0DTE SPX strategy for 2 years. Is this overfit or actually realistic?",
-   "score": 141,
-   "num_comments": 97,
+   "score": 151,
+   "num_comments": 112,
    "created_utc": 1793715846,
    "url": "https://www.reddit.com/r/options/comments/1xmu9tv/"
+  },
+  {
+   "title": "Dummy's guide to financing LEAPs for free",
+   "score": 138,
+   "num_comments": 52,
+   "created_utc": 1793827044,
+   "url": "https://www.reddit.com/r/options/comments/1xo07k3/"
   },
   {
    "title": "Weeklies beat monthlies for selling premium and it\u2019s not close. Prove me wrong.",
@@ -196,6 +203,13 @@
    "url": "https://www.reddit.com/r/options/comments/1xand3o/"
   },
   {
+   "title": "Beat The Market Selling LEAPS",
+   "score": 107,
+   "num_comments": 85,
+   "created_utc": 1793294489,
+   "url": "https://www.reddit.com/r/options/comments/1xiq83v/"
+  },
+  {
    "title": "Are there any consistently profitable retail options traders who trade for a living?",
    "score": 107,
    "num_comments": 250,
@@ -208,6 +222,13 @@
    "num_comments": 92,
    "created_utc": 1791678277,
    "url": "https://www.reddit.com/r/options/comments/1x2uabt/"
+  },
+  {
+   "title": "I plotted every retail 0-DTE SPX spread sold this month",
+   "score": 98,
+   "num_comments": 22,
+   "created_utc": 1793302733,
+   "url": "https://www.reddit.com/r/options/comments/1xitwi7/"
   },
   {
    "title": "I backtested 17,100 option-selling strategies on SPY and QQQ (2022 to 2026)",
@@ -224,32 +245,11 @@
    "url": "https://www.reddit.com/r/options/comments/1xl811x/"
   },
   {
-   "title": "Beat The Market Selling LEAPS",
-   "score": 70,
-   "num_comments": 69,
-   "created_utc": 1793294489,
-   "url": "https://www.reddit.com/r/options/comments/1xiq83v/"
-  },
-  {
-   "title": "I plotted every retail 0-DTE SPX spread sold this month",
-   "score": 67,
-   "num_comments": 16,
-   "created_utc": 1793302733,
-   "url": "https://www.reddit.com/r/options/comments/1xitwi7/"
-  },
-  {
    "title": "Schwab Options Order",
    "score": 55,
    "num_comments": 80,
    "created_utc": 1792421897,
    "url": "https://www.reddit.com/r/options/comments/1x9z5ge/"
-  },
-  {
-   "title": "An intuitive way to price an option",
-   "score": 54,
-   "num_comments": 29,
-   "created_utc": 1790948186,
-   "url": "https://www.reddit.com/r/options/comments/1wvu0qq/"
   }
  ]
 }
