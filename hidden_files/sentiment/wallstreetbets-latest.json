@@ -1,255 +1,255 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-11-05T20:06:42.081339+00:00",
+ "generated_at": "2026-11-06T19:31:35.873564+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-04T06:38:29+00:00",
+ "window_start": "2026-11-05T18:19:24+00:00",
  "top_tickers": [
   {
-   "ticker": "APP",
+   "ticker": "DVLT",
    "mentions": 6,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 200
-  },
-  {
-   "ticker": "SPY",
-   "mentions": 5,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 238
-  },
-  {
-   "ticker": "SWBI",
-   "mentions": 5,
    "bull": 0,
    "bear": 0,
    "engagement": 5
   },
   {
-   "ticker": "AMD",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 28
+   "ticker": "SPY",
+   "mentions": 5,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 81
   },
   {
-   "ticker": "NVDA",
+   "ticker": "QQQ",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 733
+  },
+  {
+   "ticker": "UEC",
+   "mentions": 4,
+   "bull": 4,
+   "bear": 0,
+   "engagement": 22
+  },
+  {
+   "ticker": "SOXL",
+   "mentions": 4,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 291
+  },
+  {
+   "ticker": "AI",
    "mentions": 3,
    "bull": 1,
-   "bear": 0,
+   "bear": 2,
    "engagement": 10
   },
   {
-   "ticker": "AMZN",
-   "mentions": 3,
-   "bull": 3,
-   "bear": 1,
-   "engagement": 197
-  },
-  {
-   "ticker": "NBIS",
+   "ticker": "UIS",
    "mentions": 2,
    "bull": 0,
-   "bear": 1,
-   "engagement": 4
-  },
-  {
-   "ticker": "MU",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 8
-  },
-  {
-   "ticker": "WEN",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 6
-  },
-  {
-   "ticker": "GOOGL",
-   "mentions": 2,
-   "bull": 1,
    "bear": 2,
-   "engagement": 19
-  },
-  {
-   "ticker": "FIG",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "DJT",
+   "ticker": "HTZ",
    "mentions": 2,
    "bull": 0,
-   "bear": 2,
-   "engagement": 770
+   "bear": 0,
+   "engagement": 0
   },
   {
-   "ticker": "RUN",
+   "ticker": "ARM",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 18
+  },
+  {
+   "ticker": "APP",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "SGOV",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "YELP",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
+  },
+  {
+   "ticker": "XERS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "PAD",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 0
+  },
+  {
+   "ticker": "NFLX",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 50
+  },
+  {
+   "ticker": "GRND",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3613
+  },
+  {
+   "ticker": "ET",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "ANT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 3
   },
   {
    "ticker": "MSTR",
    "mentions": 1,
    "bull": 0,
-   "bear": 0,
-   "engagement": 3
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 19
-  },
-  {
-   "ticker": "SMTC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 7
-  },
-  {
-   "ticker": "ASTS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "AMC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 47
-  },
-  {
-   "ticker": "IONQ",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "CHTR",
-   "mentions": 1,
-   "bull": 1,
    "bear": 1,
-   "engagement": 17
+   "engagement": 1
   }
  ],
  "top_posts": [
   {
-   "title": "Buy the dip",
-   "score": 20428,
-   "num_comments": 887,
-   "created_utc": 1793886684,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xoj597/"
+   "title": "Chip stocks get slaughtered as Wall Street heads for its worst post-midterm day since 1896",
+   "score": 13124,
+   "num_comments": 1235,
+   "created_utc": 1793905442,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xor7rm/"
   },
   {
-   "title": "Suicide is never the answer, 800-273-8255",
-   "score": 7363,
-   "num_comments": 654,
-   "created_utc": 1793896346,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xon6o3/"
+   "title": "$700 to 100k today",
+   "score": 9907,
+   "num_comments": 1583,
+   "created_utc": 1793911034,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xotkmz/"
   },
   {
-   "title": "Market green, portfolio red. Classic.",
-   "score": 5840,
-   "num_comments": 298,
-   "created_utc": 1793817754,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xnw7vq/"
+   "title": "Get ready bois",
+   "score": 8861,
+   "num_comments": 458,
+   "created_utc": 1793953892,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp7rcd/"
   },
   {
-   "title": "I told u.",
-   "score": 2281,
-   "num_comments": 405,
-   "created_utc": 1793892680,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xolme8/"
+   "title": "Anyone with 300k capital gains(preferably female) that wants to get married?",
+   "score": 7989,
+   "num_comments": 399,
+   "created_utc": 1793958343,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp8vcw/"
   },
   {
-   "title": "Democrats realizing it\u2019s finally their turn to insider trade.",
-   "score": 1597,
-   "num_comments": 92,
-   "created_utc": 1793881191,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xoh8qa/"
+   "title": "Wind of change",
+   "score": 7562,
+   "num_comments": 342,
+   "created_utc": 1793918991,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xowsna/"
   },
   {
-   "title": "$1300 to $111k in 2 days",
-   "score": 1492,
-   "num_comments": 315,
-   "created_utc": 1793895759,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xomxf5/"
+   "title": "BY POPULAR DEMAND - ZOOM OUT",
+   "score": 2895,
+   "num_comments": 176,
+   "created_utc": 1793930715,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp0znu/"
   },
   {
-   "title": "How it feels being a Canadian waking up this morning",
-   "score": 1252,
-   "num_comments": 77,
-   "created_utc": 1793800928,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xnoyta/"
+   "title": "I\u2019m George Arison, CEO of Grindr ($GRND). We reported Q3 results yesterday -- ask me anything.",
+   "score": 2482,
+   "num_comments": 1131,
+   "created_utc": 1793981140,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xpgjl2/"
   },
   {
-   "title": "Murica for a win",
-   "score": 1220,
-   "num_comments": 89,
-   "created_utc": 1793860915,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xobuiz/"
+   "title": "ABSOLUTE BLOODBATH!",
+   "score": 1892,
+   "num_comments": 189,
+   "created_utc": 1793956485,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp8ery/"
   },
   {
-   "title": "Bought the election dip. Bought the AI dip. Now I\u2019m one dip away from a fucking GoFundMe.",
-   "score": 1211,
-   "num_comments": 135,
-   "created_utc": 1793899011,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xoocw2/"
+   "title": "Wendy\u2019s being the only stock up today is poetry",
+   "score": 1718,
+   "num_comments": 74,
+   "created_utc": 1793911919,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xotxuf/"
   },
   {
-   "title": "Defense regards realizing they have to pivot to climate tech",
-   "score": 798,
-   "num_comments": 52,
-   "created_utc": 1793882189,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xohk95/"
+   "title": "Anthropic IPO down to $1.1T",
+   "score": 1456,
+   "num_comments": 296,
+   "created_utc": 1793982908,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xphas4/"
   },
   {
-   "title": "NQ close to circuit breaker (last seen 2020). Currently down -5%, trigger is -7%.",
-   "score": 783,
-   "num_comments": 203,
-   "created_utc": 1793893205,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xolu89/"
+   "title": "WoW Forever. the real reason the ai market crashed today. just listen..",
+   "score": 1433,
+   "num_comments": 106,
+   "created_utc": 1793933198,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp1tln/"
   },
   {
-   "title": "DJT is going to get wrecked",
-   "score": 642,
-   "num_comments": 127,
-   "created_utc": 1793805847,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xnqzmc/"
+   "title": "Retail rug pulled the rug pullers",
+   "score": 1236,
+   "num_comments": 198,
+   "created_utc": 1793917363,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xow6fw/"
   },
   {
-   "title": "$1,300 to $34,000 in SPX 0dte calls gambling on a V recovery on midterms",
-   "score": 631,
-   "num_comments": 118,
-   "created_utc": 1793806647,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xnrbng/"
+   "title": "wait a damn minute",
+   "score": 1192,
+   "num_comments": 45,
+   "created_utc": 1793945748,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp5nsn/"
   },
   {
-   "title": "Is your portfolio awake yet? \ud83d\udef8",
-   "score": 506,
-   "num_comments": 112,
-   "created_utc": 1793787328,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xnkmyk/"
+   "title": "Wallstreet Boys",
+   "score": 1042,
+   "num_comments": 121,
+   "created_utc": 1793917120,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xow35s/"
   },
   {
-   "title": "US weekly jobless claims at 57-year lows amid low layoffs",
-   "score": 498,
-   "num_comments": 199,
-   "created_utc": 1793887040,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xoja30/"
+   "title": "Average WSB regard looking at \u2018the dip\u2019 now",
+   "score": 918,
+   "num_comments": 84,
+   "created_utc": 1793923783,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xoyl6t/"
   }
  ]
 }

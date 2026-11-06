@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-05T20:07:00.373277+00:00",
+ "generated_at": "2026-11-06T19:31:43.867465+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-15T08:00:41+00:00",
+ "window_start": "2026-10-16T16:27:04+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -19,6 +19,13 @@
    "engagement": 94
   },
   {
+   "ticker": "RDDT",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 9
+  },
+  {
    "ticker": "NFLX",
    "mentions": 2,
    "bull": 1,
@@ -33,6 +40,20 @@
    "engagement": 4
   },
   {
+   "ticker": "BTC",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 6
+  },
+  {
+   "ticker": "UBER",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 8
+  },
+  {
    "ticker": "AAPL",
    "mentions": 1,
    "bull": 1,
@@ -40,7 +61,7 @@
    "engagement": 16
   },
   {
-   "ticker": "ZETA",
+   "ticker": "APP",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -54,7 +75,7 @@
    "engagement": 12
   },
   {
-   "ticker": "APP",
+   "ticker": "ZETA",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -65,14 +86,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 25
-  },
-  {
-   "ticker": "RDDT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
+   "engagement": 24
   },
   {
    "ticker": "SN",
@@ -100,7 +114,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 4
+   "engagement": 3
   },
   {
    "ticker": "ANT",
@@ -129,20 +143,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 1
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "PLTR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 47
   }
  ],
  "top_posts": [
@@ -168,11 +168,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1xfwwbo/"
   },
   {
-   "title": "Wholesale prices jump in a wild 6.3% rally, biggest gain since 2022 when inflation ran almost 10%",
-   "score": 778,
-   "num_comments": 166,
-   "created_utc": 1792068232,
-   "url": "https://www.reddit.com/r/investing/comments/1x6kmqw/"
+   "title": "Nasdaq down 6%, CoreWeave down 55% in a month. Is the AI trade breaking or is this a midterm overreaction?",
+   "score": 800,
+   "num_comments": 442,
+   "created_utc": 1793894783,
+   "url": "https://www.reddit.com/r/investing/comments/1xomi9p/"
+  },
+  {
+   "title": "Anthropic's IPO valuation collapses from 1.5 trillion. Rumors of a delay beginning to circulate. WeWork scenario can still be avoided provid",
+   "score": 695,
+   "num_comments": 124,
+   "created_utc": 1793921671,
+   "url": "https://www.reddit.com/r/investing/comments/1xoxssu/"
   },
   {
    "title": "OpenAI just cut it's latest funding round target by $10B and slashed the valuation to 1.25T",
@@ -180,6 +187,13 @@
    "num_comments": 577,
    "created_utc": 1793410476,
    "url": "https://www.reddit.com/r/investing/comments/1xjxjqv/"
+  },
+  {
+   "title": "Another GOOGL buying opportunity",
+   "score": 674,
+   "num_comments": 227,
+   "created_utc": 1793321148,
+   "url": "https://www.reddit.com/r/investing/comments/1xj1fyh/"
   },
   {
    "title": "Three of the four biggest AI spenders now report negative free cash flow",
@@ -203,13 +217,6 @@
    "url": "https://www.reddit.com/r/investing/comments/1xnfjmf/"
   },
   {
-   "title": "Another GOOGL buying opportunity",
-   "score": 550,
-   "num_comments": 199,
-   "created_utc": 1793321148,
-   "url": "https://www.reddit.com/r/investing/comments/1xj1fyh/"
-  },
-  {
    "title": "How are cryptocurrencies not the dumbest thing ever?",
    "score": 504,
    "num_comments": 824,
@@ -217,25 +224,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1x9r2z3/"
   },
   {
+   "title": "Buying the dip on individual stocks or adding to index funds: what's your approach to this pullback?",
+   "score": 437,
+   "num_comments": 231,
+   "created_utc": 1793355095,
+   "url": "https://www.reddit.com/r/investing/comments/1xjbfdg/"
+  },
+  {
    "title": "Brent at $117 and the SPR has nothing left to give if this gets worse",
    "score": 363,
    "num_comments": 126,
    "created_utc": 1792857330,
    "url": "https://www.reddit.com/r/investing/comments/1xec7qy/"
-  },
-  {
-   "title": "Buying the dip on individual stocks or adding to index funds: what's your approach to this pullback?",
-   "score": 362,
-   "num_comments": 202,
-   "created_utc": 1793355095,
-   "url": "https://www.reddit.com/r/investing/comments/1xjbfdg/"
-  },
-  {
-   "title": "Coreweave buys 8% of NVIDIA chips, and NVIDIA backs Coreweave. Now Coreweave is having trouble, how about NVIDIA's revenue?",
-   "score": 349,
-   "num_comments": 141,
-   "created_utc": 1792115737,
-   "url": "https://www.reddit.com/r/investing/comments/1x73wod/"
   },
   {
    "title": "Anthropic will pay up to $120.5B for SpaceX's AI Compute",
@@ -246,8 +246,8 @@
   },
   {
    "title": "67% Returns according to Trump",
-   "score": 314,
-   "num_comments": 339,
+   "score": 339,
+   "num_comments": 344,
    "created_utc": 1793314789,
    "url": "https://www.reddit.com/r/investing/comments/1xiz19z/"
   }

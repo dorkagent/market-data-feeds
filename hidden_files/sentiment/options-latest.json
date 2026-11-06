@@ -1,15 +1,15 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-05T20:08:01.817872+00:00",
+ "generated_at": "2026-11-06T19:32:26.148094+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-24T20:22:25+00:00",
+ "window_start": "2026-09-25T23:06:04+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
-   "mentions": 8,
+   "mentions": 9,
    "bull": 5,
-   "bear": 3,
-   "engagement": 235
+   "bear": 4,
+   "engagement": 406
   },
   {
    "ticker": "QQQ",
@@ -37,7 +37,7 @@
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 211
+   "engagement": 287
   },
   {
    "ticker": "TLT",
@@ -47,25 +47,18 @@
    "engagement": 23
   },
   {
-   "ticker": "NVDA",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 2
-  },
-  {
    "ticker": "SOFI",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 31
   },
   {
    "ticker": "META",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 190
+   "engagement": 266
   },
   {
    "ticker": "INO",
@@ -110,14 +103,14 @@
    "engagement": 1
   },
   {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 3
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -143,6 +136,13 @@
    "bull": 1,
    "bear": 0,
    "engagement": 16
+  },
+  {
+   "ticker": "TEM",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 17
   }
  ],
  "top_posts": [
@@ -175,18 +175,18 @@
    "url": "https://www.reddit.com/r/options/comments/1xncptw/"
   },
   {
+   "title": "Dummy's guide to financing LEAPs for free",
+   "score": 202,
+   "num_comments": 64,
+   "created_utc": 1793827044,
+   "url": "https://www.reddit.com/r/options/comments/1xo07k3/"
+  },
+  {
    "title": "I backtested a simple 0DTE SPX strategy for 2 years. Is this overfit or actually realistic?",
    "score": 151,
    "num_comments": 112,
    "created_utc": 1793715846,
    "url": "https://www.reddit.com/r/options/comments/1xmu9tv/"
-  },
-  {
-   "title": "Dummy's guide to financing LEAPs for free",
-   "score": 138,
-   "num_comments": 52,
-   "created_utc": 1793827044,
-   "url": "https://www.reddit.com/r/options/comments/1xo07k3/"
   },
   {
    "title": "Weeklies beat monthlies for selling premium and it\u2019s not close. Prove me wrong.",
@@ -201,6 +201,13 @@
    "num_comments": 66,
    "created_utc": 1792487868,
    "url": "https://www.reddit.com/r/options/comments/1xand3o/"
+  },
+  {
+   "title": "Last 24 hours, 2 biggest mistakes of my life!!!",
+   "score": 109,
+   "num_comments": 55,
+   "created_utc": 1793942016,
+   "url": "https://www.reddit.com/r/options/comments/1xp4l5d/"
   },
   {
    "title": "Beat The Market Selling LEAPS",
@@ -243,13 +250,6 @@
    "num_comments": 14,
    "created_utc": 1793552015,
    "url": "https://www.reddit.com/r/options/comments/1xl811x/"
-  },
-  {
-   "title": "Schwab Options Order",
-   "score": 55,
-   "num_comments": 80,
-   "created_utc": 1792421897,
-   "url": "https://www.reddit.com/r/options/comments/1x9z5ge/"
   }
  ]
 }

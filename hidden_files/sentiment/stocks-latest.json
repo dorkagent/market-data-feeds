@@ -1,71 +1,113 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-05T20:07:22.339480+00:00",
+ "generated_at": "2026-11-06T19:31:50.284218+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-28T21:11:13+00:00",
+ "window_start": "2026-10-30T18:15:58+00:00",
  "top_tickers": [
   {
-   "ticker": "RDDT",
-   "mentions": 10,
-   "bull": 5,
-   "bear": 5,
-   "engagement": 1418
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 5,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 35
-  },
-  {
    "ticker": "AMD",
-   "mentions": 4,
-   "bull": 1,
+   "mentions": 6,
+   "bull": 2,
    "bear": 0,
-   "engagement": 1052
+   "engagement": 1087
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 6,
+   "bull": 3,
+   "bear": 2,
+   "engagement": 433
   },
   {
    "ticker": "AAPL",
-   "mentions": 4,
+   "mentions": 5,
    "bull": 1,
-   "bear": 3,
-   "engagement": 55
-  },
-  {
-   "ticker": "UBER",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 18
+   "bear": 4,
+   "engagement": 57
   },
   {
    "ticker": "NVDA",
-   "mentions": 3,
-   "bull": 1,
+   "mentions": 4,
+   "bull": 2,
    "bear": 0,
-   "engagement": 3
+   "engagement": 39
   },
   {
-   "ticker": "MSFT",
+   "ticker": "UBER",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 210
+  },
+  {
+   "ticker": "SPY",
    "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 1379
+   "engagement": 15
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 37
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 27
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 35
   },
   {
    "ticker": "NBIS",
    "mentions": 2,
    "bull": 2,
    "bear": 1,
-   "engagement": 255
+   "engagement": 304
   },
   {
-   "ticker": "INTC",
-   "mentions": 2,
+   "ticker": "YELP",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 4
+   "engagement": 2
+  },
+  {
+   "ticker": "APP",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "YALA",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "ZETA",
@@ -75,25 +117,25 @@
    "engagement": 2
   },
   {
-   "ticker": "META",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 31
-  },
-  {
    "ticker": "GOOGL",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 31
+   "engagement": 34
   },
   {
    "ticker": "ORCL",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 31
+   "engagement": 34
+  },
+  {
+   "ticker": "META",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 34
   },
   {
    "ticker": "SMCI",
@@ -101,64 +143,15 @@
    "bull": 0,
    "bear": 0,
    "engagement": 2
-  },
-  {
-   "ticker": "ARI",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 5
-  },
-  {
-   "ticker": "COIN",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 30
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1334
-  },
-  {
-   "ticker": "MRVL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "LLY",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 31
-  },
-  {
-   "ticker": "NVO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 31
   }
  ],
  "top_posts": [
   {
    "title": "Dow Surges Over 1,000 Points in Broad Market Rebound",
-   "score": 2650,
-   "num_comments": 235,
+   "score": 2668,
+   "num_comments": 260,
    "created_utc": 1793803686,
    "url": "https://www.reddit.com/r/stocks/comments/1xnq2z6/"
-  },
-  {
-   "title": "GOOG is now defaulting to search output again rather than defaulting automatically to Gemini",
-   "score": 2554,
-   "num_comments": 285,
-   "created_utc": 1793317614,
-   "url": "https://www.reddit.com/r/stocks/comments/1xj04r1/"
   },
   {
    "title": "Anthropic is eyeing a $1.5T IPO while all of Google sits at ~$3.5T. The market\u2019s math makes zero sense.",
@@ -168,39 +161,46 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xjvaks/"
   },
   {
-   "title": "Stocks UP pre-market after Democrats sweep Congress in repudiation of Trump",
-   "score": 1379,
-   "num_comments": 297,
-   "created_utc": 1793783334,
-   "url": "https://www.reddit.com/r/stocks/comments/1xnjlxz/"
+   "title": "Anybody buying the dip",
+   "score": 1974,
+   "num_comments": 2673,
+   "created_utc": 1793892862,
+   "url": "https://www.reddit.com/r/stocks/comments/1xolp0d/"
   },
   {
    "title": "AI selloff escalates: Nasdaq 100 plummets 5.7%, Nasdaq tumbles 5%, S&P 500 falls 3.5%, and the Dow reverses earlier gains",
-   "score": 950,
-   "num_comments": 424,
+   "score": 1880,
+   "num_comments": 869,
    "created_utc": 1793893913,
    "url": "https://www.reddit.com/r/stocks/comments/1xom4pn/"
   },
   {
-   "title": "Did anyone notice Kevin Warsh used the term \u2018super intelligence\u2019 in the FOMC presser? Has the Fed clearly lost independence?",
-   "score": 867,
-   "num_comments": 152,
-   "created_utc": 1793279423,
-   "url": "https://www.reddit.com/r/stocks/comments/1xijjls/"
+   "title": "Stocks UP pre-market after Democrats sweep Congress in repudiation of Trump",
+   "score": 1397,
+   "num_comments": 312,
+   "created_utc": 1793783334,
+   "url": "https://www.reddit.com/r/stocks/comments/1xnjlxz/"
   },
   {
-   "title": "Isn\u2019t it weird that TSLA stock is detached for the reality for THIS long",
-   "score": 809,
-   "num_comments": 525,
-   "created_utc": 1793322993,
-   "url": "https://www.reddit.com/r/stocks/comments/1xj2391/"
+   "title": "Everyone is talking about AI, but EVERYTHING is over the cliff today. What's going on?",
+   "score": 1010,
+   "num_comments": 1137,
+   "created_utc": 1793894835,
+   "url": "https://www.reddit.com/r/stocks/comments/1xomj2e/"
   },
   {
-   "title": "GOOGL: Everyone Was Bullish Yesterday, Now Google Is Suddenly Dead?",
-   "score": 806,
-   "num_comments": 541,
-   "created_utc": 1793244078,
-   "url": "https://www.reddit.com/r/stocks/comments/1xi93uc/"
+   "title": "Dear Reddit - The stock market isn't broken",
+   "score": 953,
+   "num_comments": 294,
+   "created_utc": 1793907262,
+   "url": "https://www.reddit.com/r/stocks/comments/1xorznf/"
+  },
+  {
+   "title": "Anthropic may need to delay its IPO, major investors speculate. Valuation drops closer to the one trillion mark.",
+   "score": 832,
+   "num_comments": 235,
+   "created_utc": 1793921182,
+   "url": "https://www.reddit.com/r/stocks/comments/1xoxm76/"
   },
   {
    "title": "Anthropic Reports 1,127% Revenue Surge, $895 Billion in Commitments",
@@ -217,18 +217,25 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xkft7x/"
   },
   {
-   "title": "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
-   "score": 724,
-   "num_comments": 186,
-   "created_utc": 1793364307,
-   "url": "https://www.reddit.com/r/stocks/comments/1xjedyq/"
+   "title": "V shaped recovery incoming within 30 days.",
+   "score": 680,
+   "num_comments": 353,
+   "created_utc": 1793895599,
+   "url": "https://www.reddit.com/r/stocks/comments/1xomuwg/"
   },
   {
-   "title": "BREAKING: Cryptocurrency exchange Binance confirms it was the target of a $6.3 billion crypto heist Thursday, believed to be the largest eve",
-   "score": 670,
-   "num_comments": 102,
-   "created_utc": 1793337172,
-   "url": "https://www.reddit.com/r/stocks/comments/1xj6pk9/"
+   "title": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil.",
+   "score": 651,
+   "num_comments": 82,
+   "created_utc": 1793827358,
+   "url": "https://www.reddit.com/r/stocks/comments/1xo0cat/"
+  },
+  {
+   "title": "Chip stocks get slaughtered as Wall Street heads for its worst post-midterm day since 1896",
+   "score": 621,
+   "num_comments": 213,
+   "created_utc": 1793898605,
+   "url": "https://www.reddit.com/r/stocks/comments/1xoo6ex/"
   },
   {
    "title": "OpenAI CEO Sam Altman Thinks It's 'Terrible' for You to Have RAM in Your PC",
@@ -238,18 +245,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xk9rn1/"
   },
   {
-   "title": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil.",
-   "score": 608,
-   "num_comments": 62,
-   "created_utc": 1793827358,
-   "url": "https://www.reddit.com/r/stocks/comments/1xo0cat/"
-  },
-  {
-   "title": "GOOG \u2b07\ufe0f 10%: Still the strongest AI stock despite the noise of Search! 14 P/E, $514B Cloud Backlog and $62B TPU Silicon Printing press.",
-   "score": 487,
-   "num_comments": 341,
-   "created_utc": 1793224733,
-   "url": "https://www.reddit.com/r/stocks/comments/1xi1w4h/"
+   "title": "SOXX, Semis are CRASHING",
+   "score": 341,
+   "num_comments": 330,
+   "created_utc": 1793890839,
+   "url": "https://www.reddit.com/r/stocks/comments/1xoktnd/"
   }
  ]
 }

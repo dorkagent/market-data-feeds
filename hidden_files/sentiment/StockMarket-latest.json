@@ -1,9 +1,16 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-05T20:07:36.574937+00:00",
+ "generated_at": "2026-11-06T19:32:01.524524+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-10T03:44:44+00:00",
+ "window_start": "2026-10-12T17:04:54+00:00",
  "top_tickers": [
+  {
+   "ticker": "NVDA",
+   "mentions": 6,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 16
+  },
   {
    "ticker": "RDDT",
    "mentions": 5,
@@ -16,7 +23,7 @@
    "mentions": 4,
    "bull": 0,
    "bear": 1,
-   "engagement": 973
+   "engagement": 987
   },
   {
    "ticker": "AVGO",
@@ -24,13 +31,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 128
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 5
   },
   {
    "ticker": "AAPL",
@@ -52,13 +52,6 @@
    "bull": 0,
    "bear": 1,
    "engagement": 31
-  },
-  {
-   "ticker": "SPY",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 91
   },
   {
    "ticker": "AMZN",
@@ -89,14 +82,28 @@
    "engagement": 58
   },
   {
+   "ticker": "MU",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 10
+  },
+  {
+   "ticker": "CLS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 10
+  },
+  {
    "ticker": "APP",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 2356
+   "engagement": 8913
   },
   {
-   "ticker": "WDC",
+   "ticker": "VST",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -110,18 +117,18 @@
    "engagement": 1
   },
   {
-   "ticker": "VST",
+   "ticker": "WDC",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "LITE",
+   "ticker": "SPY",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 5
+   "engagement": 90
   },
   {
    "ticker": "BE",
@@ -131,21 +138,28 @@
    "engagement": 5
   },
   {
-   "ticker": "RAPP",
+   "ticker": "LITE",
    "mentions": 1,
    "bull": 1,
-   "bear": 1,
-   "engagement": 7
-  },
-  {
-   "ticker": "TRUMP",
-   "mentions": 1,
-   "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 5
   }
  ],
  "top_posts": [
+  {
+   "title": "$2.5 TRILLION has been wiped from US stocks.",
+   "score": 34015,
+   "num_comments": 4409,
+   "created_utc": 1793901645,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/"
+  },
+  {
+   "title": "Almost a trillion USD wiped out",
+   "score": 19378,
+   "num_comments": 1883,
+   "created_utc": 1793378482,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xjkelc/"
+  },
   {
    "title": "US$700Bn wiped out in 2.5 hours",
    "score": 15147,
@@ -154,18 +168,18 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xm901d/"
   },
   {
-   "title": "Almost a trillion USD wiped out",
-   "score": 12569,
-   "num_comments": 1546,
-   "created_utc": 1793378482,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xjkelc/"
-  },
-  {
    "title": "$1 trillion wiped out from the US stock market today.",
    "score": 8354,
    "num_comments": 1037,
    "created_utc": 1792016646,
    "url": "https://www.reddit.com/r/StockMarket/comments/1x64yzb/"
+  },
+  {
+   "title": "NASDAQ futures down 4.5%. What the actual F is happening to this market?",
+   "score": 5971,
+   "num_comments": 2942,
+   "created_utc": 1793892168,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xolejn/"
   },
   {
    "title": "MRNA Trading Halted after stock dumped from $250 to $190; data leak reveals that they have NOT cured cancer after all",
@@ -196,9 +210,16 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xea8br/"
   },
   {
+   "title": "Sorry for crashing the market. I Just moved 150k over.",
+   "score": 2421,
+   "num_comments": 159,
+   "created_utc": 1793920873,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xoxi47/"
+  },
+  {
    "title": "Americans overwhelmingly voted against data centers in the midterms",
-   "score": 1988,
-   "num_comments": 234,
+   "score": 2158,
+   "num_comments": 282,
    "created_utc": 1793807059,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xnri1d/"
   },
@@ -217,16 +238,9 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1x6kfvn/"
   },
   {
-   "title": "NASDAQ futures down 4.5%. What the actual F is happening to this market?",
-   "score": 1472,
-   "num_comments": 884,
-   "created_utc": 1793892168,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xolejn/"
-  },
-  {
    "title": "It\u2019s Finally Friday!",
-   "score": 1450,
-   "num_comments": 38,
+   "score": 1734,
+   "num_comments": 43,
    "created_utc": 1793379759,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xjkzpj/"
   },
@@ -236,20 +250,6 @@
    "num_comments": 31,
    "created_utc": 1793440789,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xk69kt/"
-  },
-  {
-   "title": "Extreme Fear is here, who is buying?",
-   "score": 1216,
-   "num_comments": 430,
-   "created_utc": 1792711478,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xcy34q/"
-  },
-  {
-   "title": "Amazon\u2019s Free Cash Flow aka Cash Burn is now -42.4B TTM.",
-   "score": 1198,
-   "num_comments": 141,
-   "created_utc": 1793320157,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xj13qp/"
   }
  ]
 }
