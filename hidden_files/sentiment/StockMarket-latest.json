@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-06T19:32:01.524524+00:00",
+ "generated_at": "2026-11-07T17:47:14.435028+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-12T17:04:54+00:00",
+ "window_start": "2026-10-13T04:19:17+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -100,17 +100,10 @@
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 8913
+   "engagement": 9219
   },
   {
    "ticker": "VST",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "CLSK",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -124,6 +117,13 @@
    "engagement": 1
   },
   {
+   "ticker": "CLSK",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "SPY",
    "mentions": 1,
    "bull": 1,
@@ -131,14 +131,14 @@
    "engagement": 90
   },
   {
-   "ticker": "BE",
+   "ticker": "LITE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 5
   },
   {
-   "ticker": "LITE",
+   "ticker": "BE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -148,8 +148,8 @@
  "top_posts": [
   {
    "title": "$2.5 TRILLION has been wiped from US stocks.",
-   "score": 34015,
-   "num_comments": 4409,
+   "score": 35034,
+   "num_comments": 4482,
    "created_utc": 1793901645,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/"
   },
@@ -176,8 +176,8 @@
   },
   {
    "title": "NASDAQ futures down 4.5%. What the actual F is happening to this market?",
-   "score": 5971,
-   "num_comments": 2942,
+   "score": 6153,
+   "num_comments": 3066,
    "created_utc": 1793892168,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xolejn/"
   },
@@ -196,6 +196,13 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xbarw9/"
   },
   {
+   "title": "Sorry for crashing the market. I Just moved 150k over.",
+   "score": 3016,
+   "num_comments": 180,
+   "created_utc": 1793920873,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xoxi47/"
+  },
+  {
    "title": "Alphabet (Google), is having one of the wildest days in its history",
    "score": 2864,
    "num_comments": 554,
@@ -210,18 +217,18 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xea8br/"
   },
   {
-   "title": "Sorry for crashing the market. I Just moved 150k over.",
-   "score": 2421,
-   "num_comments": 159,
-   "created_utc": 1793920873,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xoxi47/"
-  },
-  {
    "title": "Americans overwhelmingly voted against data centers in the midterms",
    "score": 2158,
    "num_comments": 282,
    "created_utc": 1793807059,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xnri1d/"
+  },
+  {
+   "title": "4 all the new ones: Trading in a nutshell",
+   "score": 1973,
+   "num_comments": 85,
+   "created_utc": 1793947463,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xp64cy/"
   },
   {
    "title": "There's gonna be a bloodbath of Neocloud on Monday",
@@ -243,13 +250,6 @@
    "num_comments": 43,
    "created_utc": 1793379759,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xjkzpj/"
-  },
-  {
-   "title": "Happy Halloween guys",
-   "score": 1421,
-   "num_comments": 31,
-   "created_utc": 1793440789,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xk69kt/"
   }
  ]
 }

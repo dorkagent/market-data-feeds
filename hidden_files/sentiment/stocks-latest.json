@@ -1,57 +1,57 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-06T19:31:50.284218+00:00",
+ "generated_at": "2026-11-07T17:47:07.907201+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-30T18:15:58+00:00",
+ "window_start": "2026-10-31T14:45:34+00:00",
  "top_tickers": [
+  {
+   "ticker": "QUBT",
+   "mentions": 6,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 11
+  },
   {
    "ticker": "AMD",
    "mentions": 6,
    "bull": 2,
    "bear": 0,
-   "engagement": 1087
+   "engagement": 1091
   },
   {
    "ticker": "RDDT",
-   "mentions": 6,
-   "bull": 3,
-   "bear": 2,
-   "engagement": 433
-  },
-  {
-   "ticker": "AAPL",
    "mentions": 5,
-   "bull": 1,
-   "bear": 4,
-   "engagement": 57
+   "bull": 2,
+   "bear": 1,
+   "engagement": 177
   },
   {
    "ticker": "NVDA",
    "mentions": 4,
    "bull": 2,
    "bear": 0,
-   "engagement": 39
+   "engagement": 38
   },
   {
    "ticker": "UBER",
    "mentions": 4,
    "bull": 1,
    "bear": 1,
-   "engagement": 210
+   "engagement": 317
+  },
+  {
+   "ticker": "AAPL",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 57
   },
   {
    "ticker": "SPY",
    "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 15
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 37
+   "engagement": 27
   },
   {
    "ticker": "TSLA",
@@ -68,6 +68,13 @@
    "engagement": 27
   },
   {
+   "ticker": "AMZN",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 36
+  },
+  {
    "ticker": "MSFT",
    "mentions": 2,
    "bull": 0,
@@ -80,6 +87,20 @@
    "bull": 2,
    "bear": 1,
    "engagement": 304
+  },
+  {
+   "ticker": "ASTS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 19
+  },
+  {
+   "ticker": "VELO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "YELP",
@@ -117,32 +138,11 @@
    "engagement": 2
   },
   {
-   "ticker": "GOOGL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 34
-  },
-  {
    "ticker": "ORCL",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 34
-  },
-  {
-   "ticker": "META",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 34
-  },
-  {
-   "ticker": "SMCI",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
   }
  ],
  "top_posts": [
@@ -154,23 +154,16 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xnq2z6/"
   },
   {
-   "title": "Anthropic is eyeing a $1.5T IPO while all of Google sits at ~$3.5T. The market\u2019s math makes zero sense.",
-   "score": 2017,
-   "num_comments": 443,
-   "created_utc": 1793404335,
-   "url": "https://www.reddit.com/r/stocks/comments/1xjvaks/"
-  },
-  {
    "title": "Anybody buying the dip",
-   "score": 1974,
-   "num_comments": 2673,
+   "score": 2193,
+   "num_comments": 2811,
    "created_utc": 1793892862,
    "url": "https://www.reddit.com/r/stocks/comments/1xolp0d/"
   },
   {
    "title": "AI selloff escalates: Nasdaq 100 plummets 5.7%, Nasdaq tumbles 5%, S&P 500 falls 3.5%, and the Dow reverses earlier gains",
-   "score": 1880,
-   "num_comments": 869,
+   "score": 1894,
+   "num_comments": 880,
    "created_utc": 1793893913,
    "url": "https://www.reddit.com/r/stocks/comments/1xom4pn/"
   },
@@ -182,25 +175,32 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xnjlxz/"
   },
   {
-   "title": "Everyone is talking about AI, but EVERYTHING is over the cliff today. What's going on?",
-   "score": 1010,
-   "num_comments": 1137,
-   "created_utc": 1793894835,
-   "url": "https://www.reddit.com/r/stocks/comments/1xomj2e/"
-  },
-  {
    "title": "Dear Reddit - The stock market isn't broken",
-   "score": 953,
-   "num_comments": 294,
+   "score": 1357,
+   "num_comments": 342,
    "created_utc": 1793907262,
    "url": "https://www.reddit.com/r/stocks/comments/1xorznf/"
   },
   {
    "title": "Anthropic may need to delay its IPO, major investors speculate. Valuation drops closer to the one trillion mark.",
-   "score": 832,
-   "num_comments": 235,
+   "score": 1048,
+   "num_comments": 279,
    "created_utc": 1793921182,
    "url": "https://www.reddit.com/r/stocks/comments/1xoxm76/"
+  },
+  {
+   "title": "Everyone is talking about AI, but EVERYTHING is over the cliff today. What's going on?",
+   "score": 1048,
+   "num_comments": 1173,
+   "created_utc": 1793894835,
+   "url": "https://www.reddit.com/r/stocks/comments/1xomj2e/"
+  },
+  {
+   "title": "Best F'ng buying opportunity in a while",
+   "score": 970,
+   "num_comments": 373,
+   "created_utc": 1793467008,
+   "url": "https://www.reddit.com/r/stocks/comments/1xkft7x/"
   },
   {
    "title": "Anthropic Reports 1,127% Revenue Surge, $895 Billion in Commitments",
@@ -210,16 +210,9 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xlyuja/"
   },
   {
-   "title": "Best F'ng buying opportunity in a while",
-   "score": 732,
-   "num_comments": 302,
-   "created_utc": 1793467008,
-   "url": "https://www.reddit.com/r/stocks/comments/1xkft7x/"
-  },
-  {
    "title": "V shaped recovery incoming within 30 days.",
-   "score": 680,
-   "num_comments": 353,
+   "score": 748,
+   "num_comments": 364,
    "created_utc": 1793895599,
    "url": "https://www.reddit.com/r/stocks/comments/1xomuwg/"
   },
@@ -232,24 +225,31 @@
   },
   {
    "title": "Chip stocks get slaughtered as Wall Street heads for its worst post-midterm day since 1896",
-   "score": 621,
+   "score": 629,
    "num_comments": 213,
    "created_utc": 1793898605,
    "url": "https://www.reddit.com/r/stocks/comments/1xoo6ex/"
   },
   {
-   "title": "OpenAI CEO Sam Altman Thinks It's 'Terrible' for You to Have RAM in Your PC",
-   "score": 610,
-   "num_comments": 277,
-   "created_utc": 1793452063,
-   "url": "https://www.reddit.com/r/stocks/comments/1xk9rn1/"
+   "title": "Microsoft Corp. is winding down an arrangement to rent AI computing from Oracle.",
+   "score": 434,
+   "num_comments": 76,
+   "created_utc": 1793988126,
+   "url": "https://www.reddit.com/r/stocks/comments/1xpjkkr/"
   },
   {
    "title": "SOXX, Semis are CRASHING",
-   "score": 341,
-   "num_comments": 330,
+   "score": 347,
+   "num_comments": 337,
    "created_utc": 1793890839,
    "url": "https://www.reddit.com/r/stocks/comments/1xoktnd/"
+  },
+  {
+   "title": "Google was even lower than it is now last March and then hit over $400, its ATH, two months later\u2026",
+   "score": 322,
+   "num_comments": 93,
+   "created_utc": 1793486754,
+   "url": "https://www.reddit.com/r/stocks/comments/1xknjg8/"
   }
  ]
 }

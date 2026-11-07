@@ -1,8 +1,8 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-11-06T19:31:35.873564+00:00",
+ "generated_at": "2026-11-07T17:46:52.373428+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-05T18:19:24+00:00",
+ "window_start": "2026-11-05T21:03:02+00:00",
  "top_tickers": [
   {
    "ticker": "DVLT",
@@ -12,18 +12,18 @@
    "engagement": 5
   },
   {
-   "ticker": "SPY",
+   "ticker": "QUBT",
    "mentions": 5,
    "bull": 1,
    "bear": 1,
-   "engagement": 81
+   "engagement": 18
   },
   {
-   "ticker": "QQQ",
+   "ticker": "NVDA",
    "mentions": 4,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 733
+   "bull": 0,
+   "bear": 0,
+   "engagement": 528
   },
   {
    "ticker": "UEC",
@@ -37,21 +37,35 @@
    "mentions": 4,
    "bull": 0,
    "bear": 0,
-   "engagement": 291
+   "engagement": 298
   },
   {
    "ticker": "AI",
    "mentions": 3,
    "bull": 1,
    "bear": 2,
-   "engagement": 10
+   "engagement": 23
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 26
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 13
   },
   {
    "ticker": "UIS",
    "mentions": 2,
    "bull": 0,
    "bear": 2,
-   "engagement": 2
+   "engagement": 41
   },
   {
    "ticker": "HTZ",
@@ -68,18 +82,53 @@
    "engagement": 18
   },
   {
-   "ticker": "APP",
-   "mentions": 2,
+   "ticker": "AMD",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 4
+   "engagement": 102
+  },
+  {
+   "ticker": "IREN",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 107
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 107
+  },
+  {
+   "ticker": "HOOD",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 0
+  },
+  {
+   "ticker": "IUTY",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "SGOV",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 13
   },
   {
    "ticker": "YELP",
@@ -94,78 +143,22 @@
    "bull": 1,
    "bear": 1,
    "engagement": 1
-  },
-  {
-   "ticker": "PAD",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
-  },
-  {
-   "ticker": "NFLX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 50
-  },
-  {
-   "ticker": "GRND",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 3613
-  },
-  {
-   "ticker": "ET",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "ANT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 3
-  },
-  {
-   "ticker": "MSTR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
   }
  ],
  "top_posts": [
   {
-   "title": "Chip stocks get slaughtered as Wall Street heads for its worst post-midterm day since 1896",
-   "score": 13124,
-   "num_comments": 1235,
-   "created_utc": 1793905442,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xor7rm/"
-  },
-  {
-   "title": "$700 to 100k today",
-   "score": 9907,
-   "num_comments": 1583,
-   "created_utc": 1793911034,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xotkmz/"
-  },
-  {
    "title": "Get ready bois",
-   "score": 8861,
-   "num_comments": 458,
+   "score": 15563,
+   "num_comments": 627,
    "created_utc": 1793953892,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp7rcd/"
+  },
+  {
+   "title": "Wind of change",
+   "score": 10161,
+   "num_comments": 416,
+   "created_utc": 1793918991,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xowsna/"
   },
   {
    "title": "Anyone with 300k capital gains(preferably female) that wants to get married?",
@@ -175,81 +168,88 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp8vcw/"
   },
   {
-   "title": "Wind of change",
-   "score": 7562,
-   "num_comments": 342,
-   "created_utc": 1793918991,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xowsna/"
-  },
-  {
-   "title": "BY POPULAR DEMAND - ZOOM OUT",
-   "score": 2895,
-   "num_comments": 176,
-   "created_utc": 1793930715,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp0znu/"
-  },
-  {
    "title": "I\u2019m George Arison, CEO of Grindr ($GRND). We reported Q3 results yesterday -- ask me anything.",
-   "score": 2482,
-   "num_comments": 1131,
+   "score": 5912,
+   "num_comments": 1985,
    "created_utc": 1793981140,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xpgjl2/"
   },
   {
    "title": "ABSOLUTE BLOODBATH!",
-   "score": 1892,
-   "num_comments": 189,
+   "score": 4288,
+   "num_comments": 387,
    "created_utc": 1793956485,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp8ery/"
   },
   {
-   "title": "Wendy\u2019s being the only stock up today is poetry",
-   "score": 1718,
-   "num_comments": 74,
-   "created_utc": 1793911919,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xotxuf/"
-  },
-  {
-   "title": "Anthropic IPO down to $1.1T",
-   "score": 1456,
-   "num_comments": 296,
-   "created_utc": 1793982908,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xphas4/"
-  },
-  {
-   "title": "WoW Forever. the real reason the ai market crashed today. just listen..",
-   "score": 1433,
-   "num_comments": 106,
-   "created_utc": 1793933198,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp1tln/"
-  },
-  {
-   "title": "Retail rug pulled the rug pullers",
-   "score": 1236,
-   "num_comments": 198,
-   "created_utc": 1793917363,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xow6fw/"
-  },
-  {
    "title": "wait a damn minute",
-   "score": 1192,
-   "num_comments": 45,
+   "score": 4263,
+   "num_comments": 102,
    "created_utc": 1793945748,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp5nsn/"
   },
   {
-   "title": "Wallstreet Boys",
-   "score": 1042,
-   "num_comments": 121,
-   "created_utc": 1793917120,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xow35s/"
+   "title": "Lost ~3 years of salary",
+   "score": 3750,
+   "num_comments": 1092,
+   "created_utc": 1794011757,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xpswkr/"
   },
   {
-   "title": "Average WSB regard looking at \u2018the dip\u2019 now",
-   "score": 918,
-   "num_comments": 84,
-   "created_utc": 1793923783,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xoyl6t/"
+   "title": "BY POPULAR DEMAND - ZOOM OUT",
+   "score": 3701,
+   "num_comments": 233,
+   "created_utc": 1793930715,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp0znu/"
+  },
+  {
+   "title": "Anthropic IPO down to $1.1T",
+   "score": 3443,
+   "num_comments": 627,
+   "created_utc": 1793982908,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xphas4/"
+  },
+  {
+   "title": "It's not a loss if I don't sell.",
+   "score": 2517,
+   "num_comments": 99,
+   "created_utc": 1794048410,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xq3jww/"
+  },
+  {
+   "title": "US believes Nvidia\u2019s Huang had romantic relationship with alleged Chinese spy",
+   "score": 2025,
+   "num_comments": 312,
+   "created_utc": 1794025832,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xpxh5m/"
+  },
+  {
+   "title": "WoW Forever. the real reason the ai market crashed today. just listen..",
+   "score": 1865,
+   "num_comments": 133,
+   "created_utc": 1793933198,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp1tln/"
+  },
+  {
+   "title": "Who is driving this bus",
+   "score": 1654,
+   "num_comments": 115,
+   "created_utc": 1794002606,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xppjn5/"
+  },
+  {
+   "title": "Retail rug pulled the rug pullers",
+   "score": 1416,
+   "num_comments": 206,
+   "created_utc": 1793917363,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xow6fw/"
+  },
+  {
+   "title": "Microsoft Is Winding Down Oracle Deal to Rent AI Cloud Capacity",
+   "score": 1222,
+   "num_comments": 125,
+   "created_utc": 1793987155,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xpj5fl/"
   }
  ]
 }

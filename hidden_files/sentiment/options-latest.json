@@ -1,15 +1,15 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-06T19:32:26.148094+00:00",
+ "generated_at": "2026-11-07T17:47:36.652335+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-25T23:06:04+00:00",
+ "window_start": "2026-09-26T16:10:42+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
-   "mentions": 9,
-   "bull": 5,
-   "bear": 4,
-   "engagement": 406
+   "mentions": 10,
+   "bull": 6,
+   "bear": 5,
+   "engagement": 509
   },
   {
    "ticker": "QQQ",
@@ -37,7 +37,7 @@
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 287
+   "engagement": 299
   },
   {
    "ticker": "TLT",
@@ -51,14 +51,14 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 31
+   "engagement": 32
   },
   {
    "ticker": "META",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 266
+   "engagement": 278
   },
   {
    "ticker": "INO",
@@ -103,14 +103,14 @@
    "engagement": 1
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 3
   },
   {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -136,13 +136,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 16
-  },
-  {
-   "ticker": "TEM",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 17
   }
  ],
  "top_posts": [
@@ -176,10 +169,17 @@
   },
   {
    "title": "Dummy's guide to financing LEAPs for free",
-   "score": 202,
-   "num_comments": 64,
+   "score": 212,
+   "num_comments": 66,
    "created_utc": 1793827044,
    "url": "https://www.reddit.com/r/options/comments/1xo07k3/"
+  },
+  {
+   "title": "Last 24 hours, 2 biggest mistakes of my life!!!",
+   "score": 170,
+   "num_comments": 79,
+   "created_utc": 1793942016,
+   "url": "https://www.reddit.com/r/options/comments/1xp4l5d/"
   },
   {
    "title": "I backtested a simple 0DTE SPX strategy for 2 years. Is this overfit or actually realistic?",
@@ -201,13 +201,6 @@
    "num_comments": 66,
    "created_utc": 1792487868,
    "url": "https://www.reddit.com/r/options/comments/1xand3o/"
-  },
-  {
-   "title": "Last 24 hours, 2 biggest mistakes of my life!!!",
-   "score": 109,
-   "num_comments": 55,
-   "created_utc": 1793942016,
-   "url": "https://www.reddit.com/r/options/comments/1xp4l5d/"
   },
   {
    "title": "Beat The Market Selling LEAPS",

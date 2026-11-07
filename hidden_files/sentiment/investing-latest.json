@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-06T19:31:43.867465+00:00",
+ "generated_at": "2026-11-07T17:46:58.637128+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-16T16:27:04+00:00",
+ "window_start": "2026-10-17T08:48:41+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -40,11 +40,18 @@
    "engagement": 4
   },
   {
+   "ticker": "ASTS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 6
+  },
+  {
    "ticker": "BTC",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 6
+   "engagement": 8
   },
   {
    "ticker": "UBER",
@@ -61,7 +68,7 @@
    "engagement": 16
   },
   {
-   "ticker": "APP",
+   "ticker": "ZETA",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -75,7 +82,7 @@
    "engagement": 12
   },
   {
-   "ticker": "ZETA",
+   "ticker": "APP",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -136,13 +143,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 109
-  },
-  {
-   "ticker": "OKLO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
   }
  ],
  "top_posts": [
@@ -168,23 +168,23 @@
    "url": "https://www.reddit.com/r/investing/comments/1xfwwbo/"
   },
   {
-   "title": "Nasdaq down 6%, CoreWeave down 55% in a month. Is the AI trade breaking or is this a midterm overreaction?",
-   "score": 800,
-   "num_comments": 442,
-   "created_utc": 1793894783,
-   "url": "https://www.reddit.com/r/investing/comments/1xomi9p/"
-  },
-  {
    "title": "Anthropic's IPO valuation collapses from 1.5 trillion. Rumors of a delay beginning to circulate. WeWork scenario can still be avoided provid",
-   "score": 695,
-   "num_comments": 124,
+   "score": 928,
+   "num_comments": 187,
    "created_utc": 1793921671,
    "url": "https://www.reddit.com/r/investing/comments/1xoxssu/"
   },
   {
+   "title": "Nasdaq down 6%, CoreWeave down 55% in a month. Is the AI trade breaking or is this a midterm overreaction?",
+   "score": 823,
+   "num_comments": 457,
+   "created_utc": 1793894783,
+   "url": "https://www.reddit.com/r/investing/comments/1xomi9p/"
+  },
+  {
    "title": "OpenAI just cut it's latest funding round target by $10B and slashed the valuation to 1.25T",
-   "score": 681,
-   "num_comments": 577,
+   "score": 780,
+   "num_comments": 613,
    "created_utc": 1793410476,
    "url": "https://www.reddit.com/r/investing/comments/1xjxjqv/"
   },
