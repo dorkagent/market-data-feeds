@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-07T17:46:58.637128+00:00",
+ "generated_at": "2026-11-08T18:04:08.098923+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-17T08:48:41+00:00",
+ "window_start": "2026-10-17T14:55:24+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -44,7 +44,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 6
+   "engagement": 9
   },
   {
    "ticker": "BTC",
@@ -68,6 +68,13 @@
    "engagement": 16
   },
   {
+   "ticker": "APP",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 12
+  },
+  {
    "ticker": "ZETA",
    "mentions": 1,
    "bull": 1,
@@ -76,13 +83,6 @@
   },
   {
    "ticker": "OSCR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 12
-  },
-  {
-   "ticker": "APP",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -103,14 +103,14 @@
    "engagement": 23
   },
   {
-   "ticker": "CELH",
+   "ticker": "BE",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "BE",
+   "ticker": "CELH",
    "mentions": 1,
    "bull": 1,
    "bear": 1,

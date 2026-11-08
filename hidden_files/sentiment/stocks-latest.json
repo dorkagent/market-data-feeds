@@ -1,8 +1,8 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-07T17:47:07.907201+00:00",
+ "generated_at": "2026-11-08T18:06:28.450710+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-31T14:45:34+00:00",
+ "window_start": "2026-11-01T17:43:40+00:00",
  "top_tickers": [
   {
    "ticker": "QUBT",
@@ -19,18 +19,11 @@
    "engagement": 1091
   },
   {
-   "ticker": "RDDT",
-   "mentions": 5,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 177
-  },
-  {
    "ticker": "NVDA",
    "mentions": 4,
    "bull": 2,
    "bear": 0,
-   "engagement": 38
+   "engagement": 42
   },
   {
    "ticker": "UBER",
@@ -38,6 +31,20 @@
    "bull": 1,
    "bear": 1,
    "engagement": 317
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 305
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 130
   },
   {
    "ticker": "AAPL",
@@ -51,7 +58,7 @@
    "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 27
+   "engagement": 29
   },
   {
    "ticker": "TSLA",
@@ -68,13 +75,6 @@
    "engagement": 27
   },
   {
-   "ticker": "AMZN",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 36
-  },
-  {
    "ticker": "MSFT",
    "mentions": 2,
    "bull": 0,
@@ -82,11 +82,32 @@
    "engagement": 35
   },
   {
-   "ticker": "NBIS",
+   "ticker": "AMZN",
    "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 304
+   "bull": 0,
+   "bear": 0,
+   "engagement": 36
+  },
+  {
+   "ticker": "RKLB",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "CLSK",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 178
   },
   {
    "ticker": "ASTS",
@@ -122,27 +143,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 2
-  },
-  {
-   "ticker": "YALA",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "ZETA",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "ORCL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 34
   }
  ],
  "top_posts": [
@@ -196,13 +196,6 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xomj2e/"
   },
   {
-   "title": "Best F'ng buying opportunity in a while",
-   "score": 970,
-   "num_comments": 373,
-   "created_utc": 1793467008,
-   "url": "https://www.reddit.com/r/stocks/comments/1xkft7x/"
-  },
-  {
    "title": "Anthropic Reports 1,127% Revenue Surge, $895 Billion in Commitments",
    "score": 757,
    "num_comments": 520,
@@ -232,10 +225,17 @@
   },
   {
    "title": "Microsoft Corp. is winding down an arrangement to rent AI computing from Oracle.",
-   "score": 434,
-   "num_comments": 76,
+   "score": 471,
+   "num_comments": 85,
    "created_utc": 1793988126,
    "url": "https://www.reddit.com/r/stocks/comments/1xpjkkr/"
+  },
+  {
+   "title": "BLOOMBERG: HOW THE THURSDAY SELL-OFF UNFOLDED THAT ERASED $3.7 TRILLION",
+   "score": 404,
+   "num_comments": 159,
+   "created_utc": 1794036979,
+   "url": "https://www.reddit.com/r/stocks/comments/1xq0mxn/"
   },
   {
    "title": "SOXX, Semis are CRASHING",
@@ -245,11 +245,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xoktnd/"
   },
   {
-   "title": "Google was even lower than it is now last March and then hit over $400, its ATH, two months later\u2026",
-   "score": 322,
-   "num_comments": 93,
-   "created_utc": 1793486754,
-   "url": "https://www.reddit.com/r/stocks/comments/1xknjg8/"
+   "title": "Futures down hard at the moment. Reminds me of election night 2016",
+   "score": 319,
+   "num_comments": 387,
+   "created_utc": 1793755351,
+   "url": "https://www.reddit.com/r/stocks/comments/1xnb6vm/"
   }
  ]
 }

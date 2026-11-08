@@ -1,29 +1,36 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-07T17:47:21.754829+00:00",
+ "generated_at": "2026-11-08T18:13:10.192527+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-28T07:01:26+00:00",
+ "window_start": "2026-10-28T20:16:53+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
-   "mentions": 20,
+   "mentions": 19,
    "bull": 9,
    "bear": 3,
-   "engagement": 1775
+   "engagement": 1694
   },
   {
    "ticker": "APP",
    "mentions": 7,
-   "bull": 5,
+   "bull": 4,
    "bear": 3,
    "engagement": 119
   },
   {
-   "ticker": "NFLX",
-   "mentions": 5,
+   "ticker": "NVDA",
+   "mentions": 6,
    "bull": 1,
-   "bear": 0,
-   "engagement": 321
+   "bear": 1,
+   "engagement": 1222
+  },
+  {
+   "ticker": "MU",
+   "mentions": 4,
+   "bull": 4,
+   "bear": 2,
+   "engagement": 171
   },
   {
    "ticker": "AAPL",
@@ -37,14 +44,7 @@
    "mentions": 4,
    "bull": 2,
    "bear": 0,
-   "engagement": 292
-  },
-  {
-   "ticker": "UBER",
-   "mentions": 4,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 159
+   "engagement": 310
   },
   {
    "ticker": "PLTR",
@@ -54,25 +54,25 @@
    "engagement": 159
   },
   {
-   "ticker": "MU",
-   "mentions": 3,
-   "bull": 3,
-   "bear": 2,
-   "engagement": 155
+   "ticker": "NFLX",
+   "mentions": 4,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 331
   },
   {
    "ticker": "AMZN",
    "mentions": 3,
    "bull": 2,
    "bear": 1,
-   "engagement": 288
+   "engagement": 306
   },
   {
-   "ticker": "NVDA",
+   "ticker": "UBER",
    "mentions": 3,
-   "bull": 0,
+   "bull": 1,
    "bear": 1,
-   "engagement": 1201
+   "engagement": 120
   },
   {
    "ticker": "IREN",
@@ -96,14 +96,14 @@
    "engagement": 5
   },
   {
-   "ticker": "LITE",
+   "ticker": "MRVL",
    "mentions": 2,
    "bull": 2,
    "bear": 1,
    "engagement": 84
   },
   {
-   "ticker": "MRVL",
+   "ticker": "LITE",
    "mentions": 2,
    "bull": 2,
    "bear": 1,
@@ -147,18 +147,18 @@
  ],
  "top_posts": [
   {
-   "title": "Can we shut up about GOOG finally?",
-   "score": 645,
-   "num_comments": 571,
-   "created_utc": 1793218563,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xhz8ol/"
-  },
-  {
    "title": "NVDA is a bargain. Forward P/E 13",
    "score": 455,
    "num_comments": 517,
    "created_utc": 1793925929,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xozcz4/"
+  },
+  {
+   "title": "That $2.3T tech dump wasn't fundamental panic, it was just systematic funds getting liquidated",
+   "score": 439,
+   "num_comments": 150,
+   "created_utc": 1793992967,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xplnex/"
   },
   {
    "title": "I don't think big tech is aware of what they have created.",
@@ -203,13 +203,6 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xm71fj/"
   },
   {
-   "title": "That $2.3T tech dump wasn't fundamental panic, it was just systematic funds getting liquidated",
-   "score": 238,
-   "num_comments": 113,
-   "created_utc": 1793992967,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xplnex/"
-  },
-  {
    "title": "Google is a Screaming Buy. Or is it?",
    "score": 215,
    "num_comments": 303,
@@ -236,6 +229,13 @@
    "num_comments": 471,
    "created_utc": 1793895893,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xomzm4/"
+  },
+  {
+   "title": "20 stocks at a discount",
+   "score": 176,
+   "num_comments": 184,
+   "created_utc": 1793522550,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xky35h/"
   },
   {
    "title": "Google Is Still Expensive Despite a Nearly 10% Drop After Q3 Earnings.",

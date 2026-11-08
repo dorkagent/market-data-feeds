@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-07T17:47:14.435028+00:00",
+ "generated_at": "2026-11-08T18:10:37.828390+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-13T04:19:17+00:00",
+ "window_start": "2026-10-13T13:23:20+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -16,7 +16,7 @@
    "mentions": 5,
    "bull": 2,
    "bear": 1,
-   "engagement": 296
+   "engagement": 322
   },
   {
    "ticker": "AMD",
@@ -24,13 +24,6 @@
    "bull": 0,
    "bear": 1,
    "engagement": 987
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 4,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 128
   },
   {
    "ticker": "AAPL",
@@ -45,6 +38,13 @@
    "bull": 0,
    "bear": 0,
    "engagement": 6
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "PLTR",
@@ -82,14 +82,14 @@
    "engagement": 58
   },
   {
-   "ticker": "MU",
+   "ticker": "CLS",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "CLS",
+   "ticker": "MU",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -128,17 +128,17 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 90
+   "engagement": 97
   },
   {
-   "ticker": "LITE",
+   "ticker": "BE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 5
   },
   {
-   "ticker": "BE",
+   "ticker": "LITE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -217,18 +217,18 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xea8br/"
   },
   {
+   "title": "4 all the new ones: Trading in a nutshell",
+   "score": 2255,
+   "num_comments": 93,
+   "created_utc": 1793947463,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xp64cy/"
+  },
+  {
    "title": "Americans overwhelmingly voted against data centers in the midterms",
    "score": 2158,
    "num_comments": 282,
    "created_utc": 1793807059,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xnri1d/"
-  },
-  {
-   "title": "4 all the new ones: Trading in a nutshell",
-   "score": 1973,
-   "num_comments": 85,
-   "created_utc": 1793947463,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xp64cy/"
   },
   {
    "title": "There's gonna be a bloodbath of Neocloud on Monday",

@@ -1,15 +1,15 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-07T17:47:36.652335+00:00",
+ "generated_at": "2026-11-08T18:16:23.349292+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-26T16:10:42+00:00",
+ "window_start": "2026-09-27T13:24:45+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
-   "mentions": 10,
+   "mentions": 11,
    "bull": 6,
-   "bear": 5,
-   "engagement": 509
+   "bear": 6,
+   "engagement": 527
   },
   {
    "ticker": "QQQ",
@@ -45,6 +45,13 @@
    "bull": 1,
    "bear": 1,
    "engagement": 23
+  },
+  {
+   "ticker": "MSTR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 3
   },
   {
    "ticker": "SOFI",
@@ -239,7 +246,7 @@
   },
   {
    "title": "Weekend crypto vol predicts Monday S&P 500 vol since 2024, even after controlling for Friday's VIX",
-   "score": 71,
+   "score": 75,
    "num_comments": 14,
    "created_utc": 1793552015,
    "url": "https://www.reddit.com/r/options/comments/1xl811x/"
