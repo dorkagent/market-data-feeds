@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-11-02T16:26:32.439773+00:00",
+  "generated_utc": "2026-11-09T23:49:48.010901+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. Biweekly short positions; unverified symbols are flagged, never trusted.",
   "source": "FINRA consolidatedShortInterest (api.finra.org keyless)",
-  "status": "ok",
+  "status": "no_new_data",
   "tickers": {
     "SPY": {
       "status": "verified",
