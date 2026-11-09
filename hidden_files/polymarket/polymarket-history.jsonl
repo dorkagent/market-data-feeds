@@ -9,3 +9,4 @@
 {"fetched_at": "2026-10-19T14:59:05.171893+00:00", "probs": {"fomc_next": 0.0005, "fed_dec": 0.215, "rate_hikes_2026": 0.675, "recession_2026": 0.065, "jobs_next": 0.425}}
 {"fetched_at": "2026-10-26T15:47:33.632590+00:00", "probs": {"fomc_next": 0.926, "fed_dec": 0.755, "rate_hikes_2026": 0.73, "recession_2026": 0.075, "jobs_next": 0.355}}
 {"fetched_at": "2026-11-02T15:14:41.605611+00:00", "probs": {"fomc_next": 0.0, "fed_dec": 0.265, "rate_hikes_2026": 0.725, "recession_2026": 0.055, "jobs_next": 0.42}}
+{"fetched_at": "2026-11-09T23:28:43.288441+00:00", "probs": {"fomc_next": 0.0, "fed_dec": 0.185, "rate_hikes_2026": 0.795, "recession_2026": 0.038}}
