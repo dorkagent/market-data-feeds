@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-08T18:04:08.098923+00:00",
+ "generated_at": "2026-11-09T22:30:46.909066+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-17T14:55:24+00:00",
+ "window_start": "2026-10-18T14:39:06+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -44,7 +44,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 9
+   "engagement": 10
   },
   {
    "ticker": "BTC",
@@ -75,14 +75,14 @@
    "engagement": 12
   },
   {
-   "ticker": "ZETA",
+   "ticker": "OSCR",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 12
   },
   {
-   "ticker": "OSCR",
+   "ticker": "ZETA",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -189,6 +189,13 @@
    "url": "https://www.reddit.com/r/investing/comments/1xjxjqv/"
   },
   {
+   "title": "Jensen Huang just admitted to an affair with a suspected Chinese spy. 9 days before earnings.",
+   "score": 763,
+   "num_comments": 192,
+   "created_utc": 1794178338,
+   "url": "https://www.reddit.com/r/investing/comments/1xrbjp6/"
+  },
+  {
    "title": "Another GOOGL buying opportunity",
    "score": 674,
    "num_comments": 227,
@@ -243,13 +250,6 @@
    "num_comments": 65,
    "created_utc": 1793036065,
    "url": "https://www.reddit.com/r/investing/comments/1xg3ih3/"
-  },
-  {
-   "title": "67% Returns according to Trump",
-   "score": 339,
-   "num_comments": 344,
-   "created_utc": 1793314789,
-   "url": "https://www.reddit.com/r/investing/comments/1xiz19z/"
   }
  ]
 }

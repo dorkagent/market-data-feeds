@@ -1,29 +1,29 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-08T18:06:28.450710+00:00",
+ "generated_at": "2026-11-09T22:30:55.389021+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-01T17:43:40+00:00",
+ "window_start": "2026-11-03T11:16:45+00:00",
  "top_tickers": [
+  {
+   "ticker": "NVDA",
+   "mentions": 7,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 47
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 7,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 1092
+  },
   {
    "ticker": "QUBT",
    "mentions": 6,
    "bull": 1,
    "bear": 1,
    "engagement": 11
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 6,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 1091
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 4,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 42
   },
   {
    "ticker": "UBER",
@@ -33,25 +33,18 @@
    "engagement": 317
   },
   {
-   "ticker": "NBIS",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 305
-  },
-  {
    "ticker": "RDDT",
    "mentions": 3,
    "bull": 1,
    "bear": 1,
-   "engagement": 130
+   "engagement": 657
   },
   {
-   "ticker": "AAPL",
+   "ticker": "NBIS",
    "mentions": 3,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 57
+   "bull": 2,
+   "bear": 1,
+   "engagement": 832
   },
   {
    "ticker": "SPY",
@@ -75,25 +68,25 @@
    "engagement": 27
   },
   {
-   "ticker": "MSFT",
-   "mentions": 2,
+   "ticker": "GOOG",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 35
+   "engagement": 0
   },
   {
-   "ticker": "AMZN",
-   "mentions": 2,
+   "ticker": "CEG",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 36
+   "engagement": 1
   },
   {
    "ticker": "RKLB",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 528
   },
   {
    "ticker": "CLSK",
@@ -107,7 +100,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 178
+   "engagement": 201
   },
   {
    "ticker": "ASTS",
@@ -131,6 +124,13 @@
    "engagement": 2
   },
   {
+   "ticker": "AAPL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
    "ticker": "APP",
    "mentions": 1,
    "bull": 0,
@@ -146,6 +146,13 @@
   }
  ],
  "top_posts": [
+  {
+   "title": "Nvidia CEO Jensen Huang admits to infidelity in memo to employees",
+   "score": 4633,
+   "num_comments": 1028,
+   "created_utc": 1794169650,
+   "url": "https://www.reddit.com/r/stocks/comments/1xr88hz/"
+  },
   {
    "title": "Dow Surges Over 1,000 Points in Broad Market Rebound",
    "score": 2668,
@@ -196,13 +203,6 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xomj2e/"
   },
   {
-   "title": "Anthropic Reports 1,127% Revenue Surge, $895 Billion in Commitments",
-   "score": 757,
-   "num_comments": 520,
-   "created_utc": 1793630159,
-   "url": "https://www.reddit.com/r/stocks/comments/1xlyuja/"
-  },
-  {
    "title": "V shaped recovery incoming within 30 days.",
    "score": 748,
    "num_comments": 364,
@@ -232,10 +232,17 @@
   },
   {
    "title": "BLOOMBERG: HOW THE THURSDAY SELL-OFF UNFOLDED THAT ERASED $3.7 TRILLION",
-   "score": 404,
-   "num_comments": 159,
+   "score": 415,
+   "num_comments": 160,
    "created_utc": 1794036979,
    "url": "https://www.reddit.com/r/stocks/comments/1xq0mxn/"
+  },
+  {
+   "title": "Nvidia Shares Fall 5% on CEO Spy Inquiry",
+   "score": 389,
+   "num_comments": 104,
+   "created_utc": 1794216275,
+   "url": "https://www.reddit.com/r/stocks/comments/1xrn8y7/"
   },
   {
    "title": "SOXX, Semis are CRASHING",
@@ -243,13 +250,6 @@
    "num_comments": 337,
    "created_utc": 1793890839,
    "url": "https://www.reddit.com/r/stocks/comments/1xoktnd/"
-  },
-  {
-   "title": "Futures down hard at the moment. Reminds me of election night 2016",
-   "score": 319,
-   "num_comments": 387,
-   "created_utc": 1793755351,
-   "url": "https://www.reddit.com/r/stocks/comments/1xnb6vm/"
   }
  ]
 }

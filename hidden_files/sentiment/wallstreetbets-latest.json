@@ -1,255 +1,220 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-11-08T18:00:58.867542+00:00",
+ "generated_at": "2026-11-09T22:30:28.525280+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-05T23:50:53+00:00",
+ "window_start": "2026-11-08T20:47:09+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 7,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 546
+   "mentions": 27,
+   "bull": 11,
+   "bear": 6,
+   "engagement": 3700
   },
   {
-   "ticker": "DVLT",
-   "mentions": 6,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 5
-  },
-  {
-   "ticker": "QUBT",
-   "mentions": 5,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 18
-  },
-  {
-   "ticker": "UEC",
+   "ticker": "SPY",
    "mentions": 4,
-   "bull": 4,
+   "bull": 1,
    "bear": 0,
-   "engagement": 22
+   "engagement": 117
   },
   {
    "ticker": "SOXL",
-   "mentions": 4,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 298
-  },
-  {
-   "ticker": "AI",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 23
-  },
-  {
-   "ticker": "ASTS",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 976
-  },
-  {
-   "ticker": "UIS",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 2,
-   "engagement": 50
-  },
-  {
-   "ticker": "HTZ",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 0
+   "engagement": 2
   },
   {
-   "ticker": "QQQ",
+   "ticker": "AMD",
    "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 7
+   "bull": 2,
+   "bear": 0,
+   "engagement": 2
   },
   {
-   "ticker": "RKLB",
-   "mentions": 1,
+   "ticker": "SMCI",
+   "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 0
-  },
-  {
-   "ticker": "NBIS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
-  },
-  {
-   "ticker": "RDDT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
-  },
-  {
-   "ticker": "TTWO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "GOLD",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
+   "engagement": 36
   },
   {
    "ticker": "MRVL",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 38
+   "engagement": 1
   },
   {
-   "ticker": "ALAB",
+   "ticker": "QQQ",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 38
+   "engagement": 18
   },
   {
-   "ticker": "TTMI",
+   "ticker": "PSKY",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 3
+  },
+  {
+   "ticker": "MSFT",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 38
+   "engagement": 1
   },
   {
-   "ticker": "AVGO",
+   "ticker": "AMZN",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 38
+   "engagement": 1
   },
   {
-   "ticker": "MU",
+   "ticker": "APPL",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 35185
+  },
+  {
+   "ticker": "LENZ",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 0
+  },
+  {
+   "ticker": "UTOP",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 38
+   "engagement": 0
+  },
+  {
+   "ticker": "CVS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 131
+  },
+  {
+   "ticker": "LFTO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 0
   }
  ],
  "top_posts": [
   {
-   "title": "Get ready bois",
-   "score": 16334,
-   "num_comments": 650,
-   "created_utc": 1793953892,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp7rcd/"
+   "title": "Bullish for $APPL \ud83d\ude80",
+   "score": 34656,
+   "num_comments": 529,
+   "created_utc": 1794224534,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrpiwg/"
   },
   {
-   "title": "US intelligence believes Nvidia CEO Jensen Huang had affair with Chinese spy in honeypot operation",
-   "score": 8455,
-   "num_comments": 700,
-   "created_utc": 1794074700,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xqcq4u/"
+   "title": "the new destroyer of ports",
+   "score": 19604,
+   "num_comments": 2255,
+   "created_utc": 1794175602,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xraj53/"
   },
   {
-   "title": "Anyone with 300k capital gains(preferably female) that wants to get married?",
-   "score": 7989,
-   "num_comments": 399,
-   "created_utc": 1793958343,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp8vcw/"
+   "title": "Jensen\u2019s official apology letter",
+   "score": 9760,
+   "num_comments": 2274,
+   "created_utc": 1794172910,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xr9i29/"
   },
   {
-   "title": "I\u2019m George Arison, CEO of Grindr ($GRND). We reported Q3 results yesterday -- ask me anything.",
-   "score": 6201,
-   "num_comments": 2038,
-   "created_utc": 1793981140,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xpgjl2/"
+   "title": "Pinky promise",
+   "score": 7521,
+   "num_comments": 267,
+   "created_utc": 1794175106,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrac17/"
   },
   {
-   "title": "Lost ~3 years of salary",
-   "score": 5136,
-   "num_comments": 1383,
-   "created_utc": 1794011757,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xpswkr/"
+   "title": "Tell me more about the export controls on your semiconductor chips",
+   "score": 4358,
+   "num_comments": 141,
+   "created_utc": 1794219693,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xro5uc/"
   },
   {
-   "title": "I am not the CEO of Grindr. Ask me anything.",
-   "score": 5107,
-   "num_comments": 754,
-   "created_utc": 1794088143,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xqhvjj/"
+   "title": "What is the charge? Eating a meal? A succulent Chinese meal?",
+   "score": 3034,
+   "num_comments": 119,
+   "created_utc": 1794246509,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xryeyf/"
   },
   {
-   "title": "wait a damn minute",
-   "score": 4708,
-   "num_comments": 118,
-   "created_utc": 1793945748,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp5nsn/"
+   "title": "Jensen Huang\u2019s wang caused a 0.25% decrease in the global stock market",
+   "score": 2831,
+   "num_comments": 206,
+   "created_utc": 1794243296,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrwy4z/"
   },
   {
-   "title": "ABSOLUTE BLOODBATH!",
-   "score": 4671,
-   "num_comments": 409,
-   "created_utc": 1793956485,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp8ery/"
+   "title": "Smile baby, we're on camera!",
+   "score": 2811,
+   "num_comments": 75,
+   "created_utc": 1794173597,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xr9rh1/"
   },
   {
-   "title": "It's not a loss if I don't sell.",
-   "score": 3975,
-   "num_comments": 127,
-   "created_utc": 1794048410,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xq3jww/"
+   "title": "The reason why Elon will not be caught in anything with a woman:",
+   "score": 2019,
+   "num_comments": 366,
+   "created_utc": 1794259635,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xs4ayj/"
   },
   {
-   "title": "BY POPULAR DEMAND - ZOOM OUT",
-   "score": 3701,
-   "num_comments": 233,
-   "created_utc": 1793930715,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp0znu/"
+   "title": "$55,000 gain in 55 seconds flipping $NVDA calls at open",
+   "score": 1679,
+   "num_comments": 155,
+   "created_utc": 1794236162,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrtr5l/"
   },
   {
-   "title": "Anthropic IPO down to $1.1T",
-   "score": 3658,
-   "num_comments": 661,
-   "created_utc": 1793982908,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xphas4/"
+   "title": "Statement from NVIDIA Board of Directors",
+   "score": 1528,
+   "num_comments": 484,
+   "created_utc": 1794171022,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xr8rie/"
   },
   {
-   "title": "Who is driving this bus",
-   "score": 2402,
-   "num_comments": 153,
-   "created_utc": 1794002606,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xppjn5/"
+   "title": "What\u2019s the charge? Eating a succulent Chinese meal?",
+   "score": 1481,
+   "num_comments": 70,
+   "created_utc": 1794227087,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrqc6u/"
   },
   {
-   "title": "US believes Nvidia\u2019s Huang had romantic relationship with alleged Chinese spy",
-   "score": 2022,
-   "num_comments": 311,
-   "created_utc": 1794025832,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xpxh5m/"
+   "title": "500 gigabytes of ram",
+   "score": 1425,
+   "num_comments": 78,
+   "created_utc": 1794217668,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrnlq0/"
   },
   {
-   "title": "WoW Forever. the real reason the ai market crashed today. just listen..",
-   "score": 1865,
-   "num_comments": 133,
-   "created_utc": 1793933198,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp1tln/"
+   "title": "Whats the charge? Enjoying a meal? A succulent Chinese meal?",
+   "score": 1277,
+   "num_comments": 43,
+   "created_utc": 1794180890,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrcgvj/"
   },
   {
-   "title": "Boomers outperforming the \"AI bubble\"",
-   "score": 1708,
-   "num_comments": 86,
-   "created_utc": 1794086740,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xqhd7e/"
+   "title": "From GPUs to CCPUs",
+   "score": 1174,
+   "num_comments": 39,
+   "created_utc": 1794199582,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrin6c/"
   }
  ]
 }

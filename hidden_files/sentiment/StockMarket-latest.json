@@ -1,15 +1,15 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-08T18:10:37.828390+00:00",
+ "generated_at": "2026-11-09T22:31:03.661747+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-13T13:23:20+00:00",
+ "window_start": "2026-10-14T18:53:13+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 6,
+   "mentions": 8,
    "bull": 1,
    "bear": 2,
-   "engagement": 16
+   "engagement": 1530
   },
   {
    "ticker": "RDDT",
@@ -26,6 +26,20 @@
    "engagement": 987
   },
   {
+   "ticker": "MSFT",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1541
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 1523
+  },
+  {
    "ticker": "AAPL",
    "mentions": 3,
    "bull": 1,
@@ -40,6 +54,13 @@
    "engagement": 6
   },
   {
+   "ticker": "SPY",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 104
+  },
+  {
    "ticker": "AVGO",
    "mentions": 2,
    "bull": 0,
@@ -52,20 +73,6 @@
    "bull": 0,
    "bear": 1,
    "engagement": 31
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 10
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 28
   },
   {
    "ticker": "LMT",
@@ -103,14 +110,14 @@
    "engagement": 9219
   },
   {
-   "ticker": "VST",
+   "ticker": "WDC",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "WDC",
+   "ticker": "VST",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -122,13 +129,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "SPY",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 97
   },
   {
    "ticker": "BE",
@@ -162,8 +162,8 @@
   },
   {
    "title": "US$700Bn wiped out in 2.5 hours",
-   "score": 15147,
-   "num_comments": 1338,
+   "score": 16742,
+   "num_comments": 1445,
    "created_utc": 1793652395,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xm901d/"
   },
@@ -231,6 +231,13 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xnri1d/"
   },
   {
+   "title": "Nvidia stock fell 12% because of election and another 10% because of erection",
+   "score": 1956,
+   "num_comments": 85,
+   "created_utc": 1794248125,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xrz5yo/"
+  },
+  {
    "title": "There's gonna be a bloodbath of Neocloud on Monday",
    "score": 1835,
    "num_comments": 517,
@@ -243,13 +250,6 @@
    "num_comments": 532,
    "created_utc": 1792067680,
    "url": "https://www.reddit.com/r/StockMarket/comments/1x6kfvn/"
-  },
-  {
-   "title": "It\u2019s Finally Friday!",
-   "score": 1734,
-   "num_comments": 43,
-   "created_utc": 1793379759,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xjkzpj/"
   }
  ]
 }
