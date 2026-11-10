@@ -1,22 +1,22 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-09T22:31:12.114686+00:00",
+ "generated_at": "2026-11-10T19:53:44.971340+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-29T21:12:48+00:00",
+ "window_start": "2026-10-30T14:58:43+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
-   "mentions": 19,
+   "mentions": 17,
    "bull": 9,
    "bear": 3,
-   "engagement": 1694
+   "engagement": 1304
   },
   {
    "ticker": "NVDA",
-   "mentions": 7,
-   "bull": 2,
+   "mentions": 9,
+   "bull": 3,
    "bear": 2,
-   "engagement": 1477
+   "engagement": 1676
   },
   {
    "ticker": "APP",
@@ -26,18 +26,18 @@
    "engagement": 123
   },
   {
+   "ticker": "AAPL",
+   "mentions": 6,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 84
+  },
+  {
    "ticker": "META",
    "mentions": 6,
    "bull": 2,
    "bear": 0,
    "engagement": 313
-  },
-  {
-   "ticker": "AAPL",
-   "mentions": 6,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 81
   },
   {
    "ticker": "MU",
@@ -51,7 +51,7 @@
    "mentions": 4,
    "bull": 0,
    "bear": 1,
-   "engagement": 169
+   "engagement": 168
   },
   {
    "ticker": "AMZN",
@@ -61,18 +61,18 @@
    "engagement": 306
   },
   {
-   "ticker": "UBER",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 120
-  },
-  {
    "ticker": "NFLX",
    "mentions": 3,
    "bull": 0,
    "bear": 0,
    "engagement": 330
+  },
+  {
+   "ticker": "ZETA",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 8
   },
   {
    "ticker": "IREN",
@@ -82,11 +82,18 @@
    "engagement": 59
   },
   {
+   "ticker": "UBER",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 117
+  },
+  {
    "ticker": "CRWV",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 29
+   "engagement": 30
   },
   {
    "ticker": "ACN",
@@ -121,28 +128,21 @@
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 23
+   "engagement": 27
   },
   {
-   "ticker": "YELP",
+   "ticker": "AMD",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 90
+  },
+  {
+   "ticker": "FLEX",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "CPAY",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 69
-  },
-  {
-   "ticker": "WEN",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 69
+   "engagement": 9
   }
  ],
  "top_posts": [
@@ -190,8 +190,8 @@
   },
   {
    "title": "Google now below Buffett's price.  Are you buying?",
-   "score": 212,
-   "num_comments": 159,
+   "score": 240,
+   "num_comments": 177,
    "created_utc": 1793714310,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xmtmlj/"
   },
@@ -238,18 +238,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xpa6er/"
   },
   {
-   "title": "RDDT fell from 33 P/E to 22 P/E at 100$ per share after earnings",
-   "score": 148,
-   "num_comments": 240,
-   "created_utc": 1793351913,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xjak85/"
-  },
-  {
    "title": "What Is Wrong With the Market? Everything Is Falling.",
    "score": 146,
    "num_comments": 382,
    "created_utc": 1793375975,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xjj9f7/"
+  },
+  {
+   "title": "Waymo To Shutter Uber Operations, Waymo Co-CEO Says Uber App Deal Was \u2018Crapshoot\u2019 for Riders",
+   "score": 143,
+   "num_comments": 50,
+   "created_utc": 1793810573,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xnt0bd/"
   }
  ]
 }

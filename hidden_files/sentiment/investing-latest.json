@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-09T22:30:46.909066+00:00",
+ "generated_at": "2026-11-10T19:52:17.952502+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-18T14:39:06+00:00",
+ "window_start": "2026-10-19T18:58:26+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -38,6 +38,13 @@
    "bull": 0,
    "bear": 0,
    "engagement": 4
+  },
+  {
+   "ticker": "RKLB",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 14
   },
   {
    "ticker": "ASTS",
@@ -103,14 +110,14 @@
    "engagement": 23
   },
   {
-   "ticker": "BE",
+   "ticker": "CELH",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "CELH",
+   "ticker": "BE",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -136,13 +143,6 @@
    "bull": 0,
    "bear": 1,
    "engagement": 1
-  },
-  {
-   "ticker": "LMT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 109
   }
  ],
  "top_posts": [
@@ -190,8 +190,8 @@
   },
   {
    "title": "Jensen Huang just admitted to an affair with a suspected Chinese spy. 9 days before earnings.",
-   "score": 763,
-   "num_comments": 192,
+   "score": 760,
+   "num_comments": 194,
    "created_utc": 1794178338,
    "url": "https://www.reddit.com/r/investing/comments/1xrbjp6/"
   },
@@ -224,13 +224,6 @@
    "url": "https://www.reddit.com/r/investing/comments/1xnfjmf/"
   },
   {
-   "title": "How are cryptocurrencies not the dumbest thing ever?",
-   "score": 504,
-   "num_comments": 824,
-   "created_utc": 1792397633,
-   "url": "https://www.reddit.com/r/investing/comments/1x9r2z3/"
-  },
-  {
    "title": "Buying the dip on individual stocks or adding to index funds: what's your approach to this pullback?",
    "score": 437,
    "num_comments": 231,
@@ -250,6 +243,13 @@
    "num_comments": 65,
    "created_utc": 1793036065,
    "url": "https://www.reddit.com/r/investing/comments/1xg3ih3/"
+  },
+  {
+   "title": "67% Returns according to Trump",
+   "score": 339,
+   "num_comments": 344,
+   "created_utc": 1793314789,
+   "url": "https://www.reddit.com/r/investing/comments/1xiz19z/"
   }
  ]
 }
