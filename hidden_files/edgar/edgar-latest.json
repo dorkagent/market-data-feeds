@@ -15,8 +15,8 @@
     "BTCUSD"
   ],
   "window": {
-    "startdt": "2026-10-26",
-    "enddt": "2026-11-02"
+    "startdt": "2026-11-03",
+    "enddt": "2026-11-10"
   },
   "days": 7,
   "companies": [
@@ -49,13 +49,12 @@
         {
           "company": "MICROSOFT CORP  (MSFT)  (CIK 0000789019)",
           "form": "8-K",
-          "file_date": "2026-10-28",
+          "file_date": "2026-11-05",
           "items": [
-            "8.01",
-            "9.01"
+            "5.02"
           ],
           "event_tags": [
-            "other"
+            "leadership"
           ],
           "ciks": [
             "0000789019"
@@ -65,13 +64,12 @@
         {
           "company": "MICROSOFT CORP  (MSFT)  (CIK 0000789019)",
           "form": "8-K",
-          "file_date": "2026-10-28",
+          "file_date": "2026-11-04",
           "items": [
-            "2.02",
+            "8.01",
             "9.01"
           ],
           "event_tags": [
-            "earnings",
             "other"
           ],
           "ciks": [
@@ -85,14 +83,12 @@
         {
           "company": "MICROSOFT CORP  (MSFT)  (CIK 0000789019)",
           "form": "8-K",
-          "file_date": "2026-10-28",
+          "file_date": "2026-11-05",
           "items": [
-            "2.02",
-            "9.01"
+            "5.02"
           ],
           "event_tags": [
-            "earnings",
-            "other"
+            "leadership"
           ],
           "ciks": [
             "0000789019"
@@ -105,55 +101,34 @@
       "ticker": "AAPL",
       "cik": "0000320193",
       "title": "Apple Inc.",
-      "filings_8k": [],
-      "filings_8k_count": 0,
+      "filings_8k": [
+        {
+          "company": "Apple Inc.  (AAPL)  (CIK 0000320193)",
+          "form": "8-K",
+          "file_date": "2026-11-09",
+          "items": [
+            "8.01",
+            "9.01"
+          ],
+          "event_tags": [
+            "other"
+          ],
+          "ciks": [
+            "0000320193"
+          ],
+          "ticker": "AAPL"
+        }
+      ],
+      "filings_8k_count": 1,
       "notable": []
     },
     {
       "ticker": "RMD",
       "cik": "0000943819",
       "title": "RESMED INC",
-      "filings_8k": [
-        {
-          "company": "RESMED INC  (RMD, RSMDF)  (CIK 0000943819)",
-          "form": "8-K",
-          "file_date": "2026-10-29",
-          "items": [
-            "2.02",
-            "8.01",
-            "9.01"
-          ],
-          "event_tags": [
-            "earnings",
-            "other"
-          ],
-          "ciks": [
-            "0000943819"
-          ],
-          "ticker": "RMD"
-        }
-      ],
-      "filings_8k_count": 1,
-      "notable": [
-        {
-          "company": "RESMED INC  (RMD, RSMDF)  (CIK 0000943819)",
-          "form": "8-K",
-          "file_date": "2026-10-29",
-          "items": [
-            "2.02",
-            "8.01",
-            "9.01"
-          ],
-          "event_tags": [
-            "earnings",
-            "other"
-          ],
-          "ciks": [
-            "0000943819"
-          ],
-          "ticker": "RMD"
-        }
-      ]
+      "filings_8k": [],
+      "filings_8k_count": 0,
+      "notable": []
     },
     {
       "ticker": "OKTA",
@@ -183,25 +158,8 @@
       "ticker": "AMAT",
       "cik": "0000006951",
       "title": "APPLIED MATERIALS INC /DE",
-      "filings_8k": [
-        {
-          "company": "APPLIED MATERIALS INC /DE  (AMAT)  (CIK 0000006951)",
-          "form": "8-K",
-          "file_date": "2026-10-26",
-          "items": [
-            "8.01",
-            "9.01"
-          ],
-          "event_tags": [
-            "other"
-          ],
-          "ciks": [
-            "0000006951"
-          ],
-          "ticker": "AMAT"
-        }
-      ],
-      "filings_8k_count": 1,
+      "filings_8k": [],
+      "filings_8k_count": 0,
       "notable": []
     },
     {
@@ -235,13 +193,12 @@
         {
           "company": "MICROSOFT CORP  (MSFT)  (CIK 0000789019)",
           "form": "8-K",
-          "file_date": "2026-10-28",
+          "file_date": "2026-11-05",
           "items": [
-            "8.01",
-            "9.01"
+            "5.02"
           ],
           "event_tags": [
-            "other"
+            "leadership"
           ],
           "ciks": [
             "0000789019"
@@ -251,13 +208,12 @@
         {
           "company": "MICROSOFT CORP  (MSFT)  (CIK 0000789019)",
           "form": "8-K",
-          "file_date": "2026-10-28",
+          "file_date": "2026-11-04",
           "items": [
-            "2.02",
+            "8.01",
             "9.01"
           ],
           "event_tags": [
-            "earnings",
             "other"
           ],
           "ciks": [
@@ -271,14 +227,12 @@
         {
           "company": "MICROSOFT CORP  (MSFT)  (CIK 0000789019)",
           "form": "8-K",
-          "file_date": "2026-10-28",
+          "file_date": "2026-11-05",
           "items": [
-            "2.02",
-            "9.01"
+            "5.02"
           ],
           "event_tags": [
-            "earnings",
-            "other"
+            "leadership"
           ],
           "ciks": [
             "0000789019"
@@ -286,55 +240,9 @@
           "ticker": "MSFT"
         }
       ]
-    },
-    {
-      "ticker": "RMD",
-      "cik": "0000943819",
-      "title": "RESMED INC",
-      "filings_8k": [
-        {
-          "company": "RESMED INC  (RMD, RSMDF)  (CIK 0000943819)",
-          "form": "8-K",
-          "file_date": "2026-10-29",
-          "items": [
-            "2.02",
-            "8.01",
-            "9.01"
-          ],
-          "event_tags": [
-            "earnings",
-            "other"
-          ],
-          "ciks": [
-            "0000943819"
-          ],
-          "ticker": "RMD"
-        }
-      ],
-      "filings_8k_count": 1,
-      "notable": [
-        {
-          "company": "RESMED INC  (RMD, RSMDF)  (CIK 0000943819)",
-          "form": "8-K",
-          "file_date": "2026-10-29",
-          "items": [
-            "2.02",
-            "8.01",
-            "9.01"
-          ],
-          "event_tags": [
-            "earnings",
-            "other"
-          ],
-          "ciks": [
-            "0000943819"
-          ],
-          "ticker": "RMD"
-        }
-      ]
     }
   ],
   "source": "SEC EDGAR full-text search (efts.sec.gov, keyless)",
-  "generated_utc": "2026-11-02T17:17:30.031280+00:00",
+  "generated_utc": "2026-11-10T00:18:13.428139+00:00",
   "note": "Data feed only \u2014 context layer, never a trade trigger. 8-K/Form-4 event trigger informs the Monday rotation and the premarket brief; it never fires a trade alone."
 }
