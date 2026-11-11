@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-10T04:12:11.882269+00:00",
+  "generated_utc": "2026-11-11T01:59:42.796226+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. GDELT news tone/volume; throttled from this VM \u2014 cache-first, degrades silently on 429.",
   "source": "GDELT DOC 2.1 API (keyless, cache-first, 15s pacing)",
   "status": "ok",
@@ -39,7 +39,7 @@
         "avg_7d": -0.79,
         "min_7d": -4.87,
         "max_7d": 2.29,
-        "from_cache": false
+        "from_cache": true
       },
       "timelinevol": {
         "points": 50,
@@ -78,7 +78,7 @@
         "avg_7d": -0.13,
         "min_7d": -4.45,
         "max_7d": 3.47,
-        "from_cache": false
+        "from_cache": true
       },
       "timelinevol": {
         "points": 57,
@@ -86,7 +86,7 @@
         "avg_7d": 0.44,
         "min_7d": 0.0,
         "max_7d": 1.33,
-        "from_cache": false
+        "from_cache": true
       }
     }
   },
