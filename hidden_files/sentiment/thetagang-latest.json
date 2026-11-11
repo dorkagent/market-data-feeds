@@ -1,8 +1,8 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-11-10T19:54:10.011334+00:00",
+ "generated_at": "2026-11-11T19:46:37.498623+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-05T03:37:25+00:00",
+ "window_start": "2026-09-05T14:58:08+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
@@ -100,7 +100,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 15
+   "engagement": 18
   },
   {
    "ticker": "NFLX",
@@ -117,7 +117,14 @@
    "engagement": 18
   },
   {
-   "ticker": "SNXX",
+   "ticker": "NVTS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "VST",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -131,14 +138,7 @@
    "engagement": 12
   },
   {
-   "ticker": "AXTI",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
-   "ticker": "VST",
+   "ticker": "VXT",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -182,6 +182,13 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1x0u7wm/"
   },
   {
+   "title": "Thanks Jensen",
+   "score": 155,
+   "num_comments": 44,
+   "created_utc": 1794235174,
+   "url": "https://www.reddit.com/r/thetagang/comments/1xrtc20/"
+  },
+  {
    "title": "Aggressive Wheeling Results Since May",
    "score": 153,
    "num_comments": 50,
@@ -208,13 +215,6 @@
    "num_comments": 79,
    "created_utc": 1792194412,
    "url": "https://www.reddit.com/r/thetagang/comments/1x7vo34/"
-  },
-  {
-   "title": "Thanks Jensen",
-   "score": 144,
-   "num_comments": 35,
-   "created_utc": 1794235174,
-   "url": "https://www.reddit.com/r/thetagang/comments/1xrtc20/"
   },
   {
    "title": "Sold puts on RDDT & SFM\u2026!",

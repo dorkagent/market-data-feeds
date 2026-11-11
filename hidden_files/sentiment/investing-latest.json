@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-10T19:52:17.952502+00:00",
+ "generated_at": "2026-11-11T19:44:34.716569+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-19T18:58:26+00:00",
+ "window_start": "2026-10-20T14:24:11+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -10,13 +10,6 @@
    "bull": 0,
    "bear": 1,
    "engagement": 8
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 94
   },
   {
    "ticker": "RDDT",
@@ -40,11 +33,25 @@
    "engagement": 4
   },
   {
+   "ticker": "AMZN",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 54
+  },
+  {
+   "ticker": "NU",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 7
+  },
+  {
    "ticker": "RKLB",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 14
+   "engagement": 58
   },
   {
    "ticker": "ASTS",
@@ -75,13 +82,6 @@
    "engagement": 16
   },
   {
-   "ticker": "APP",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 12
-  },
-  {
    "ticker": "OSCR",
    "mentions": 1,
    "bull": 1,
@@ -96,11 +96,18 @@
    "engagement": 12
   },
   {
+   "ticker": "APP",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 12
+  },
+  {
    "ticker": "DUOL",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 24
+   "engagement": 26
   },
   {
    "ticker": "SN",
@@ -110,14 +117,14 @@
    "engagement": 23
   },
   {
-   "ticker": "CELH",
+   "ticker": "BE",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "BE",
+   "ticker": "CELH",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -136,13 +143,6 @@
    "bull": 0,
    "bear": 1,
    "engagement": 86
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
   }
  ],
  "top_posts": [
@@ -191,7 +191,7 @@
   {
    "title": "Jensen Huang just admitted to an affair with a suspected Chinese spy. 9 days before earnings.",
    "score": 760,
-   "num_comments": 194,
+   "num_comments": 191,
    "created_utc": 1794178338,
    "url": "https://www.reddit.com/r/investing/comments/1xrbjp6/"
   },
@@ -218,8 +218,8 @@
   },
   {
    "title": "Midterms reduce uncertainty",
-   "score": 552,
-   "num_comments": 190,
+   "score": 577,
+   "num_comments": 202,
    "created_utc": 1793768511,
    "url": "https://www.reddit.com/r/investing/comments/1xnfjmf/"
   },
@@ -229,6 +229,13 @@
    "num_comments": 231,
    "created_utc": 1793355095,
    "url": "https://www.reddit.com/r/investing/comments/1xjbfdg/"
+  },
+  {
+   "title": "Why is SpaceX winding down the Falcon 9 program and getting nothing in return?",
+   "score": 381,
+   "num_comments": 386,
+   "created_utc": 1794314433,
+   "url": "https://www.reddit.com/r/investing/comments/1xslvx7/"
   },
   {
    "title": "Brent at $117 and the SPR has nothing left to give if this gets worse",
@@ -243,13 +250,6 @@
    "num_comments": 65,
    "created_utc": 1793036065,
    "url": "https://www.reddit.com/r/investing/comments/1xg3ih3/"
-  },
-  {
-   "title": "67% Returns according to Trump",
-   "score": 339,
-   "num_comments": 344,
-   "created_utc": 1793314789,
-   "url": "https://www.reddit.com/r/investing/comments/1xiz19z/"
   }
  ]
 }

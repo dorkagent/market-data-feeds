@@ -1,15 +1,15 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-10T19:53:19.891627+00:00",
+ "generated_at": "2026-11-11T19:45:23.413458+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-15T21:08:52+00:00",
+ "window_start": "2026-10-16T05:28:03+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 7,
    "bull": 1,
    "bear": 2,
-   "engagement": 2508
+   "engagement": 2513
   },
   {
    "ticker": "RDDT",
@@ -37,7 +37,7 @@
    "mentions": 3,
    "bull": 0,
    "bear": 1,
-   "engagement": 798
+   "engagement": 820
   },
   {
    "ticker": "SOFI",
@@ -89,14 +89,14 @@
    "engagement": 58
   },
   {
-   "ticker": "MU",
+   "ticker": "CLS",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "CLS",
+   "ticker": "MU",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -117,13 +117,6 @@
    "engagement": 1
   },
   {
-   "ticker": "VST",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "CLSK",
    "mentions": 1,
    "bull": 0,
@@ -131,14 +124,21 @@
    "engagement": 1
   },
   {
-   "ticker": "LITE",
+   "ticker": "VST",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "BE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 5
   },
   {
-   "ticker": "BE",
+   "ticker": "LITE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -176,8 +176,8 @@
   },
   {
    "title": "Nvidia stock fell 12% because of election and another 10% because of erection",
-   "score": 4938,
-   "num_comments": 155,
+   "score": 5394,
+   "num_comments": 163,
    "created_utc": 1794248125,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xrz5yo/"
   },
@@ -217,9 +217,16 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xea8br/"
   },
   {
+   "title": "Americans overwhelmingly voted against data centers in the midterms",
+   "score": 2337,
+   "num_comments": 318,
+   "created_utc": 1793807059,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xnri1d/"
+  },
+  {
    "title": "Name a better investor than Jensen Huang's wife.",
-   "score": 2330,
-   "num_comments": 156,
+   "score": 2327,
+   "num_comments": 159,
    "created_utc": 1794250581,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xs09zz/"
   },
@@ -229,13 +236,6 @@
    "num_comments": 93,
    "created_utc": 1793947463,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xp64cy/"
-  },
-  {
-   "title": "Americans overwhelmingly voted against data centers in the midterms",
-   "score": 2158,
-   "num_comments": 282,
-   "created_utc": 1793807059,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xnri1d/"
   },
   {
    "title": "Did he have sex with the girl in the bottom-left corner?",

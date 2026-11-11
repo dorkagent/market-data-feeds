@@ -1,22 +1,22 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-09T22:30:55.389021+00:00",
+ "generated_at": "2026-11-11T19:45:00.856229+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-03T11:16:45+00:00",
+ "window_start": "2026-11-05T10:30:09+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 7,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 47
+   "mentions": 16,
+   "bull": 6,
+   "bear": 4,
+   "engagement": 640
   },
   {
    "ticker": "AMD",
    "mentions": 7,
-   "bull": 2,
+   "bull": 1,
    "bear": 0,
-   "engagement": 1092
+   "engagement": 24
   },
   {
    "ticker": "QUBT",
@@ -26,32 +26,39 @@
    "engagement": 11
   },
   {
-   "ticker": "UBER",
+   "ticker": "SPY",
    "mentions": 4,
    "bull": 1,
    "bear": 1,
-   "engagement": 317
+   "engagement": 30
   },
   {
-   "ticker": "RDDT",
+   "ticker": "UBER",
    "mentions": 3,
-   "bull": 1,
+   "bull": 0,
    "bear": 1,
-   "engagement": 657
+   "engagement": 302
   },
   {
    "ticker": "NBIS",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 832
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 583
   },
   {
-   "ticker": "SPY",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 29
+   "ticker": "AVGO",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 202
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 557
   },
   {
    "ticker": "TSLA",
@@ -66,6 +73,48 @@
    "bull": 0,
    "bear": 0,
    "engagement": 27
+  },
+  {
+   "ticker": "QBTS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 0
+  },
+  {
+   "ticker": "IONQ",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 0
+  },
+  {
+   "ticker": "APLD",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 39
+  },
+  {
+   "ticker": "META",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 39
+  },
+  {
+   "ticker": "ASPE",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "BTC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "GOOG",
@@ -86,59 +135,10 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 528
+   "engagement": 556
   },
   {
    "ticker": "CLSK",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 201
-  },
-  {
-   "ticker": "ASTS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 19
-  },
-  {
-   "ticker": "VELO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "YELP",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "AAPL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 2
-  },
-  {
-   "ticker": "APP",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "QQQ",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -148,17 +148,10 @@
  "top_posts": [
   {
    "title": "Nvidia CEO Jensen Huang admits to infidelity in memo to employees",
-   "score": 4633,
-   "num_comments": 1028,
+   "score": 4734,
+   "num_comments": 1068,
    "created_utc": 1794169650,
    "url": "https://www.reddit.com/r/stocks/comments/1xr88hz/"
-  },
-  {
-   "title": "Dow Surges Over 1,000 Points in Broad Market Rebound",
-   "score": 2668,
-   "num_comments": 260,
-   "created_utc": 1793803686,
-   "url": "https://www.reddit.com/r/stocks/comments/1xnq2z6/"
   },
   {
    "title": "Anybody buying the dip",
@@ -173,13 +166,6 @@
    "num_comments": 880,
    "created_utc": 1793893913,
    "url": "https://www.reddit.com/r/stocks/comments/1xom4pn/"
-  },
-  {
-   "title": "Stocks UP pre-market after Democrats sweep Congress in repudiation of Trump",
-   "score": 1397,
-   "num_comments": 312,
-   "created_utc": 1793783334,
-   "url": "https://www.reddit.com/r/stocks/comments/1xnjlxz/"
   },
   {
    "title": "Dear Reddit - The stock market isn't broken",
@@ -210,11 +196,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xomuwg/"
   },
   {
-   "title": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil.",
-   "score": 651,
-   "num_comments": 82,
-   "created_utc": 1793827358,
-   "url": "https://www.reddit.com/r/stocks/comments/1xo0cat/"
+   "title": "Nvidia Shares Fall 5% on CEO Spy Inquiry",
+   "score": 667,
+   "num_comments": 197,
+   "created_utc": 1794216275,
+   "url": "https://www.reddit.com/r/stocks/comments/1xrn8y7/"
   },
   {
    "title": "Chip stocks get slaughtered as Wall Street heads for its worst post-midterm day since 1896",
@@ -222,6 +208,27 @@
    "num_comments": 213,
    "created_utc": 1793898605,
    "url": "https://www.reddit.com/r/stocks/comments/1xoo6ex/"
+  },
+  {
+   "title": "The Anthropic IPO isn't worth it for the average retail investor and why it isn't going to make you rich.",
+   "score": 606,
+   "num_comments": 313,
+   "created_utc": 1794344684,
+   "url": "https://www.reddit.com/r/stocks/comments/1xsynl3/"
+  },
+  {
+   "title": "Real inflation in America seems to be at least 8%...Why isn't this talked about more?",
+   "score": 598,
+   "num_comments": 343,
+   "created_utc": 1794414090,
+   "url": "https://www.reddit.com/r/stocks/comments/1xtm1sc/"
+  },
+  {
+   "title": "US Inflation Comes In Hotter Than Expected",
+   "score": 479,
+   "num_comments": 153,
+   "created_utc": 1794317866,
+   "url": "https://www.reddit.com/r/stocks/comments/1xsn3u1/"
   },
   {
    "title": "Microsoft Corp. is winding down an arrangement to rent AI computing from Oracle.",
@@ -238,18 +245,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xq0mxn/"
   },
   {
-   "title": "Nvidia Shares Fall 5% on CEO Spy Inquiry",
-   "score": 389,
-   "num_comments": 104,
-   "created_utc": 1794216275,
-   "url": "https://www.reddit.com/r/stocks/comments/1xrn8y7/"
-  },
-  {
-   "title": "SOXX, Semis are CRASHING",
-   "score": 347,
-   "num_comments": 337,
-   "created_utc": 1793890839,
-   "url": "https://www.reddit.com/r/stocks/comments/1xoktnd/"
+   "title": "NY Times - U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
+   "score": 396,
+   "num_comments": 51,
+   "created_utc": 1794244072,
+   "url": "https://www.reddit.com/r/stocks/comments/1xrxbbo/"
   }
  ]
 }

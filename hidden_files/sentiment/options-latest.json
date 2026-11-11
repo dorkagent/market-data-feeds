@@ -1,14 +1,14 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-10T19:54:21.839743+00:00",
+ "generated_at": "2026-11-11T19:47:04.104448+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-29T15:39:20+00:00",
+ "window_start": "2026-10-01T18:39:15+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
-   "mentions": 12,
-   "bull": 6,
-   "bear": 6,
+   "mentions": 13,
+   "bull": 7,
+   "bear": 7,
    "engagement": 532
   },
   {
@@ -23,7 +23,7 @@
    "mentions": 4,
    "bull": 3,
    "bear": 4,
-   "engagement": 100
+   "engagement": 105
   },
   {
    "ticker": "GME",
@@ -40,11 +40,25 @@
    "engagement": 299
   },
   {
-   "ticker": "TLT",
-   "mentions": 2,
-   "bull": 1,
+   "ticker": "ETH",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "BTC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "NVDA",
+   "mentions": 1,
+   "bull": 0,
    "bear": 1,
-   "engagement": 23
+   "engagement": 2
   },
   {
    "ticker": "MSTR",
@@ -110,14 +124,14 @@
    "engagement": 1
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 3
   },
   {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -129,20 +143,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 22
-  },
-  {
-   "ticker": "NBIS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 13
-  },
-  {
-   "ticker": "BB",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 16
   }
  ],
  "top_posts": [
@@ -152,6 +152,13 @@
    "num_comments": 292,
    "created_utc": 1792700868,
    "url": "https://www.reddit.com/r/options/comments/1xctuna/"
+  },
+  {
+   "title": "Boyfriend lost all money to trading options. Again. Our relationship is in deep dookie.",
+   "score": 461,
+   "num_comments": 461,
+   "created_utc": 1793759801,
+   "url": "https://www.reddit.com/r/options/comments/1xncptw/"
   },
   {
    "title": "Boredom",
@@ -166,13 +173,6 @@
    "num_comments": 90,
    "created_utc": 1791707199,
    "url": "https://www.reddit.com/r/options/comments/1x32u6l/"
-  },
-  {
-   "title": "Boyfriend lost all money to trading options. Again. Our relationship is in deep dookie.",
-   "score": 356,
-   "num_comments": 361,
-   "created_utc": 1793759801,
-   "url": "https://www.reddit.com/r/options/comments/1xncptw/"
   },
   {
    "title": "Dummy's guide to financing LEAPs for free",
@@ -246,8 +246,8 @@
   },
   {
    "title": "If your goal is to collect premium, the short strangle is the best way to do it. Prove me wrong",
-   "score": 76,
-   "num_comments": 78,
+   "score": 85,
+   "num_comments": 89,
    "created_utc": 1794253354,
    "url": "https://www.reddit.com/r/options/comments/1xs1jtp/"
   }

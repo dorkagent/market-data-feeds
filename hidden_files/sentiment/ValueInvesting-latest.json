@@ -1,29 +1,22 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-10T19:53:44.971340+00:00",
+ "generated_at": "2026-11-11T19:46:02.811996+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-30T14:58:43+00:00",
+ "window_start": "2026-10-31T09:39:20+00:00",
  "top_tickers": [
   {
    "ticker": "RDDT",
-   "mentions": 17,
-   "bull": 9,
-   "bear": 3,
-   "engagement": 1304
+   "mentions": 11,
+   "bull": 5,
+   "bear": 1,
+   "engagement": 360
   },
   {
    "ticker": "NVDA",
-   "mentions": 9,
+   "mentions": 10,
    "bull": 3,
    "bear": 2,
-   "engagement": 1676
-  },
-  {
-   "ticker": "APP",
-   "mentions": 7,
-   "bull": 4,
-   "bear": 3,
-   "engagement": 123
+   "engagement": 1832
   },
   {
    "ticker": "AAPL",
@@ -38,6 +31,13 @@
    "bull": 2,
    "bear": 0,
    "engagement": 313
+  },
+  {
+   "ticker": "APP",
+   "mentions": 6,
+   "bull": 3,
+   "bear": 3,
+   "engagement": 112
   },
   {
    "ticker": "MU",
@@ -61,18 +61,18 @@
    "engagement": 306
   },
   {
-   "ticker": "NFLX",
-   "mentions": 3,
+   "ticker": "MSFT",
+   "mentions": 2,
    "bull": 0,
-   "bear": 0,
-   "engagement": 330
+   "bear": 1,
+   "engagement": 82
   },
   {
    "ticker": "ZETA",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 8
+   "engagement": 10
   },
   {
    "ticker": "IREN",
@@ -86,7 +86,7 @@
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 117
+   "engagement": 119
   },
   {
    "ticker": "CRWV",
@@ -124,25 +124,25 @@
    "engagement": 9
   },
   {
-   "ticker": "BKNG",
+   "ticker": "NFLX",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 27
+   "engagement": 304
   },
   {
-   "ticker": "AMD",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 90
-  },
-  {
-   "ticker": "FLEX",
+   "ticker": "VG",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 9
+   "engagement": 1
+  },
+  {
+   "ticker": "HIMS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 12
   }
  ],
  "top_posts": [
@@ -161,13 +161,6 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xplnex/"
   },
   {
-   "title": "If you cannot comprehend your stock or markets in general dropping 3%, 5%, 20% or whatever, you should not be in the sub",
-   "score": 391,
-   "num_comments": 201,
-   "created_utc": 1793383112,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xjmihg/"
-  },
-  {
    "title": "Why Is the Stock Market Getting Destroyed Today?",
    "score": 322,
    "num_comments": 895,
@@ -182,11 +175,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xm71fj/"
   },
   {
-   "title": "r/valueinvesting \"darling\" RDDT now down 61% YTD",
-   "score": 253,
-   "num_comments": 265,
-   "created_utc": 1793374862,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xjirm6/"
+   "title": "Costco to Pay out $30 Special Dividend, Renews $4B Stock Buyback Program - wsj",
+   "score": 293,
+   "num_comments": 47,
+   "created_utc": 1794351906,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xt1kte/"
   },
   {
    "title": "Google now below Buffett's price.  Are you buying?",
@@ -238,18 +231,25 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xpa6er/"
   },
   {
-   "title": "What Is Wrong With the Market? Everything Is Falling.",
-   "score": 146,
-   "num_comments": 382,
-   "created_utc": 1793375975,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xjj9f7/"
-  },
-  {
    "title": "Waymo To Shutter Uber Operations, Waymo Co-CEO Says Uber App Deal Was \u2018Crapshoot\u2019 for Riders",
    "score": 143,
    "num_comments": 50,
    "created_utc": 1793810573,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xnt0bd/"
+  },
+  {
+   "title": "NVDA - Will There Be a Buying Opportunity?",
+   "score": 126,
+   "num_comments": 325,
+   "created_utc": 1794189222,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xrfbvj/"
+  },
+  {
+   "title": "Quantum Computing, The next big money pit",
+   "score": 123,
+   "num_comments": 72,
+   "created_utc": 1793713985,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xmthr8/"
   }
  ]
 }

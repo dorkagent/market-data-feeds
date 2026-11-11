@@ -1,112 +1,119 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-11-10T19:51:55.027497+00:00",
+ "generated_at": "2026-11-11T19:43:53.950359+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-09T13:46:04+00:00",
+ "window_start": "2026-11-10T03:18:35+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 27,
-   "bull": 7,
+   "mentions": 25,
+   "bull": 9,
    "bear": 7,
-   "engagement": 3177
+   "engagement": 4809
   },
   {
-   "ticker": "SOXL",
+   "ticker": "CRWV",
    "mentions": 3,
    "bull": 1,
-   "bear": 1,
-   "engagement": 3
+   "bear": 0,
+   "engagement": 13
   },
   {
-   "ticker": "QQQ",
-   "mentions": 2,
-   "bull": 0,
+   "ticker": "AMD",
+   "mentions": 3,
+   "bull": 2,
    "bear": 1,
-   "engagement": 719
+   "engagement": 791
   },
   {
-   "ticker": "MSFT",
+   "ticker": "RDDT",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 97
+  },
+  {
+   "ticker": "TTWO",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "GOOGL",
+   "ticker": "MSFT",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 12
+   "engagement": 63
   },
   {
-   "ticker": "PYPL",
+   "ticker": "MRVL",
    "mentions": 1,
    "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "BLZE",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 0
+  },
+  {
+   "ticker": "SEV",
+   "mentions": 1,
+   "bull": 0,
    "bear": 1,
    "engagement": 1
   },
   {
-   "ticker": "INTU",
+   "ticker": "JDZG",
    "mentions": 1,
-   "bull": 1,
+   "bull": 0,
    "bear": 1,
    "engagement": 1
   },
   {
-   "ticker": "RDDT",
+   "ticker": "HTZ",
    "mentions": 1,
-   "bull": 1,
-   "bear": 1,
+   "bull": 0,
+   "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "CELH",
+   "ticker": "SPY",
    "mentions": 1,
-   "bull": 1,
-   "bear": 1,
+   "bull": 0,
+   "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "TTD",
+   "ticker": "META",
    "mentions": 1,
    "bull": 1,
-   "bear": 1,
+   "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "BTC",
+   "ticker": "INTC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "PLTR",
    "mentions": 1,
    "bull": 1,
-   "bear": 1,
+   "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "ORCL",
+   "ticker": "OPEN",
    "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "MSTY",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "SNAP",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "ADBE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
+   "bull": 0,
+   "bear": 0,
    "engagement": 1
   },
   {
@@ -114,93 +121,72 @@
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 60
   },
   {
-   "ticker": "NKE",
+   "ticker": "SOXL",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 60
   },
   {
-   "ticker": "MSTR",
+   "ticker": "SNAP",
    "mentions": 1,
    "bull": 1,
-   "bear": 0,
-   "engagement": 2
+   "bear": 1,
+   "engagement": 60
   },
   {
-   "ticker": "GOOG",
+   "ticker": "TTD",
    "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2485
-  },
-  {
-   "ticker": "MRVL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 3
+   "bull": 1,
+   "bear": 1,
+   "engagement": 60
   }
  ],
  "top_posts": [
   {
-   "title": "Why would I deceive you?",
-   "score": 41404,
-   "num_comments": 1187,
-   "created_utc": 1794275421,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsaggn/"
-  },
-  {
-   "title": "Jensen Huang\u2019s wang caused a 0.25% decrease in the global stock market",
-   "score": 8671,
-   "num_comments": 452,
-   "created_utc": 1794243296,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrwy4z/"
-  },
-  {
-   "title": "$700 to 122k in 2 days",
-   "score": 6401,
-   "num_comments": 1067,
-   "created_utc": 1794255819,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xs2ncn/"
-  },
-  {
-   "title": "What is the charge? Eating a meal? A succulent Chinese meal?",
-   "score": 5686,
-   "num_comments": 169,
-   "created_utc": 1794246509,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xryeyf/"
-  },
-  {
    "title": "Hang ts in the Louvre",
-   "score": 4428,
+   "score": 4427,
    "num_comments": 102,
    "created_utc": 1794317216,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsmv55/"
   },
   {
-   "title": "The reason why Elon will not be caught in anything with a woman:",
-   "score": 3423,
-   "num_comments": 655,
-   "created_utc": 1794259635,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xs4ayj/"
+   "title": "Imagine losing money because your CEO couldn't stay loyal.",
+   "score": 4414,
+   "num_comments": 197,
+   "created_utc": 1794297007,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsh24e/"
   },
   {
-   "title": "Breaking",
-   "score": 3385,
-   "num_comments": 70,
-   "created_utc": 1794267654,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xs7m8y/"
+   "title": "The man continues to make correct decisions under pressure.",
+   "score": 3373,
+   "num_comments": 50,
+   "created_utc": 1794416566,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xtn6ec/"
   },
   {
-   "title": "NY Times - U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
-   "score": 2803,
-   "num_comments": 301,
-   "created_utc": 1794243755,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrx5zn/"
+   "title": "Gabe No!!! You listen to me! You tell this woman nothing! Gabe please don\u2019t fall for this! Gabe!!! Please Gabe!!!Gaaaaaaaabe!!",
+   "score": 3317,
+   "num_comments": 230,
+   "created_utc": 1794351176,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xt1ati/"
+  },
+  {
+   "title": "Anthropic(ANT) IPO date is 11/30/2026. $70-$78 a share.",
+   "score": 2613,
+   "num_comments": 946,
+   "created_utc": 1794318347,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsnad5/"
+  },
+  {
+   "title": "NVDA 2,000 shares YOLO.... cause Warren Buffet told me to do it",
+   "score": 2448,
+   "num_comments": 548,
+   "created_utc": 1794355687,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xt31p8/"
   },
   {
    "title": "$GOOG announcing new TPU chips today",
@@ -210,46 +196,60 @@
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsjfsh/"
   },
   {
-   "title": "$55,000 gain in 55 seconds flipping $NVDA calls at open",
-   "score": 2182,
-   "num_comments": 186,
-   "created_utc": 1794236162,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrtr5l/"
+   "title": "Crazy theory about nvidia debacle",
+   "score": 2349,
+   "num_comments": 265,
+   "created_utc": 1794302916,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsik05/"
+  },
+  {
+   "title": "Anthropic seeks $1.4 trillion valuation in highly anticipated IPO, reportedly aiming for Nov. 19 or Nov. 20 debut",
+   "score": 2108,
+   "num_comments": 462,
+   "created_utc": 1794324910,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xspyjp/"
   },
   {
    "title": "Tender loving care",
    "score": 2071,
-   "num_comments": 155,
+   "num_comments": 156,
    "created_utc": 1794294204,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsgbqi/"
   },
   {
-   "title": "Imagine losing money because your CEO couldn't stay loyal.",
-   "score": 2004,
-   "num_comments": 112,
-   "created_utc": 1794297007,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsh24e/"
+   "title": "SoftBank books $7 billion quarterly loss on US data centre hit, financing costs",
+   "score": 2018,
+   "num_comments": 139,
+   "created_utc": 1794338043,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsvtd1/"
   },
   {
-   "title": "Nvidia has no obvious successor to Jensen Huang",
-   "score": 1920,
-   "num_comments": 476,
-   "created_utc": 1794259898,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xs4f05/"
+   "title": "Oh, really?",
+   "score": 1934,
+   "num_comments": 167,
+   "created_utc": 1794345704,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsz3e7/"
   },
   {
-   "title": "Law firm files class-action lawsuit against Nvidia after affair, multiple other law firms investigate securities fraud following stock drop.",
-   "score": 1685,
-   "num_comments": 277,
-   "created_utc": 1794269837,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xs8h2h/"
+   "title": "This Video was created by NVIDIA Chips",
+   "score": 1691,
+   "num_comments": 134,
+   "created_utc": 1794399218,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xtg7rj/"
   },
   {
-   "title": "Anthropic(ANT) IPO date is 11/30/2026. $70-$78 a share.",
-   "score": 1633,
-   "num_comments": 702,
-   "created_utc": 1794318347,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsnad5/"
+   "title": "Jensen Huang\u2019s Careless Whisper",
+   "score": 1453,
+   "num_comments": 170,
+   "created_utc": 1794370024,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xt80r8/"
+  },
+  {
+   "title": "Image ppl using ur chips to create memes about you \ud83d\ude02",
+   "score": 1398,
+   "num_comments": 46,
+   "created_utc": 1794390992,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xtdvj3/"
   }
  ]
 }
