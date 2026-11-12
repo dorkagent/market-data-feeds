@@ -1,11 +1,139 @@
 {
- "generated_at": "2026-11-11T18:48:20.709040+00:00",
+ "generated_at": "2026-11-12T19:00:07.843604+00:00",
  "universe": "US-listed, price >= $5, |move| >= 3% (premarket: no volume filter)",
- "top_movers": [],
+ "top_movers": [
+  {
+   "symbol": "ARM",
+   "pct_change": 12.1,
+   "price": 203.36,
+   "market_cap": "216,386,276,047",
+   "direction": "up"
+  },
+  {
+   "symbol": "MU",
+   "pct_change": 11.9,
+   "price": 811.3,
+   "market_cap": "917,923,651,896",
+   "direction": "up"
+  },
+  {
+   "symbol": "DELL",
+   "pct_change": 11.8,
+   "price": 373.72,
+   "market_cap": "237,615,940,930",
+   "direction": "up"
+  },
+  {
+   "symbol": "SKHY",
+   "pct_change": 9.7,
+   "price": 142.25,
+   "market_cap": "1,036,811,173,750",
+   "direction": "up"
+  },
+  {
+   "symbol": "ORCL",
+   "pct_change": 8.8,
+   "price": 128.4,
+   "market_cap": "388,247,702,400",
+   "direction": "up"
+  },
+  {
+   "symbol": "INTC",
+   "pct_change": 7.5,
+   "price": 62.47,
+   "market_cap": "332,022,735,000",
+   "direction": "up"
+  },
+  {
+   "symbol": "AMD",
+   "pct_change": 7.3,
+   "price": 552.9,
+   "market_cap": "906,804,241,078",
+   "direction": "up"
+  },
+  {
+   "symbol": "ANET",
+   "pct_change": 6.3,
+   "price": 196.72,
+   "market_cap": "248,536,507,341",
+   "direction": "up"
+  },
+  {
+   "symbol": "AMAT",
+   "pct_change": 6.1,
+   "price": 395.08,
+   "market_cap": "313,534,477,780",
+   "direction": "up"
+  },
+  {
+   "symbol": "LRCX",
+   "pct_change": 6.1,
+   "price": 235.88,
+   "market_cap": "294,654,455,480",
+   "direction": "up"
+  },
+  {
+   "symbol": "KLAC",
+   "pct_change": 5.2,
+   "price": 161.01,
+   "market_cap": "209,789,981,659",
+   "direction": "up"
+  },
+  {
+   "symbol": "TSM",
+   "pct_change": 4.1,
+   "price": 412.91,
+   "market_cap": "2,141,559,739,911",
+   "direction": "up"
+  },
+  {
+   "symbol": "AVGO",
+   "pct_change": 4.0,
+   "price": 345.22,
+   "market_cap": "1,647,952,501,995",
+   "direction": "up"
+  },
+  {
+   "symbol": "ADI",
+   "pct_change": 4.0,
+   "price": 409.08,
+   "market_cap": "198,226,040,422",
+   "direction": "up"
+  },
+  {
+   "symbol": "TXN",
+   "pct_change": 3.1,
+   "price": 309.81,
+   "market_cap": "283,095,181,600",
+   "direction": "up"
+  }
+ ],
  "setup_routing": {
-  "setup_a_candidates": [],
-  "setup_b_candidates": [],
+  "setup_a_candidates": [
+   "ARM",
+   "MU",
+   "DELL",
+   "SKHY",
+   "ORCL",
+   "INTC",
+   "AMD",
+   "ANET",
+   "AMAT",
+   "LRCX"
+  ],
+  "setup_b_candidates": [
+   "ARM",
+   "MU",
+   "DELL",
+   "SKHY",
+   "ORCL",
+   "INTC",
+   "AMD",
+   "ANET",
+   "AMAT",
+   "LRCX"
+  ],
   "setup_c_candidates": []
  },
- "count": 0
+ "count": 15
 }
