@@ -1,8 +1,8 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-11-11T19:46:37.498623+00:00",
+ "generated_at": "2026-11-12T20:11:56.329581+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-05T14:58:08+00:00",
+ "window_start": "2026-09-06T15:46:18+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
@@ -117,7 +117,21 @@
    "engagement": 18
   },
   {
-   "ticker": "NVTS",
+   "ticker": "SNXX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "SPCH",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "AXTI",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -125,20 +139,6 @@
   },
   {
    "ticker": "VST",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
-   "ticker": "ROBN",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
-   "ticker": "VXT",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -173,6 +173,13 @@
    "num_comments": 114,
    "created_utc": 1790126307,
    "url": "https://www.reddit.com/r/thetagang/comments/1wns02i/"
+  },
+  {
+   "title": "Theta suckers are still up\u2026",
+   "score": 172,
+   "num_comments": 62,
+   "created_utc": 1793908151,
+   "url": "https://www.reddit.com/r/thetagang/comments/1xosczq/"
   },
   {
    "title": "2026 | $100k target achieved.",
@@ -236,13 +243,6 @@
    "num_comments": 31,
    "created_utc": 1789770188,
    "url": "https://www.reddit.com/r/thetagang/comments/1wk4d9v/"
-  },
-  {
-   "title": "Theta suckers are still up\u2026",
-   "score": 140,
-   "num_comments": 49,
-   "created_utc": 1793908151,
-   "url": "https://www.reddit.com/r/thetagang/comments/1xosczq/"
   },
   {
    "title": "What RDDT does to you",

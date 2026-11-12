@@ -1,15 +1,15 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-11T19:45:23.413458+00:00",
+ "generated_at": "2026-11-12T20:10:17.708470+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-16T05:28:03+00:00",
+ "window_start": "2026-10-18T08:15:01+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 7,
-   "bull": 1,
+   "mentions": 9,
+   "bull": 2,
    "bear": 2,
-   "engagement": 2513
+   "engagement": 2517
   },
   {
    "ticker": "RDDT",
@@ -19,11 +19,11 @@
    "engagement": 322
   },
   {
-   "ticker": "MSFT",
-   "mentions": 3,
-   "bull": 1,
+   "ticker": "AMD",
+   "mentions": 4,
+   "bull": 0,
    "bear": 1,
-   "engagement": 2514
+   "engagement": 821
   },
   {
    "ticker": "AMZN",
@@ -33,11 +33,11 @@
    "engagement": 2496
   },
   {
-   "ticker": "AMD",
+   "ticker": "MSFT",
    "mentions": 3,
-   "bull": 0,
+   "bull": 1,
    "bear": 1,
-   "engagement": 820
+   "engagement": 2514
   },
   {
    "ticker": "SOFI",
@@ -89,14 +89,14 @@
    "engagement": 58
   },
   {
-   "ticker": "CLS",
+   "ticker": "MU",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "MU",
+   "ticker": "CLS",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -107,14 +107,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 9219
-  },
-  {
-   "ticker": "WDC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
+   "engagement": 9354
   },
   {
    "ticker": "CLSK",
@@ -131,14 +124,21 @@
    "engagement": 1
   },
   {
-   "ticker": "BE",
+   "ticker": "WDC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "LITE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 5
   },
   {
-   "ticker": "LITE",
+   "ticker": "BE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -148,8 +148,8 @@
  "top_posts": [
   {
    "title": "$2.5 TRILLION has been wiped from US stocks.",
-   "score": 35034,
-   "num_comments": 4482,
+   "score": 36076,
+   "num_comments": 4543,
    "created_utc": 1793901645,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/"
   },
@@ -169,8 +169,8 @@
   },
   {
    "title": "NASDAQ futures down 4.5%. What the actual F is happening to this market?",
-   "score": 6153,
-   "num_comments": 3066,
+   "score": 6238,
+   "num_comments": 3116,
    "created_utc": 1793892168,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xolejn/"
   },
@@ -245,11 +245,11 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xrcr1u/"
   },
   {
-   "title": "There's gonna be a bloodbath of Neocloud on Monday",
-   "score": 1835,
-   "num_comments": 517,
-   "created_utc": 1792961013,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xfda72/"
+   "title": "Nvidia CEO Jensen Huang resigns: Live updates",
+   "score": 1885,
+   "num_comments": 518,
+   "created_utc": 1794491676,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xudcge/"
   }
  ]
 }

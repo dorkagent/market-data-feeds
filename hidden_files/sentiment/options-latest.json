@@ -1,15 +1,15 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-11T19:47:04.104448+00:00",
+ "generated_at": "2026-11-12T20:12:52.495448+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-01T18:39:15+00:00",
+ "window_start": "2026-10-03T00:56:16+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
    "mentions": 13,
    "bull": 7,
    "bear": 7,
-   "engagement": 532
+   "engagement": 544
   },
   {
    "ticker": "QQQ",
@@ -19,32 +19,39 @@
    "engagement": 245
   },
   {
+   "ticker": "NVDA",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 3,
+   "engagement": 252
+  },
+  {
    "ticker": "TSLA",
    "mentions": 4,
    "bull": 3,
    "bear": 4,
-   "engagement": 105
+   "engagement": 106
   },
   {
    "ticker": "GME",
-   "mentions": 3,
+   "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 8
+   "engagement": 6
   },
   {
    "ticker": "MSFT",
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 299
+   "engagement": 335
   },
   {
-   "ticker": "ETH",
+   "ticker": "AAPL",
    "mentions": 1,
-   "bull": 0,
+   "bull": 1,
    "bear": 0,
-   "engagement": 2
+   "engagement": 10
   },
   {
    "ticker": "BTC",
@@ -54,10 +61,10 @@
    "engagement": 2
   },
   {
-   "ticker": "NVDA",
+   "ticker": "ETH",
    "mentions": 1,
    "bull": 0,
-   "bear": 1,
+   "bear": 0,
    "engagement": 2
   },
   {
@@ -72,14 +79,14 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 32
+   "engagement": 33
   },
   {
    "ticker": "META",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 278
+   "engagement": 314
   },
   {
    "ticker": "INO",
@@ -136,13 +143,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 3
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 22
   }
  ],
  "top_posts": [
@@ -176,8 +176,8 @@
   },
   {
    "title": "Dummy's guide to financing LEAPs for free",
-   "score": 212,
-   "num_comments": 66,
+   "score": 244,
+   "num_comments": 70,
    "created_utc": 1793827044,
    "url": "https://www.reddit.com/r/options/comments/1xo07k3/"
   },
@@ -194,6 +194,13 @@
    "num_comments": 79,
    "created_utc": 1793942016,
    "url": "https://www.reddit.com/r/options/comments/1xp4l5d/"
+  },
+  {
+   "title": "NVDA puts in the aftermarket, millionaires were made",
+   "score": 155,
+   "num_comments": 39,
+   "created_utc": 1794436830,
+   "url": "https://www.reddit.com/r/options/comments/1xtvzv0/"
   },
   {
    "title": "Weeklies beat monthlies for selling premium and it\u2019s not close. Prove me wrong.",
@@ -231,25 +238,18 @@
    "url": "https://www.reddit.com/r/options/comments/1x2uabt/"
   },
   {
+   "title": "The real challenge in options trading isn't finding setups, it's managing boredom.",
+   "score": 101,
+   "num_comments": 90,
+   "created_utc": 1794371327,
+   "url": "https://www.reddit.com/r/options/comments/1xt8fjz/"
+  },
+  {
    "title": "I plotted every retail 0-DTE SPX spread sold this month",
    "score": 98,
    "num_comments": 22,
    "created_utc": 1793302733,
    "url": "https://www.reddit.com/r/options/comments/1xitwi7/"
-  },
-  {
-   "title": "I backtested 17,100 option-selling strategies on SPY and QQQ (2022 to 2026)",
-   "score": 98,
-   "num_comments": 45,
-   "created_utc": 1792775059,
-   "url": "https://www.reddit.com/r/options/comments/1xdjrjk/"
-  },
-  {
-   "title": "If your goal is to collect premium, the short strangle is the best way to do it. Prove me wrong",
-   "score": 85,
-   "num_comments": 89,
-   "created_utc": 1794253354,
-   "url": "https://www.reddit.com/r/options/comments/1xs1jtp/"
   }
  ]
 }

@@ -1,15 +1,15 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-11T19:44:34.716569+00:00",
+ "generated_at": "2026-11-12T20:08:50.232155+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-20T14:24:11+00:00",
+ "window_start": "2026-10-22T13:38:09+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 4,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 8
+   "mentions": 5,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 30
   },
   {
    "ticker": "RDDT",
@@ -17,13 +17,6 @@
    "bull": 2,
    "bear": 1,
    "engagement": 9
-  },
-  {
-   "ticker": "NFLX",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 26
   },
   {
    "ticker": "LRCX",
@@ -40,11 +33,25 @@
    "engagement": 54
   },
   {
+   "ticker": "EXPE",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "BKNG",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
    "ticker": "NU",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 7
+   "engagement": 11
   },
   {
    "ticker": "RKLB",
@@ -82,6 +89,13 @@
    "engagement": 16
   },
   {
+   "ticker": "ZETA",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 12
+  },
+  {
    "ticker": "OSCR",
    "mentions": 1,
    "bull": 1,
@@ -89,7 +103,7 @@
    "engagement": 12
   },
   {
-   "ticker": "ZETA",
+   "ticker": "NFLX",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -117,13 +131,6 @@
    "engagement": 23
   },
   {
-   "ticker": "BE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 10
-  },
-  {
    "ticker": "CELH",
    "mentions": 1,
    "bull": 1,
@@ -131,18 +138,11 @@
    "engagement": 10
   },
   {
-   "ticker": "MVIS",
+   "ticker": "BE",
    "mentions": 1,
-   "bull": 0,
+   "bull": 1,
    "bear": 1,
-   "engagement": 3
-  },
-  {
-   "ticker": "ANT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 86
+   "engagement": 10
   }
  ],
  "top_posts": [
@@ -168,6 +168,20 @@
    "url": "https://www.reddit.com/r/investing/comments/1xfwwbo/"
   },
   {
+   "title": "WSJ: Nvidia's board is preparing to oust Jensen Huang. Stock down 8% after hours",
+   "score": 1004,
+   "num_comments": 390,
+   "created_utc": 1794438382,
+   "url": "https://www.reddit.com/r/investing/comments/1xtwlta/"
+  },
+  {
+   "title": "Nvidia CFO Favored to Replace Jensen Huang as Board Meets",
+   "score": 1001,
+   "num_comments": 366,
+   "created_utc": 1794451942,
+   "url": "https://www.reddit.com/r/investing/comments/1xu1gvt/"
+  },
+  {
    "title": "Anthropic's IPO valuation collapses from 1.5 trillion. Rumors of a delay beginning to circulate. WeWork scenario can still be avoided provid",
    "score": 928,
    "num_comments": 187,
@@ -176,8 +190,8 @@
   },
   {
    "title": "Nasdaq down 6%, CoreWeave down 55% in a month. Is the AI trade breaking or is this a midterm overreaction?",
-   "score": 823,
-   "num_comments": 457,
+   "score": 841,
+   "num_comments": 461,
    "created_utc": 1793894783,
    "url": "https://www.reddit.com/r/investing/comments/1xomi9p/"
   },
@@ -210,18 +224,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1xhotkl/"
   },
   {
-   "title": "Musk reports that SpaceX and Tesla are exploring a merger",
-   "score": 582,
-   "num_comments": 323,
-   "created_utc": 1792597656,
-   "url": "https://www.reddit.com/r/investing/comments/1xbqrmp/"
-  },
-  {
    "title": "Midterms reduce uncertainty",
    "score": 577,
    "num_comments": 202,
    "created_utc": 1793768511,
    "url": "https://www.reddit.com/r/investing/comments/1xnfjmf/"
+  },
+  {
+   "title": "Jensen Huang resigns as Nvidia CEO, effective immediately. CFO Colette Kress named interim CEO",
+   "score": 441,
+   "num_comments": 168,
+   "created_utc": 1794492875,
+   "url": "https://www.reddit.com/r/investing/comments/1xudu95/"
   },
   {
    "title": "Buying the dip on individual stocks or adding to index funds: what's your approach to this pullback?",
@@ -232,24 +246,10 @@
   },
   {
    "title": "Why is SpaceX winding down the Falcon 9 program and getting nothing in return?",
-   "score": 381,
-   "num_comments": 386,
+   "score": 403,
+   "num_comments": 440,
    "created_utc": 1794314433,
    "url": "https://www.reddit.com/r/investing/comments/1xslvx7/"
-  },
-  {
-   "title": "Brent at $117 and the SPR has nothing left to give if this gets worse",
-   "score": 363,
-   "num_comments": 126,
-   "created_utc": 1792857330,
-   "url": "https://www.reddit.com/r/investing/comments/1xec7qy/"
-  },
-  {
-   "title": "Anthropic will pay up to $120.5B for SpaceX's AI Compute",
-   "score": 343,
-   "num_comments": 65,
-   "created_utc": 1793036065,
-   "url": "https://www.reddit.com/r/investing/comments/1xg3ih3/"
   }
  ]
 }
