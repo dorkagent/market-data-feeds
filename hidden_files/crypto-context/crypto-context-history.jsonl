@@ -33,3 +33,4 @@
 {"run_at_utc": "2026-11-10T21:20:45Z", "fear_greed_value": 32, "stablecoin_wow_pct": -1.61, "flags": [], "failures": []}
 {"run_at_utc": "2026-11-11T22:01:26Z", "fear_greed_value": 29, "stablecoin_wow_pct": -1.363, "flags": [], "failures": []}
 {"run_at_utc": "2026-11-12T21:52:09Z", "fear_greed_value": 28, "stablecoin_wow_pct": -1.616, "flags": [], "failures": []}
+{"run_at_utc": "2026-11-13T21:27:13Z", "fear_greed_value": 20, "stablecoin_wow_pct": -1.791, "flags": ["extreme_fear_contrarian_bullish"], "failures": []}
