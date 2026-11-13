@@ -1,36 +1,36 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-12T20:11:10.126226+00:00",
+ "generated_at": "2026-11-13T19:53:58.280932+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-01T14:55:05+00:00",
+ "window_start": "2026-11-02T20:22:36+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 13,
-   "bull": 6,
-   "bear": 4,
-   "engagement": 1877
+   "mentions": 19,
+   "bull": 9,
+   "bear": 7,
+   "engagement": 2812
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 6,
+   "bull": 5,
+   "bear": 3,
+   "engagement": 310
   },
   {
    "ticker": "RDDT",
-   "mentions": 7,
-   "bull": 3,
-   "bear": 0,
-   "engagement": 244
-  },
-  {
-   "ticker": "APP",
    "mentions": 6,
    "bull": 3,
-   "bear": 3,
-   "engagement": 133
+   "bear": 0,
+   "engagement": 217
   },
   {
    "ticker": "META",
    "mentions": 5,
    "bull": 1,
    "bear": 0,
-   "engagement": 307
+   "engagement": 360
   },
   {
    "ticker": "AAPL",
@@ -44,28 +44,28 @@
    "mentions": 4,
    "bull": 4,
    "bear": 2,
-   "engagement": 336
+   "engagement": 355
+  },
+  {
+   "ticker": "APP",
+   "mentions": 4,
+   "bull": 3,
+   "bear": 1,
+   "engagement": 120
   },
   {
    "ticker": "PLTR",
-   "mentions": 4,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 168
-  },
-  {
-   "ticker": "AMD",
    "mentions": 3,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 246
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "MSFT",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 88
+   "engagement": 89
   },
   {
    "ticker": "ZETA",
@@ -79,14 +79,14 @@
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 304
+   "engagement": 357
   },
   {
    "ticker": "IREN",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 59
+   "engagement": 60
   },
   {
    "ticker": "UBER",
@@ -110,97 +110,90 @@
    "engagement": 5
   },
   {
-   "ticker": "LITE",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 100
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 48
   },
   {
-   "ticker": "MRVL",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 100
-  },
-  {
-   "ticker": "BFAM",
-   "mentions": 2,
+   "ticker": "SMCI",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 9
+   "engagement": 42
   },
   {
    "ticker": "COUR",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 22
   },
   {
    "ticker": "DLO",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 2
+   "engagement": 4
+  },
+  {
+   "ticker": "MSTR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
   }
  ],
  "top_posts": [
   {
+   "title": "NVIDIA crashes to ~$150 today. Am I crazy for thinking the massive buyback makes this interesting?",
+   "score": 1098,
+   "num_comments": 620,
+   "created_utc": 1794495038,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xueqbk/"
+  },
+  {
    "title": "NVDA is a bargain. Forward P/E 13",
-   "score": 455,
-   "num_comments": 517,
+   "score": 576,
+   "num_comments": 621,
    "created_utc": 1793925929,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xozcz4/"
   },
   {
    "title": "That $2.3T tech dump wasn't fundamental panic, it was just systematic funds getting liquidated",
-   "score": 439,
-   "num_comments": 150,
+   "score": 532,
+   "num_comments": 159,
    "created_utc": 1793992967,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xplnex/"
   },
   {
-   "title": "Resignation calls grow for Nvidia CEO as second affair is reported per NYT, alongside moves to tighten Nvidia China exports. Nvidia down 8% ",
-   "score": 433,
-   "num_comments": 308,
-   "created_utc": 1794436445,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xtvucb/"
-  },
-  {
    "title": "No irony please - is NVIDIA, currently at around $158, actually a Value Stock?",
-   "score": 359,
-   "num_comments": 509,
+   "score": 486,
+   "num_comments": 665,
    "created_utc": 1794445368,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xtz7d7/"
   },
   {
+   "title": "Resignation calls grow for Nvidia CEO as second affair is reported per NYT, alongside moves to tighten Nvidia China exports. Nvidia down 8% ",
+   "score": 441,
+   "num_comments": 315,
+   "created_utc": 1794436445,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xtvucb/"
+  },
+  {
    "title": "Costco to Pay out $30 Special Dividend, Renews $4B Stock Buyback Program - wsj",
-   "score": 333,
-   "num_comments": 59,
+   "score": 335,
+   "num_comments": 60,
    "created_utc": 1794351906,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xt1kte/"
   },
   {
    "title": "Why Is the Stock Market Getting Destroyed Today?",
-   "score": 322,
-   "num_comments": 895,
+   "score": 332,
+   "num_comments": 893,
    "created_utc": 1793913770,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xoupoc/"
-  },
-  {
-   "title": "NVIDIA crashes to ~$150 today. Am I crazy for thinking the massive buyback makes this interesting?",
-   "score": 306,
-   "num_comments": 286,
-   "created_utc": 1794495038,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xueqbk/"
-  },
-  {
-   "title": "Alphabet shows a P/E of about 15. But, take out the gains on its stakes and I get about 27.",
-   "score": 306,
-   "num_comments": 160,
-   "created_utc": 1793648014,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xm71fj/"
   },
   {
    "title": "Google now below Buffett's price.  Are you buying?",
@@ -211,10 +204,17 @@
   },
   {
    "title": "What one stock would you fully dive into after todays market drop?",
-   "score": 204,
-   "num_comments": 449,
+   "score": 222,
+   "num_comments": 464,
    "created_utc": 1793929503,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xp0kug/"
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang Resigns",
+   "score": 217,
+   "num_comments": 119,
+   "created_utc": 1794493446,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xue2mf/"
   },
   {
    "title": "What are you buying today?",
@@ -224,6 +224,13 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xomzm4/"
   },
   {
+   "title": "META, AMZN, GOOG and NOW are currently great buying opportunities",
+   "score": 180,
+   "num_comments": 175,
+   "created_utc": 1793963272,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xpa6er/"
+  },
+  {
    "title": "Micron\u2019s stock is dirt cheap \u2014\u00a0and that\u2019s igniting a fierce online debate - Market Watch",
    "score": 177,
    "num_comments": 172,
@@ -231,25 +238,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xq8i48/"
   },
   {
-   "title": "Google search growing 12% is not a slow down.",
-   "score": 173,
-   "num_comments": 191,
-   "created_utc": 1793552693,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xl8bq7/"
+   "title": "NVDA after Jensen Huang\u2019s resignation: what would make you avoid buying the dip?",
+   "score": 171,
+   "num_comments": 416,
+   "created_utc": 1794517891,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xuouso/"
   },
   {
-   "title": "META, AMZN, GOOG and NOW are currently great buying opportunities",
-   "score": 155,
-   "num_comments": 147,
-   "created_utc": 1793963272,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xpa6er/"
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang Resigns",
-   "score": 152,
-   "num_comments": 88,
-   "created_utc": 1794493446,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xue2mf/"
+   "title": "Waymo To Shutter Uber Operations, Waymo Co-CEO Says Uber App Deal Was \u2018Crapshoot\u2019 for Riders",
+   "score": 143,
+   "num_comments": 50,
+   "created_utc": 1793810573,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xnt0bd/"
   }
  ]
 }

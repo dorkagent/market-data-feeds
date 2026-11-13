@@ -1,29 +1,29 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-12T20:12:52.495448+00:00",
+ "generated_at": "2026-11-13T19:54:24.468613+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-03T00:56:16+00:00",
+ "window_start": "2026-10-04T22:24:08+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
-   "mentions": 13,
-   "bull": 7,
+   "mentions": 15,
+   "bull": 9,
    "bear": 7,
-   "engagement": 544
+   "engagement": 668
   },
   {
    "ticker": "QQQ",
-   "mentions": 6,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 245
+   "mentions": 7,
+   "bull": 3,
+   "bear": 3,
+   "engagement": 248
   },
   {
    "ticker": "NVDA",
    "mentions": 4,
    "bull": 1,
    "bear": 3,
-   "engagement": 252
+   "engagement": 388
   },
   {
    "ticker": "TSLA",
@@ -51,17 +51,17 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 10
+   "engagement": 14
   },
   {
-   "ticker": "BTC",
+   "ticker": "ETH",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "ETH",
+   "ticker": "BTC",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -131,14 +131,14 @@
    "engagement": 1
   },
   {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 3
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -182,25 +182,25 @@
    "url": "https://www.reddit.com/r/options/comments/1xo07k3/"
   },
   {
-   "title": "I backtested a simple 0DTE SPX strategy for 2 years. Is this overfit or actually realistic?",
-   "score": 210,
-   "num_comments": 135,
-   "created_utc": 1793715846,
-   "url": "https://www.reddit.com/r/options/comments/1xmu9tv/"
-  },
-  {
    "title": "Last 24 hours, 2 biggest mistakes of my life!!!",
-   "score": 170,
-   "num_comments": 79,
+   "score": 241,
+   "num_comments": 109,
    "created_utc": 1793942016,
    "url": "https://www.reddit.com/r/options/comments/1xp4l5d/"
   },
   {
    "title": "NVDA puts in the aftermarket, millionaires were made",
-   "score": 155,
-   "num_comments": 39,
+   "score": 229,
+   "num_comments": 49,
    "created_utc": 1794436830,
    "url": "https://www.reddit.com/r/options/comments/1xtvzv0/"
+  },
+  {
+   "title": "I backtested a simple 0DTE SPX strategy for 2 years. Is this overfit or actually realistic?",
+   "score": 210,
+   "num_comments": 135,
+   "created_utc": 1793715846,
+   "url": "https://www.reddit.com/r/options/comments/1xmu9tv/"
   },
   {
    "title": "Weeklies beat monthlies for selling premium and it\u2019s not close. Prove me wrong.",

@@ -1,15 +1,15 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-12T20:10:17.708470+00:00",
+ "generated_at": "2026-11-13T19:53:26.868461+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-18T08:15:01+00:00",
+ "window_start": "2026-10-18T20:06:40+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 9,
    "bull": 2,
    "bear": 2,
-   "engagement": 2517
+   "engagement": 3786
   },
   {
    "ticker": "RDDT",
@@ -17,6 +17,13 @@
    "bull": 2,
    "bear": 1,
    "engagement": 322
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 2515
   },
   {
    "ticker": "AMD",
@@ -33,13 +40,6 @@
    "engagement": 2496
   },
   {
-   "ticker": "MSFT",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 2514
-  },
-  {
    "ticker": "SOFI",
    "mentions": 3,
    "bull": 0,
@@ -52,13 +52,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 111
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
   },
   {
    "ticker": "PLTR",
@@ -82,11 +75,18 @@
    "engagement": 2
   },
   {
-   "ticker": "BORR",
-   "mentions": 2,
+   "ticker": "APD",
+   "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 58
+   "engagement": 8
+  },
+  {
+   "ticker": "MOD",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "MU",
@@ -110,14 +110,7 @@
    "engagement": 9354
   },
   {
-   "ticker": "CLSK",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "VST",
+   "ticker": "AVGO",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -131,11 +124,18 @@
    "engagement": 1
   },
   {
-   "ticker": "LITE",
+   "ticker": "VST",
    "mentions": 1,
-   "bull": 1,
+   "bull": 0,
    "bear": 0,
-   "engagement": 5
+   "engagement": 1
+  },
+  {
+   "ticker": "CLSK",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "BE",
@@ -197,10 +197,17 @@
   },
   {
    "title": "Sorry for crashing the market. I Just moved 150k over.",
-   "score": 3016,
-   "num_comments": 180,
+   "score": 3125,
+   "num_comments": 187,
    "created_utc": 1793920873,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xoxi47/"
+  },
+  {
+   "title": "4 all the new ones: Trading in a nutshell",
+   "score": 2991,
+   "num_comments": 111,
+   "created_utc": 1793947463,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xp64cy/"
   },
   {
    "title": "Alphabet (Google), is having one of the wildest days in its history",
@@ -231,11 +238,11 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xs09zz/"
   },
   {
-   "title": "4 all the new ones: Trading in a nutshell",
-   "score": 2255,
-   "num_comments": 93,
-   "created_utc": 1793947463,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xp64cy/"
+   "title": "Nvidia CEO Jensen Huang resigns: Live updates",
+   "score": 2221,
+   "num_comments": 564,
+   "created_utc": 1794491676,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xudcge/"
   },
   {
    "title": "Did he have sex with the girl in the bottom-left corner?",
@@ -243,13 +250,6 @@
    "num_comments": 630,
    "created_utc": 1794181721,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xrcr1u/"
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang resigns: Live updates",
-   "score": 1885,
-   "num_comments": 518,
-   "created_utc": 1794491676,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xudcge/"
   }
  ]
 }

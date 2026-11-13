@@ -1,22 +1,22 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-12T20:09:24.388541+00:00",
+ "generated_at": "2026-11-13T19:52:47.826246+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-06T04:15:38+00:00",
+ "window_start": "2026-11-07T02:16:14+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 30,
-   "bull": 11,
-   "bear": 9,
-   "engagement": 2129
+   "mentions": 37,
+   "bull": 13,
+   "bear": 11,
+   "engagement": 3815
   },
   {
    "ticker": "AMD",
-   "mentions": 8,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 80
+   "mentions": 9,
+   "bull": 3,
+   "bear": 2,
+   "engagement": 160
   },
   {
    "ticker": "QUBT",
@@ -26,53 +26,67 @@
    "engagement": 11
   },
   {
-   "ticker": "SPY",
+   "ticker": "AVGO",
    "mentions": 4,
-   "bull": 1,
+   "bull": 2,
    "bear": 1,
-   "engagement": 30
+   "engagement": 321
   },
   {
    "ticker": "NBIS",
    "mentions": 3,
    "bull": 0,
    "bear": 0,
-   "engagement": 586
+   "engagement": 642
   },
   {
-   "ticker": "AVGO",
-   "mentions": 3,
+   "ticker": "MSFT",
+   "mentions": 2,
    "bull": 1,
-   "bear": 0,
-   "engagement": 236
+   "bear": 2,
+   "engagement": 113
   },
   {
-   "ticker": "RDDT",
+   "ticker": "META",
    "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 557
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
-   "ticker": "UBER",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 63
+   "bull": 2,
+   "bear": 2,
+   "engagement": 146
   },
   {
    "ticker": "SMCI",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 70
+  },
+  {
+   "ticker": "APD",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "IOVA",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
+  },
+  {
+   "ticker": "CRWV",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
+   "ticker": "CSCO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "NXPI",
@@ -96,13 +110,6 @@
    "engagement": 0
   },
   {
-   "ticker": "META",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 42
-  },
-  {
    "ticker": "APLD",
    "mentions": 1,
    "bull": 1,
@@ -113,6 +120,13 @@
    "ticker": "ASPE",
    "mentions": 1,
    "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 1,
+   "bull": 0,
    "bear": 0,
    "engagement": 1
   },
@@ -129,27 +143,13 @@
    "bull": 0,
    "bear": 0,
    "engagement": 0
-  },
-  {
-   "ticker": "CEG",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "RKLB",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 556
   }
  ],
  "top_posts": [
   {
    "title": "Nvidia CEO Jensen Huang is stepping down as CEO",
-   "score": 6675,
-   "num_comments": 1770,
+   "score": 7882,
+   "num_comments": 1951,
    "created_utc": 1794491766,
    "url": "https://www.reddit.com/r/stocks/comments/1xuddr7/"
   },
@@ -162,29 +162,43 @@
   },
   {
    "title": "Nvidia stock slides after NYT report alleges Jensen Huang had a second affair with an employee",
-   "score": 1863,
-   "num_comments": 770,
+   "score": 1936,
+   "num_comments": 793,
    "created_utc": 1794436542,
    "url": "https://www.reddit.com/r/stocks/comments/1xtvvn1/"
   },
   {
-   "title": "WSJ - Nvidia is Preparing to Oust CEO Jensen Huang",
-   "score": 1434,
-   "num_comments": 540,
-   "created_utc": 1794437712,
-   "url": "https://www.reddit.com/r/stocks/comments/1xtwc99/"
-  },
-  {
    "title": "Am I the only one who thinks there is more to the scandal story of Jensen Huang?",
-   "score": 1330,
-   "num_comments": 549,
+   "score": 1685,
+   "num_comments": 696,
    "created_utc": 1794446675,
    "url": "https://www.reddit.com/r/stocks/comments/1xtzobg/"
   },
   {
+   "title": "Buying NVDA This Morning",
+   "score": 1635,
+   "num_comments": 891,
+   "created_utc": 1794474826,
+   "url": "https://www.reddit.com/r/stocks/comments/1xu8675/"
+  },
+  {
+   "title": "Jensen Huang was having a third affair with another Nvidia employee",
+   "score": 1609,
+   "num_comments": 278,
+   "created_utc": 1794518995,
+   "url": "https://www.reddit.com/r/stocks/comments/1xupbak/"
+  },
+  {
+   "title": "WSJ - Nvidia is Preparing to Oust CEO Jensen Huang",
+   "score": 1440,
+   "num_comments": 544,
+   "created_utc": 1794437712,
+   "url": "https://www.reddit.com/r/stocks/comments/1xtwc99/"
+  },
+  {
    "title": "Real inflation in America seems to be at least 8%...Why isn't this talked about more?",
-   "score": 1295,
-   "num_comments": 465,
+   "score": 1376,
+   "num_comments": 463,
    "created_utc": 1794414090,
    "url": "https://www.reddit.com/r/stocks/comments/1xtm1sc/"
   },
@@ -203,11 +217,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xrn8y7/"
   },
   {
-   "title": "Buying NVDA This Morning",
-   "score": 599,
-   "num_comments": 516,
-   "created_utc": 1794474826,
-   "url": "https://www.reddit.com/r/stocks/comments/1xu8675/"
+   "title": "Trump calls for Tim Cook to replace Jensen Huang at Nvidia",
+   "score": 497,
+   "num_comments": 237,
+   "created_utc": 1794502231,
+   "url": "https://www.reddit.com/r/stocks/comments/1xuhvhp/"
   },
   {
    "title": "US Inflation Comes In Hotter Than Expected",
@@ -215,13 +229,6 @@
    "num_comments": 153,
    "created_utc": 1794317866,
    "url": "https://www.reddit.com/r/stocks/comments/1xsn3u1/"
-  },
-  {
-   "title": "Microsoft Corp. is winding down an arrangement to rent AI computing from Oracle.",
-   "score": 471,
-   "num_comments": 85,
-   "created_utc": 1793988126,
-   "url": "https://www.reddit.com/r/stocks/comments/1xpjkkr/"
   },
   {
    "title": "BLOOMBERG: HOW THE THURSDAY SELL-OFF UNFOLDED THAT ERASED $3.7 TRILLION",
@@ -239,17 +246,10 @@
   },
   {
    "title": "NY Times reporting that Jansen Huang had a relationship with an exec at Nvidia that reports to him",
-   "score": 368,
+   "score": 370,
    "num_comments": 278,
    "created_utc": 1794435070,
    "url": "https://www.reddit.com/r/stocks/comments/1xtvac6/"
-  },
-  {
-   "title": "NBIS, RDDT, and RKLB were 3 of Reddit's top 5 most upvoted stocks going into 2026. Now all 60+% off their highs. What did Reddit get wrong?",
-   "score": 292,
-   "num_comments": 264,
-   "created_utc": 1794159993,
-   "url": "https://www.reddit.com/r/stocks/comments/1xr4aft/"
   }
  ]
 }

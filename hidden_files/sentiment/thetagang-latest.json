@@ -1,15 +1,15 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-11-12T20:11:56.329581+00:00",
+ "generated_at": "2026-11-13T19:54:13.957795+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-06T15:46:18+00:00",
+ "window_start": "2026-09-08T03:00:21+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
-   "mentions": 10,
-   "bull": 4,
-   "bear": 10,
-   "engagement": 134
+   "mentions": 9,
+   "bull": 3,
+   "bear": 9,
+   "engagement": 120
   },
   {
    "ticker": "RDDT",
@@ -19,13 +19,6 @@
    "engagement": 1564
   },
   {
-   "ticker": "INTC",
-   "mentions": 4,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 256
-  },
-  {
    "ticker": "SOFI",
    "mentions": 3,
    "bull": 0,
@@ -33,25 +26,32 @@
    "engagement": 5
   },
   {
-   "ticker": "SPY",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 67
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 67
-  },
-  {
    "ticker": "PLTR",
    "mentions": 3,
    "bull": 1,
    "bear": 2,
    "engagement": 48
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 45
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 4
   },
   {
    "ticker": "SOXL",
@@ -93,7 +93,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 14
+   "engagement": 17
   },
   {
    "ticker": "VTS",
@@ -117,13 +117,6 @@
    "engagement": 18
   },
   {
-   "ticker": "SNXX",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
    "ticker": "SPCH",
    "mentions": 1,
    "bull": 1,
@@ -131,7 +124,7 @@
    "engagement": 12
   },
   {
-   "ticker": "AXTI",
+   "ticker": "VXT",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -139,6 +132,13 @@
   },
   {
    "ticker": "VST",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "ROBN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
