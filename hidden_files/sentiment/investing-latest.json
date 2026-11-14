@@ -1,22 +1,22 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-13T19:52:34.973010+00:00",
+ "generated_at": "2026-11-14T18:17:56.601442+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-23T19:18:54+00:00",
+ "window_start": "2026-10-24T15:55:30+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 9,
+   "mentions": 10,
    "bull": 2,
    "bear": 4,
-   "engagement": 108
+   "engagement": 137
   },
   {
    "ticker": "VATE",
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 4
+   "engagement": 6
   },
   {
    "ticker": "RDDT",
@@ -40,11 +40,46 @@
    "engagement": 54
   },
   {
+   "ticker": "HTZ",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
+   "ticker": "VT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 11
+  },
+  {
+   "ticker": "IQQ",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 11
+  },
+  {
+   "ticker": "BRK",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 11
+  },
+  {
+   "ticker": "RSP",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 11
+  },
+  {
    "ticker": "SPY",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 15
+   "engagement": 21
   },
   {
    "ticker": "AMD",
@@ -54,14 +89,14 @@
    "engagement": 2
   },
   {
-   "ticker": "EXPE",
+   "ticker": "BKNG",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 4
   },
   {
-   "ticker": "BKNG",
+   "ticker": "EXPE",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -108,54 +143,19 @@
    "bull": 1,
    "bear": 1,
    "engagement": 16
-  },
-  {
-   "ticker": "OSCR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 12
-  },
-  {
-   "ticker": "ZETA",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 12
-  },
-  {
-   "ticker": "NFLX",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 12
-  },
-  {
-   "ticker": "APP",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 12
-  },
-  {
-   "ticker": "DUOL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 26
   }
  ],
  "top_posts": [
   {
    "title": "Jensen Huang resigns as Nvidia CEO, effective immediately. CFO Colette Kress named interim CEO",
-   "score": 1125,
-   "num_comments": 285,
+   "score": 1145,
+   "num_comments": 286,
    "created_utc": 1794492875,
    "url": "https://www.reddit.com/r/investing/comments/1xudu95/"
   },
   {
    "title": "Nvidia CFO Favored to Replace Jensen Huang as Board Meets",
-   "score": 1111,
+   "score": 1122,
    "num_comments": 387,
    "created_utc": 1794451942,
    "url": "https://www.reddit.com/r/investing/comments/1xu1gvt/"
@@ -169,7 +169,7 @@
   },
   {
    "title": "WSJ: Nvidia's board is preparing to oust Jensen Huang. Stock down 8% after hours",
-   "score": 1058,
+   "score": 1062,
    "num_comments": 393,
    "created_utc": 1794438382,
    "url": "https://www.reddit.com/r/investing/comments/1xtwlta/"
@@ -238,18 +238,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1xjbfdg/"
   },
   {
+   "title": "NVIDIA - Buy the dip or wait?",
+   "score": 405,
+   "num_comments": 339,
+   "created_utc": 1794541507,
+   "url": "https://www.reddit.com/r/investing/comments/1xuxkvf/"
+  },
+  {
    "title": "Why is SpaceX winding down the Falcon 9 program and getting nothing in return?",
    "score": 403,
    "num_comments": 440,
    "created_utc": 1794314433,
    "url": "https://www.reddit.com/r/investing/comments/1xslvx7/"
-  },
-  {
-   "title": "Brent at $117 and the SPR has nothing left to give if this gets worse",
-   "score": 363,
-   "num_comments": 126,
-   "created_utc": 1792857330,
-   "url": "https://www.reddit.com/r/investing/comments/1xec7qy/"
   }
  ]
 }

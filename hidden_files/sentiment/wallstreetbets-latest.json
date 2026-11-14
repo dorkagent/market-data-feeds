@@ -1,48 +1,83 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-11-13T19:52:22.932549+00:00",
+ "generated_at": "2026-11-14T18:17:35.255320+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-12T21:38:57+00:00",
+ "window_start": "2026-11-13T06:29:19+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 23,
-   "bull": 10,
-   "bear": 7,
-   "engagement": 2327
+   "mentions": 26,
+   "bull": 8,
+   "bear": 5,
+   "engagement": 3951
   },
   {
    "ticker": "AMD",
-   "mentions": 8,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 485
+   "mentions": 4,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 34
   },
   {
    "ticker": "MSFT",
-   "mentions": 7,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 36
+   "mentions": 3,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 7
   },
   {
-   "ticker": "DMUF",
+   "ticker": "NBIS",
    "mentions": 2,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 12
+   "bull": 1,
+   "bear": 1,
+   "engagement": 52
   },
   {
    "ticker": "SPY",
-   "mentions": 2,
-   "bull": 1,
+   "mentions": 1,
+   "bull": 0,
    "bear": 0,
-   "engagement": 2
+   "engagement": 1
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 38
+  },
+  {
+   "ticker": "SWBI",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 50
+  },
+  {
+   "ticker": "ASTS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 49
+  },
+  {
+   "ticker": "SMCI",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "INTC",
    "mentions": 1,
    "bull": 0,
+   "bear": 0,
+   "engagement": 29
+  },
+  {
+   "ticker": "DMUF",
+   "mentions": 1,
+   "bull": 1,
    "bear": 0,
    "engagement": 1
   },
@@ -51,21 +86,14 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 61
   },
   {
    "ticker": "HELP",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 14
-  },
-  {
-   "ticker": "NBIS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 24
+   "engagement": 65
   },
   {
    "ticker": "ANT",
@@ -73,134 +101,113 @@
    "bull": 1,
    "bear": 0,
    "engagement": 11
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 14
-  },
-  {
-   "ticker": "PLTR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 61
-  },
-  {
-   "ticker": "SPCX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
   }
  ],
  "top_posts": [
   {
-   "title": "NVIDIA board meetings",
-   "score": 31385,
-   "num_comments": 729,
-   "created_utc": 1794548790,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xuzu1w/"
-  },
-  {
-   "title": "Judging by the current exponential rate, Jensen Huang's affairs should exceed all human population by December",
-   "score": 31121,
-   "num_comments": 534,
-   "created_utc": 1794522765,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xuqve9/"
-  },
-  {
-   "title": "Everything is going according to plan",
-   "score": 28501,
-   "num_comments": 141,
-   "created_utc": 1794541861,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xuxoya/"
-  },
-  {
-   "title": "ABSOLUTE CINEMA",
-   "score": 14760,
-   "num_comments": 442,
-   "created_utc": 1794526803,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xuserl/"
-  },
-  {
-   "title": "\u2018Bring Back THE Boss\u2019: Nvidia Employees Petition for Jensen Huang\u2019s Return",
-   "score": 6687,
-   "num_comments": 602,
-   "created_utc": 1794538086,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xuwfil/"
-  },
-  {
-   "title": "Colette Kress arriving at the office on her first day as CEO of NVIDIA",
-   "score": 5274,
-   "num_comments": 163,
-   "created_utc": 1794557778,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xv2bq6/"
-  },
-  {
-   "title": "\u2018I\u2019m a Piece of Sh--\u2019: Jensen Huang\u2019s Last Hours as Nvidia CEO",
-   "score": 4659,
-   "num_comments": 792,
-   "created_utc": 1794535882,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xuvo8f/"
-  },
-  {
-   "title": "HARDEST Working Man in the Business.",
-   "score": 4471,
-   "num_comments": 75,
-   "created_utc": 1794529349,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xutdky/"
-  },
-  {
-   "title": "Jensen Huang was having a third affair, Reuters reports",
-   "score": 4044,
-   "num_comments": 692,
-   "created_utc": 1794526111,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xus5m3/"
-  },
-  {
-   "title": "\u2018I\u2019m a Piece of Sh--\u2019: Jensen Huang\u2019s Last Hours as Nvidia CEO",
-   "score": 2704,
-   "num_comments": 1288,
-   "created_utc": 1794535952,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xuvp44/"
-  },
-  {
-   "title": "With a +7.54% return over the last 5 years, Bitcoin has effectively been a worse performer than inflation itself.",
-   "score": 2479,
-   "num_comments": 453,
-   "created_utc": 1794541368,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xuxj88/"
-  },
-  {
-   "title": "Colette Kress, Nvidia's new interim CEO, is a graduate of SMU's Cox School of Business",
-   "score": 2333,
-   "num_comments": 781,
-   "created_utc": 1794532054,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xuuci7/"
+   "title": "Who needs GTA when we have this",
+   "score": 34289,
+   "num_comments": 690,
+   "created_utc": 1794590847,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvdzgd/"
   },
   {
    "title": "\u201cNVIDIA Is NVIDIA Because Of Jensen,\u201d Employees Flood Internal Forums, Demanding Transparency And Calling For Former CEO\u2019s Return",
-   "score": 2025,
-   "num_comments": 294,
+   "score": 16383,
+   "num_comments": 2084,
    "created_utc": 1794559211,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xv2p87/"
   },
   {
-   "title": "\u2018Bring Back THE Boss\u2019: Nvidia Employees Petition for Jensen Huang\u2019s Return",
-   "score": 1773,
-   "num_comments": 186,
-   "created_utc": 1794548338,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xuzp4r/"
+   "title": "Mark Wayne admits the AI system they were implementing overwhelmed air traffick control systems",
+   "score": 12537,
+   "num_comments": 2190,
+   "created_utc": 1794621685,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvqdrh/"
   },
   {
-   "title": "Huang agrees to appear before Congress, US lawmakers say, after scandal-hit Nvidia CEO resigns",
-   "score": 1691,
-   "num_comments": 211,
-   "created_utc": 1794523236,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xur205/"
+   "title": "FAA Grounds Flights",
+   "score": 9325,
+   "num_comments": 1931,
+   "created_utc": 1794604304,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvjvyq/"
+  },
+  {
+   "title": "Jensen slop",
+   "score": 8575,
+   "num_comments": 199,
+   "created_utc": 1794592103,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvejrn/"
+  },
+  {
+   "title": "Jensen comeback",
+   "score": 7632,
+   "num_comments": 1455,
+   "created_utc": 1794603805,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvjo3f/"
+  },
+  {
+   "title": "The secret is out",
+   "score": 5856,
+   "num_comments": 140,
+   "created_utc": 1794653626,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvzm8s/"
+  },
+  {
+   "title": "How Jensen's been moving lately",
+   "score": 5431,
+   "num_comments": 236,
+   "created_utc": 1794664417,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xw2xyu/"
+  },
+  {
+   "title": "Colette Kress arriving at the office on her first day as CEO of NVIDIA",
+   "score": 5279,
+   "num_comments": 166,
+   "created_utc": 1794557778,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xv2bq6/"
+  },
+  {
+   "title": "Down Detector has reported dozens of major outages in the last 2 hours.",
+   "score": 3635,
+   "num_comments": 641,
+   "created_utc": 1794611323,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvmpmy/"
+  },
+  {
+   "title": "US National Weather Service reports nationwide internet, communications issues",
+   "score": 3300,
+   "num_comments": 595,
+   "created_utc": 1794609680,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvm2xs/"
+  },
+  {
+   "title": "The true reason Jensen was pushed out in a concerted effort, and why it will juice up Anthropic\u2019s IPO",
+   "score": 2564,
+   "num_comments": 477,
+   "created_utc": 1794614297,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvnsxx/"
+  },
+  {
+   "title": "plan b",
+   "score": 2151,
+   "num_comments": 52,
+   "created_utc": 1794628987,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvsqmb/"
+  },
+  {
+   "title": "FAA orders nationwide ground stop for all flights, airline stocks fall",
+   "score": 1965,
+   "num_comments": 310,
+   "created_utc": 1794608330,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvljm7/"
+  },
+  {
+   "title": "Is everything OK there?",
+   "score": 1643,
+   "num_comments": 456,
+   "created_utc": 1794560278,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xv2yxw/"
   }
  ]
 }

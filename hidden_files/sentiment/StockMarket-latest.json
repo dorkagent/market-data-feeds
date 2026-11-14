@@ -1,15 +1,15 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-13T19:53:26.868461+00:00",
+ "generated_at": "2026-11-14T18:18:28.823539+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-18T20:06:40+00:00",
+ "window_start": "2026-10-19T19:08:28+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 9,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 3786
+   "mentions": 10,
+   "bull": 3,
+   "bear": 3,
+   "engagement": 4239
   },
   {
    "ticker": "RDDT",
@@ -86,17 +86,17 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
+   "engagement": 8
   },
   {
-   "ticker": "MU",
+   "ticker": "CLS",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "CLS",
+   "ticker": "MU",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -117,7 +117,7 @@
    "engagement": 1
   },
   {
-   "ticker": "WDC",
+   "ticker": "CLSK",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -131,14 +131,14 @@
    "engagement": 1
   },
   {
-   "ticker": "CLSK",
+   "ticker": "WDC",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "BE",
+   "ticker": "LITE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -239,8 +239,8 @@
   },
   {
    "title": "Nvidia CEO Jensen Huang resigns: Live updates",
-   "score": 2221,
-   "num_comments": 564,
+   "score": 2226,
+   "num_comments": 568,
    "created_utc": 1794491676,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xudcge/"
   },

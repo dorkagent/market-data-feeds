@@ -1,36 +1,36 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-13T19:52:47.826246+00:00",
+ "generated_at": "2026-11-14T18:18:16.382645+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-07T02:16:14+00:00",
+ "window_start": "2026-11-08T14:12:08+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 37,
+   "mentions": 38,
    "bull": 13,
    "bear": 11,
-   "engagement": 3815
+   "engagement": 4058
   },
   {
    "ticker": "AMD",
-   "mentions": 9,
+   "mentions": 11,
    "bull": 3,
    "bear": 2,
-   "engagement": 160
+   "engagement": 181
   },
   {
-   "ticker": "QUBT",
-   "mentions": 6,
+   "ticker": "SMCI",
+   "mentions": 3,
    "bull": 1,
-   "bear": 1,
-   "engagement": 11
+   "bear": 2,
+   "engagement": 92
   },
   {
    "ticker": "AVGO",
-   "mentions": 4,
+   "mentions": 3,
    "bull": 2,
    "bear": 1,
-   "engagement": 321
+   "engagement": 126
   },
   {
    "ticker": "NBIS",
@@ -44,28 +44,63 @@
    "mentions": 2,
    "bull": 1,
    "bear": 2,
-   "engagement": 113
+   "engagement": 117
   },
   {
    "ticker": "META",
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 146
+   "engagement": 150
   },
   {
-   "ticker": "SMCI",
-   "mentions": 2,
+   "ticker": "ETOR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "GME",
+   "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 70
+   "engagement": 0
+  },
+  {
+   "ticker": "HTZ",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 0
+  },
+  {
+   "ticker": "AAPL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 0
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 0
+  },
+  {
+   "ticker": "BABA",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 22
   },
   {
    "ticker": "APD",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 2
+   "engagement": 1
   },
   {
    "ticker": "IOVA",
@@ -96,13 +131,6 @@
    "engagement": 2
   },
   {
-   "ticker": "IONQ",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
-  },
-  {
    "ticker": "QBTS",
    "mentions": 1,
    "bull": 0,
@@ -110,35 +138,7 @@
    "engagement": 0
   },
   {
-   "ticker": "APLD",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 42
-  },
-  {
-   "ticker": "ASPE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SPY",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "BTC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "GOOG",
+   "ticker": "IONQ",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -148,8 +148,8 @@
  "top_posts": [
   {
    "title": "Nvidia CEO Jensen Huang is stepping down as CEO",
-   "score": 7882,
-   "num_comments": 1951,
+   "score": 7902,
+   "num_comments": 1966,
    "created_utc": 1794491766,
    "url": "https://www.reddit.com/r/stocks/comments/1xuddr7/"
   },
@@ -168,6 +168,13 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xtvvn1/"
   },
   {
+   "title": "Buying NVDA This Morning",
+   "score": 1782,
+   "num_comments": 934,
+   "created_utc": 1794474826,
+   "url": "https://www.reddit.com/r/stocks/comments/1xu8675/"
+  },
+  {
    "title": "Am I the only one who thinks there is more to the scandal story of Jensen Huang?",
    "score": 1685,
    "num_comments": 696,
@@ -175,16 +182,9 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xtzobg/"
   },
   {
-   "title": "Buying NVDA This Morning",
-   "score": 1635,
-   "num_comments": 891,
-   "created_utc": 1794474826,
-   "url": "https://www.reddit.com/r/stocks/comments/1xu8675/"
-  },
-  {
    "title": "Jensen Huang was having a third affair with another Nvidia employee",
-   "score": 1609,
-   "num_comments": 278,
+   "score": 1670,
+   "num_comments": 276,
    "created_utc": 1794518995,
    "url": "https://www.reddit.com/r/stocks/comments/1xupbak/"
   },
@@ -203,6 +203,13 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xtm1sc/"
   },
   {
+   "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+   "score": 1136,
+   "num_comments": 262,
+   "created_utc": 1794658688,
+   "url": "https://www.reddit.com/r/stocks/comments/1xw124v/"
+  },
+  {
    "title": "The Anthropic IPO isn't worth it for the average retail investor and why it isn't going to make you rich.",
    "score": 908,
    "num_comments": 447,
@@ -218,10 +225,17 @@
   },
   {
    "title": "Trump calls for Tim Cook to replace Jensen Huang at Nvidia",
-   "score": 497,
-   "num_comments": 237,
+   "score": 517,
+   "num_comments": 244,
    "created_utc": 1794502231,
    "url": "https://www.reddit.com/r/stocks/comments/1xuhvhp/"
+  },
+  {
+   "title": "All US Flights grounded, stocks crashing, Microsoft issues!",
+   "score": 510,
+   "num_comments": 215,
+   "created_utc": 1794605618,
+   "url": "https://www.reddit.com/r/stocks/comments/1xvkfka/"
   },
   {
    "title": "US Inflation Comes In Hotter Than Expected",
@@ -231,25 +245,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xsn3u1/"
   },
   {
-   "title": "BLOOMBERG: HOW THE THURSDAY SELL-OFF UNFOLDED THAT ERASED $3.7 TRILLION",
-   "score": 415,
-   "num_comments": 160,
-   "created_utc": 1794036979,
-   "url": "https://www.reddit.com/r/stocks/comments/1xq0mxn/"
-  },
-  {
    "title": "NY Times - U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
    "score": 396,
    "num_comments": 51,
    "created_utc": 1794244072,
    "url": "https://www.reddit.com/r/stocks/comments/1xrxbbo/"
-  },
-  {
-   "title": "NY Times reporting that Jansen Huang had a relationship with an exec at Nvidia that reports to him",
-   "score": 370,
-   "num_comments": 278,
-   "created_utc": 1794435070,
-   "url": "https://www.reddit.com/r/stocks/comments/1xtvac6/"
   }
  ]
 }

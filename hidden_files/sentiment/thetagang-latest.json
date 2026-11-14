@@ -1,8 +1,8 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-11-13T19:54:13.957795+00:00",
+ "generated_at": "2026-11-14T18:18:52.199314+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-08T03:00:21+00:00",
+ "window_start": "2026-09-09T01:42:25+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
@@ -33,13 +33,6 @@
    "engagement": 48
   },
   {
-   "ticker": "INTC",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 45
-  },
-  {
    "ticker": "SPY",
    "mentions": 2,
    "bull": 1,
@@ -59,6 +52,13 @@
    "bull": 1,
    "bear": 2,
    "engagement": 198
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 43
   },
   {
    "ticker": "META",
@@ -117,14 +117,14 @@
    "engagement": 18
   },
   {
-   "ticker": "SPCH",
+   "ticker": "AMZN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 12
   },
   {
-   "ticker": "VXT",
+   "ticker": "ROBN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -138,7 +138,7 @@
    "engagement": 12
   },
   {
-   "ticker": "ROBN",
+   "ticker": "SNXX",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
