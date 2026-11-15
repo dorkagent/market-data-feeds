@@ -1,8 +1,8 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-14T18:18:41.651473+00:00",
+ "generated_at": "2026-11-15T18:59:31.279563+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-03T13:58:30+00:00",
+ "window_start": "2026-11-04T06:52:21+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -23,28 +23,14 @@
    "mentions": 6,
    "bull": 1,
    "bear": 0,
-   "engagement": 363
-  },
-  {
-   "ticker": "RDDT",
-   "mentions": 5,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 204
-  },
-  {
-   "ticker": "AAPL",
-   "mentions": 5,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 84
+   "engagement": 366
   },
   {
    "ticker": "MU",
    "mentions": 4,
    "bull": 4,
    "bear": 2,
-   "engagement": 355
+   "engagement": 364
   },
   {
    "ticker": "APP",
@@ -58,7 +44,21 @@
    "mentions": 3,
    "bull": 0,
    "bear": 1,
-   "engagement": 92
+   "engagement": 95
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 133
+  },
+  {
+   "ticker": "AAPL",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 4
   },
   {
    "ticker": "MSTR",
@@ -96,13 +96,6 @@
    "engagement": 119
   },
   {
-   "ticker": "PLTR",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "ACN",
    "mentions": 2,
    "bull": 2,
@@ -110,18 +103,25 @@
    "engagement": 5
   },
   {
+   "ticker": "DECK",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 11
+  },
+  {
    "ticker": "AVGO",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 130
+   "engagement": 148
   },
   {
    "ticker": "SMCI",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 49
+   "engagement": 52
   },
   {
    "ticker": "COUR",
@@ -196,18 +196,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xoupoc/"
   },
   {
+   "title": "The bubble is in consumer staple stocks not tech stocks.",
+   "score": 254,
+   "num_comments": 106,
+   "created_utc": 1794732499,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xwqodo/"
+  },
+  {
    "title": "NVDA after Jensen Huang\u2019s resignation: what would make you avoid buying the dip?",
    "score": 246,
    "num_comments": 513,
    "created_utc": 1794517891,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xuouso/"
-  },
-  {
-   "title": "Google now below Buffett's price.  Are you buying?",
-   "score": 240,
-   "num_comments": 177,
-   "created_utc": 1793714310,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xmtmlj/"
   },
   {
    "title": "What one stock would you fully dive into after todays market drop?",

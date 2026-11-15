@@ -1,43 +1,43 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-14T18:19:03.331640+00:00",
+ "generated_at": "2026-11-15T19:00:26.807943+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-05T14:07:20+00:00",
+ "window_start": "2026-10-06T16:01:29+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
    "mentions": 15,
    "bull": 9,
    "bear": 7,
-   "engagement": 674
+   "engagement": 680
   },
   {
    "ticker": "QQQ",
    "mentions": 7,
    "bull": 3,
    "bear": 3,
-   "engagement": 257
+   "engagement": 259
   },
   {
    "ticker": "NVDA",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 3,
-   "engagement": 399
+   "mentions": 6,
+   "bull": 2,
+   "bear": 5,
+   "engagement": 547
   },
   {
    "ticker": "TSLA",
-   "mentions": 4,
+   "mentions": 5,
    "bull": 3,
-   "bear": 4,
-   "engagement": 106
+   "bear": 5,
+   "engagement": 149
   },
   {
-   "ticker": "GME",
+   "ticker": "META",
    "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 6
+   "bull": 2,
+   "bear": 2,
+   "engagement": 339
   },
   {
    "ticker": "MSFT",
@@ -54,14 +54,14 @@
    "engagement": 13
   },
   {
-   "ticker": "ETH",
+   "ticker": "BTC",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "BTC",
+   "ticker": "ETH",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -82,11 +82,11 @@
    "engagement": 33
   },
   {
-   "ticker": "META",
+   "ticker": "GME",
    "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 314
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "INO",
@@ -203,6 +203,13 @@
    "url": "https://www.reddit.com/r/options/comments/1xmu9tv/"
   },
   {
+   "title": "Nvidia $200 calls expire next Friday.",
+   "score": 161,
+   "num_comments": 292,
+   "created_utc": 1794705322,
+   "url": "https://www.reddit.com/r/options/comments/1xwio6f/"
+  },
+  {
    "title": "Weeklies beat monthlies for selling premium and it\u2019s not close. Prove me wrong.",
    "score": 131,
    "num_comments": 126,
@@ -243,13 +250,6 @@
    "num_comments": 90,
    "created_utc": 1794371327,
    "url": "https://www.reddit.com/r/options/comments/1xt8fjz/"
-  },
-  {
-   "title": "I plotted every retail 0-DTE SPX spread sold this month",
-   "score": 98,
-   "num_comments": 22,
-   "created_utc": 1793302733,
-   "url": "https://www.reddit.com/r/options/comments/1xitwi7/"
   }
  ]
 }

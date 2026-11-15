@@ -1,15 +1,15 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-14T18:18:28.823539+00:00",
+ "generated_at": "2026-11-15T18:59:11.848741+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-19T19:08:28+00:00",
+ "window_start": "2026-10-21T11:45:07+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 10,
    "bull": 3,
    "bear": 3,
-   "engagement": 4239
+   "engagement": 5011
   },
   {
    "ticker": "RDDT",
@@ -54,13 +54,6 @@
    "engagement": 111
   },
   {
-   "ticker": "PLTR",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 31
-  },
-  {
    "ticker": "AAPL",
    "mentions": 2,
    "bull": 1,
@@ -86,17 +79,17 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 8
+   "engagement": 9
   },
   {
-   "ticker": "CLS",
+   "ticker": "MU",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "MU",
+   "ticker": "CLS",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -110,14 +103,14 @@
    "engagement": 9354
   },
   {
-   "ticker": "AVGO",
+   "ticker": "CLSK",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "CLSK",
+   "ticker": "WDC",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -131,11 +124,18 @@
    "engagement": 1
   },
   {
-   "ticker": "WDC",
+   "ticker": "AVGO",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 8
   },
   {
    "ticker": "LITE",
@@ -187,13 +187,6 @@
    "num_comments": 545,
    "created_utc": 1792688005,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xco0ki/"
-  },
-  {
-   "title": "Anthropic books colossal $81B loss, warns of data center backlash as Amodei siblings draw modest salaries",
-   "score": 3566,
-   "num_comments": 413,
-   "created_utc": 1792548191,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xbarw9/"
   },
   {
    "title": "Sorry for crashing the market. I Just moved 150k over.",
@@ -250,6 +243,13 @@
    "num_comments": 630,
    "created_utc": 1794181721,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xrcr1u/"
+  },
+  {
+   "title": "SpaceX Director Resigns From Board One Day After US Election",
+   "score": 1892,
+   "num_comments": 64,
+   "created_utc": 1794021492,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xpw4sx/"
   }
  ]
 }

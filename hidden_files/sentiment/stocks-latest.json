@@ -1,15 +1,15 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-14T18:18:16.382645+00:00",
+ "generated_at": "2026-11-15T18:58:47.349214+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-08T14:12:08+00:00",
+ "window_start": "2026-11-09T05:26:04+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 38,
+   "mentions": 40,
    "bull": 13,
    "bear": 11,
-   "engagement": 4058
+   "engagement": 4069
   },
   {
    "ticker": "AMD",
@@ -23,7 +23,7 @@
    "mentions": 3,
    "bull": 1,
    "bear": 2,
-   "engagement": 92
+   "engagement": 101
   },
   {
    "ticker": "AVGO",
@@ -33,32 +33,46 @@
    "engagement": 126
   },
   {
-   "ticker": "NBIS",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 642
-  },
-  {
    "ticker": "MSFT",
    "mentions": 2,
    "bull": 1,
    "bear": 2,
-   "engagement": 117
+   "engagement": 118
   },
   {
    "ticker": "META",
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 150
+   "engagement": 151
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 86
+  },
+  {
+   "ticker": "ACHR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 21
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 21
   },
   {
    "ticker": "ETOR",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 5
   },
   {
    "ticker": "GME",
@@ -93,7 +107,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 22
+   "engagement": 31
   },
   {
    "ticker": "APD",
@@ -129,20 +143,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 2
-  },
-  {
-   "ticker": "QBTS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
-  },
-  {
-   "ticker": "IONQ",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
   }
  ],
  "top_posts": [
@@ -154,11 +154,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xuddr7/"
   },
   {
-   "title": "Nvidia CEO Jensen Huang admits to infidelity in memo to employees",
-   "score": 4734,
-   "num_comments": 1068,
-   "created_utc": 1794169650,
-   "url": "https://www.reddit.com/r/stocks/comments/1xr88hz/"
+   "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+   "score": 4702,
+   "num_comments": 676,
+   "created_utc": 1794658688,
+   "url": "https://www.reddit.com/r/stocks/comments/1xw124v/"
   },
   {
    "title": "Nvidia stock slides after NYT report alleges Jensen Huang had a second affair with an employee",
@@ -183,7 +183,7 @@
   },
   {
    "title": "Jensen Huang was having a third affair with another Nvidia employee",
-   "score": 1670,
+   "score": 1678,
    "num_comments": 276,
    "created_utc": 1794518995,
    "url": "https://www.reddit.com/r/stocks/comments/1xupbak/"
@@ -201,13 +201,6 @@
    "num_comments": 463,
    "created_utc": 1794414090,
    "url": "https://www.reddit.com/r/stocks/comments/1xtm1sc/"
-  },
-  {
-   "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
-   "score": 1136,
-   "num_comments": 262,
-   "created_utc": 1794658688,
-   "url": "https://www.reddit.com/r/stocks/comments/1xw124v/"
   },
   {
    "title": "The Anthropic IPO isn't worth it for the average retail investor and why it isn't going to make you rich.",
@@ -233,7 +226,7 @@
   {
    "title": "All US Flights grounded, stocks crashing, Microsoft issues!",
    "score": 510,
-   "num_comments": 215,
+   "num_comments": 216,
    "created_utc": 1794605618,
    "url": "https://www.reddit.com/r/stocks/comments/1xvkfka/"
   },
@@ -250,6 +243,13 @@
    "num_comments": 51,
    "created_utc": 1794244072,
    "url": "https://www.reddit.com/r/stocks/comments/1xrxbbo/"
+  },
+  {
+   "title": "NY Times reporting that Jansen Huang had a relationship with an exec at Nvidia that reports to him",
+   "score": 370,
+   "num_comments": 278,
+   "created_utc": 1794435070,
+   "url": "https://www.reddit.com/r/stocks/comments/1xtvac6/"
   }
  ]
 }

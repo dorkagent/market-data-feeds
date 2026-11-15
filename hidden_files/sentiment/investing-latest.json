@@ -1,15 +1,15 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-14T18:17:56.601442+00:00",
+ "generated_at": "2026-11-15T18:58:24.372091+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-24T15:55:30+00:00",
+ "window_start": "2026-10-25T10:16:55+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 10,
+   "mentions": 11,
    "bull": 2,
-   "bear": 4,
-   "engagement": 137
+   "bear": 5,
+   "engagement": 185
   },
   {
    "ticker": "VATE",
@@ -33,25 +33,11 @@
    "engagement": 4
   },
   {
-   "ticker": "AMZN",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 54
-  },
-  {
    "ticker": "HTZ",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 2
-  },
-  {
-   "ticker": "VT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 11
   },
   {
    "ticker": "IQQ",
@@ -61,7 +47,7 @@
    "engagement": 11
   },
   {
-   "ticker": "BRK",
+   "ticker": "VT",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -69,6 +55,13 @@
   },
   {
    "ticker": "RSP",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 11
+  },
+  {
+   "ticker": "BRK",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -143,6 +136,13 @@
    "bull": 1,
    "bear": 1,
    "engagement": 16
+  },
+  {
+   "ticker": "OSCR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 12
   }
  ],
  "top_posts": [
@@ -231,18 +231,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1xnfjmf/"
   },
   {
+   "title": "NVIDIA - Buy the dip or wait?",
+   "score": 443,
+   "num_comments": 361,
+   "created_utc": 1794541507,
+   "url": "https://www.reddit.com/r/investing/comments/1xuxkvf/"
+  },
+  {
    "title": "Buying the dip on individual stocks or adding to index funds: what's your approach to this pullback?",
    "score": 437,
    "num_comments": 231,
    "created_utc": 1793355095,
    "url": "https://www.reddit.com/r/investing/comments/1xjbfdg/"
-  },
-  {
-   "title": "NVIDIA - Buy the dip or wait?",
-   "score": 405,
-   "num_comments": 339,
-   "created_utc": 1794541507,
-   "url": "https://www.reddit.com/r/investing/comments/1xuxkvf/"
   },
   {
    "title": "Why is SpaceX winding down the Falcon 9 program and getting nothing in return?",
