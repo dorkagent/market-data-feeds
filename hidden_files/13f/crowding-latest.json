@@ -1,0 +1,318 @@
+{
+ "generated_at": "2026-11-15T14:59:33",
+ "quarter": "2026-Q2",
+ "whales_ok": 12,
+ "whales_total": 12,
+ "holdings_checked": [
+  "SPY",
+  "QQQ"
+ ],
+ "whales": [
+  {
+   "name": "Berkshire Hathaway Inc",
+   "cik": "0001067983",
+   "status": "ok",
+   "accession": "0001193125-26-352200",
+   "filing_date": "2026-08-14",
+   "report_period": "2026-06-30"
+  },
+  {
+   "name": "Citadel Advisors LLC",
+   "cik": "0001423053",
+   "status": "ok",
+   "accession": "0001104659-26-104387",
+   "filing_date": "2026-09-02",
+   "report_period": "2026-06-30"
+  },
+  {
+   "name": "Millennium Management LLC",
+   "cik": "0001273087",
+   "status": "ok",
+   "accession": "0001273087-26-000007",
+   "filing_date": "2026-08-14",
+   "report_period": "2026-06-30"
+  },
+  {
+   "name": "Bridgewater Associates LP",
+   "cik": "0001350694",
+   "status": "ok",
+   "accession": "0001350694-26-000003",
+   "filing_date": "2026-08-14",
+   "report_period": "2026-06-30"
+  },
+  {
+   "name": "Tiger Global Management LLC",
+   "cik": "0001167483",
+   "status": "ok",
+   "accession": "0000919574-26-005427",
+   "filing_date": "2026-08-14",
+   "report_period": "2026-06-30"
+  },
+  {
+   "name": "Pershing Square Capital Mgmt LP",
+   "cik": "0001336528",
+   "status": "ok",
+   "accession": "0001172661-26-002336",
+   "filing_date": "2026-05-15",
+   "report_period": "2026-03-31",
+   "note": "newer 13F-NT on file \u2014 latest 13F-HR used; manager reported nothing under own 13F this quarter"
+  },
+  {
+   "name": "Renaissance Technologies LLC",
+   "cik": "0001037389",
+   "status": "ok",
+   "accession": "0001037389-26-000062",
+   "filing_date": "2026-11-12",
+   "report_period": "2026-09-30"
+  },
+  {
+   "name": "Viking Global Investors LP",
+   "cik": "0001103804",
+   "status": "ok",
+   "accession": "0001103804-26-000006",
+   "filing_date": "2026-08-14",
+   "report_period": "2026-06-30"
+  },
+  {
+   "name": "Coatue Management LLC",
+   "cik": "0001135730",
+   "status": "ok",
+   "accession": "0000919574-26-005478",
+   "filing_date": "2026-08-14",
+   "report_period": "2026-06-30"
+  },
+  {
+   "name": "Lone Pine Capital LLC",
+   "cik": "0001061165",
+   "status": "ok",
+   "accession": "0000919574-26-005485",
+   "filing_date": "2026-08-14",
+   "report_period": "2026-06-30"
+  },
+  {
+   "name": "Appaloosa LP",
+   "cik": "0001656456",
+   "status": "ok",
+   "accession": "0001656456-26-000003",
+   "filing_date": "2026-08-14",
+   "report_period": "2026-06-30"
+  },
+  {
+   "name": "Two Sigma Advisers LP",
+   "cik": "0001478735",
+   "status": "ok",
+   "accession": "0000899140-26-000848",
+   "filing_date": "2026-08-14",
+   "report_period": "2026-06-30"
+  }
+ ],
+ "tickers": {
+  "SPY": {
+   "cusip": "78462F103",
+   "whales_holding_long": 3,
+   "crowding": "sparse",
+   "prev_crowding": null,
+   "aggregate_long_value_usd": 7926446038,
+   "aggregate_option_value_usd": 65684918399,
+   "option_only_holders": [],
+   "holders": [
+    {
+     "whale": "Bridgewater Associates LP",
+     "long_value_usd": 3973046405,
+     "long_shares": 5320308,
+     "option_value_usd": 0
+    },
+    {
+     "whale": "Millennium Management LLC",
+     "long_value_usd": 3627143288,
+     "long_shares": 4857109,
+     "option_value_usd": 6762525089
+    },
+    {
+     "whale": "Citadel Advisors LLC",
+     "long_value_usd": 326256345,
+     "long_shares": 436890,
+     "option_value_usd": 58922393310
+    }
+   ]
+  },
+  "QQQ": {
+   "cusip": "46090E103",
+   "whales_holding_long": 3,
+   "crowding": "sparse",
+   "prev_crowding": null,
+   "aggregate_long_value_usd": 807360765,
+   "aggregate_option_value_usd": 57038672040,
+   "option_only_holders": [],
+   "holders": [
+    {
+     "whale": "Millennium Management LLC",
+     "long_value_usd": 687543542,
+     "long_shares": 933655,
+     "option_value_usd": 6993517160
+    },
+    {
+     "whale": "Renaissance Technologies LLC",
+     "long_value_usd": 85629117,
+     "long_shares": 115751,
+     "option_value_usd": 0
+    },
+    {
+     "whale": "Citadel Advisors LLC",
+     "long_value_usd": 34188106,
+     "long_shares": 46426,
+     "option_value_usd": 50045154880
+    }
+   ]
+  },
+  "NVDA": {
+   "cusip": "67066G104",
+   "whales_holding_long": 7,
+   "crowding": "moderate",
+   "prev_crowding": null,
+   "aggregate_long_value_usd": 9333172111,
+   "aggregate_option_value_usd": 27974662936,
+   "option_only_holders": [],
+   "holders": [
+    {
+     "whale": "Millennium Management LLC",
+     "long_value_usd": 2432616985,
+     "long_shares": 12157614,
+     "option_value_usd": 6605371080
+    },
+    {
+     "whale": "Citadel Advisors LLC",
+     "long_value_usd": 2364156792,
+     "long_shares": 11815467,
+     "option_value_usd": 21369291856
+    },
+    {
+     "whale": "Tiger Global Management LLC",
+     "long_value_usd": 2240762490,
+     "long_shares": 11198773,
+     "option_value_usd": 0
+    },
+    {
+     "whale": "Coatue Management LLC",
+     "long_value_usd": 1211584367,
+     "long_shares": 6055197,
+     "option_value_usd": 0
+    },
+    {
+     "whale": "Bridgewater Associates LP",
+     "long_value_usd": 773586958,
+     "long_shares": 3866195,
+     "option_value_usd": 0
+    },
+    {
+     "whale": "Appaloosa LP",
+     "long_value_usd": 305137250,
+     "long_shares": 1525000,
+     "option_value_usd": 0
+    },
+    {
+     "whale": "Renaissance Technologies LLC",
+     "long_value_usd": 5327269,
+     "long_shares": 23170,
+     "option_value_usd": 0
+    }
+   ]
+  },
+  "AAPL": {
+   "cusip": "037833100",
+   "whales_holding_long": 5,
+   "crowding": "moderate",
+   "prev_crowding": null,
+   "aggregate_long_value_usd": 68387002832,
+   "aggregate_option_value_usd": 19557263680,
+   "option_only_holders": [
+    "Appaloosa LP"
+   ],
+   "holders": [
+    {
+     "whale": "Berkshire Hathaway Inc",
+     "long_value_usd": 65950296923,
+     "long_shares": 227917808,
+     "option_value_usd": 0
+    },
+    {
+     "whale": "Citadel Advisors LLC",
+     "long_value_usd": 2111192551,
+     "long_shares": 7296076,
+     "option_value_usd": 15280349264
+    },
+    {
+     "whale": "Millennium Management LLC",
+     "long_value_usd": 218987359,
+     "long_shares": 756799,
+     "option_value_usd": 4035298816
+    },
+    {
+     "whale": "Bridgewater Associates LP",
+     "long_value_usd": 105436129,
+     "long_shares": 364377,
+     "option_value_usd": 0
+    },
+    {
+     "whale": "Renaissance Technologies LLC",
+     "long_value_usd": 1089870,
+     "long_shares": 3246,
+     "option_value_usd": 0
+    }
+   ]
+  },
+  "MSFT": {
+   "cusip": "594918104",
+   "whales_holding_long": 7,
+   "crowding": "moderate",
+   "prev_crowding": null,
+   "aggregate_long_value_usd": 7831936841,
+   "aggregate_option_value_usd": 19389840714,
+   "option_only_holders": [],
+   "holders": [
+    {
+     "whale": "Pershing Square Capital Mgmt LP",
+     "long_value_usd": 2092970053,
+     "long_shares": 5654078,
+     "option_value_usd": 0
+    },
+    {
+     "whale": "Millennium Management LLC",
+     "long_value_usd": 1581942010,
+     "long_shares": 4240904,
+     "option_value_usd": 3367922976
+    },
+    {
+     "whale": "Citadel Advisors LLC",
+     "long_value_usd": 1406436474,
+     "long_shares": 3770405,
+     "option_value_usd": 16021917738
+    },
+    {
+     "whale": "Coatue Management LLC",
+     "long_value_usd": 1095339285,
+     "long_shares": 2936409,
+     "option_value_usd": 0
+    },
+    {
+     "whale": "Tiger Global Management LLC",
+     "long_value_usd": 845603887,
+     "long_shares": 2266913,
+     "option_value_usd": 0
+    },
+    {
+     "whale": "Viking Global Investors LP",
+     "long_value_usd": 544093686,
+     "long_shares": 1458618,
+     "option_value_usd": 0
+    },
+    {
+     "whale": "Bridgewater Associates LP",
+     "long_value_usd": 265551446,
+     "long_shares": 711896,
+     "option_value_usd": 0
+    }
+   ]
+  }
+ }
+}
