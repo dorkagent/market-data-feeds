@@ -1,89 +1,84 @@
 {
- "generated_at": "2026-11-13T18:37:37.876409+00:00",
+ "generated_at": "2026-11-16T21:08:02.986227+00:00",
  "universe": "US-listed, price >= $5, |move| >= 3% (premarket: no volume filter)",
  "top_movers": [
   {
-   "symbol": "BABA",
-   "pct_change": -7.1,
-   "price": 94.34,
-   "market_cap": "228,537,330,938",
+   "symbol": "AMD",
+   "pct_change": -8.8,
+   "price": 534.06,
+   "market_cap": "875,904,997,269",
    "direction": "down"
   },
   {
-   "symbol": "AMD",
-   "pct_change": 5.9,
-   "price": 585.3,
-   "market_cap": "959,943,068,010",
-   "direction": "up"
+   "symbol": "DELL",
+   "pct_change": -7.2,
+   "price": 344.28,
+   "market_cap": "218,897,613,570",
+   "direction": "down"
+  },
+  {
+   "symbol": "CSCO",
+   "pct_change": -6.2,
+   "price": 95.64,
+   "market_cap": "377,069,008,534",
+   "direction": "down"
   },
   {
    "symbol": "AVGO",
-   "pct_change": 5.5,
-   "price": 364.36,
-   "market_cap": "1,739,319,777,611",
-   "direction": "up"
+   "pct_change": -4.8,
+   "price": 347.01,
+   "market_cap": "1,656,497,299,454",
+   "direction": "down"
+  },
+  {
+   "symbol": "ARM",
+   "pct_change": -4.6,
+   "price": 190.53,
+   "market_cap": "202,734,447,164",
+   "direction": "down"
   },
   {
    "symbol": "ANET",
-   "pct_change": 5.1,
-   "price": 206.77,
-   "market_cap": "261,233,700,808",
-   "direction": "up"
-  },
-  {
-   "symbol": "NVDA",
-   "pct_change": -4.3,
-   "price": 166.19,
-   "market_cap": "4,005,179,000,000",
-   "direction": "down"
-  },
-  {
-   "symbol": "AMAT",
-   "pct_change": -3.6,
-   "price": 380.95,
-   "market_cap": "302,320,945,911",
-   "direction": "down"
-  },
-  {
-   "symbol": "GE",
-   "pct_change": -3.5,
-   "price": 330.9,
-   "market_cap": "341,936,150,659",
-   "direction": "down"
-  },
-  {
-   "symbol": "PANW",
-   "pct_change": -3.5,
-   "price": 322.66,
-   "market_cap": "264,078,854,518",
+   "pct_change": -4.5,
+   "price": 197.39,
+   "market_cap": "249,382,986,906",
    "direction": "down"
   },
   {
    "symbol": "SKHY",
+   "pct_change": -4.3,
+   "price": 131.79,
+   "market_cap": "960,571,842,450",
+   "direction": "down"
+  },
+  {
+   "symbol": "LRCX",
+   "pct_change": -3.4,
+   "price": 225.92,
+   "market_cap": "282,212,712,320",
+   "direction": "down"
+  },
+  {
+   "symbol": "KLAC",
    "pct_change": -3.2,
-   "price": 137.71,
-   "market_cap": "1,003,720,680,050",
+   "price": 152.32,
+   "market_cap": "198,467,238,099",
    "direction": "down"
   }
  ],
  "setup_routing": {
-  "setup_a_candidates": [
-   "AMD",
-   "AVGO",
-   "ANET"
-  ],
-  "setup_b_candidates": [
-   "AMD",
-   "AVGO",
-   "ANET"
-  ],
+  "setup_a_candidates": [],
+  "setup_b_candidates": [],
   "setup_c_candidates": [
-   "BABA",
-   "NVDA",
-   "AMAT",
-   "GE",
-   "PANW",
-   "SKHY"
+   "AMD",
+   "DELL",
+   "CSCO",
+   "AVGO",
+   "ARM",
+   "ANET",
+   "SKHY",
+   "LRCX",
+   "KLAC"
   ]
  },
  "count": 9
