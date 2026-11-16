@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-11-02T16:32:59.425630+00:00",
+  "generated_utc": "2026-11-16T23:49:01.835440+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. Weekly 8-K/10-K/10-Q keyword radar; a hit is a flag for the news pass, not a trade signal.",
   "source": "SEC EDGAR full-text search (efts.sec.gov, keyless)",
   "status": "ok",
   "window": {
-    "startdt": "2026-10-26",
-    "enddt": "2026-11-02",
+    "startdt": "2026-11-09",
+    "enddt": "2026-11-16",
     "forms": "8-K,10-K,10-Q"
   },
   "keywords": {
@@ -20,124 +20,124 @@
       "other_sample": []
     },
     "going concern": {
-      "total_hits": 177,
+      "total_hits": 1376,
       "watchlist_hits": [],
       "other_sample": [
         {
           "ticker": null,
-          "company": "Datavault AI Inc.  (DVLT)  (CIK 0001682149)",
-          "form": "8-K",
-          "file_date": "2026-10-26",
-          "watchlist": false
-        },
-        {
-          "ticker": null,
-          "company": "Naploy Corp.  (NPLY)  (CIK 0001978111)",
-          "form": "10-K",
-          "file_date": "2026-10-30",
-          "watchlist": false
-        },
-        {
-          "ticker": null,
-          "company": "Cycurion, Inc.  (CYCU, CYCUW)  (CIK 0001868419)",
-          "form": "8-K/A",
-          "file_date": "2026-10-28",
-          "watchlist": false
-        },
-        {
-          "ticker": null,
-          "company": "DBV Technologies S.A.  (DBVT, DBVTF)  (CIK 0001613780)",
-          "form": "8-K",
-          "file_date": "2026-10-28",
-          "watchlist": false
-        },
-        {
-          "ticker": null,
-          "company": "TechCom, Inc.  (TCRI)  (CIK 0001481443)",
+          "company": "THEGLOBE COM INC  (TGLO)  (CIK 0001066684)",
           "form": "10-Q",
-          "file_date": "2026-10-27",
+          "file_date": "2026-11-13",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "Guru App Factory Corp  (GAFC)  (CIK 0001989788)",
+          "form": "10-K",
+          "file_date": "2026-11-13",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "YAN CHUANG GROUP INC.  (CIK 0002086503)",
+          "form": "10-Q",
+          "file_date": "2026-11-16",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "NaturalShrimp Inc  (SHMP)  (CIK 0001465470)",
+          "form": "10-Q",
+          "file_date": "2026-11-10",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "Yale Transaction Finders, Inc.  (YTFD)  (CIK 0001311673)",
+          "form": "10-Q",
+          "file_date": "2026-11-12",
           "watchlist": false
         }
       ]
     },
     "restatement": {
-      "total_hits": 223,
+      "total_hits": 486,
       "watchlist_hits": [],
       "other_sample": [
         {
           "ticker": null,
-          "company": "Agassi Sports Entertainment Corp.  (AASP)  (CIK 0000930245)",
-          "form": "8-K",
-          "file_date": "2026-10-26",
+          "company": "APEX Tech Acquisition Inc.  (TRAD, TRAD-RI, TRAD-UN)  (CIK 0002085485)",
+          "form": "10-K",
+          "file_date": "2026-11-09",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "HOST HOTELS & RESORTS, INC.  (HST)  (CIK 0001070750)",
-          "form": "8-K",
-          "file_date": "2026-10-26",
+          "company": "FRANKLIN TEMPLETON INC  (BEN)  (CIK 0000038777)",
+          "form": "10-K",
+          "file_date": "2026-11-09",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "RESOURCES CONNECTION, INC.  (RGP)  (CIK 0001084765)",
-          "form": "8-K",
-          "file_date": "2026-10-27",
+          "company": "FRANKLIN TEMPLETON INC  (BEN)  (CIK 0000038777)",
+          "form": "10-K",
+          "file_date": "2026-11-09",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "PINTEREST, INC.  (PINS)  (CIK 0001506293)",
-          "form": "10-Q",
-          "file_date": "2026-10-29",
+          "company": "EZCORP INC  (EZPW)  (CIK 0000876523)",
+          "form": "10-K",
+          "file_date": "2026-11-12",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "Barings Capital Investment Corp  (CIK 0001811972)",
+          "company": "Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)",
           "form": "8-K",
-          "file_date": "2026-10-27",
+          "file_date": "2026-11-09",
           "watchlist": false
         }
       ]
     },
     "Chapter 11": {
-      "total_hits": 50,
+      "total_hits": 93,
       "watchlist_hits": [],
       "other_sample": [
         {
           "ticker": null,
-          "company": "Getty Images Holdings, Inc.  (GETY, GETYQ)  (CIK 0001898496)",
+          "company": "MERCER INTERNATIONAL INC.  (MERC)  (CIK 0001333274)",
           "form": "8-K",
-          "file_date": "2026-10-26",
+          "file_date": "2026-11-10",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "QVC Group, Inc.  (QVCG)  (CIK 0001254699)",
-          "form": "8-K",
-          "file_date": "2026-10-30",
-          "watchlist": false
-        },
-        {
-          "ticker": null,
-          "company": "MINERALS TECHNOLOGIES INC  (MTX)  (CIK 0000891014)",
+          "company": "Getty Images Holdings, Inc.  (GETYQ)  (CIK 0001898496)",
           "form": "10-Q",
-          "file_date": "2026-10-30",
+          "file_date": "2026-11-16",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "Bloomin' Brands, Inc.  (BLMN)  (CIK 0001546417)",
+          "company": "MERCER INTERNATIONAL INC.  (MERC)  (CIK 0001333274)",
           "form": "8-K",
-          "file_date": "2026-11-02",
+          "file_date": "2026-11-10",
           "watchlist": false
         },
         {
           "ticker": null,
-          "company": "MINERALS TECHNOLOGIES INC  (MTX)  (CIK 0000891014)",
+          "company": "National CineMedia, Inc.  (NCMI)  (CIK 0001377630)",
+          "form": "8-K",
+          "file_date": "2026-11-10",
+          "watchlist": false
+        },
+        {
+          "ticker": null,
+          "company": "Trinseo PLC  (TSEOQ)  (CIK 0001519061)",
           "form": "10-Q",
-          "file_date": "2026-10-30",
+          "file_date": "2026-11-09",
           "watchlist": false
         }
       ]
