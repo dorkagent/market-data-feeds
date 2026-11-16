@@ -1,18 +1,447 @@
 {
-  "generated_utc": "2026-11-09T08:07:23.332541+00:00",
+  "generated_utc": "2026-11-16T08:04:02.142346+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. Insider cluster buys corroborate the Form 4 feed; a cluster is context, never a trade signal.",
   "source": "OpenInsider latest-cluster-buys (keyless HTML scrape)",
   "status": "ok",
   "clusters": [
     {
-      "ticker": "TRNS",
-      "company": "Transcat Inc",
+      "ticker": "NXGL",
+      "company": "Nexgel, Inc.",
+      "insiders": 2,
+      "trade_date": "2026-11-10",
+      "filing_date": "2026-11-13 21:59:13",
+      "trade_type": "P - Purchase",
+      "price": "$5.50",
+      "value": "+$757,691",
+      "watchlist": false
+    },
+    {
+      "ticker": "STWD",
+      "company": "Starwood Property Trust, Inc.",
+      "insiders": 2,
+      "trade_date": "2026-11-11",
+      "filing_date": "2026-11-13 21:21:30",
+      "trade_type": "P - Purchase",
+      "price": "$11.81",
+      "value": "+$16,711,132",
+      "watchlist": false
+    },
+    {
+      "ticker": "CTEV",
+      "company": "Claritev Corp",
+      "insiders": 2,
+      "trade_date": "2026-11-11",
+      "filing_date": "2026-11-13 17:45:29",
+      "trade_type": "P - Purchase",
+      "price": "$25.05",
+      "value": "+$9,627,061",
+      "watchlist": false
+    },
+    {
+      "ticker": "FUN",
+      "company": "Six Flags Entertainment Corporation/New",
+      "insiders": 3,
+      "trade_date": "2026-11-11",
+      "filing_date": "2026-11-13 16:43:30",
+      "trade_type": "P - Purchase",
+      "price": "$10.62",
+      "value": "+$24,312,320",
+      "watchlist": false
+    },
+    {
+      "ticker": "NXRT",
+      "company": "Nexpoint Residential Trust, Inc.",
+      "insiders": 2,
+      "trade_date": "2026-11-10",
+      "filing_date": "2026-11-13 16:41:31",
+      "trade_type": "P - Purchase",
+      "price": "$17.02",
+      "value": "+$603,299",
+      "watchlist": false
+    },
+    {
+      "ticker": "GAM",
+      "company": "General American Investors Co Inc",
+      "insiders": 5,
+      "trade_date": "2026-11-13",
+      "filing_date": "2026-11-13 16:33:56",
+      "trade_type": "P - Purchase",
+      "price": "$23.04",
+      "value": "+$760,290",
+      "watchlist": false
+    },
+    {
+      "ticker": "BW",
+      "company": "Babcock &amp; Wilcox Enterprises, Inc.",
+      "insiders": 2,
+      "trade_date": "2026-11-11",
+      "filing_date": "2026-11-13 16:30:57",
+      "trade_type": "P - Purchase",
+      "price": "$4.81",
+      "value": "+$96,192",
+      "watchlist": false
+    },
+    {
+      "ticker": "HPP",
+      "company": "Hudson Pacific Properties, Inc.",
+      "insiders": 3,
+      "trade_date": "2026-11-12",
+      "filing_date": "2026-11-13 16:06:40",
+      "trade_type": "P - Purchase",
+      "price": "$9.06",
+      "value": "+$905,762",
+      "watchlist": false
+    },
+    {
+      "ticker": "ABCL",
+      "company": "Abcellera Biologics Inc.",
+      "insiders": 3,
+      "trade_date": "2026-08-18",
+      "filing_date": "2026-11-13 12:41:20",
+      "trade_type": "P - Purchase",
+      "price": "$10.78",
+      "value": "+$778,180",
+      "watchlist": false
+    },
+    {
+      "ticker": "CSQR",
+      "company": "Csquare, Inc.",
+      "insiders": 2,
+      "trade_date": "2026-11-11",
+      "filing_date": "2026-11-13 07:56:47",
+      "trade_type": "P - Purchase",
+      "price": "$17.24",
+      "value": "+$207,400",
+      "watchlist": false
+    },
+    {
+      "ticker": "ENOV",
+      "company": "Enovis Corp",
+      "insiders": 4,
+      "trade_date": "2026-11-10",
+      "filing_date": "2026-11-12 20:00:06",
+      "trade_type": "P - Purchase",
+      "price": "$20.92",
+      "value": "+$599,541",
+      "watchlist": false
+    },
+    {
+      "ticker": "FLG",
+      "company": "Flagstar Bank, National Association",
+      "insiders": 2,
+      "trade_date": "2026-10-27",
+      "filing_date": "2026-11-12 17:01:18",
+      "trade_type": "P - Purchase",
+      "price": "$10.43",
+      "value": "+$597,829",
+      "watchlist": false
+    },
+    {
+      "ticker": "OBIO",
+      "company": "Orchestra Biomed Holdings, Inc.",
+      "insiders": 4,
+      "trade_date": "2026-11-09",
+      "filing_date": "2026-11-12 16:27:37",
+      "trade_type": "P - Purchase",
+      "price": "$5.00",
+      "value": "+$6,247,900",
+      "watchlist": false
+    },
+    {
+      "ticker": "NOMD",
+      "company": "Nomad Foods Ltd",
+      "insiders": 2,
+      "trade_date": "2026-11-09",
+      "filing_date": "2026-11-12 16:21:10",
+      "trade_type": "P - Purchase",
+      "price": "$12.17",
+      "value": "+$1,054,392",
+      "watchlist": false
+    },
+    {
+      "ticker": "LUCK",
+      "company": "Lucky Strike Entertainment Corp",
+      "insiders": 3,
+      "trade_date": "2026-11-10",
+      "filing_date": "2026-11-12 16:14:24",
+      "trade_type": "P - Purchase",
+      "price": "$13.74",
+      "value": "+$965,695",
+      "watchlist": false
+    },
+    {
+      "ticker": "RWAY",
+      "company": "Runway Growth Finance Corp.",
+      "insiders": 3,
+      "trade_date": "2026-11-11",
+      "filing_date": "2026-11-12 16:05:12",
+      "trade_type": "P - Purchase",
+      "price": "$6.74",
+      "value": "+$218,908",
+      "watchlist": false
+    },
+    {
+      "ticker": "ADTN",
+      "company": "Adtran Holdings, Inc.",
+      "insiders": 2,
+      "trade_date": "2026-11-09",
+      "filing_date": "2026-11-12 16:03:13",
+      "trade_type": "P - Purchase",
+      "price": "$4.08",
+      "value": "+$847,008",
+      "watchlist": false
+    },
+    {
+      "ticker": "EGBN",
+      "company": "Eagle Bancorp Inc",
+      "insiders": 2,
+      "trade_date": "2026-11-10",
+      "filing_date": "2026-11-12 14:29:32",
+      "trade_type": "P - Purchase",
+      "price": "$34.02",
+      "value": "+$199,430",
+      "watchlist": false
+    },
+    {
+      "ticker": "PAM",
+      "company": "Pampa Energy Inc.",
+      "insiders": 3,
+      "trade_date": "2026-09-25",
+      "filing_date": "2026-11-12 13:56:26",
+      "trade_type": "P - Purchase",
+      "price": "$12.34",
+      "value": "+$56,713,058",
+      "watchlist": false
+    },
+    {
+      "ticker": "DKNG",
+      "company": "Draftkings Inc.",
+      "insiders": 2,
+      "trade_date": "2026-11-11",
+      "filing_date": "2026-11-12 08:55:22",
+      "trade_type": "P - Purchase",
+      "price": "$18.77",
+      "value": "+$448,787",
+      "watchlist": false
+    },
+    {
+      "ticker": "MP",
+      "company": "Mp Materials Corp. / De",
+      "insiders": 3,
+      "trade_date": "2026-11-10",
+      "filing_date": "2026-11-12 06:50:54",
+      "trade_type": "P - Purchase",
+      "price": "$36.26",
+      "value": "+$3,353,606",
+      "watchlist": false
+    },
+    {
+      "ticker": "TH",
+      "company": "Target Hospitality Corp.",
+      "insiders": 2,
+      "trade_date": "2026-11-11",
+      "filing_date": "2026-11-12 06:43:39",
+      "trade_type": "P - Purchase",
+      "price": "$14.70",
+      "value": "+$687,833",
+      "watchlist": false
+    },
+    {
+      "ticker": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insiders": 2,
+      "trade_date": "2026-11-10",
+      "filing_date": "2026-11-12 06:10:07",
+      "trade_type": "P - Purchase",
+      "price": "$3.71",
+      "value": "+$839,805",
+      "watchlist": false
+    },
+    {
+      "ticker": "COHR",
+      "company": "Coherent Corp.",
+      "insiders": 2,
+      "trade_date": "2026-11-09",
+      "filing_date": "2026-11-12 06:02:52",
+      "trade_type": "P - Purchase",
+      "price": "$203.38",
+      "value": "+$1,220,285",
+      "watchlist": false
+    },
+    {
+      "ticker": "ATEC",
+      "company": "Alphatec Holdings, Inc.",
+      "insiders": 3,
+      "trade_date": "2026-10-30",
+      "filing_date": "2026-11-10 19:56:16",
+      "trade_type": "P - Purchase",
+      "price": "$7.93",
+      "value": "+$1,664,300",
+      "watchlist": false
+    },
+    {
+      "ticker": "WW",
+      "company": "Ww International, Inc.",
+      "insiders": 3,
+      "trade_date": "2026-11-10",
+      "filing_date": "2026-11-10 17:56:54",
+      "trade_type": "P - Purchase",
+      "price": "$11.84",
+      "value": "+$292,882",
+      "watchlist": false
+    },
+    {
+      "ticker": "GLXY",
+      "company": "Galaxy Digital Inc.",
       "insiders": 2,
       "trade_date": "2026-11-05",
-      "filing_date": "2026-11-06 16:30:03",
+      "filing_date": "2026-11-10 17:17:54",
       "trade_type": "P - Purchase",
-      "price": "$98.96",
-      "value": "+$329,030",
+      "price": "$12.99",
+      "value": "+$9,934,246",
+      "watchlist": false
+    },
+    {
+      "ticker": "UPBD",
+      "company": "Upbound Group, Inc.",
+      "insiders": 8,
+      "trade_date": "2026-11-09",
+      "filing_date": "2026-11-10 16:30:17",
+      "trade_type": "P - Purchase",
+      "price": "$22.98",
+      "value": "+$1,840,818",
+      "watchlist": false
+    },
+    {
+      "ticker": "GOOD",
+      "company": "Gladstone Commercial Corp",
+      "insiders": 2,
+      "trade_date": "2026-11-06",
+      "filing_date": "2026-11-10 09:51:07",
+      "trade_type": "P - Purchase",
+      "price": "$10.12",
+      "value": "+$186,263",
+      "watchlist": false
+    },
+    {
+      "ticker": "FLOC",
+      "company": "Flowco Holdings Inc.",
+      "insiders": 2,
+      "trade_date": "2026-11-05",
+      "filing_date": "2026-11-10 09:22:07",
+      "trade_type": "P - Purchase",
+      "price": "$19.43",
+      "value": "+$682,656",
+      "watchlist": false
+    },
+    {
+      "ticker": "LBTY",
+      "company": "Liberty Global Ltd.",
+      "insiders": 3,
+      "trade_date": "2026-11-04",
+      "filing_date": "2026-11-10 06:01:26",
+      "trade_type": "P - Purchase",
+      "price": "$9.52",
+      "value": "+$4,486,300",
+      "watchlist": false
+    },
+    {
+      "ticker": "MTDR",
+      "company": "Matador Resources Co",
+      "insiders": 6,
+      "trade_date": "2026-11-05",
+      "filing_date": "2026-11-09 17:15:58",
+      "trade_type": "P - Purchase",
+      "price": "$53.21",
+      "value": "+$442,465",
+      "watchlist": false
+    },
+    {
+      "ticker": "WCC",
+      "company": "Wesco International Inc",
+      "insiders": 2,
+      "trade_date": "2026-11-06",
+      "filing_date": "2026-11-09 17:07:39",
+      "trade_type": "P - Purchase",
+      "price": "$292.08",
+      "value": "+$603,431",
+      "watchlist": false
+    },
+    {
+      "ticker": "LUMN",
+      "company": "Lumen Technologies, Inc.",
+      "insiders": 2,
+      "trade_date": "2026-11-06",
+      "filing_date": "2026-11-09 16:20:11",
+      "trade_type": "P - Purchase",
+      "price": "$3.96",
+      "value": "+$494,605",
+      "watchlist": false
+    },
+    {
+      "ticker": "AN",
+      "company": "Autonation, Inc.",
+      "insiders": 4,
+      "trade_date": "2026-11-05",
+      "filing_date": "2026-11-09 16:09:47",
+      "trade_type": "P - Purchase",
+      "price": "$183.85",
+      "value": "+$1,729,868",
+      "watchlist": false
+    },
+    {
+      "ticker": "SOPH",
+      "company": "Sophia Genetics Sa",
+      "insiders": 2,
+      "trade_date": "2026-11-06",
+      "filing_date": "2026-11-09 16:06:01",
+      "trade_type": "P - Purchase",
+      "price": "$6.96",
+      "value": "+$278,388",
+      "watchlist": false
+    },
+    {
+      "ticker": "CMCO",
+      "company": "Columbus McKinnon Corp",
+      "insiders": 2,
+      "trade_date": "2026-11-05",
+      "filing_date": "2026-11-09 15:54:01",
+      "trade_type": "P - Purchase",
+      "price": "$16.92",
+      "value": "+$598,484",
+      "watchlist": false
+    },
+    {
+      "ticker": "KMT",
+      "company": "Kennametal Inc",
+      "insiders": 3,
+      "trade_date": "2026-11-05",
+      "filing_date": "2026-11-09 13:22:02",
+      "trade_type": "P - Purchase",
+      "price": "$27.01",
+      "value": "+$567,118",
+      "watchlist": false
+    },
+    {
+      "ticker": "TTMI",
+      "company": "Ttm Technologies Inc",
+      "insiders": 4,
+      "trade_date": "2026-11-05",
+      "filing_date": "2026-11-09 10:52:23",
+      "trade_type": "P - Purchase",
+      "price": "$87.25",
+      "value": "+$3,926,152",
+      "watchlist": false
+    },
+    {
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insiders": 2,
+      "trade_date": "2026-11-05",
+      "filing_date": "2026-11-09 06:15:09",
+      "trade_type": "P - Purchase",
+      "price": "$130.17",
+      "value": "+$545,393",
       "watchlist": false
     },
     {
@@ -27,17 +456,6 @@
       "watchlist": false
     },
     {
-      "ticker": "KMT",
-      "company": "Kennametal Inc",
-      "insiders": 2,
-      "trade_date": "2026-11-05",
-      "filing_date": "2026-11-06 12:57:53",
-      "trade_type": "P - Purchase",
-      "price": "$27.37",
-      "value": "+$520,118",
-      "watchlist": false
-    },
-    {
       "ticker": "PMN",
       "company": "Promis Neurosciences Inc.",
       "insiders": 2,
@@ -46,17 +464,6 @@
       "trade_type": "P - Purchase",
       "price": "$3.55",
       "value": "+$129,495",
-      "watchlist": false
-    },
-    {
-      "ticker": "MTDR",
-      "company": "Matador Resources Co",
-      "insiders": 4,
-      "trade_date": "2026-11-05",
-      "filing_date": "2026-11-06 07:31:11",
-      "trade_type": "P - Purchase",
-      "price": "$53.31",
-      "value": "+$408,604",
       "watchlist": false
     },
     {
@@ -93,17 +500,6 @@
       "watchlist": false
     },
     {
-      "ticker": "GLXY",
-      "company": "Galaxy Digital Inc.",
-      "insiders": 3,
-      "trade_date": "2026-08-10",
-      "filing_date": "2026-11-05 16:46:46",
-      "trade_type": "P - Purchase",
-      "price": "$13.16",
-      "value": "+$10,222,891",
-      "watchlist": false
-    },
-    {
       "ticker": "FBRT",
       "company": "Franklin Bsp Realty Trust, Inc.",
       "insiders": 2,
@@ -112,50 +508,6 @@
       "trade_type": "P - Purchase",
       "price": "$6.22",
       "value": "+$1,024,108",
-      "watchlist": false
-    },
-    {
-      "ticker": "UPBD",
-      "company": "Upbound Group, Inc.",
-      "insiders": 7,
-      "trade_date": "2026-11-03",
-      "filing_date": "2026-11-05 16:30:06",
-      "trade_type": "P - Purchase",
-      "price": "$22.46",
-      "value": "+$1,390,755",
-      "watchlist": false
-    },
-    {
-      "ticker": "TTMI",
-      "company": "Ttm Technologies Inc",
-      "insiders": 3,
-      "trade_date": "2026-11-05",
-      "filing_date": "2026-11-05 13:59:24",
-      "trade_type": "P - Purchase",
-      "price": "$90.41",
-      "value": "+$3,616,552",
-      "watchlist": false
-    },
-    {
-      "ticker": "PAM",
-      "company": "Pampa Energy Inc.",
-      "insiders": 3,
-      "trade_date": "2026-09-25",
-      "filing_date": "2026-11-05 13:10:30",
-      "trade_type": "P - Purchase",
-      "price": "$11.88",
-      "value": "+$54,125,646",
-      "watchlist": false
-    },
-    {
-      "ticker": "LBTY",
-      "company": "Liberty Global Ltd.",
-      "insiders": 2,
-      "trade_date": "2026-11-04",
-      "filing_date": "2026-11-05 09:20:19",
-      "trade_type": "P - Purchase",
-      "price": "$9.42",
-      "value": "+$3,026,150",
       "watchlist": false
     },
     {
@@ -181,17 +533,6 @@
       "watchlist": false
     },
     {
-      "ticker": "AN",
-      "company": "Autonation, Inc.",
-      "insiders": 3,
-      "trade_date": "2026-11-03",
-      "filing_date": "2026-11-04 16:14:29",
-      "trade_type": "P - Purchase",
-      "price": "$183.62",
-      "value": "+$1,431,864",
-      "watchlist": false
-    },
-    {
       "ticker": "ENPH",
       "company": "Enphase Energy, Inc.",
       "insiders": 2,
@@ -205,12 +546,12 @@
     {
       "ticker": "STRZ",
       "company": "Starz Entertainment Corp /Cn/",
-      "insiders": 3,
-      "trade_date": "2026-08-10",
+      "insiders": 2,
+      "trade_date": "2026-11-02",
       "filing_date": "2026-11-03 16:33:59",
       "trade_type": "P - Purchase",
-      "price": "$23.78",
-      "value": "+$439,930",
+      "price": "$22.16",
+      "value": "+$166,200",
       "watchlist": false
     },
     {
@@ -222,17 +563,6 @@
       "trade_type": "P - Purchase",
       "price": "$6.57",
       "value": "+$98,550",
-      "watchlist": false
-    },
-    {
-      "ticker": "ATEC",
-      "company": "Alphatec Holdings, Inc.",
-      "insiders": 2,
-      "trade_date": "2026-10-30",
-      "filing_date": "2026-11-02 12:23:23",
-      "trade_type": "P - Purchase",
-      "price": "$8.12",
-      "value": "+$1,421,750",
       "watchlist": false
     },
     {
@@ -324,17 +654,6 @@
       "watchlist": false
     },
     {
-      "ticker": "CTEV",
-      "company": "Claritev Corp",
-      "insiders": 2,
-      "trade_date": "2026-08-27",
-      "filing_date": "2026-10-27 16:31:19",
-      "trade_type": "P - Purchase",
-      "price": "$24.34",
-      "value": "+$3,605,876",
-      "watchlist": false
-    },
-    {
       "ticker": "THRM",
       "company": "Gentherm Inc",
       "insiders": 2,
@@ -392,12 +711,12 @@
     {
       "ticker": "BORR",
       "company": "Borr Drilling Ltd",
-      "insiders": 3,
+      "insiders": 2,
       "trade_date": "2026-10-15",
       "filing_date": "2026-10-16 07:30:18",
       "trade_type": "P - Purchase",
-      "price": "$4.44",
-      "value": "+$57,144,458",
+      "price": "$4.50",
+      "value": "+$50,606,070",
       "watchlist": false
     },
     {
@@ -561,8 +880,8 @@
       "trade_date": "2026-09-08",
       "filing_date": "2026-09-30 17:51:16",
       "trade_type": "P - Purchase",
-      "price": "$3.23",
-      "value": "+$1,433,743",
+      "price": "$3.26",
+      "value": "+$944,947",
       "watchlist": false
     },
     {
@@ -654,17 +973,6 @@
       "watchlist": false
     },
     {
-      "ticker": "GAM",
-      "company": "General American Investors Co Inc",
-      "insiders": 5,
-      "trade_date": "2026-09-23",
-      "filing_date": "2026-09-24 10:21:48",
-      "trade_type": "P - Purchase",
-      "price": "$23.18",
-      "value": "+$672,290",
-      "watchlist": false
-    },
-    {
       "ticker": "ALP",
       "company": "Alpha Compute Corp",
       "insiders": 2,
@@ -698,17 +1006,6 @@
       "watchlist": false
     },
     {
-      "ticker": "RWAY",
-      "company": "Runway Growth Finance Corp.",
-      "insiders": 3,
-      "trade_date": "2026-09-21",
-      "filing_date": "2026-09-22 20:10:27",
-      "trade_type": "P - Purchase",
-      "price": "$6.77",
-      "value": "+$169,183",
-      "watchlist": false
-    },
-    {
       "ticker": "BCBP",
       "company": "Bcb Bancorp Inc",
       "insiders": 2,
@@ -728,17 +1025,6 @@
       "trade_type": "P - Purchase",
       "price": "$3.87",
       "value": "+$1,312,178",
-      "watchlist": false
-    },
-    {
-      "ticker": "TH",
-      "company": "Target Hospitality Corp.",
-      "insiders": 2,
-      "trade_date": "2026-09-18",
-      "filing_date": "2026-09-18 16:30:20",
-      "trade_type": "P - Purchase",
-      "price": "$19.45",
-      "value": "+$375,158",
       "watchlist": false
     },
     {
@@ -816,292 +1102,6 @@
       "trade_type": "P - Purchase",
       "price": "$27.73",
       "value": "+$1,830,043",
-      "watchlist": false
-    },
-    {
-      "ticker": "AVBC",
-      "company": "Avidia Bancorp, Inc.",
-      "insiders": 5,
-      "trade_date": "2026-09-14",
-      "filing_date": "2026-09-16 08:47:32",
-      "trade_type": "P - Purchase",
-      "price": "$21.90",
-      "value": "+$586,569",
-      "watchlist": false
-    },
-    {
-      "ticker": "NTHI",
-      "company": "Neonc Technologies Holdings, Inc.",
-      "insiders": 2,
-      "trade_date": "2026-09-14",
-      "filing_date": "2026-09-15 20:47:37",
-      "trade_type": "P - Purchase",
-      "price": "$3.65",
-      "value": "+$314,795",
-      "watchlist": false
-    },
-    {
-      "ticker": "ANGX",
-      "company": "Angel Studios, Inc.",
-      "insiders": 3,
-      "trade_date": "2026-09-11",
-      "filing_date": "2026-09-14 16:14:32",
-      "trade_type": "P - Purchase",
-      "price": "$4.55",
-      "value": "+$5,857,056",
-      "watchlist": false
-    },
-    {
-      "ticker": "GRNT",
-      "company": "Granite Ridge Resources, Inc.",
-      "insiders": 3,
-      "trade_date": "2026-09-11",
-      "filing_date": "2026-09-14 11:43:43",
-      "trade_type": "P - Purchase",
-      "price": "$5.04",
-      "value": "+$105,800",
-      "watchlist": false
-    },
-    {
-      "ticker": "RLMD",
-      "company": "Relmada Therapeutics, Inc.",
-      "insiders": 2,
-      "trade_date": "2026-09-09",
-      "filing_date": "2026-09-11 07:30:03",
-      "trade_type": "P - Purchase",
-      "price": "$4.18",
-      "value": "+$1,671,990",
-      "watchlist": false
-    },
-    {
-      "ticker": "PRTS",
-      "company": "Carparts.Com, Inc.",
-      "insiders": 3,
-      "trade_date": "2026-09-10",
-      "filing_date": "2026-09-10 20:01:53",
-      "trade_type": "P - Purchase",
-      "price": "$9.10",
-      "value": "+$2,000,649",
-      "watchlist": false
-    },
-    {
-      "ticker": "UBER",
-      "company": "Uber Technologies, Inc",
-      "insiders": 2,
-      "trade_date": "2026-09-04",
-      "filing_date": "2026-09-10 12:40:37",
-      "trade_type": "P - Purchase",
-      "price": "$72.58",
-      "value": "+$15,314,016",
-      "watchlist": false
-    },
-    {
-      "ticker": "LUCK",
-      "company": "Lucky Strike Entertainment Corp",
-      "insiders": 3,
-      "trade_date": "2026-09-09",
-      "filing_date": "2026-09-09 16:16:20",
-      "trade_type": "P - Purchase",
-      "price": "$19.97",
-      "value": "+$869,701",
-      "watchlist": false
-    },
-    {
-      "ticker": "ENOV",
-      "company": "Enovis Corp",
-      "insiders": 2,
-      "trade_date": "2026-09-04",
-      "filing_date": "2026-09-08 21:00:03",
-      "trade_type": "P - Purchase",
-      "price": "$19.30",
-      "value": "+$449,599",
-      "watchlist": false
-    },
-    {
-      "ticker": "SCOR",
-      "company": "Comscore, Inc.",
-      "insiders": 3,
-      "trade_date": "2026-09-04",
-      "filing_date": "2026-09-08 16:09:18",
-      "trade_type": "P - Purchase",
-      "price": "$5.20",
-      "value": "+$348,468",
-      "watchlist": false
-    },
-    {
-      "ticker": "TISI",
-      "company": "Team Inc",
-      "insiders": 3,
-      "trade_date": "2026-09-03",
-      "filing_date": "2026-09-08 14:39:20",
-      "trade_type": "P - Purchase",
-      "price": "$24.40",
-      "value": "+$610,080",
-      "watchlist": false
-    },
-    {
-      "ticker": "SMID",
-      "company": "Smith Midland Corp",
-      "insiders": 2,
-      "trade_date": "2026-09-01",
-      "filing_date": "2026-09-04 13:04:00",
-      "trade_type": "P - Purchase",
-      "price": "$27.01",
-      "value": "+$108,040",
-      "watchlist": false
-    },
-    {
-      "ticker": "AMRZ",
-      "company": "Amrize Ltd",
-      "insiders": 10,
-      "trade_date": "2026-08-11",
-      "filing_date": "2026-09-03 12:40:15",
-      "trade_type": "P - Purchase",
-      "price": "$44.35",
-      "value": "+$2,638,163",
-      "watchlist": false
-    },
-    {
-      "ticker": "UAMY",
-      "company": "United States Antimony Corp",
-      "insiders": 3,
-      "trade_date": "2026-09-01",
-      "filing_date": "2026-09-02 14:28:53",
-      "trade_type": "P - Purchase",
-      "price": "$4.76",
-      "value": "+$291,636",
-      "watchlist": false
-    },
-    {
-      "ticker": "QNRX",
-      "company": "Quoin Pharmaceuticals, Ltd.",
-      "insiders": 4,
-      "trade_date": "2026-08-31",
-      "filing_date": "2026-09-01 21:40:32",
-      "trade_type": "P - Purchase",
-      "price": "$4.88",
-      "value": "+$279,965",
-      "watchlist": false
-    },
-    {
-      "ticker": "AIIR",
-      "company": "Air Global Plc",
-      "insiders": 2,
-      "trade_date": "2026-08-27",
-      "filing_date": "2026-09-01 16:05:07",
-      "trade_type": "P - Purchase",
-      "price": "$7.62",
-      "value": "+$79,607",
-      "watchlist": false
-    },
-    {
-      "ticker": "CIA",
-      "company": "Citizens, Inc.",
-      "insiders": 2,
-      "trade_date": "2026-08-31",
-      "filing_date": "2026-09-01 14:05:18",
-      "trade_type": "P - Purchase",
-      "price": "$3.91",
-      "value": "+$281,425",
-      "watchlist": false
-    },
-    {
-      "ticker": "GO",
-      "company": "Grocery Outlet Holding Corp.",
-      "insiders": 2,
-      "trade_date": "2026-08-20",
-      "filing_date": "2026-08-31 21:23:06",
-      "trade_type": "P - Purchase",
-      "price": "$11.42",
-      "value": "+$262,700",
-      "watchlist": false
-    },
-    {
-      "ticker": "HWKN",
-      "company": "Hawkins Inc",
-      "insiders": 2,
-      "trade_date": "2026-08-25",
-      "filing_date": "2026-08-31 16:32:27",
-      "trade_type": "P - Purchase",
-      "price": "$118.90",
-      "value": "+$261,576",
-      "watchlist": false
-    },
-    {
-      "ticker": "SRTS",
-      "company": "Sensus Healthcare, Inc.",
-      "insiders": 2,
-      "trade_date": "2026-08-28",
-      "filing_date": "2026-08-31 12:35:33",
-      "trade_type": "P - Purchase",
-      "price": "$3.29",
-      "value": "+$563,538",
-      "watchlist": false
-    },
-    {
-      "ticker": "REFI",
-      "company": "Chicago Atlantic Real Estate Finance, Inc.",
-      "insiders": 3,
-      "trade_date": "2026-08-17",
-      "filing_date": "2026-08-28 15:24:41",
-      "trade_type": "P - Purchase",
-      "price": "$10.48",
-      "value": "+$1,285,710",
-      "watchlist": false
-    },
-    {
-      "ticker": "ACDC",
-      "company": "Profrac Holding Corp.",
-      "insiders": 3,
-      "trade_date": "2026-08-10",
-      "filing_date": "2026-08-26 19:12:12",
-      "trade_type": "P - Purchase",
-      "price": "$4.84",
-      "value": "+$9,753,790",
-      "watchlist": false
-    },
-    {
-      "ticker": "NSLR",
-      "company": "Neostellar Capital Corp.",
-      "insiders": 2,
-      "trade_date": "2026-08-26",
-      "filing_date": "2026-08-26 19:09:20",
-      "trade_type": "P - Purchase",
-      "price": "$10.01",
-      "value": "+$760,984",
-      "watchlist": false
-    },
-    {
-      "ticker": "NOMD",
-      "company": "Nomad Foods Ltd",
-      "insiders": 2,
-      "trade_date": "2026-08-19",
-      "filing_date": "2026-08-26 16:23:43",
-      "trade_type": "P - Purchase",
-      "price": "$12.19",
-      "value": "+$954,231",
-      "watchlist": false
-    },
-    {
-      "ticker": "PRE",
-      "company": "Prenetics Global Ltd",
-      "insiders": 2,
-      "trade_date": "2026-08-24",
-      "filing_date": "2026-08-26 08:23:50",
-      "trade_type": "P - Purchase",
-      "price": "$20.92",
-      "value": "+$999,698",
-      "watchlist": false
-    },
-    {
-      "ticker": "BCML",
-      "company": "Baycom Corp",
-      "insiders": 2,
-      "trade_date": "2026-08-21",
-      "filing_date": "2026-08-25 13:40:17",
-      "trade_type": "P - Purchase",
-      "price": "$30.29",
-      "value": "+$310,518",
       "watchlist": false
     }
   ]
