@@ -1,22 +1,22 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-11-15T18:57:59.755048+00:00",
+ "generated_at": "2026-11-16T22:19:20.121851+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-13T15:45:23+00:00",
+ "window_start": "2026-11-14T10:06:39+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 31,
-   "bull": 9,
+   "mentions": 34,
+   "bull": 13,
    "bear": 6,
-   "engagement": 22102
+   "engagement": 27591
   },
   {
-   "ticker": "AMD",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 32
+   "ticker": "RDW",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 13
   },
   {
    "ticker": "SPY",
@@ -26,18 +26,88 @@
    "engagement": 2
   },
   {
+   "ticker": "QQQ",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "BTC",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "ETH",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 241
+  },
+  {
+   "ticker": "TTWO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 9
+  },
+  {
+   "ticker": "ASTS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 488
+  },
+  {
+   "ticker": "DJT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 91
+  },
+  {
+   "ticker": "TRUMP",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "TTD",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "RSG",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 356
   },
   {
    "ticker": "WMT",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 32
+   "engagement": 99
+  },
+  {
+   "ticker": "ASTR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "FLY",
@@ -48,13 +118,6 @@
   },
   {
    "ticker": "PL",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "ASTR",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -72,7 +135,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 2194
+   "engagement": 3514
   },
   {
    "ticker": "MSTR",
@@ -80,176 +143,113 @@
    "bull": 0,
    "bear": 0,
    "engagement": 188
-  },
-  {
-   "ticker": "SPCX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 95
-  },
-  {
-   "ticker": "RDDT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 37
-  },
-  {
-   "ticker": "SWBI",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 74
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
-   "ticker": "ASTS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 92
-  },
-  {
-   "ticker": "SMCI",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
-  },
-  {
-   "ticker": "NBIS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "INTC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 31
-  },
-  {
-   "ticker": "DMUF",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
   }
  ],
  "top_posts": [
   {
-   "title": "Who needs GTA when we have this",
-   "score": 35833,
-   "num_comments": 704,
-   "created_utc": 1794590847,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvdzgd/"
-  },
-  {
-   "title": "How Jensen's been moving lately",
-   "score": 14448,
-   "num_comments": 524,
-   "created_utc": 1794664417,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xw2xyu/"
-  },
-  {
    "title": "Turns out the \"shortage\" was NVDA funding the startups buying NVDA chips. I'm the regard who called it organic demand",
-   "score": 14094,
-   "num_comments": 1228,
+   "score": 17325,
+   "num_comments": 1477,
    "created_utc": 1794687189,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xwc37o/"
   },
   {
-   "title": "Mark Wayne admits the AI system they were implementing overwhelmed air traffick control systems",
-   "score": 12529,
-   "num_comments": 2193,
-   "created_utc": 1794621685,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvqdrh/"
+   "title": "How Jensen's been moving lately",
+   "score": 15296,
+   "num_comments": 530,
+   "created_utc": 1794664417,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xw2xyu/"
   },
   {
-   "title": "FAA Grounds Flights",
-   "score": 11079,
-   "num_comments": 2036,
-   "created_utc": 1794604304,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvjvyq/"
+   "title": "I\u2019m from the future, this is what Jensens return on the upcoming earnings call will look like",
+   "score": 11393,
+   "num_comments": 477,
+   "created_utc": 1794784846,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xx9vhd/"
   },
   {
    "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-   "score": 10743,
-   "num_comments": 1526,
+   "score": 11283,
+   "num_comments": 1570,
    "created_utc": 1794682083,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xwa164/"
   },
   {
-   "title": "Jensen comeback",
-   "score": 9582,
-   "num_comments": 1771,
-   "created_utc": 1794603805,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvjo3f/"
-  },
-  {
    "title": "The secret is out",
-   "score": 9326,
-   "num_comments": 177,
+   "score": 10163,
+   "num_comments": 185,
    "created_utc": 1794653626,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvzm8s/"
   },
   {
-   "title": "Jensen slop",
-   "score": 9015,
-   "num_comments": 200,
-   "created_utc": 1794592103,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvejrn/"
+   "title": "Jensen choosing his assistant after returning to Nvidia",
+   "score": 10144,
+   "num_comments": 362,
+   "created_utc": 1794786777,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxakkr/"
+  },
+  {
+   "title": "This is gonna get taken down in 5 mins so enjoy!",
+   "score": 9463,
+   "num_comments": 448,
+   "created_utc": 1794764909,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xx1tj8/"
   },
   {
    "title": "Jensen Huang's iPhone Duo",
-   "score": 6786,
-   "num_comments": 169,
+   "score": 7420,
+   "num_comments": 178,
    "created_utc": 1794680113,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xw97n5/"
   },
   {
-   "title": "US National Weather Service reports nationwide internet, communications issues",
-   "score": 6726,
-   "num_comments": 809,
-   "created_utc": 1794609680,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvm2xs/"
-  },
-  {
    "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon",
-   "score": 5159,
-   "num_comments": 443,
+   "score": 6709,
+   "num_comments": 516,
    "created_utc": 1794683568,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xwan3u/"
   },
   {
-   "title": "Down Detector has reported dozens of major outages in the last 2 hours.",
-   "score": 3632,
-   "num_comments": 637,
-   "created_utc": 1794611323,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvmpmy/"
+   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+   "score": 4735,
+   "num_comments": 1105,
+   "created_utc": 1794769898,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xx3xm9/"
+  },
+  {
+   "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+   "score": 4495,
+   "num_comments": 704,
+   "created_utc": 1794850800,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxvreb/"
+  },
+  {
+   "title": "Megaspeed says Alice Huang left the company in August 2025 - IT WAS ALL JUST A BIG MISUNDERSTANDING!",
+   "score": 3602,
+   "num_comments": 436,
+   "created_utc": 1794756818,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xwye98/"
+  },
+  {
+   "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal broke",
+   "score": 3253,
+   "num_comments": 171,
+   "created_utc": 1794691354,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xwdol4/"
   },
   {
    "title": "Tsla",
-   "score": 3157,
+   "score": 3156,
    "num_comments": 117,
    "created_utc": 1794673555,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xw6hiw/"
   },
   {
-   "title": "The true reason Jensen was pushed out in a concerted effort, and why it will juice up Anthropic\u2019s IPO",
-   "score": 3115,
-   "num_comments": 560,
-   "created_utc": 1794614297,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvnsxx/"
+   "title": "Chase, Bank of America and Wells Fargo customers report outages in latest tech hiccup",
+   "score": 3015,
+   "num_comments": 534,
+   "created_utc": 1794855563,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxxvof/"
   }
  ]
 }

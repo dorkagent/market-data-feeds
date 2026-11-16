@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-15T19:00:26.807943+00:00",
+ "generated_at": "2026-11-16T22:20:22.431562+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-06T16:01:29+00:00",
+ "window_start": "2026-10-07T23:24:27+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -12,6 +12,13 @@
    "engagement": 680
   },
   {
+   "ticker": "NVDA",
+   "mentions": 9,
+   "bull": 3,
+   "bear": 7,
+   "engagement": 758
+  },
+  {
    "ticker": "QQQ",
    "mentions": 7,
    "bull": 3,
@@ -19,18 +26,11 @@
    "engagement": 259
   },
   {
-   "ticker": "NVDA",
-   "mentions": 6,
-   "bull": 2,
-   "bear": 5,
-   "engagement": 547
-  },
-  {
    "ticker": "TSLA",
    "mentions": 5,
    "bull": 3,
    "bear": 5,
-   "engagement": 149
+   "engagement": 163
   },
   {
    "ticker": "META",
@@ -161,13 +161,6 @@
    "url": "https://www.reddit.com/r/options/comments/1xncptw/"
   },
   {
-   "title": "Boredom",
-   "score": 381,
-   "num_comments": 922,
-   "created_utc": 1791401636,
-   "url": "https://www.reddit.com/r/options/comments/1x05x7f/"
-  },
-  {
    "title": "New paper: an AI options trader made 18.3% in 6 months, until researchers let it read the news",
    "score": 377,
    "num_comments": 90,
@@ -196,6 +189,13 @@
    "url": "https://www.reddit.com/r/options/comments/1xtvzv0/"
   },
   {
+   "title": "Nvidia $200 calls expire next Friday.",
+   "score": 225,
+   "num_comments": 387,
+   "created_utc": 1794705322,
+   "url": "https://www.reddit.com/r/options/comments/1xwio6f/"
+  },
+  {
    "title": "I backtested a simple 0DTE SPX strategy for 2 years. Is this overfit or actually realistic?",
    "score": 210,
    "num_comments": 135,
@@ -203,11 +203,11 @@
    "url": "https://www.reddit.com/r/options/comments/1xmu9tv/"
   },
   {
-   "title": "Nvidia $200 calls expire next Friday.",
-   "score": 161,
-   "num_comments": 292,
-   "created_utc": 1794705322,
-   "url": "https://www.reddit.com/r/options/comments/1xwio6f/"
+   "title": "Sold puts on NVDA",
+   "score": 150,
+   "num_comments": 124,
+   "created_utc": 1794759649,
+   "url": "https://www.reddit.com/r/options/comments/1xwzk8u/"
   },
   {
    "title": "Weeklies beat monthlies for selling premium and it\u2019s not close. Prove me wrong.",
@@ -245,11 +245,11 @@
    "url": "https://www.reddit.com/r/options/comments/1x2uabt/"
   },
   {
-   "title": "The real challenge in options trading isn't finding setups, it's managing boredom.",
-   "score": 101,
-   "num_comments": 90,
-   "created_utc": 1794371327,
-   "url": "https://www.reddit.com/r/options/comments/1xt8fjz/"
+   "title": "If your goal is to collect premium, the short strangle is the best way to do it. Prove me wrong",
+   "score": 103,
+   "num_comments": 117,
+   "created_utc": 1794253354,
+   "url": "https://www.reddit.com/r/options/comments/1xs1jtp/"
   }
  ]
 }

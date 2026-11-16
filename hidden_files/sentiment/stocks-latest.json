@@ -1,29 +1,29 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-15T18:58:47.349214+00:00",
+ "generated_at": "2026-11-16T22:19:42.551194+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-09T05:26:04+00:00",
+ "window_start": "2026-11-10T06:35:33+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 40,
-   "bull": 13,
+   "mentions": 39,
+   "bull": 14,
    "bear": 11,
-   "engagement": 4069
+   "engagement": 4074
   },
   {
    "ticker": "AMD",
-   "mentions": 11,
+   "mentions": 9,
    "bull": 3,
    "bear": 2,
-   "engagement": 181
+   "engagement": 179
   },
   {
    "ticker": "SMCI",
    "mentions": 3,
    "bull": 1,
    "bear": 2,
-   "engagement": 101
+   "engagement": 104
   },
   {
    "ticker": "AVGO",
@@ -54,18 +54,39 @@
    "engagement": 86
   },
   {
-   "ticker": "ACHR",
+   "ticker": "HOOD",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 19
+  },
+  {
+   "ticker": "TRUMP",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 21
+   "engagement": 1531
+  },
+  {
+   "ticker": "TTD",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "PLTR",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 21
+   "engagement": 35
+  },
+  {
+   "ticker": "ACHR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 35
   },
   {
    "ticker": "ETOR",
@@ -75,14 +96,14 @@
    "engagement": 5
   },
   {
-   "ticker": "GME",
+   "ticker": "HTZ",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 0
   },
   {
-   "ticker": "HTZ",
+   "ticker": "GME",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -107,7 +128,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 31
+   "engagement": 34
   },
   {
    "ticker": "APD",
@@ -122,27 +143,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "CRWV",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 2
-  },
-  {
-   "ticker": "CSCO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "NXPI",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 2
   }
  ],
  "top_posts": [
@@ -155,8 +155,8 @@
   },
   {
    "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
-   "score": 4702,
-   "num_comments": 676,
+   "score": 4932,
+   "num_comments": 697,
    "created_utc": 1794658688,
    "url": "https://www.reddit.com/r/stocks/comments/1xw124v/"
   },
@@ -189,6 +189,13 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xupbak/"
   },
   {
+   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+   "score": 1658,
+   "num_comments": 647,
+   "created_utc": 1794773609,
+   "url": "https://www.reddit.com/r/stocks/comments/1xx5hj8/"
+  },
+  {
    "title": "WSJ - Nvidia is Preparing to Oust CEO Jensen Huang",
    "score": 1440,
    "num_comments": 544,
@@ -203,6 +210,20 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xtm1sc/"
   },
   {
+   "title": "Anthropic is a fucking disaster.",
+   "score": 1313,
+   "num_comments": 887,
+   "created_utc": 1794770133,
+   "url": "https://www.reddit.com/r/stocks/comments/1xx415g/"
+  },
+  {
+   "title": "BREAKING: TRUMP SIGNALS SUPPORT FOR JENSEN HUANG\u2019S RETURN TO NVIDIA",
+   "score": 959,
+   "num_comments": 572,
+   "created_utc": 1794841760,
+   "url": "https://www.reddit.com/r/stocks/comments/1xxrrkb/"
+  },
+  {
    "title": "The Anthropic IPO isn't worth it for the average retail investor and why it isn't going to make you rich.",
    "score": 908,
    "num_comments": 447,
@@ -210,11 +231,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xsynl3/"
   },
   {
-   "title": "Nvidia Shares Fall 5% on CEO Spy Inquiry",
-   "score": 667,
-   "num_comments": 197,
-   "created_utc": 1794216275,
-   "url": "https://www.reddit.com/r/stocks/comments/1xrn8y7/"
+   "title": "Scott Bessent on Fox torching Jensen Huang",
+   "score": 731,
+   "num_comments": 375,
+   "created_utc": 1794761114,
+   "url": "https://www.reddit.com/r/stocks/comments/1xx06i4/"
   },
   {
    "title": "Trump calls for Tim Cook to replace Jensen Huang at Nvidia",
@@ -229,27 +250,6 @@
    "num_comments": 216,
    "created_utc": 1794605618,
    "url": "https://www.reddit.com/r/stocks/comments/1xvkfka/"
-  },
-  {
-   "title": "US Inflation Comes In Hotter Than Expected",
-   "score": 485,
-   "num_comments": 153,
-   "created_utc": 1794317866,
-   "url": "https://www.reddit.com/r/stocks/comments/1xsn3u1/"
-  },
-  {
-   "title": "NY Times - U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
-   "score": 396,
-   "num_comments": 51,
-   "created_utc": 1794244072,
-   "url": "https://www.reddit.com/r/stocks/comments/1xrxbbo/"
-  },
-  {
-   "title": "NY Times reporting that Jansen Huang had a relationship with an exec at Nvidia that reports to him",
-   "score": 370,
-   "num_comments": 278,
-   "created_utc": 1794435070,
-   "url": "https://www.reddit.com/r/stocks/comments/1xtvac6/"
   }
  ]
 }

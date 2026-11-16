@@ -1,8 +1,8 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-11-15T18:59:50.760629+00:00",
+ "generated_at": "2026-11-16T22:20:11.758777+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-09T20:49:25+00:00",
+ "window_start": "2026-09-11T02:02:34+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
@@ -26,18 +26,11 @@
    "engagement": 5
   },
   {
-   "ticker": "PLTR",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 48
-  },
-  {
    "ticker": "NVDA",
    "mentions": 2,
    "bull": 1,
    "bear": 2,
-   "engagement": 8
+   "engagement": 45
   },
   {
    "ticker": "SPY",
@@ -59,6 +52,13 @@
    "bull": 1,
    "bear": 2,
    "engagement": 198
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 2,
+   "engagement": 45
   },
   {
    "ticker": "INTC",
@@ -124,14 +124,7 @@
    "engagement": 18
   },
   {
-   "ticker": "ROBN",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
-   "ticker": "AXTI",
+   "ticker": "AMZN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -139,6 +132,13 @@
   },
   {
    "ticker": "SNXX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "VST",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -175,6 +175,13 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1wns02i/"
   },
   {
+   "title": "Thanks Jensen",
+   "score": 204,
+   "num_comments": 53,
+   "created_utc": 1794235174,
+   "url": "https://www.reddit.com/r/thetagang/comments/1xrtc20/"
+  },
+  {
    "title": "Theta suckers are still up\u2026",
    "score": 172,
    "num_comments": 62,
@@ -187,13 +194,6 @@
    "num_comments": 96,
    "created_utc": 1791473983,
    "url": "https://www.reddit.com/r/thetagang/comments/1x0u7wm/"
-  },
-  {
-   "title": "Thanks Jensen",
-   "score": 155,
-   "num_comments": 44,
-   "created_utc": 1794235174,
-   "url": "https://www.reddit.com/r/thetagang/comments/1xrtc20/"
   },
   {
    "title": "Aggressive Wheeling Results Since May",

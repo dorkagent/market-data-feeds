@@ -1,29 +1,29 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-15T18:59:11.848741+00:00",
+ "generated_at": "2026-11-16T22:19:51.043487+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-21T11:45:07+00:00",
+ "window_start": "2026-10-22T13:57:44+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 10,
    "bull": 3,
    "bear": 3,
-   "engagement": 5011
+   "engagement": 5023
   },
   {
-   "ticker": "RDDT",
-   "mentions": 5,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 322
+   "ticker": "SPY",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 113
   },
   {
    "ticker": "MSFT",
    "mentions": 4,
    "bull": 1,
    "bear": 1,
-   "engagement": 2515
+   "engagement": 2522
   },
   {
    "ticker": "AMD",
@@ -33,11 +33,18 @@
    "engagement": 821
   },
   {
+   "ticker": "RDDT",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 322
+  },
+  {
    "ticker": "AMZN",
    "mentions": 3,
    "bull": 0,
    "bear": 1,
-   "engagement": 2496
+   "engagement": 2503
   },
   {
    "ticker": "SOFI",
@@ -45,13 +52,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 6
-  },
-  {
-   "ticker": "SPY",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 111
   },
   {
    "ticker": "AAPL",
@@ -82,14 +82,14 @@
    "engagement": 9
   },
   {
-   "ticker": "MU",
+   "ticker": "CLS",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "CLS",
+   "ticker": "MU",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -103,20 +103,6 @@
    "engagement": 9354
   },
   {
-   "ticker": "CLSK",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "WDC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "VST",
    "mentions": 1,
    "bull": 0,
@@ -125,6 +111,20 @@
   },
   {
    "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "CLSK",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "WDC",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -176,8 +176,8 @@
   },
   {
    "title": "Nvidia stock fell 12% because of election and another 10% because of erection",
-   "score": 5394,
-   "num_comments": 163,
+   "score": 5947,
+   "num_comments": 173,
    "created_utc": 1794248125,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xrz5yo/"
   },
@@ -225,10 +225,17 @@
   },
   {
    "title": "Name a better investor than Jensen Huang's wife.",
-   "score": 2327,
-   "num_comments": 159,
+   "score": 2323,
+   "num_comments": 170,
    "created_utc": 1794250581,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xs09zz/"
+  },
+  {
+   "title": "Did he have sex with the girl in the bottom-left corner?",
+   "score": 2282,
+   "num_comments": 663,
+   "created_utc": 1794181721,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xrcr1u/"
   },
   {
    "title": "Nvidia CEO Jensen Huang resigns: Live updates",
@@ -236,13 +243,6 @@
    "num_comments": 568,
    "created_utc": 1794491676,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xudcge/"
-  },
-  {
-   "title": "Did he have sex with the girl in the bottom-left corner?",
-   "score": 2142,
-   "num_comments": 630,
-   "created_utc": 1794181721,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xrcr1u/"
   },
   {
    "title": "SpaceX Director Resigns From Board One Day After US Election",
