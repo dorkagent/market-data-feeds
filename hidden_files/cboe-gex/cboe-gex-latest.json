@@ -1,101 +1,101 @@
 {
-  "generated_utc": "2026-11-10T03:35:23.603926+00:00",
+  "generated_utc": "2026-11-17T03:55:02.124156+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. ~15-min delayed; OI updates once daily. GEX uses the dealer-short-calls/long-puts approximation.",
   "source": "CBOE delayed quotes (cdn.cboe.com, keyless)",
   "status": "ok",
   "symbols": {
     "_SPX": {
-      "spot": 7549.9399,
-      "chain_timestamp": "2026-11-10 02:58:42",
-      "contracts_analyzed": 433,
-      "net_gex_bn": -44.828,
-      "call_gex_bn": 145.994,
-      "put_gex_bn": 190.822,
-      "flip_estimate": 7550.0,
+      "spot": 7416.5898,
+      "chain_timestamp": "2026-11-17 02:53:55",
+      "contracts_analyzed": 521,
+      "net_gex_bn": -79.269,
+      "call_gex_bn": 118.008,
+      "put_gex_bn": 197.277,
+      "flip_estimate": 7415.0,
       "gamma_walls": [
         {
           "strike": 7500.0,
-          "net_gex_bn": -5.08
-        },
-        {
-          "strike": 7400.0,
-          "net_gex_bn": -3.474
+          "net_gex_bn": -6.572
         },
         {
           "strike": 7300.0,
-          "net_gex_bn": -3.14
+          "net_gex_bn": -5.672
+        },
+        {
+          "strike": 7400.0,
+          "net_gex_bn": -5.091
         }
       ],
       "max_pain": 7550.0
     },
     "_NDX": {
-      "spot": 27907.625,
-      "chain_timestamp": "2026-11-10 03:34:12",
-      "contracts_analyzed": 309,
-      "net_gex_bn": -0.856,
-      "call_gex_bn": 3.442,
-      "put_gex_bn": 4.298,
-      "flip_estimate": 27910.0,
+      "spot": 27197.1523,
+      "chain_timestamp": "2026-11-17 03:50:57",
+      "contracts_analyzed": 274,
+      "net_gex_bn": -3.0,
+      "call_gex_bn": 2.353,
+      "put_gex_bn": 5.353,
+      "flip_estimate": 27200.0,
       "gamma_walls": [
         {
           "strike": 27000.0,
-          "net_gex_bn": -0.398
+          "net_gex_bn": -0.851
         },
         {
           "strike": 28000.0,
-          "net_gex_bn": -0.371
+          "net_gex_bn": -0.287
         },
         {
-          "strike": 29675.0,
-          "net_gex_bn": 0.274
+          "strike": 26000.0,
+          "net_gex_bn": -0.225
         }
       ],
-      "max_pain": 29100.0
+      "max_pain": 29000.0
     },
     "SPY": {
-      "spot": 752.69,
-      "chain_timestamp": "2026-11-10 02:59:06",
-      "contracts_analyzed": 304,
-      "net_gex_bn": -5.574,
-      "call_gex_bn": 11.406,
-      "put_gex_bn": 16.98,
-      "flip_estimate": 753.0,
+      "spot": 740.29,
+      "chain_timestamp": "2026-11-17 01:04:51",
+      "contracts_analyzed": 338,
+      "net_gex_bn": -11.839,
+      "call_gex_bn": 7.489,
+      "put_gex_bn": 19.328,
+      "flip_estimate": 740.0,
       "gamma_walls": [
         {
           "strike": 730.0,
-          "net_gex_bn": -0.969
+          "net_gex_bn": -1.125
         },
         {
-          "strike": 725.0,
-          "net_gex_bn": -0.86
+          "strike": 740.0,
+          "net_gex_bn": -0.936
         },
         {
-          "strike": 720.0,
-          "net_gex_bn": -0.581
+          "strike": 750.0,
+          "net_gex_bn": -0.812
         }
       ],
-      "max_pain": 750.0
+      "max_pain": 753.0
     },
     "QQQ": {
-      "spot": 678.7,
-      "chain_timestamp": "2026-11-10 01:04:34",
-      "contracts_analyzed": 364,
-      "net_gex_bn": -2.082,
-      "call_gex_bn": 6.056,
-      "put_gex_bn": 8.138,
-      "flip_estimate": 679.0,
+      "spot": 662.26,
+      "chain_timestamp": "2026-11-17 01:04:56",
+      "contracts_analyzed": 408,
+      "net_gex_bn": -4.09,
+      "call_gex_bn": 4.677,
+      "put_gex_bn": 8.767,
+      "flip_estimate": 662.0,
       "gamma_walls": [
         {
           "strike": 650.0,
-          "net_gex_bn": -0.495
+          "net_gex_bn": -0.56
         },
         {
           "strike": 680.0,
-          "net_gex_bn": -0.473
+          "net_gex_bn": -0.526
         },
         {
-          "strike": 675.0,
-          "net_gex_bn": -0.272
+          "strike": 640.0,
+          "net_gex_bn": -0.397
         }
       ],
       "max_pain": 690.0
