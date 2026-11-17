@@ -15,8 +15,8 @@
     "BTCUSD"
   ],
   "window": {
-    "startdt": "2026-11-03",
-    "enddt": "2026-11-10"
+    "startdt": "2026-11-10",
+    "enddt": "2026-11-17"
   },
   "days": 7,
   "companies": [
@@ -24,9 +24,45 @@
       "ticker": "NVDA",
       "cik": "0001045810",
       "title": "NVIDIA CORP",
-      "filings_8k": [],
-      "filings_8k_count": 0,
-      "notable": []
+      "filings_8k": [
+        {
+          "company": "NVIDIA CORP  (NVDA)  (CIK 0001045810)",
+          "form": "8-K",
+          "file_date": "2026-11-12",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "event_tags": [
+            "leadership",
+            "other"
+          ],
+          "ciks": [
+            "0001045810"
+          ],
+          "ticker": "NVDA"
+        }
+      ],
+      "filings_8k_count": 1,
+      "notable": [
+        {
+          "company": "NVIDIA CORP  (NVDA)  (CIK 0001045810)",
+          "form": "8-K",
+          "file_date": "2026-11-12",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "event_tags": [
+            "leadership",
+            "other"
+          ],
+          "ciks": [
+            "0001045810"
+          ],
+          "ticker": "NVDA"
+        }
+      ]
     },
     {
       "ticker": "SPY",
@@ -45,81 +81,16 @@
       "ticker": "MSFT",
       "cik": "0000789019",
       "title": "MICROSOFT CORP",
-      "filings_8k": [
-        {
-          "company": "MICROSOFT CORP  (MSFT)  (CIK 0000789019)",
-          "form": "8-K",
-          "file_date": "2026-11-05",
-          "items": [
-            "5.02"
-          ],
-          "event_tags": [
-            "leadership"
-          ],
-          "ciks": [
-            "0000789019"
-          ],
-          "ticker": "MSFT"
-        },
-        {
-          "company": "MICROSOFT CORP  (MSFT)  (CIK 0000789019)",
-          "form": "8-K",
-          "file_date": "2026-11-04",
-          "items": [
-            "8.01",
-            "9.01"
-          ],
-          "event_tags": [
-            "other"
-          ],
-          "ciks": [
-            "0000789019"
-          ],
-          "ticker": "MSFT"
-        }
-      ],
-      "filings_8k_count": 2,
-      "notable": [
-        {
-          "company": "MICROSOFT CORP  (MSFT)  (CIK 0000789019)",
-          "form": "8-K",
-          "file_date": "2026-11-05",
-          "items": [
-            "5.02"
-          ],
-          "event_tags": [
-            "leadership"
-          ],
-          "ciks": [
-            "0000789019"
-          ],
-          "ticker": "MSFT"
-        }
-      ]
+      "filings_8k": [],
+      "filings_8k_count": 0,
+      "notable": []
     },
     {
       "ticker": "AAPL",
       "cik": "0000320193",
       "title": "Apple Inc.",
-      "filings_8k": [
-        {
-          "company": "Apple Inc.  (AAPL)  (CIK 0000320193)",
-          "form": "8-K",
-          "file_date": "2026-11-09",
-          "items": [
-            "8.01",
-            "9.01"
-          ],
-          "event_tags": [
-            "other"
-          ],
-          "ciks": [
-            "0000320193"
-          ],
-          "ticker": "AAPL"
-        }
-      ],
-      "filings_8k_count": 1,
+      "filings_8k": [],
+      "filings_8k_count": 0,
       "notable": []
     },
     {
@@ -158,9 +129,45 @@
       "ticker": "AMAT",
       "cik": "0000006951",
       "title": "APPLIED MATERIALS INC /DE",
-      "filings_8k": [],
-      "filings_8k_count": 0,
-      "notable": []
+      "filings_8k": [
+        {
+          "company": "APPLIED MATERIALS INC /DE  (AMAT)  (CIK 0000006951)",
+          "form": "8-K",
+          "file_date": "2026-11-12",
+          "items": [
+            "2.02",
+            "9.01"
+          ],
+          "event_tags": [
+            "earnings",
+            "other"
+          ],
+          "ciks": [
+            "0000006951"
+          ],
+          "ticker": "AMAT"
+        }
+      ],
+      "filings_8k_count": 1,
+      "notable": [
+        {
+          "company": "APPLIED MATERIALS INC /DE  (AMAT)  (CIK 0000006951)",
+          "form": "8-K",
+          "file_date": "2026-11-12",
+          "items": [
+            "2.02",
+            "9.01"
+          ],
+          "event_tags": [
+            "earnings",
+            "other"
+          ],
+          "ciks": [
+            "0000006951"
+          ],
+          "ticker": "AMAT"
+        }
+      ]
     },
     {
       "ticker": "CRWD",
@@ -186,63 +193,95 @@
   ],
   "flagged": [
     {
-      "ticker": "MSFT",
-      "cik": "0000789019",
-      "title": "MICROSOFT CORP",
+      "ticker": "NVDA",
+      "cik": "0001045810",
+      "title": "NVIDIA CORP",
       "filings_8k": [
         {
-          "company": "MICROSOFT CORP  (MSFT)  (CIK 0000789019)",
+          "company": "NVIDIA CORP  (NVDA)  (CIK 0001045810)",
           "form": "8-K",
-          "file_date": "2026-11-05",
+          "file_date": "2026-11-12",
           "items": [
-            "5.02"
-          ],
-          "event_tags": [
-            "leadership"
-          ],
-          "ciks": [
-            "0000789019"
-          ],
-          "ticker": "MSFT"
-        },
-        {
-          "company": "MICROSOFT CORP  (MSFT)  (CIK 0000789019)",
-          "form": "8-K",
-          "file_date": "2026-11-04",
-          "items": [
-            "8.01",
+            "5.02",
             "9.01"
           ],
           "event_tags": [
+            "leadership",
             "other"
           ],
           "ciks": [
-            "0000789019"
+            "0001045810"
           ],
-          "ticker": "MSFT"
+          "ticker": "NVDA"
         }
       ],
-      "filings_8k_count": 2,
+      "filings_8k_count": 1,
       "notable": [
         {
-          "company": "MICROSOFT CORP  (MSFT)  (CIK 0000789019)",
+          "company": "NVIDIA CORP  (NVDA)  (CIK 0001045810)",
           "form": "8-K",
-          "file_date": "2026-11-05",
+          "file_date": "2026-11-12",
           "items": [
-            "5.02"
+            "5.02",
+            "9.01"
           ],
           "event_tags": [
-            "leadership"
+            "leadership",
+            "other"
           ],
           "ciks": [
-            "0000789019"
+            "0001045810"
           ],
-          "ticker": "MSFT"
+          "ticker": "NVDA"
+        }
+      ]
+    },
+    {
+      "ticker": "AMAT",
+      "cik": "0000006951",
+      "title": "APPLIED MATERIALS INC /DE",
+      "filings_8k": [
+        {
+          "company": "APPLIED MATERIALS INC /DE  (AMAT)  (CIK 0000006951)",
+          "form": "8-K",
+          "file_date": "2026-11-12",
+          "items": [
+            "2.02",
+            "9.01"
+          ],
+          "event_tags": [
+            "earnings",
+            "other"
+          ],
+          "ciks": [
+            "0000006951"
+          ],
+          "ticker": "AMAT"
+        }
+      ],
+      "filings_8k_count": 1,
+      "notable": [
+        {
+          "company": "APPLIED MATERIALS INC /DE  (AMAT)  (CIK 0000006951)",
+          "form": "8-K",
+          "file_date": "2026-11-12",
+          "items": [
+            "2.02",
+            "9.01"
+          ],
+          "event_tags": [
+            "earnings",
+            "other"
+          ],
+          "ciks": [
+            "0000006951"
+          ],
+          "ticker": "AMAT"
         }
       ]
     }
   ],
   "source": "SEC EDGAR full-text search (efts.sec.gov, keyless)",
-  "generated_utc": "2026-11-10T00:18:13.428139+00:00",
+  "generated_utc": "2026-11-17T00:17:34.139362+00:00",
   "note": "Data feed only \u2014 context layer, never a trade trigger. 8-K/Form-4 event trigger informs the Monday rotation and the premarket brief; it never fires a trade alone."
 }
