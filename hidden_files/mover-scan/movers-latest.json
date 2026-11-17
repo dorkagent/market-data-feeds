@@ -1,68 +1,145 @@
 {
- "generated_at": "2026-11-16T21:08:02.986227+00:00",
+ "generated_at": "2026-11-17T19:56:31.899861+00:00",
  "universe": "US-listed, price >= $5, |move| >= 3% (premarket: no volume filter)",
  "top_movers": [
   {
-   "symbol": "AMD",
-   "pct_change": -8.8,
-   "price": 534.06,
-   "market_cap": "875,904,997,269",
-   "direction": "down"
-  },
-  {
-   "symbol": "DELL",
-   "pct_change": -7.2,
-   "price": 344.28,
-   "market_cap": "218,897,613,570",
-   "direction": "down"
-  },
-  {
-   "symbol": "CSCO",
-   "pct_change": -6.2,
-   "price": 95.64,
-   "market_cap": "377,069,008,534",
-   "direction": "down"
-  },
-  {
-   "symbol": "AVGO",
-   "pct_change": -4.8,
-   "price": 347.01,
-   "market_cap": "1,656,497,299,454",
-   "direction": "down"
-  },
-  {
    "symbol": "ARM",
-   "pct_change": -4.6,
-   "price": 190.53,
-   "market_cap": "202,734,447,164",
+   "pct_change": -8.1,
+   "price": 175.05,
+   "market_cap": "186,262,871,863",
    "direction": "down"
   },
   {
-   "symbol": "ANET",
-   "pct_change": -4.5,
-   "price": 197.39,
-   "market_cap": "249,382,986,906",
+   "symbol": "MU",
+   "pct_change": -7.6,
+   "price": 719.02,
+   "market_cap": "813,515,917,892",
    "direction": "down"
   },
   {
    "symbol": "SKHY",
-   "pct_change": -4.3,
-   "price": 131.79,
-   "market_cap": "960,571,842,450",
+   "pct_change": -7.3,
+   "price": 122.18,
+   "market_cap": "890,527,867,900",
+   "direction": "down"
+  },
+  {
+   "symbol": "INTC",
+   "pct_change": -7.1,
+   "price": 55.44,
+   "market_cap": "294,674,230,000",
+   "direction": "down"
+  },
+  {
+   "symbol": "DELL",
+   "pct_change": -6.9,
+   "price": 320.59,
+   "market_cap": "203,835,209,523",
    "direction": "down"
   },
   {
    "symbol": "LRCX",
-   "pct_change": -3.4,
-   "price": 225.92,
-   "market_cap": "282,212,712,320",
+   "pct_change": -6.7,
+   "price": 210.83,
+   "market_cap": "263,362,721,930",
+   "direction": "down"
+  },
+  {
+   "symbol": "TSM",
+   "pct_change": -6.3,
+   "price": 373.45,
+   "market_cap": "1,936,926,188,923",
+   "direction": "down"
+  },
+  {
+   "symbol": "ASML",
+   "pct_change": -5.9,
+   "price": 1406.79,
+   "market_cap": "542,199,789,857",
+   "direction": "down"
+  },
+  {
+   "symbol": "AMD",
+   "pct_change": -5.6,
+   "price": 504.28,
+   "market_cap": "827,063,198,934",
+   "direction": "down"
+  },
+  {
+   "symbol": "AMAT",
+   "pct_change": -5.5,
+   "price": 350.25,
+   "market_cap": "277,957,504,411",
    "direction": "down"
   },
   {
    "symbol": "KLAC",
-   "pct_change": -3.2,
-   "price": 152.32,
-   "market_cap": "198,467,238,099",
+   "pct_change": -5.3,
+   "price": 143.96,
+   "market_cap": "187,574,472,143",
+   "direction": "down"
+  },
+  {
+   "symbol": "ANET",
+   "pct_change": -5.2,
+   "price": 187.11,
+   "market_cap": "236,395,210,902",
+   "direction": "down"
+  },
+  {
+   "symbol": "ORCL",
+   "pct_change": -5.0,
+   "price": 119.05,
+   "market_cap": "359,975,770,800",
+   "direction": "down"
+  },
+  {
+   "symbol": "CAT",
+   "pct_change": -5.0,
+   "price": 570.39,
+   "market_cap": "261,009,428,879",
+   "direction": "down"
+  },
+  {
+   "symbol": "GEV",
+   "pct_change": -5.0,
+   "price": 763.33,
+   "market_cap": "202,035,944,790",
+   "direction": "down"
+  },
+  {
+   "symbol": "BHP",
+   "pct_change": -5.0,
+   "price": 75.52,
+   "market_cap": "191,978,727,802",
+   "direction": "down"
+  },
+  {
+   "symbol": "PLTR",
+   "pct_change": -4.5,
+   "price": 160.39,
+   "market_cap": "386,459,299,855",
+   "direction": "down"
+  },
+  {
+   "symbol": "NVDA",
+   "pct_change": -4.1,
+   "price": 156.14,
+   "market_cap": "3,762,974,000,000",
+   "direction": "down"
+  },
+  {
+   "symbol": "GOOGL",
+   "pct_change": -4.1,
+   "price": 283.72,
+   "market_cap": "3,488,053,680,000",
+   "direction": "down"
+  },
+  {
+   "symbol": "BABA",
+   "pct_change": -4.0,
+   "price": 90.63,
+   "market_cap": "219,549,907,811",
    "direction": "down"
   }
  ],
@@ -70,16 +147,17 @@
   "setup_a_candidates": [],
   "setup_b_candidates": [],
   "setup_c_candidates": [
-   "AMD",
-   "DELL",
-   "CSCO",
-   "AVGO",
    "ARM",
-   "ANET",
+   "MU",
    "SKHY",
+   "INTC",
+   "DELL",
    "LRCX",
-   "KLAC"
+   "TSM",
+   "ASML",
+   "AMD",
+   "AMAT"
   ]
  },
- "count": 9
+ "count": 20
 }
