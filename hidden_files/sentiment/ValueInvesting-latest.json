@@ -1,22 +1,22 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-16T22:19:58.797393+00:00",
+ "generated_at": "2026-11-17T21:05:50.543796+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-05T08:56:51+00:00",
+ "window_start": "2026-11-05T23:16:31+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 23,
-   "bull": 10,
-   "bear": 8,
-   "engagement": 3218
+   "mentions": 24,
+   "bull": 11,
+   "bear": 9,
+   "engagement": 3011
   },
   {
    "ticker": "AMD",
    "mentions": 7,
    "bull": 6,
    "bear": 4,
-   "engagement": 341
+   "engagement": 390
   },
   {
    "ticker": "META",
@@ -26,11 +26,11 @@
    "engagement": 366
   },
   {
-   "ticker": "MU",
-   "mentions": 4,
-   "bull": 4,
-   "bear": 2,
-   "engagement": 364
+   "ticker": "AMZN",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 399
   },
   {
    "ticker": "MSFT",
@@ -47,25 +47,18 @@
    "engagement": 4
   },
   {
-   "ticker": "APP",
+   "ticker": "MU",
    "mentions": 3,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 69
+   "bull": 3,
+   "bear": 1,
+   "engagement": 348
   },
   {
-   "ticker": "CRWV",
+   "ticker": "RDDT",
    "mentions": 2,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 78
-  },
-  {
-   "ticker": "NBIS",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 78
+   "bull": 0,
+   "bear": 1,
+   "engagement": 79
   },
   {
    "ticker": "MSTR",
@@ -75,74 +68,81 @@
    "engagement": 3
   },
   {
-   "ticker": "ZETA",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 10
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 2,
+   "ticker": "WB",
+   "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 357
+   "engagement": 5
   },
   {
-   "ticker": "NLY",
+   "ticker": "INTC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "PDD",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 1
+   "engagement": 42
   },
   {
-   "ticker": "NFLX",
+   "ticker": "UNH",
    "mentions": 1,
    "bull": 0,
-   "bear": 0,
-   "engagement": 1
+   "bear": 1,
+   "engagement": 42
   },
   {
-   "ticker": "KO",
+   "ticker": "LVMH",
    "mentions": 1,
    "bull": 0,
-   "bear": 0,
-   "engagement": 273
+   "bear": 1,
+   "engagement": 42
   },
   {
-   "ticker": "ORCL",
+   "ticker": "MELI",
    "mentions": 1,
    "bull": 0,
-   "bear": 0,
-   "engagement": 2
+   "bear": 1,
+   "engagement": 42
   },
   {
-   "ticker": "DECK",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 16
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 148
-  },
-  {
-   "ticker": "SMCI",
+   "ticker": "ASML",
    "mentions": 1,
    "bull": 0,
-   "bear": 0,
-   "engagement": 52
+   "bear": 1,
+   "engagement": 42
   },
   {
-   "ticker": "COUR",
+   "ticker": "GOOGL",
    "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 26
+   "bull": 0,
+   "bear": 1,
+   "engagement": 42
+  },
+  {
+   "ticker": "JPM",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 42
+  },
+  {
+   "ticker": "NVO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 42
+  },
+  {
+   "ticker": "ISRG",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 42
   }
  ],
  "top_posts": [
@@ -196,11 +196,25 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xt1kte/"
   },
   {
-   "title": "Why Is the Stock Market Getting Destroyed Today?",
-   "score": 332,
-   "num_comments": 893,
-   "created_utc": 1793913770,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xoupoc/"
+   "title": "Has the AI bubble quietly popped?",
+   "score": 297,
+   "num_comments": 426,
+   "created_utc": 1794828357,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxmzsm/"
+  },
+  {
+   "title": "Nvda forward PE is now 9.79",
+   "score": 295,
+   "num_comments": 288,
+   "created_utc": 1794863410,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xy1da2/"
+  },
+  {
+   "title": "Coca Cola ($KO) is $100 a share for the first time in history.",
+   "score": 250,
+   "num_comments": 118,
+   "created_utc": 1794842830,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxs7ye/"
   },
   {
    "title": "NVDA after Jensen Huang\u2019s resignation: what would make you avoid buying the dip?",
@@ -224,32 +238,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xue2mf/"
   },
   {
+   "title": "Oatly: A 97% Crash Hides A Turnaround At The World\u2019s Largest Oat Milk Company",
+   "score": 213,
+   "num_comments": 143,
+   "created_utc": 1794816901,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxjyvr/"
+  },
+  {
    "title": "Micron\u2019s stock is dirt cheap \u2014\u00a0and that\u2019s igniting a fierce online debate - Market Watch",
    "score": 189,
    "num_comments": 179,
    "created_utc": 1794063979,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xq8i48/"
-  },
-  {
-   "title": "What are you buying today?",
-   "score": 188,
-   "num_comments": 492,
-   "created_utc": 1793895893,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xomzm4/"
-  },
-  {
-   "title": "NVDA - Will There Be a Buying Opportunity?",
-   "score": 183,
-   "num_comments": 419,
-   "created_utc": 1794189222,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xrfbvj/"
-  },
-  {
-   "title": "Coca Cola ($KO) is $100 a share for the first time in history.",
-   "score": 180,
-   "num_comments": 93,
-   "created_utc": 1794842830,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxs7ye/"
   }
  ]
 }

@@ -1,22 +1,22 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-16T22:19:51.043487+00:00",
+ "generated_at": "2026-11-17T21:05:43.730912+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-22T13:57:44+00:00",
+ "window_start": "2026-10-22T19:46:14+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 10,
+   "mentions": 9,
    "bull": 3,
-   "bear": 3,
-   "engagement": 5023
+   "bear": 2,
+   "engagement": 5022
   },
   {
    "ticker": "SPY",
    "mentions": 4,
    "bull": 1,
    "bear": 0,
-   "engagement": 113
+   "engagement": 114
   },
   {
    "ticker": "MSFT",
@@ -61,10 +61,17 @@
    "engagement": 53
   },
   {
-   "ticker": "LMT",
-   "mentions": 2,
+   "ticker": "ASTS",
+   "mentions": 1,
    "bull": 0,
-   "bear": 0,
+   "bear": 1,
+   "engagement": 5
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
    "engagement": 2
   },
   {
@@ -82,14 +89,14 @@
    "engagement": 9
   },
   {
-   "ticker": "CLS",
+   "ticker": "MU",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "MU",
+   "ticker": "CLS",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -101,20 +108,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 9354
-  },
-  {
-   "ticker": "VST",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
   },
   {
    "ticker": "CLSK",
@@ -131,18 +124,25 @@
    "engagement": 1
   },
   {
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "VST",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "PLTR",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 8
-  },
-  {
-   "ticker": "LITE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 5
   }
  ],
  "top_posts": [
@@ -182,13 +182,6 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xrz5yo/"
   },
   {
-   "title": "MRNA Trading Halted after stock dumped from $250 to $190; data leak reveals that they have NOT cured cancer after all",
-   "score": 3702,
-   "num_comments": 545,
-   "created_utc": 1792688005,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xco0ki/"
-  },
-  {
    "title": "Sorry for crashing the market. I Just moved 150k over.",
    "score": 3125,
    "num_comments": 187,
@@ -201,6 +194,13 @@
    "num_comments": 111,
    "created_utc": 1793947463,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xp64cy/"
+  },
+  {
+   "title": "Another Dip",
+   "score": 2939,
+   "num_comments": 51,
+   "created_utc": 1794862104,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xy0snq/"
   },
   {
    "title": "Alphabet (Google), is having one of the wildest days in its history",

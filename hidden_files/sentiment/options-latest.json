@@ -1,22 +1,22 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-16T22:20:22.431562+00:00",
+ "generated_at": "2026-11-17T21:06:02.969769+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-07T23:24:27+00:00",
+ "window_start": "2026-10-08T19:53:00+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
    "mentions": 15,
-   "bull": 9,
-   "bear": 7,
-   "engagement": 680
+   "bull": 10,
+   "bear": 8,
+   "engagement": 663
   },
   {
    "ticker": "NVDA",
-   "mentions": 9,
-   "bull": 3,
-   "bear": 7,
-   "engagement": 758
+   "mentions": 11,
+   "bull": 4,
+   "bear": 8,
+   "engagement": 1231
   },
   {
    "ticker": "QQQ",
@@ -30,7 +30,7 @@
    "mentions": 5,
    "bull": 3,
    "bear": 5,
-   "engagement": 163
+   "engagement": 162
   },
   {
    "ticker": "META",
@@ -54,14 +54,14 @@
    "engagement": 13
   },
   {
-   "ticker": "BTC",
+   "ticker": "ETH",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "ETH",
+   "ticker": "BTC",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -203,9 +203,16 @@
    "url": "https://www.reddit.com/r/options/comments/1xmu9tv/"
   },
   {
+   "title": "NVDA EARNINGS \u2014 ARE WE ABOUT TO SEE A MASSIVE BOUNCE OR ANOTHER SELLOFF? \ud83d\ude80",
+   "score": 188,
+   "num_comments": 180,
+   "created_utc": 1794885261,
+   "url": "https://www.reddit.com/r/options/comments/1xy9mbt/"
+  },
+  {
    "title": "Sold puts on NVDA",
-   "score": 150,
-   "num_comments": 124,
+   "score": 164,
+   "num_comments": 135,
    "created_utc": 1794759649,
    "url": "https://www.reddit.com/r/options/comments/1xwzk8u/"
   },
@@ -243,13 +250,6 @@
    "num_comments": 92,
    "created_utc": 1791678277,
    "url": "https://www.reddit.com/r/options/comments/1x2uabt/"
-  },
-  {
-   "title": "If your goal is to collect premium, the short strangle is the best way to do it. Prove me wrong",
-   "score": 103,
-   "num_comments": 117,
-   "created_utc": 1794253354,
-   "url": "https://www.reddit.com/r/options/comments/1xs1jtp/"
   }
  ]
 }
