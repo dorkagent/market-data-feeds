@@ -1,163 +1,113 @@
 {
- "generated_at": "2026-11-17T19:56:31.899861+00:00",
+ "generated_at": "2026-11-18T19:27:56.962497+00:00",
  "universe": "US-listed, price >= $5, |move| >= 3% (premarket: no volume filter)",
  "top_movers": [
   {
+   "symbol": "CRM",
+   "pct_change": -9.4,
+   "price": 194.62,
+   "market_cap": "160,172,260,000",
+   "direction": "down"
+  },
+  {
+   "symbol": "UNH",
+   "pct_change": -5.4,
+   "price": 389.81,
+   "market_cap": "349,278,573,994",
+   "direction": "down"
+  },
+  {
+   "symbol": "SAP",
+   "pct_change": -4.8,
+   "price": 222.54,
+   "market_cap": "273,391,331,789",
+   "direction": "down"
+  },
+  {
    "symbol": "ARM",
-   "pct_change": -8.1,
-   "price": 175.05,
-   "market_cap": "186,262,871,863",
-   "direction": "down"
+   "pct_change": 4.8,
+   "price": 183.39,
+   "market_cap": "195,137,092,664",
+   "direction": "up"
   },
   {
-   "symbol": "MU",
-   "pct_change": -7.6,
-   "price": 719.02,
-   "market_cap": "813,515,917,892",
-   "direction": "down"
-  },
-  {
-   "symbol": "SKHY",
-   "pct_change": -7.3,
-   "price": 122.18,
-   "market_cap": "890,527,867,900",
-   "direction": "down"
-  },
-  {
-   "symbol": "INTC",
-   "pct_change": -7.1,
-   "price": 55.44,
-   "market_cap": "294,674,230,000",
-   "direction": "down"
-  },
-  {
-   "symbol": "DELL",
-   "pct_change": -6.9,
-   "price": 320.59,
-   "market_cap": "203,835,209,523",
-   "direction": "down"
-  },
-  {
-   "symbol": "LRCX",
-   "pct_change": -6.7,
-   "price": 210.83,
-   "market_cap": "263,362,721,930",
-   "direction": "down"
-  },
-  {
-   "symbol": "TSM",
-   "pct_change": -6.3,
-   "price": 373.45,
-   "market_cap": "1,936,926,188,923",
-   "direction": "down"
-  },
-  {
-   "symbol": "ASML",
-   "pct_change": -5.9,
-   "price": 1406.79,
-   "market_cap": "542,199,789,857",
-   "direction": "down"
-  },
-  {
-   "symbol": "AMD",
-   "pct_change": -5.6,
-   "price": 504.28,
-   "market_cap": "827,063,198,934",
-   "direction": "down"
-  },
-  {
-   "symbol": "AMAT",
-   "pct_change": -5.5,
-   "price": 350.25,
-   "market_cap": "277,957,504,411",
-   "direction": "down"
-  },
-  {
-   "symbol": "KLAC",
-   "pct_change": -5.3,
-   "price": 143.96,
-   "market_cap": "187,574,472,143",
-   "direction": "down"
-  },
-  {
-   "symbol": "ANET",
-   "pct_change": -5.2,
-   "price": 187.11,
-   "market_cap": "236,395,210,902",
-   "direction": "down"
-  },
-  {
-   "symbol": "ORCL",
-   "pct_change": -5.0,
-   "price": 119.05,
-   "market_cap": "359,975,770,800",
-   "direction": "down"
-  },
-  {
-   "symbol": "CAT",
-   "pct_change": -5.0,
-   "price": 570.39,
-   "market_cap": "261,009,428,879",
-   "direction": "down"
-  },
-  {
-   "symbol": "GEV",
-   "pct_change": -5.0,
-   "price": 763.33,
-   "market_cap": "202,035,944,790",
-   "direction": "down"
-  },
-  {
-   "symbol": "BHP",
-   "pct_change": -5.0,
-   "price": 75.52,
-   "market_cap": "191,978,727,802",
-   "direction": "down"
-  },
-  {
-   "symbol": "PLTR",
-   "pct_change": -4.5,
-   "price": 160.39,
-   "market_cap": "386,459,299,855",
-   "direction": "down"
-  },
-  {
-   "symbol": "NVDA",
-   "pct_change": -4.1,
-   "price": 156.14,
-   "market_cap": "3,762,974,000,000",
-   "direction": "down"
-  },
-  {
-   "symbol": "GOOGL",
-   "pct_change": -4.1,
-   "price": 283.72,
-   "market_cap": "3,488,053,680,000",
+   "symbol": "IBM",
+   "pct_change": -4.7,
+   "price": 231.14,
+   "market_cap": "218,455,222,868",
    "direction": "down"
   },
   {
    "symbol": "BABA",
+   "pct_change": -4.4,
+   "price": 86.65,
+   "market_cap": "209,908,413,460",
+   "direction": "down"
+  },
+  {
+   "symbol": "SHOP",
    "pct_change": -4.0,
-   "price": 90.63,
-   "market_cap": "219,549,907,811",
+   "price": 141.9,
+   "market_cap": "182,557,473,645",
+   "direction": "down"
+  },
+  {
+   "symbol": "TSM",
+   "pct_change": -3.7,
+   "price": 359.64,
+   "market_cap": "1,865,259,064,160",
+   "direction": "down"
+  },
+  {
+   "symbol": "ORCL",
+   "pct_change": -3.4,
+   "price": 115.06,
+   "market_cap": "347,911,064,160",
+   "direction": "down"
+  },
+  {
+   "symbol": "MUFG",
+   "pct_change": -3.4,
+   "price": 20.47,
+   "market_cap": "230,876,759,798",
+   "direction": "down"
+  },
+  {
+   "symbol": "SPCX",
+   "pct_change": 3.2,
+   "price": 141.7,
+   "market_cap": "1,924,436,727,565",
+   "direction": "up"
+  },
+  {
+   "symbol": "PEP",
+   "pct_change": -3.0,
+   "price": 142.02,
+   "market_cap": "193,536,489,886",
    "direction": "down"
   }
  ],
  "setup_routing": {
-  "setup_a_candidates": [],
-  "setup_b_candidates": [],
-  "setup_c_candidates": [
+  "setup_a_candidates": [
    "ARM",
-   "MU",
-   "SKHY",
-   "INTC",
-   "DELL",
-   "LRCX",
+   "SPCX"
+  ],
+  "setup_b_candidates": [
+   "ARM",
+   "SPCX"
+  ],
+  "setup_c_candidates": [
+   "CRM",
+   "UNH",
+   "SAP",
+   "IBM",
+   "BABA",
+   "SHOP",
    "TSM",
-   "ASML",
-   "AMD",
-   "AMAT"
+   "ORCL",
+   "MUFG",
+   "PEP"
   ]
  },
- "count": 20
+ "count": 12
 }
