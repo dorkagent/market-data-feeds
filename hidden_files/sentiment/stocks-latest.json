@@ -1,22 +1,22 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-17T21:05:38.085410+00:00",
+ "generated_at": "2026-11-18T20:43:19.356675+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-11T18:34:52+00:00",
+ "window_start": "2026-11-12T14:55:19+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 35,
-   "bull": 11,
-   "bear": 8,
-   "engagement": 3458
+   "mentions": 33,
+   "bull": 10,
+   "bear": 7,
+   "engagement": 307
   },
   {
    "ticker": "AMD",
-   "mentions": 6,
-   "bull": 3,
+   "mentions": 5,
+   "bull": 2,
    "bear": 2,
-   "engagement": 175
+   "engagement": 52
   },
   {
    "ticker": "SMCI",
@@ -26,6 +26,13 @@
    "engagement": 104
   },
   {
+   "ticker": "NFLX",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 96
+  },
+  {
    "ticker": "MSFT",
    "mentions": 2,
    "bull": 1,
@@ -33,35 +40,49 @@
    "engagement": 118
   },
   {
-   "ticker": "AVGO",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 125
-  },
-  {
-   "ticker": "NFLX",
+   "ticker": "MDRN",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
+  },
+  {
+   "ticker": "MRVL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "BRBR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 52
   },
   {
    "ticker": "SLS",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 1
+   "engagement": 17
   },
   {
-   "ticker": "RGNA",
+   "ticker": "MDXG",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 0
   },
   {
-   "ticker": "MDXG",
+   "ticker": "RGNA",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -79,14 +100,14 @@
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 44
+   "engagement": 51
   },
   {
    "ticker": "TRUMP",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 2025
+   "engagement": 2050
   },
   {
    "ticker": "TTD",
@@ -96,14 +117,14 @@
    "engagement": 1
   },
   {
-   "ticker": "PLTR",
+   "ticker": "ACHR",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 35
   },
   {
-   "ticker": "ACHR",
+   "ticker": "PLTR",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -122,43 +143,22 @@
    "bull": 1,
    "bear": 1,
    "engagement": 0
-  },
-  {
-   "ticker": "HTZ",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 0
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
-  },
-  {
-   "ticker": "AAPL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
   }
  ],
  "top_posts": [
-  {
-   "title": "Nvidia CEO Jensen Huang is stepping down as CEO",
-   "score": 7902,
-   "num_comments": 1966,
-   "created_utc": 1794491766,
-   "url": "https://www.reddit.com/r/stocks/comments/1xuddr7/"
-  },
   {
    "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
    "score": 4932,
    "num_comments": 697,
    "created_utc": 1794658688,
    "url": "https://www.reddit.com/r/stocks/comments/1xw124v/"
+  },
+  {
+   "title": "Jensen Huang breaks his silence on X. Released Statement that he'd be honored to return as CEO.",
+   "score": 3005,
+   "num_comments": 1031,
+   "created_utc": 1794932943,
+   "url": "https://www.reddit.com/r/stocks/comments/1xyoyf9/"
   },
   {
    "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
@@ -168,27 +168,6 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xx5hj8/"
   },
   {
-   "title": "Nvidia stock slides after NYT report alleges Jensen Huang had a second affair with an employee",
-   "score": 1936,
-   "num_comments": 793,
-   "created_utc": 1794436542,
-   "url": "https://www.reddit.com/r/stocks/comments/1xtvvn1/"
-  },
-  {
-   "title": "Buying NVDA This Morning",
-   "score": 1782,
-   "num_comments": 934,
-   "created_utc": 1794474826,
-   "url": "https://www.reddit.com/r/stocks/comments/1xu8675/"
-  },
-  {
-   "title": "Am I the only one who thinks there is more to the scandal story of Jensen Huang?",
-   "score": 1685,
-   "num_comments": 696,
-   "created_utc": 1794446675,
-   "url": "https://www.reddit.com/r/stocks/comments/1xtzobg/"
-  },
-  {
    "title": "Jensen Huang was having a third affair with another Nvidia employee",
    "score": 1678,
    "num_comments": 276,
@@ -196,18 +175,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xupbak/"
   },
   {
-   "title": "Jensen Huang breaks his silence on X. Released Statement that he'd be honored to return as CEO.",
-   "score": 1495,
-   "num_comments": 588,
-   "created_utc": 1794932943,
-   "url": "https://www.reddit.com/r/stocks/comments/1xyoyf9/"
-  },
-  {
-   "title": "WSJ - Nvidia is Preparing to Oust CEO Jensen Huang",
-   "score": 1440,
-   "num_comments": 544,
-   "created_utc": 1794437712,
-   "url": "https://www.reddit.com/r/stocks/comments/1xtwc99/"
+   "title": "Trump\u2019s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+   "score": 1501,
+   "num_comments": 57,
+   "created_utc": 1794922573,
+   "url": "https://www.reddit.com/r/stocks/comments/1xykmem/"
   },
   {
    "title": "Anthropic is a fucking disaster.",
@@ -218,17 +190,24 @@
   },
   {
    "title": "BREAKING: TRUMP SIGNALS SUPPORT FOR JENSEN HUANG\u2019S RETURN TO NVIDIA",
-   "score": 1332,
-   "num_comments": 693,
+   "score": 1350,
+   "num_comments": 700,
    "created_utc": 1794841760,
    "url": "https://www.reddit.com/r/stocks/comments/1xxrrkb/"
   },
   {
-   "title": "Trump\u2019s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-   "score": 1072,
-   "num_comments": 40,
-   "created_utc": 1794922573,
-   "url": "https://www.reddit.com/r/stocks/comments/1xykmem/"
+   "title": "If Nvidia matched the forward PE of Costco, Nvidia would have a market cap of $16T",
+   "score": 1009,
+   "num_comments": 261,
+   "created_utc": 1794956955,
+   "url": "https://www.reddit.com/r/stocks/comments/1xyz9se/"
+  },
+  {
+   "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+   "score": 749,
+   "num_comments": 301,
+   "created_utc": 1794950657,
+   "url": "https://www.reddit.com/r/stocks/comments/1xywpnl/"
   },
   {
    "title": "Scott Bessent on Fox torching Jensen Huang",
@@ -239,8 +218,8 @@
   },
   {
    "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
-   "score": 668,
-   "num_comments": 281,
+   "score": 722,
+   "num_comments": 308,
    "created_utc": 1794851517,
    "url": "https://www.reddit.com/r/stocks/comments/1xxw2l7/"
   },
@@ -250,6 +229,27 @@
    "num_comments": 244,
    "created_utc": 1794502231,
    "url": "https://www.reddit.com/r/stocks/comments/1xuhvhp/"
+  },
+  {
+   "title": "All US Flights grounded, stocks crashing, Microsoft issues!",
+   "score": 510,
+   "num_comments": 216,
+   "created_utc": 1794605618,
+   "url": "https://www.reddit.com/r/stocks/comments/1xvkfka/"
+  },
+  {
+   "title": "U.S. debt now equals the whole economy and tax cuts since 2001 added over $10 trillion",
+   "score": 474,
+   "num_comments": 110,
+   "created_utc": 1794852617,
+   "url": "https://www.reddit.com/r/stocks/comments/1xxwk74/"
+  },
+  {
+   "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn - FT",
+   "score": 319,
+   "num_comments": 69,
+   "created_utc": 1794943159,
+   "url": "https://www.reddit.com/r/stocks/comments/1xyti6c/"
   }
  ]
 }

@@ -1,29 +1,22 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-17T21:05:43.730912+00:00",
+ "generated_at": "2026-11-18T20:43:27.942623+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-22T19:46:14+00:00",
+ "window_start": "2026-10-25T18:46:22+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 9,
+   "mentions": 10,
    "bull": 3,
    "bear": 2,
-   "engagement": 5022
+   "engagement": 5269
   },
   {
    "ticker": "SPY",
    "mentions": 4,
    "bull": 1,
    "bear": 0,
-   "engagement": 114
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 2522
+   "engagement": 115
   },
   {
    "ticker": "AMD",
@@ -40,11 +33,11 @@
    "engagement": 322
   },
   {
-   "ticker": "AMZN",
+   "ticker": "MSFT",
    "mentions": 3,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 2503
+   "bull": 1,
+   "bear": 0,
+   "engagement": 2513
   },
   {
    "ticker": "SOFI",
@@ -52,6 +45,20 @@
    "bull": 0,
    "bear": 0,
    "engagement": 6
+  },
+  {
+   "ticker": "GOAI",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2494
   },
   {
    "ticker": "AAPL",
@@ -65,7 +72,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 5
+   "engagement": 10
   },
   {
    "ticker": "QQQ",
@@ -124,13 +131,6 @@
    "engagement": 1
   },
   {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "VST",
    "mentions": 1,
    "bull": 0,
@@ -138,11 +138,11 @@
    "engagement": 1
   },
   {
-   "ticker": "PLTR",
+   "ticker": "AVGO",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 8
+   "engagement": 1
   }
  ],
  "top_posts": [
@@ -182,6 +182,20 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xrz5yo/"
   },
   {
+   "title": "Another Dip",
+   "score": 4280,
+   "num_comments": 72,
+   "created_utc": 1794862104,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xy0snq/"
+  },
+  {
+   "title": "Nvidia deliberately kept GPU prices high through circular financing deals, report claims",
+   "score": 3526,
+   "num_comments": 211,
+   "created_utc": 1794838932,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xxqkww/"
+  },
+  {
    "title": "Sorry for crashing the market. I Just moved 150k over.",
    "score": 3125,
    "num_comments": 187,
@@ -196,25 +210,11 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xp64cy/"
   },
   {
-   "title": "Another Dip",
-   "score": 2939,
-   "num_comments": 51,
-   "created_utc": 1794862104,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xy0snq/"
-  },
-  {
    "title": "Alphabet (Google), is having one of the wildest days in its history",
    "score": 2864,
    "num_comments": 554,
    "created_utc": 1793282504,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xiktw3/"
-  },
-  {
-   "title": "Crash incoming? - Americans have never had more of their money in stocks - not even in the dot-com bubble",
-   "score": 2501,
-   "num_comments": 514,
-   "created_utc": 1792852456,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xea8br/"
   },
   {
    "title": "Americans overwhelmingly voted against data centers in the midterms",

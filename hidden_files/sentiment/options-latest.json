@@ -1,22 +1,22 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-17T21:06:02.969769+00:00",
+ "generated_at": "2026-11-18T20:43:56.388576+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-08T19:53:00+00:00",
+ "window_start": "2026-10-10T02:59:36+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
    "mentions": 15,
    "bull": 10,
    "bear": 8,
-   "engagement": 663
+   "engagement": 683
   },
   {
    "ticker": "NVDA",
-   "mentions": 11,
+   "mentions": 12,
    "bull": 4,
    "bear": 8,
-   "engagement": 1231
+   "engagement": 1400
   },
   {
    "ticker": "QQQ",
@@ -54,14 +54,14 @@
    "engagement": 13
   },
   {
-   "ticker": "ETH",
+   "ticker": "BTC",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 2
   },
   {
-   "ticker": "BTC",
+   "ticker": "ETH",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -131,14 +131,14 @@
    "engagement": 1
   },
   {
-   "ticker": "ADD",
+   "ticker": "TICK",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 3
   },
   {
-   "ticker": "TICK",
+   "ticker": "ADD",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -166,6 +166,13 @@
    "num_comments": 90,
    "created_utc": 1791707199,
    "url": "https://www.reddit.com/r/options/comments/1x32u6l/"
+  },
+  {
+   "title": "NVDA EARNINGS \u2014 ARE WE ABOUT TO SEE A MASSIVE BOUNCE OR ANOTHER SELLOFF? \ud83d\ude80",
+   "score": 268,
+   "num_comments": 254,
+   "created_utc": 1794885261,
+   "url": "https://www.reddit.com/r/options/comments/1xy9mbt/"
   },
   {
    "title": "Dummy's guide to financing LEAPs for free",
@@ -203,13 +210,6 @@
    "url": "https://www.reddit.com/r/options/comments/1xmu9tv/"
   },
   {
-   "title": "NVDA EARNINGS \u2014 ARE WE ABOUT TO SEE A MASSIVE BOUNCE OR ANOTHER SELLOFF? \ud83d\ude80",
-   "score": 188,
-   "num_comments": 180,
-   "created_utc": 1794885261,
-   "url": "https://www.reddit.com/r/options/comments/1xy9mbt/"
-  },
-  {
    "title": "Sold puts on NVDA",
    "score": 164,
    "num_comments": 135,
@@ -231,6 +231,13 @@
    "url": "https://www.reddit.com/r/options/comments/1xand3o/"
   },
   {
+   "title": "The real challenge in options trading isn't finding setups, it's managing boredom.",
+   "score": 109,
+   "num_comments": 96,
+   "created_utc": 1794371327,
+   "url": "https://www.reddit.com/r/options/comments/1xt8fjz/"
+  },
+  {
    "title": "Beat The Market Selling LEAPS",
    "score": 107,
    "num_comments": 85,
@@ -243,13 +250,6 @@
    "num_comments": 250,
    "created_utc": 1792964033,
    "url": "https://www.reddit.com/r/options/comments/1xfei16/"
-  },
-  {
-   "title": "Fractional options coming in 2026?",
-   "score": 104,
-   "num_comments": 92,
-   "created_utc": 1791678277,
-   "url": "https://www.reddit.com/r/options/comments/1x2uabt/"
   }
  ]
 }

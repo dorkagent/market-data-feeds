@@ -1,36 +1,99 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-11-17T21:05:24.603367+00:00",
+ "generated_at": "2026-11-18T20:42:54.227834+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-16T01:27:21+00:00",
+ "window_start": "2026-11-17T04:34:06+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 28,
-   "bull": 11,
-   "bear": 8,
-   "engagement": 1910
+   "mentions": 21,
+   "bull": 5,
+   "bear": 2,
+   "engagement": 2012
   },
   {
-   "ticker": "QQQ",
+   "ticker": "ANT",
    "mentions": 3,
    "bull": 2,
    "bear": 0,
-   "engagement": 28
+   "engagement": 830
   },
   {
-   "ticker": "AMD",
+   "ticker": "HRTX",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 241
+   "engagement": 2
   },
   {
-   "ticker": "RDW",
+   "ticker": "NFLX",
    "mentions": 2,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 14
+   "bull": 1,
+   "bear": 1,
+   "engagement": 135
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 4
+  },
+  {
+   "ticker": "HAWK",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SLS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 204
+  },
+  {
+   "ticker": "OPEN",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "DELL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "BRUN",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
+   "ticker": "COIN",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "SNDK",
@@ -47,14 +110,14 @@
    "engagement": 1
   },
   {
-   "ticker": "WVVIP",
+   "ticker": "WVVI",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 0
   },
   {
-   "ticker": "WVVI",
+   "ticker": "WVVIP",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -80,176 +143,113 @@
    "bull": 0,
    "bear": 0,
    "engagement": 4
-  },
-  {
-   "ticker": "GOAI",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "HRTX",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
-  },
-  {
-   "ticker": "ANT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "INTC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 46
-  },
-  {
-   "ticker": "ETH",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "BTC",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "TTWO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 9
-  },
-  {
-   "ticker": "ASTS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 969
-  },
-  {
-   "ticker": "DJT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 94
   }
  ],
  "top_posts": [
   {
-   "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
-   "score": 6713,
-   "num_comments": 968,
-   "created_utc": 1794850800,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxvreb/"
-  },
-  {
-   "title": "United Airlines says it has a widespread system outage just days after nationwide ground stop",
-   "score": 6677,
-   "num_comments": 607,
-   "created_utc": 1794868682,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xy3kap/"
-  },
-  {
-   "title": "Chase, Bank of America and Wells Fargo customers report outages in latest tech hiccup",
-   "score": 6300,
-   "num_comments": 783,
-   "created_utc": 1794855563,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxxvof/"
-  },
-  {
-   "title": "Exclusive: Highly classified US national security communications network goes down, sources say",
-   "score": 6090,
-   "num_comments": 801,
-   "created_utc": 1794930476,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xynu9n/"
-  },
-  {
-   "title": "Jensens \"Hung\" Huang details his past week",
-   "score": 4603,
-   "num_comments": 122,
-   "created_utc": 1794822251,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxlc1m/"
+   "title": "Bulls RN",
+   "score": 10289,
+   "num_comments": 255,
+   "created_utc": 1794959869,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xz0da2/"
   },
   {
    "title": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
-   "score": 4358,
-   "num_comments": 861,
+   "score": 9579,
+   "num_comments": 1392,
    "created_utc": 1794931190,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyo65y/"
   },
   {
+   "title": "Exclusive: Highly classified US national security communications network goes down, sources say",
+   "score": 9257,
+   "num_comments": 1021,
+   "created_utc": 1794930476,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xynu9n/"
+  },
+  {
    "title": "As soon as she shows up like this it's over for bers",
-   "score": 4318,
-   "num_comments": 261,
+   "score": 7140,
+   "num_comments": 416,
    "created_utc": 1794915028,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyi3t8/"
   },
   {
-   "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee",
-   "score": 2831,
-   "num_comments": 306,
-   "created_utc": 1794918146,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyj2nx/"
-  },
-  {
-   "title": "Intel sued by shareholders following 29% stock plunge",
-   "score": 2744,
-   "num_comments": 194,
-   "created_utc": 1794799954,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxf3bu/"
-  },
-  {
    "title": "Cyber attack hits 178 major websites: full list of organizations",
-   "score": 1873,
-   "num_comments": 146,
+   "score": 6571,
+   "num_comments": 446,
    "created_utc": 1794932645,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyotpf/"
   },
   {
-   "title": "Joint Statement from Department of Commerce and Department of Justice on Megaspeed Investigation",
-   "score": 1388,
-   "num_comments": 382,
-   "created_utc": 1794889479,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyb07o/"
+   "title": "Nvidia earnings live: Nvidia posts Q3 beat, board says it will not reinstate Jensen Huang as CEO",
+   "score": 4783,
+   "num_comments": 599,
+   "created_utc": 1794953934,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyy2n5/"
   },
   {
-   "title": "Apparently Australia got an infinite money glitch and everyone's rushing to destroy it.",
-   "score": 1351,
-   "num_comments": 318,
-   "created_utc": 1794822581,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxlf0y/"
+   "title": "Bols, Less Go.",
+   "score": 4688,
+   "num_comments": 214,
+   "created_utc": 1795005346,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xze5gu/"
   },
   {
-   "title": "HSBC offloads $300 million troubled AI data center loan at steep discount - report By Investing.com",
-   "score": 1140,
-   "num_comments": 125,
-   "created_utc": 1794890708,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xybdul/"
+   "title": "NVIDIA hits $115.8 billion revenue, up 103% as AI chip demand accelerates",
+   "score": 4004,
+   "num_comments": 522,
+   "created_utc": 1794950692,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xywqb5/"
   },
   {
-   "title": "How Jensen Huang is considering returning as CEO",
-   "score": 1062,
-   "num_comments": 62,
-   "created_utc": 1794792441,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxckwu/"
+   "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee",
+   "score": 3369,
+   "num_comments": 341,
+   "created_utc": 1794918146,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyj2nx/"
   },
   {
-   "title": "California is suing OpenAI over automated hacking incident",
-   "score": 1035,
-   "num_comments": 38,
-   "created_utc": 1794855209,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxxqc8/"
+   "title": "Nvidia board rules out Jensen Huang\u2019s return as CEO",
+   "score": 2648,
+   "num_comments": 485,
+   "created_utc": 1794956146,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyyy96/"
+  },
+  {
+   "title": "Chat are we back?",
+   "score": 2580,
+   "num_comments": 89,
+   "created_utc": 1794968540,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xz3ibt/"
+  },
+  {
+   "title": "Your 401k is the exit liquidity for the Anthropic IPO",
+   "score": 2553,
+   "num_comments": 372,
+   "created_utc": 1794997992,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xzbz4x/"
+  },
+  {
+   "title": "It\u2019s time retards \ud83d\udcc8\ud83e\udd11",
+   "score": 2205,
+   "num_comments": 97,
+   "created_utc": 1794951472,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyx211/"
+  },
+  {
+   "title": "DOJ and Commerce Confirm NVIDIA Placed Megaspeed on \u201cNo Sell\u201d List in June 2025",
+   "score": 1951,
+   "num_comments": 263,
+   "created_utc": 1794891449,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xybly3/"
+  },
+  {
+   "title": "NVIDIA's 2027 revenue was projected to be $235B in NOV 2024, it's now over $740B and you can buy the stock for the same price",
+   "score": 1946,
+   "num_comments": 336,
+   "created_utc": 1795020526,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xzk3gg/"
   }
  ]
 }
