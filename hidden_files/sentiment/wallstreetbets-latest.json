@@ -1,255 +1,255 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-11-18T20:42:54.227834+00:00",
+ "generated_at": "2026-11-19T20:48:01.023402+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-17T04:34:06+00:00",
+ "window_start": "2026-11-18T02:36:10+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 21,
-   "bull": 5,
+   "mentions": 15,
+   "bull": 3,
    "bear": 2,
-   "engagement": 2012
+   "engagement": 5173
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 5,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 492
   },
   {
    "ticker": "ANT",
-   "mentions": 3,
+   "mentions": 5,
    "bull": 2,
    "bear": 0,
-   "engagement": 830
+   "engagement": 853
   },
   {
-   "ticker": "HRTX",
+   "ticker": "SPY",
+   "mentions": 4,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "OPEN",
    "mentions": 2,
-   "bull": 0,
+   "bull": 2,
    "bear": 0,
    "engagement": 2
+  },
+  {
+   "ticker": "SE",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 2,
+   "engagement": 2
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 5
+  },
+  {
+   "ticker": "RDDT",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 229
   },
   {
    "ticker": "NFLX",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 135
+   "engagement": 133
   },
   {
-   "ticker": "QQQ",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
-   "ticker": "HAWK",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SLS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 204
-  },
-  {
-   "ticker": "OPEN",
+   "ticker": "ZS",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "DELL",
+   "ticker": "RBRK",
    "mentions": 1,
-   "bull": 0,
+   "bull": 1,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "BRUN",
+   "ticker": "APP",
    "mentions": 1,
    "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SNOW",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SPX",
+   "mentions": 1,
+   "bull": 0,
    "bear": 1,
-   "engagement": 2
-  },
-  {
-   "ticker": "COIN",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "SNDK",
+   "ticker": "SMCI",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 1
+  },
+  {
+   "ticker": "XRP",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 5
+  },
+  {
+   "ticker": "TTWO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 19
+  },
+  {
+   "ticker": "CRWV",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 103
   },
   {
    "ticker": "MSTR",
    "mentions": 1,
    "bull": 0,
-   "bear": 0,
+   "bear": 1,
    "engagement": 1
   },
   {
-   "ticker": "WVVI",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 0
-  },
-  {
-   "ticker": "WVVIP",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 0
-  },
-  {
-   "ticker": "SOFI",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 15
-  },
-  {
-   "ticker": "HOOD",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 15
-  },
-  {
-   "ticker": "XSP",
+   "ticker": "DJT",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 4
+   "engagement": 1126
   }
  ],
  "top_posts": [
   {
-   "title": "Bulls RN",
-   "score": 10289,
-   "num_comments": 255,
-   "created_utc": 1794959869,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xz0da2/"
-  },
-  {
-   "title": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
-   "score": 9579,
-   "num_comments": 1392,
-   "created_utc": 1794931190,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyo65y/"
-  },
-  {
-   "title": "Exclusive: Highly classified US national security communications network goes down, sources say",
-   "score": 9257,
-   "num_comments": 1021,
-   "created_utc": 1794930476,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xynu9n/"
-  },
-  {
-   "title": "As soon as she shows up like this it's over for bers",
-   "score": 7140,
-   "num_comments": 416,
-   "created_utc": 1794915028,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyi3t8/"
-  },
-  {
-   "title": "Cyber attack hits 178 major websites: full list of organizations",
-   "score": 6571,
-   "num_comments": 446,
-   "created_utc": 1794932645,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyotpf/"
-  },
-  {
-   "title": "Nvidia earnings live: Nvidia posts Q3 beat, board says it will not reinstate Jensen Huang as CEO",
-   "score": 4783,
-   "num_comments": 599,
-   "created_utc": 1794953934,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyy2n5/"
-  },
-  {
    "title": "Bols, Less Go.",
-   "score": 4688,
-   "num_comments": 214,
+   "score": 7297,
+   "num_comments": 260,
    "created_utc": 1795005346,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xze5gu/"
   },
   {
-   "title": "NVIDIA hits $115.8 billion revenue, up 103% as AI chip demand accelerates",
-   "score": 4004,
-   "num_comments": 522,
-   "created_utc": 1794950692,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xywqb5/"
+   "title": "NVIDIA's 2027 revenue was projected to be $235B in NOV 2024, it's now over $740B and you can buy the stock for the same price",
+   "score": 5108,
+   "num_comments": 738,
+   "created_utc": 1795020526,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xzk3gg/"
   },
   {
-   "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee",
-   "score": 3369,
-   "num_comments": 341,
-   "created_utc": 1794918146,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyj2nx/"
+   "title": "Get in nerds, new FAANG just dropped!",
+   "score": 4871,
+   "num_comments": 143,
+   "created_utc": 1795033479,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xzpta7/"
   },
   {
-   "title": "Nvidia board rules out Jensen Huang\u2019s return as CEO",
-   "score": 2648,
-   "num_comments": 485,
-   "created_utc": 1794956146,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyyy96/"
+   "title": "The Fed's AI Bank Run Nightmare Is Suddenly Coming True",
+   "score": 4578,
+   "num_comments": 715,
+   "created_utc": 1795015375,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xzhw0o/"
   },
   {
-   "title": "Chat are we back?",
-   "score": 2580,
-   "num_comments": 89,
-   "created_utc": 1794968540,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xz3ibt/"
+   "title": "\ud83d\ude0e\uff08ANT) IPO is today, you guys ready for it?",
+   "score": 4294,
+   "num_comments": 506,
+   "created_utc": 1795087073,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y06x9o/"
+  },
+  {
+   "title": "Lost 115k at 20yrs old",
+   "score": 4132,
+   "num_comments": 1802,
+   "created_utc": 1795027781,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xznc5n/"
   },
   {
    "title": "Your 401k is the exit liquidity for the Anthropic IPO",
-   "score": 2553,
-   "num_comments": 372,
+   "score": 3877,
+   "num_comments": 496,
    "created_utc": 1794997992,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xzbz4x/"
   },
   {
-   "title": "It\u2019s time retards \ud83d\udcc8\ud83e\udd11",
-   "score": 2205,
-   "num_comments": 97,
-   "created_utc": 1794951472,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyx211/"
+   "title": "Ashton Kutcher set to become billionaire when Anthropic goes public Thursday morning",
+   "score": 3474,
+   "num_comments": 439,
+   "created_utc": 1795064163,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y00wmz/"
   },
   {
-   "title": "DOJ and Commerce Confirm NVIDIA Placed Megaspeed on \u201cNo Sell\u201d List in June 2025",
-   "score": 1951,
-   "num_comments": 263,
-   "created_utc": 1794891449,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xybly3/"
+   "title": "Customer Data Leak: Visa, Mastercard and JPMorgan",
+   "score": 3355,
+   "num_comments": 365,
+   "created_utc": 1795103795,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y0cvwa/"
   },
   {
-   "title": "NVIDIA's 2027 revenue was projected to be $235B in NOV 2024, it's now over $740B and you can buy the stock for the same price",
-   "score": 1946,
-   "num_comments": 336,
-   "created_utc": 1795020526,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xzk3gg/"
+   "title": "I made more than my year\u2019s salary in one day.",
+   "score": 2832,
+   "num_comments": 432,
+   "created_utc": 1795103642,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y0ctdb/"
+  },
+  {
+   "title": "The stock market can recover. Your life is irreplaceable. Please reach out if you\u2019re struggling.",
+   "score": 2059,
+   "num_comments": 435,
+   "created_utc": 1795108529,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y0eyli/"
+  },
+  {
+   "title": "Anthropic IPO live: Company said to price stock at $83, begin trading Thursday",
+   "score": 1855,
+   "num_comments": 485,
+   "created_utc": 1795039877,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xzsfhk/"
+  },
+  {
+   "title": "Are we headed into a Bear Market in 2027?",
+   "score": 1694,
+   "num_comments": 341,
+   "created_utc": 1795060462,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xzzr8r/"
+  },
+  {
+   "title": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike",
+   "score": 1457,
+   "num_comments": 342,
+   "created_utc": 1795017476,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xzirlf/"
+  },
+  {
+   "title": "NVDA\u2019s board consist of former execs from Taco Bell, Eli Lilly, Pepsi, Goldman, and a few ex-finance / marketing folks",
+   "score": 1182,
+   "num_comments": 370,
+   "created_utc": 1794972457,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xz4uh7/"
   }
  ]
 }

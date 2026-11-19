@@ -1,8 +1,8 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-18T20:43:56.388576+00:00",
+ "generated_at": "2026-11-19T20:48:56.959426+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-10T02:59:36+00:00",
+ "window_start": "2026-10-11T22:47:01+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
@@ -16,21 +16,35 @@
    "mentions": 12,
    "bull": 4,
    "bear": 8,
-   "engagement": 1400
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 7,
-   "bull": 3,
-   "bear": 3,
-   "engagement": 259
+   "engagement": 1519
   },
   {
    "ticker": "TSLA",
-   "mentions": 5,
+   "mentions": 6,
    "bull": 3,
    "bear": 5,
-   "engagement": 162
+   "engagement": 164
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 6,
+   "bull": 3,
+   "bear": 3,
+   "engagement": 258
+  },
+  {
+   "ticker": "ANT",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "BTC",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 8
   },
   {
    "ticker": "META",
@@ -51,14 +65,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 13
-  },
-  {
-   "ticker": "BTC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
+   "engagement": 14
   },
   {
    "ticker": "ETH",
@@ -129,20 +136,6 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "TICK",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 3
-  },
-  {
-   "ticker": "ADD",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 3
   }
  ],
  "top_posts": [
@@ -161,11 +154,11 @@
    "url": "https://www.reddit.com/r/options/comments/1xncptw/"
   },
   {
-   "title": "New paper: an AI options trader made 18.3% in 6 months, until researchers let it read the news",
-   "score": 377,
-   "num_comments": 90,
-   "created_utc": 1791707199,
-   "url": "https://www.reddit.com/r/options/comments/1x32u6l/"
+   "title": "NVDA puts in the aftermarket, millionaires were made",
+   "score": 306,
+   "num_comments": 60,
+   "created_utc": 1794436830,
+   "url": "https://www.reddit.com/r/options/comments/1xtvzv0/"
   },
   {
    "title": "NVDA EARNINGS \u2014 ARE WE ABOUT TO SEE A MASSIVE BOUNCE OR ANOTHER SELLOFF? \ud83d\ude80",
@@ -187,13 +180,6 @@
    "num_comments": 109,
    "created_utc": 1793942016,
    "url": "https://www.reddit.com/r/options/comments/1xp4l5d/"
-  },
-  {
-   "title": "NVDA puts in the aftermarket, millionaires were made",
-   "score": 229,
-   "num_comments": 49,
-   "created_utc": 1794436830,
-   "url": "https://www.reddit.com/r/options/comments/1xtvzv0/"
   },
   {
    "title": "Nvidia $200 calls expire next Friday.",
@@ -250,6 +236,13 @@
    "num_comments": 250,
    "created_utc": 1792964033,
    "url": "https://www.reddit.com/r/options/comments/1xfei16/"
+  },
+  {
+   "title": "If your goal is to collect premium, the short strangle is the best way to do it. Prove me wrong",
+   "score": 103,
+   "num_comments": 117,
+   "created_utc": 1794253354,
+   "url": "https://www.reddit.com/r/options/comments/1xs1jtp/"
   }
  ]
 }

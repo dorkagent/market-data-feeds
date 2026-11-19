@@ -1,15 +1,15 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-18T20:43:40.091153+00:00",
+ "generated_at": "2026-11-19T20:48:43.460381+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-06T15:57:02+00:00",
+ "window_start": "2026-11-07T18:22:16+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 25,
    "bull": 13,
    "bear": 9,
-   "engagement": 1913
+   "engagement": 2011
   },
   {
    "ticker": "AMD",
@@ -23,7 +23,7 @@
    "mentions": 4,
    "bull": 1,
    "bear": 1,
-   "engagement": 61
+   "engagement": 66
   },
   {
    "ticker": "META",
@@ -33,25 +33,18 @@
    "engagement": 9
   },
   {
-   "ticker": "AAPL",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 4
+   "ticker": "MELI",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 2,
+   "engagement": 96
   },
   {
-   "ticker": "MU",
-   "mentions": 3,
-   "bull": 3,
-   "bear": 1,
-   "engagement": 348
-  },
-  {
-   "ticker": "RDDT",
+   "ticker": "ANT",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 132
+   "engagement": 187
   },
   {
    "ticker": "AMZN",
@@ -61,6 +54,13 @@
    "engagement": 97
   },
   {
+   "ticker": "RDDT",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 132
+  },
+  {
    "ticker": "MSTR",
    "mentions": 2,
    "bull": 2,
@@ -68,32 +68,39 @@
    "engagement": 3
   },
   {
+   "ticker": "AAPL",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "UBER",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 118
   },
   {
    "ticker": "CAKE",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 13
   },
   {
    "ticker": "BRBR",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 4
-  },
-  {
-   "ticker": "ANT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 173
+   "engagement": 17
   },
   {
    "ticker": "WB",
@@ -110,35 +117,28 @@
    "engagement": 1
   },
   {
-   "ticker": "GOOGL",
+   "ticker": "UNH",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 95
   },
   {
-   "ticker": "ISRG",
+   "ticker": "PG",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 95
   },
   {
-   "ticker": "JPM",
+   "ticker": "NVO",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 95
   },
   {
-   "ticker": "LLY",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 95
-  },
-  {
-   "ticker": "WM",
+   "ticker": "ASML",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -148,10 +148,17 @@
  "top_posts": [
   {
    "title": "NVIDIA crashes to ~$150 today. Am I crazy for thinking the massive buyback makes this interesting?",
-   "score": 1204,
-   "num_comments": 670,
+   "score": 1328,
+   "num_comments": 744,
    "created_utc": 1794495038,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xueqbk/"
+  },
+  {
+   "title": "No irony please - is NVIDIA, currently at around $158, actually a Value Stock?",
+   "score": 586,
+   "num_comments": 860,
+   "created_utc": 1794445368,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xtz7d7/"
   },
   {
    "title": "The bubble is in consumer staple stocks not tech stocks.",
@@ -159,20 +166,6 @@
    "num_comments": 235,
    "created_utc": 1794732499,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xwqodo/"
-  },
-  {
-   "title": "That $2.3T tech dump wasn't fundamental panic, it was just systematic funds getting liquidated",
-   "score": 532,
-   "num_comments": 159,
-   "created_utc": 1793992967,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xplnex/"
-  },
-  {
-   "title": "No irony please - is NVIDIA, currently at around $158, actually a Value Stock?",
-   "score": 486,
-   "num_comments": 665,
-   "created_utc": 1794445368,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xtz7d7/"
   },
   {
    "title": "Nvda forward PE is now 9.79",
@@ -183,7 +176,7 @@
   },
   {
    "title": "Resignation calls grow for Nvidia CEO as second affair is reported per NYT, alongside moves to tighten Nvidia China exports. Nvidia down 8% ",
-   "score": 441,
+   "score": 440,
    "num_comments": 315,
    "created_utc": 1794436445,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xtvucb/"
@@ -204,8 +197,8 @@
   },
   {
    "title": "I do not understand the current selloffs",
-   "score": 259,
-   "num_comments": 601,
+   "score": 276,
+   "num_comments": 645,
    "created_utc": 1794933602,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xyp8ro/"
   },
@@ -231,6 +224,13 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xue2mf/"
   },
   {
+   "title": "It's time to be honest, this is a horrible market",
+   "score": 217,
+   "num_comments": 240,
+   "created_utc": 1795104452,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0d67m/"
+  },
+  {
    "title": "Oatly: A 97% Crash Hides A Turnaround At The World\u2019s Largest Oat Milk Company",
    "score": 213,
    "num_comments": 143,
@@ -238,11 +238,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxjyvr/"
   },
   {
-   "title": "Micron\u2019s stock is dirt cheap \u2014\u00a0and that\u2019s igniting a fierce online debate - Market Watch",
-   "score": 189,
-   "num_comments": 179,
-   "created_utc": 1794063979,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xq8i48/"
+   "title": "Netflix at $59 looks like a steal to me.",
+   "score": 199,
+   "num_comments": 398,
+   "created_utc": 1794949113,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xyw1y7/"
   },
   {
    "title": "NVDA - Will There Be a Buying Opportunity?",

@@ -1,8 +1,8 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-11-18T20:43:48.311401+00:00",
+ "generated_at": "2026-11-19T20:48:50.650254+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-12T19:42:19+00:00",
+ "window_start": "2026-09-14T07:04:22+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
@@ -124,21 +124,21 @@
    "engagement": 18
   },
   {
-   "ticker": "SPCH",
+   "ticker": "VXT",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 12
   },
   {
-   "ticker": "AXTI",
+   "ticker": "SNXX",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 12
   },
   {
-   "ticker": "NVTS",
+   "ticker": "AMZN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -159,6 +159,13 @@
    "num_comments": 145,
    "created_utc": 1793410018,
    "url": "https://www.reddit.com/r/thetagang/comments/1xjxe4x/"
+  },
+  {
+   "title": "When market goes so low that rolling down no longer works.",
+   "score": 310,
+   "num_comments": 101,
+   "created_utc": 1795032173,
+   "url": "https://www.reddit.com/r/thetagang/comments/1xzp8w1/"
   },
   {
    "title": "Let's just get this out of the way",
@@ -243,13 +250,6 @@
    "num_comments": 31,
    "created_utc": 1789770188,
    "url": "https://www.reddit.com/r/thetagang/comments/1wk4d9v/"
-  },
-  {
-   "title": "What RDDT does to you",
-   "score": 121,
-   "num_comments": 72,
-   "created_utc": 1793309528,
-   "url": "https://www.reddit.com/r/thetagang/comments/1xiww3f/"
   }
  ]
 }

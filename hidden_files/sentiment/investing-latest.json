@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-18T20:43:01.297658+00:00",
+ "generated_at": "2026-11-19T20:48:11.609008+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-29T20:57:31+00:00",
+ "window_start": "2026-10-30T14:58:53+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -33,18 +33,32 @@
    "engagement": 4
   },
   {
+   "ticker": "RGNA",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "MDXG",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "ANT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 46
+  },
+  {
    "ticker": "HTZ",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 2
-  },
-  {
-   "ticker": "IQQ",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 9
   },
   {
    "ticker": "BRK",
@@ -68,6 +82,13 @@
    "engagement": 9
   },
   {
+   "ticker": "IQQ",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 9
+  },
+  {
    "ticker": "SPY",
    "mentions": 1,
    "bull": 1,
@@ -82,14 +103,14 @@
    "engagement": 2
   },
   {
-   "ticker": "BKNG",
+   "ticker": "EXPE",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 4
   },
   {
-   "ticker": "EXPE",
+   "ticker": "BKNG",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -122,48 +143,27 @@
    "bull": 1,
    "bear": 1,
    "engagement": 8
-  },
-  {
-   "ticker": "UBER",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 8
-  },
-  {
-   "ticker": "AAPL",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 16
-  },
-  {
-   "ticker": "ZETA",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 12
   }
  ],
  "top_posts": [
   {
    "title": "Jensen Huang resigns as Nvidia CEO, effective immediately. CFO Colette Kress named interim CEO",
-   "score": 1145,
-   "num_comments": 286,
+   "score": 1161,
+   "num_comments": 294,
    "created_utc": 1794492875,
    "url": "https://www.reddit.com/r/investing/comments/1xudu95/"
   },
   {
    "title": "Nvidia CFO Favored to Replace Jensen Huang as Board Meets",
-   "score": 1122,
-   "num_comments": 387,
+   "score": 1136,
+   "num_comments": 378,
    "created_utc": 1794451942,
    "url": "https://www.reddit.com/r/investing/comments/1xu1gvt/"
   },
   {
    "title": "WSJ: Nvidia's board is preparing to oust Jensen Huang. Stock down 8% after hours",
-   "score": 1062,
-   "num_comments": 393,
+   "score": 1064,
+   "num_comments": 389,
    "created_utc": 1794438382,
    "url": "https://www.reddit.com/r/investing/comments/1xtwlta/"
   },
@@ -196,13 +196,6 @@
    "url": "https://www.reddit.com/r/investing/comments/1xrbjp6/"
   },
   {
-   "title": "Another GOOGL buying opportunity",
-   "score": 674,
-   "num_comments": 227,
-   "created_utc": 1793321148,
-   "url": "https://www.reddit.com/r/investing/comments/1xj1fyh/"
-  },
-  {
    "title": "Midterms reduce uncertainty",
    "score": 577,
    "num_comments": 202,
@@ -231,13 +224,6 @@
    "url": "https://www.reddit.com/r/investing/comments/1xuxkvf/"
   },
   {
-   "title": "Buying the dip on individual stocks or adding to index funds: what's your approach to this pullback?",
-   "score": 437,
-   "num_comments": 231,
-   "created_utc": 1793355095,
-   "url": "https://www.reddit.com/r/investing/comments/1xjbfdg/"
-  },
-  {
    "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
    "score": 370,
    "num_comments": 72,
@@ -245,11 +231,25 @@
    "url": "https://www.reddit.com/r/investing/comments/1xw4o4d/"
   },
   {
-   "title": "67% Returns according to Trump",
-   "score": 339,
-   "num_comments": 344,
-   "created_utc": 1793314789,
-   "url": "https://www.reddit.com/r/investing/comments/1xiz19z/"
+   "title": "Legendary investor Druckenmiller moves to cash: \"we're in capital preservation\"",
+   "score": 322,
+   "num_comments": 93,
+   "created_utc": 1794938158,
+   "url": "https://www.reddit.com/r/investing/comments/1xyraab/"
+  },
+  {
+   "title": "Reddit beat its guide and grew revenue 53%, then had its worst day ever (\u221229%). The 10-Q shows why: US daily users fell 5% in one quarter, a",
+   "score": 297,
+   "num_comments": 110,
+   "created_utc": 1793623729,
+   "url": "https://www.reddit.com/r/investing/comments/1xlwa3j/"
+  },
+  {
+   "title": "Why is Elon/SpaceX even interested in becoming a telecom carrier?",
+   "score": 290,
+   "num_comments": 532,
+   "created_utc": 1794190064,
+   "url": "https://www.reddit.com/r/investing/comments/1xrfm6p/"
   }
  ]
 }
