@@ -1,172 +1,169 @@
 {
- "generated_at": "2026-11-19T19:32:41.768648+00:00",
+ "generated_at": "2026-11-20T19:11:05.680428+00:00",
  "universe": "US-listed, price >= $5, |move| >= 3% (premarket: no volume filter)",
  "top_movers": [
   {
-   "symbol": "UNH",
-   "pct_change": -10.2,
-   "price": 349.9,
-   "market_cap": "313,518,311,589",
-   "direction": "down"
-  },
-  {
-   "symbol": "PANW",
-   "pct_change": 9.9,
-   "price": 339.92,
-   "market_cap": "278,205,182,631",
-   "direction": "up"
-  },
-  {
-   "symbol": "CRWD",
-   "pct_change": 7.9,
-   "price": 237.03,
-   "market_cap": "242,703,275,599",
+   "symbol": "ANT",
+   "pct_change": 17.1,
+   "price": 97.17,
+   "market_cap": "1,271,631,975,862",
    "direction": "up"
   },
   {
    "symbol": "AMD",
-   "pct_change": 5.3,
-   "price": 530.14,
-   "market_cap": "877,416,462,870",
+   "pct_change": -7.7,
+   "price": 489.19,
+   "market_cap": "809,641,527,656",
+   "direction": "down"
+  },
+  {
+   "symbol": "PANW",
+   "pct_change": 6.4,
+   "price": 361.81,
+   "market_cap": "297,047,652,000",
    "direction": "up"
   },
   {
-   "symbol": "SAP",
+   "symbol": "UNH",
+   "pct_change": -5.6,
+   "price": 330.37,
+   "market_cap": "296,018,989,996",
+   "direction": "down"
+  },
+  {
+   "symbol": "SHOP",
    "pct_change": -5.3,
-   "price": 210.71,
-   "market_cap": "258,858,126,725",
-   "direction": "down"
-  },
-  {
-   "symbol": "BHP",
-   "pct_change": -4.8,
-   "price": 70.32,
-   "market_cap": "178,759,853,536",
-   "direction": "down"
-  },
-  {
-   "symbol": "DIS",
-   "pct_change": 4.6,
-   "price": 122.38,
-   "market_cap": "209,020,130,622",
-   "direction": "up"
-  },
-  {
-   "symbol": "QCOM",
-   "pct_change": -4.1,
-   "price": 159.81,
-   "market_cap": "170,996,700,000",
-   "direction": "down"
-  },
-  {
-   "symbol": "XOM",
-   "pct_change": -4.0,
-   "price": 160.53,
-   "market_cap": "654,837,578,935",
-   "direction": "down"
-  },
-  {
-   "symbol": "CVX",
-   "pct_change": -4.0,
-   "price": 205.88,
-   "market_cap": "404,641,016,714",
-   "direction": "down"
-  },
-  {
-   "symbol": "ANET",
-   "pct_change": 4.0,
-   "price": 193.97,
-   "market_cap": "245,055,833,908",
-   "direction": "up"
-  },
-  {
-   "symbol": "MRK",
-   "pct_change": -3.9,
-   "price": 137.75,
-   "market_cap": "339,587,593,522",
+   "price": 131.97,
+   "market_cap": "169,782,310,056",
    "direction": "down"
   },
   {
    "symbol": "AMZN",
-   "pct_change": 3.8,
-   "price": 267.74,
-   "market_cap": "2,895,109,650,048",
-   "direction": "up"
+   "pct_change": -3.9,
+   "price": 257.37,
+   "market_cap": "2,782,977,405,815",
+   "direction": "down"
   },
   {
-   "symbol": "AVGO",
-   "pct_change": 3.6,
-   "price": 354.05,
-   "market_cap": "1,690,103,653,703",
-   "direction": "up"
+   "symbol": "CAT",
+   "pct_change": -3.9,
+   "price": 537.07,
+   "market_cap": "245,760,103,030",
+   "direction": "down"
   },
   {
-   "symbol": "TTE",
+   "symbol": "LRCX",
+   "pct_change": -3.8,
+   "price": 203.68,
+   "market_cap": "254,431,149,280",
+   "direction": "down"
+  },
+  {
+   "symbol": "MRK",
+   "pct_change": -3.7,
+   "price": 132.74,
+   "market_cap": "327,236,712,625",
+   "direction": "down"
+  },
+  {
+   "symbol": "AMAT",
    "pct_change": -3.6,
-   "price": 87.11,
-   "market_cap": "190,061,981,746",
+   "price": 338.93,
+   "market_cap": "268,973,981,356",
    "direction": "down"
   },
   {
-   "symbol": "TD",
+   "symbol": "SAP",
+   "pct_change": -3.6,
+   "price": 203.2,
+   "market_cap": "249,632,059,942",
+   "direction": "down"
+  },
+  {
+   "symbol": "GOOGL",
+   "pct_change": -3.5,
+   "price": 272.66,
+   "market_cap": "3,352,082,040,000",
+   "direction": "down"
+  },
+  {
+   "symbol": "SPCX",
+   "pct_change": -3.5,
+   "price": 138.43,
+   "market_cap": "1,880,026,649,237",
+   "direction": "down"
+  },
+  {
+   "symbol": "MS",
    "pct_change": -3.4,
-   "price": 115.66,
-   "market_cap": "188,887,899,769",
+   "price": 175.03,
+   "market_cap": "273,921,950,000",
    "direction": "down"
   },
   {
-   "symbol": "RY",
-   "pct_change": -3.2,
-   "price": 190.14,
-   "market_cap": "263,235,481,982",
+   "symbol": "UNP",
+   "pct_change": -3.4,
+   "price": 290.58,
+   "market_cap": "172,677,285,881",
    "direction": "down"
   },
   {
-   "symbol": "AMGN",
+   "symbol": "NVDA",
+   "pct_change": -3.3,
+   "price": 145.98,
+   "market_cap": "3,518,118,000,000",
+   "direction": "down"
+  },
+  {
+   "symbol": "META",
+   "pct_change": -3.3,
+   "price": 596.22,
+   "market_cap": "1,524,082,159,864",
+   "direction": "down"
+  },
+  {
+   "symbol": "PM",
+   "pct_change": -3.3,
+   "price": 186.43,
+   "market_cap": "290,580,168,914",
+   "direction": "down"
+  },
+  {
+   "symbol": "V",
    "pct_change": -3.1,
-   "price": 443.89,
-   "market_cap": "240,105,201,296",
+   "price": 402.5,
+   "market_cap": "725,720,832,008",
    "direction": "down"
   },
   {
-   "symbol": "NVO",
+   "symbol": "ARM",
    "pct_change": -3.1,
-   "price": 39.45,
-   "market_cap": "174,681,859,014",
+   "price": 177.17,
+   "market_cap": "188,518,668,997",
    "direction": "down"
   }
  ],
  "setup_routing": {
   "setup_a_candidates": [
-   "PANW",
-   "CRWD",
-   "AMD",
-   "DIS",
-   "ANET",
-   "AMZN",
-   "AVGO"
+   "ANT",
+   "PANW"
   ],
   "setup_b_candidates": [
-   "PANW",
-   "CRWD",
-   "AMD",
-   "DIS",
-   "ANET",
-   "AMZN",
-   "AVGO"
+   "ANT",
+   "PANW"
   ],
   "setup_c_candidates": [
+   "AMD",
    "UNH",
-   "SAP",
-   "BHP",
-   "QCOM",
-   "XOM",
-   "CVX",
+   "SHOP",
+   "AMZN",
+   "CAT",
+   "LRCX",
    "MRK",
-   "TTE",
-   "TD",
-   "RY"
+   "AMAT",
+   "SAP",
+   "GOOGL"
   ]
  },
- "count": 19
+ "count": 20
 }
