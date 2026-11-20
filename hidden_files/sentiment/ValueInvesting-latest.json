@@ -1,57 +1,64 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-19T20:48:43.460381+00:00",
+ "generated_at": "2026-11-20T20:32:24.052003+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-07T18:22:16+00:00",
+ "window_start": "2026-11-09T16:31:56+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 25,
-   "bull": 13,
+   "mentions": 22,
+   "bull": 11,
    "bear": 9,
-   "engagement": 2011
+   "engagement": 1534
   },
   {
    "ticker": "AMD",
-   "mentions": 7,
-   "bull": 6,
-   "bear": 4,
-   "engagement": 390
+   "mentions": 8,
+   "bull": 7,
+   "bear": 5,
+   "engagement": 450
   },
   {
    "ticker": "MSFT",
    "mentions": 4,
    "bull": 1,
    "bear": 1,
-   "engagement": 66
+   "engagement": 77
   },
   {
-   "ticker": "META",
-   "mentions": 3,
+   "ticker": "CRWV",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 85
+  },
+  {
+   "ticker": "NFLX",
+   "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 9
+   "engagement": 88
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 2,
+   "engagement": 134
   },
   {
    "ticker": "MELI",
    "mentions": 2,
    "bull": 0,
    "bear": 2,
-   "engagement": 96
+   "engagement": 185
   },
   {
    "ticker": "ANT",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 187
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 97
+   "engagement": 190
   },
   {
    "ticker": "RDDT",
@@ -68,25 +75,32 @@
    "engagement": 3
   },
   {
-   "ticker": "AAPL",
-   "mentions": 2,
+   "ticker": "MRVL",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 51
+  },
+  {
+   "ticker": "UHN",
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 3
+   "engagement": 2
   },
   {
    "ticker": "QQQ",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 319
   },
   {
    "ticker": "UBER",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 118
+   "engagement": 124
   },
   {
    "ticker": "CAKE",
@@ -100,7 +114,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 17
+   "engagement": 19
   },
   {
    "ticker": "WB",
@@ -124,21 +138,7 @@
    "engagement": 95
   },
   {
-   "ticker": "PG",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 95
-  },
-  {
-   "ticker": "NVO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 95
-  },
-  {
-   "ticker": "ASML",
+   "ticker": "JPM",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -154,6 +154,13 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xueqbk/"
   },
   {
+   "title": "This sell off is strange",
+   "score": 1065,
+   "num_comments": 999,
+   "created_utc": 1795144828,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0syfw/"
+  },
+  {
    "title": "No irony please - is NVIDIA, currently at around $158, actually a Value Stock?",
    "score": 586,
    "num_comments": 860,
@@ -161,11 +168,25 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xtz7d7/"
   },
   {
+   "title": "It's time to be honest, this is a horrible market",
+   "score": 561,
+   "num_comments": 484,
+   "created_utc": 1795104452,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0d67m/"
+  },
+  {
    "title": "The bubble is in consumer staple stocks not tech stocks.",
    "score": 556,
    "num_comments": 235,
    "created_utc": 1794732499,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xwqodo/"
+  },
+  {
+   "title": "To people getting hammered in this market",
+   "score": 538,
+   "num_comments": 322,
+   "created_utc": 1795120495,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0k39t/"
   },
   {
    "title": "Nvda forward PE is now 9.79",
@@ -203,18 +224,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xyp8ro/"
   },
   {
+   "title": "NVDA after Jensen Huang\u2019s resignation: what would make you avoid buying the dip?",
+   "score": 263,
+   "num_comments": 611,
+   "created_utc": 1794517891,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xuouso/"
+  },
+  {
    "title": "Coca Cola ($KO) is $100 a share for the first time in history.",
    "score": 257,
    "num_comments": 120,
    "created_utc": 1794842830,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxs7ye/"
-  },
-  {
-   "title": "NVDA after Jensen Huang\u2019s resignation: what would make you avoid buying the dip?",
-   "score": 246,
-   "num_comments": 513,
-   "created_utc": 1794517891,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xuouso/"
   },
   {
    "title": "Nvidia CEO Jensen Huang Resigns",
@@ -224,32 +245,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xue2mf/"
   },
   {
-   "title": "It's time to be honest, this is a horrible market",
-   "score": 217,
-   "num_comments": 240,
-   "created_utc": 1795104452,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0d67m/"
-  },
-  {
    "title": "Oatly: A 97% Crash Hides A Turnaround At The World\u2019s Largest Oat Milk Company",
    "score": 213,
    "num_comments": 143,
    "created_utc": 1794816901,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxjyvr/"
-  },
-  {
-   "title": "Netflix at $59 looks like a steal to me.",
-   "score": 199,
-   "num_comments": 398,
-   "created_utc": 1794949113,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xyw1y7/"
-  },
-  {
-   "title": "NVDA - Will There Be a Buying Opportunity?",
-   "score": 183,
-   "num_comments": 419,
-   "created_utc": 1794189222,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xrfbvj/"
   }
  ]
 }

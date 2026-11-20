@@ -1,29 +1,29 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-19T20:48:29.940956+00:00",
+ "generated_at": "2026-11-20T20:32:11.194686+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-13T08:42:13+00:00",
+ "window_start": "2026-11-15T12:53:46+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 18,
    "bull": 5,
    "bear": 2,
-   "engagement": 223
+   "engagement": 146
   },
   {
    "ticker": "ANT",
-   "mentions": 4,
-   "bull": 2,
+   "mentions": 6,
+   "bull": 4,
    "bear": 0,
-   "engagement": 86
+   "engagement": 106
   },
   {
-   "ticker": "AMD",
-   "mentions": 3,
-   "bull": 0,
+   "ticker": "SPY",
+   "mentions": 5,
+   "bull": 2,
    "bear": 0,
-   "engagement": 15
+   "engagement": 121
   },
   {
    "ticker": "RGNA",
@@ -40,6 +40,13 @@
    "engagement": 2
   },
   {
+   "ticker": "CRWV",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
+  },
+  {
    "ticker": "NFLX",
    "mentions": 2,
    "bull": 1,
@@ -47,21 +54,35 @@
    "engagement": 282
   },
   {
-   "ticker": "MSFT",
-   "mentions": 2,
+   "ticker": "QQQ",
+   "mentions": 1,
    "bull": 1,
-   "bear": 2,
-   "engagement": 118
+   "bear": 0,
+   "engagement": 31
+  },
+  {
+   "ticker": "SMCI",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "ADBE",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "MELI",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 1
+   "engagement": 65
   },
   {
-   "ticker": "CRWV",
+   "ticker": "AMD",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -86,7 +107,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 37
+   "engagement": 52
   },
   {
    "ticker": "MDRN",
@@ -122,37 +143,9 @@
    "bull": 0,
    "bear": 1,
    "engagement": 19
-  },
-  {
-   "ticker": "SPY",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 28
-  },
-  {
-   "ticker": "HOOD",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 51
-  },
-  {
-   "ticker": "TRUMP",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 2050
   }
  ],
  "top_posts": [
-  {
-   "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
-   "score": 4932,
-   "num_comments": 697,
-   "created_utc": 1794658688,
-   "url": "https://www.reddit.com/r/stocks/comments/1xw124v/"
-  },
   {
    "title": "Jensen Huang breaks his silence on X. Released Statement that he'd be honored to return as CEO.",
    "score": 3098,
@@ -197,14 +190,35 @@
   },
   {
    "title": "Anthropic broke SpaceX IPO record - $81 billion raised",
-   "score": 963,
-   "num_comments": 362,
+   "score": 1168,
+   "num_comments": 430,
    "created_utc": 1795045339,
    "url": "https://www.reddit.com/r/stocks/comments/1xzuikk/"
   },
   {
+   "title": "DCA and buy in to major companies. These opportunities don\u2019t happen often.",
+   "score": 992,
+   "num_comments": 392,
+   "created_utc": 1795124411,
+   "url": "https://www.reddit.com/r/stocks/comments/1y0lnyg/"
+  },
+  {
+   "title": "Suicide Hotline",
+   "score": 893,
+   "num_comments": 275,
+   "created_utc": 1795189477,
+   "url": "https://www.reddit.com/r/stocks/comments/1y16qje/"
+  },
+  {
+   "title": "Anthropic is going public at a $1.4 trillion valuation, founded by people who left OpenAI because AI was moving too fast",
+   "score": 855,
+   "num_comments": 205,
+   "created_utc": 1795072816,
+   "url": "https://www.reddit.com/r/stocks/comments/1y03bty/"
+  },
+  {
    "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
-   "score": 798,
+   "score": 800,
    "num_comments": 314,
    "created_utc": 1794950657,
    "url": "https://www.reddit.com/r/stocks/comments/1xywpnl/"
@@ -224,32 +238,18 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xxw2l7/"
   },
   {
-   "title": "All US Flights grounded, stocks crashing, Microsoft issues!",
-   "score": 510,
-   "num_comments": 216,
-   "created_utc": 1794605618,
-   "url": "https://www.reddit.com/r/stocks/comments/1xvkfka/"
-  },
-  {
-   "title": "U.S. debt now equals the whole economy and tax cuts since 2001 added over $10 trillion",
-   "score": 474,
-   "num_comments": 110,
-   "created_utc": 1794852617,
-   "url": "https://www.reddit.com/r/stocks/comments/1xxwk74/"
+   "title": "Pre-market in deep red today too!",
+   "score": 643,
+   "num_comments": 400,
+   "created_utc": 1795176640,
+   "url": "https://www.reddit.com/r/stocks/comments/1y11vgz/"
   },
   {
    "title": "Relax and Buy the Dip",
-   "score": 439,
-   "num_comments": 336,
+   "score": 504,
+   "num_comments": 370,
    "created_utc": 1795024517,
    "url": "https://www.reddit.com/r/stocks/comments/1xzlvft/"
-  },
-  {
-   "title": "Wife of senior Nvidia executive embroiled in chip smuggling scandal",
-   "score": 371,
-   "num_comments": 95,
-   "created_utc": 1795030649,
-   "url": "https://www.reddit.com/r/stocks/comments/1xzolal/"
   }
  ]
 }

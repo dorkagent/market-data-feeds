@@ -1,15 +1,15 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-19T20:48:36.846268+00:00",
+ "generated_at": "2026-11-20T20:32:17.627179+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-26T16:02:00+00:00",
+ "window_start": "2026-10-27T23:06:04+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 10,
+   "mentions": 11,
    "bull": 3,
    "bear": 2,
-   "engagement": 5465
+   "engagement": 5466
   },
   {
    "ticker": "SPY",
@@ -27,31 +27,10 @@
   },
   {
    "ticker": "RDDT",
-   "mentions": 4,
-   "bull": 2,
-   "bear": 1,
+   "mentions": 3,
+   "bull": 1,
+   "bear": 0,
    "engagement": 322
-  },
-  {
-   "ticker": "MSFT",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 2513
-  },
-  {
-   "ticker": "SOFI",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 6
-  },
-  {
-   "ticker": "BE",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 6
   },
   {
    "ticker": "GOAI",
@@ -59,6 +38,13 @@
    "bull": 0,
    "bear": 0,
    "engagement": 2
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2494
   },
   {
    "ticker": "AMZN",
@@ -75,25 +61,32 @@
    "engagement": 53
   },
   {
+   "ticker": "BE",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 35
+  },
+  {
    "ticker": "COST",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 4
-  },
-  {
-   "ticker": "WMT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 4
+   "engagement": 7
   },
   {
    "ticker": "TGT",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 4
+   "engagement": 7
+  },
+  {
+   "ticker": "WMT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 7
   },
   {
    "ticker": "ASTS",
@@ -121,17 +114,17 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 9
+   "engagement": 10
   },
   {
-   "ticker": "CLS",
+   "ticker": "MU",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "MU",
+   "ticker": "CLS",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -143,6 +136,13 @@
    "bull": 1,
    "bear": 1,
    "engagement": 9354
+  },
+  {
+   "ticker": "CLSK",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   }
  ],
  "top_posts": [
@@ -217,6 +217,13 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xiktw3/"
   },
   {
+   "title": "It\u2019s only the first day, and already so many stocks have crashed. What a bloodbath.",
+   "score": 2391,
+   "num_comments": 451,
+   "created_utc": 1795109232,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1y0f9w0/"
+  },
+  {
    "title": "Americans overwhelmingly voted against data centers in the midterms",
    "score": 2337,
    "num_comments": 318,
@@ -243,13 +250,6 @@
    "num_comments": 568,
    "created_utc": 1794491676,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xudcge/"
-  },
-  {
-   "title": "SpaceX Director Resigns From Board One Day After US Election",
-   "score": 1892,
-   "num_comments": 64,
-   "created_utc": 1794021492,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xpw4sx/"
   }
  ]
 }

@@ -1,22 +1,22 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-19T20:48:11.609008+00:00",
+ "generated_at": "2026-11-20T20:32:04.879937+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-30T14:58:53+00:00",
+ "window_start": "2026-10-31T20:27:47+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 13,
+   "mentions": 11,
    "bull": 2,
    "bear": 5,
-   "engagement": 199
+   "engagement": 194
   },
   {
    "ticker": "VATE",
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 6
+   "engagement": 7
   },
   {
    "ticker": "RDDT",
@@ -26,11 +26,11 @@
    "engagement": 9
   },
   {
-   "ticker": "LRCX",
-   "mentions": 2,
-   "bull": 0,
+   "ticker": "TTWO",
+   "mentions": 1,
+   "bull": 1,
    "bear": 0,
-   "engagement": 4
+   "engagement": 45
   },
   {
    "ticker": "RGNA",
@@ -51,7 +51,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 46
+   "engagement": 52
   },
   {
    "ticker": "HTZ",
@@ -61,21 +61,14 @@
    "engagement": 2
   },
   {
-   "ticker": "BRK",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 9
-  },
-  {
-   "ticker": "VT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 9
-  },
-  {
    "ticker": "RSP",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 9
+  },
+  {
+   "ticker": "BRK",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -89,11 +82,18 @@
    "engagement": 9
   },
   {
+   "ticker": "VT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 9
+  },
+  {
    "ticker": "SPY",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 21
+   "engagement": 31
   },
   {
    "ticker": "AMD",
@@ -182,18 +182,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1xomi9p/"
   },
   {
-   "title": "OpenAI just cut it's latest funding round target by $10B and slashed the valuation to 1.25T",
-   "score": 780,
-   "num_comments": 613,
-   "created_utc": 1793410476,
-   "url": "https://www.reddit.com/r/investing/comments/1xjxjqv/"
-  },
-  {
    "title": "Jensen Huang just admitted to an affair with a suspected Chinese spy. 9 days before earnings.",
    "score": 759,
    "num_comments": 192,
    "created_utc": 1794178338,
    "url": "https://www.reddit.com/r/investing/comments/1xrbjp6/"
+  },
+  {
+   "title": "My dad is mad at me for investing in the stock market after this recent crash",
+   "score": 676,
+   "num_comments": 458,
+   "created_utc": 1795127044,
+   "url": "https://www.reddit.com/r/investing/comments/1y0mp3v/"
   },
   {
    "title": "Midterms reduce uncertainty",
@@ -210,18 +210,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1xxuagk/"
   },
   {
+   "title": "NVIDIA - Buy the dip or wait?",
+   "score": 524,
+   "num_comments": 397,
+   "created_utc": 1794541507,
+   "url": "https://www.reddit.com/r/investing/comments/1xuxkvf/"
+  },
+  {
    "title": "Why is SpaceX winding down the Falcon 9 program and getting nothing in return?",
    "score": 461,
    "num_comments": 496,
    "created_utc": 1794314433,
    "url": "https://www.reddit.com/r/investing/comments/1xslvx7/"
-  },
-  {
-   "title": "NVIDIA - Buy the dip or wait?",
-   "score": 443,
-   "num_comments": 361,
-   "created_utc": 1794541507,
-   "url": "https://www.reddit.com/r/investing/comments/1xuxkvf/"
   },
   {
    "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
