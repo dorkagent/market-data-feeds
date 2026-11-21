@@ -1,8 +1,8 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-11-20T20:32:30.495492+00:00",
+ "generated_at": "2026-11-21T19:29:29.245145+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-14T20:50:40+00:00",
+ "window_start": "2026-09-16T09:13:30+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
@@ -54,25 +54,11 @@
    "engagement": 198
   },
   {
-   "ticker": "INTC",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 43
-  },
-  {
    "ticker": "META",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
    "engagement": 35
-  },
-  {
-   "ticker": "NBIS",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 29
   },
   {
    "ticker": "IREN",
@@ -124,7 +110,21 @@
    "engagement": 18
   },
   {
-   "ticker": "NVTS",
+   "ticker": "INTC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 42
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "SNXX",
    "mentions": 1,
    "bull": 1,
    "bear": 1,

@@ -1,15 +1,15 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-20T20:32:04.879937+00:00",
+ "generated_at": "2026-11-21T19:28:55.559963+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-31T20:27:47+00:00",
+ "window_start": "2026-11-03T11:59:17+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 11,
+   "mentions": 10,
    "bull": 2,
-   "bear": 5,
-   "engagement": 194
+   "bear": 4,
+   "engagement": 192
   },
   {
    "ticker": "VATE",
@@ -26,11 +26,25 @@
    "engagement": 9
   },
   {
+   "ticker": "IESC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 46
+  },
+  {
    "ticker": "TTWO",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 45
+   "engagement": 47
   },
   {
    "ticker": "RGNA",
@@ -51,7 +65,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 52
+   "engagement": 51
   },
   {
    "ticker": "HTZ",
@@ -59,6 +73,13 @@
    "bull": 1,
    "bear": 1,
    "engagement": 2
+  },
+  {
+   "ticker": "VT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 9
   },
   {
    "ticker": "RSP",
@@ -76,13 +97,6 @@
   },
   {
    "ticker": "IQQ",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 9
-  },
-  {
-   "ticker": "VT",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -129,20 +143,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 71
-  },
-  {
-   "ticker": "ASTS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 10
-  },
-  {
-   "ticker": "BTC",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 8
   }
  ],
  "top_posts": [
@@ -159,6 +159,13 @@
    "num_comments": 378,
    "created_utc": 1794451942,
    "url": "https://www.reddit.com/r/investing/comments/1xu1gvt/"
+  },
+  {
+   "title": "My dad is mad at me for investing in the stock market after this recent crash",
+   "score": 1073,
+   "num_comments": 641,
+   "created_utc": 1795127044,
+   "url": "https://www.reddit.com/r/investing/comments/1y0mp3v/"
   },
   {
    "title": "WSJ: Nvidia's board is preparing to oust Jensen Huang. Stock down 8% after hours",
@@ -189,13 +196,6 @@
    "url": "https://www.reddit.com/r/investing/comments/1xrbjp6/"
   },
   {
-   "title": "My dad is mad at me for investing in the stock market after this recent crash",
-   "score": 676,
-   "num_comments": 458,
-   "created_utc": 1795127044,
-   "url": "https://www.reddit.com/r/investing/comments/1y0mp3v/"
-  },
-  {
    "title": "Midterms reduce uncertainty",
    "score": 577,
    "num_comments": 202,
@@ -224,11 +224,25 @@
    "url": "https://www.reddit.com/r/investing/comments/1xslvx7/"
   },
   {
+   "title": "Ed Zitron, who called the bubble very vocally with detailed analysis, is now speaking on CNBC with further concerns after hours",
+   "score": 410,
+   "num_comments": 400,
+   "created_utc": 1795222352,
+   "url": "https://www.reddit.com/r/investing/comments/1y1jvyc/"
+  },
+  {
    "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
-   "score": 370,
-   "num_comments": 72,
+   "score": 403,
+   "num_comments": 75,
    "created_utc": 1794668988,
    "url": "https://www.reddit.com/r/investing/comments/1xw4o4d/"
+  },
+  {
+   "title": "What is everyone buying during this pullback?",
+   "score": 330,
+   "num_comments": 383,
+   "created_utc": 1795180612,
+   "url": "https://www.reddit.com/r/investing/comments/1y137w6/"
   },
   {
    "title": "Legendary investor Druckenmiller moves to cash: \"we're in capital preservation\"",
@@ -236,20 +250,6 @@
    "num_comments": 93,
    "created_utc": 1794938158,
    "url": "https://www.reddit.com/r/investing/comments/1xyraab/"
-  },
-  {
-   "title": "Reddit beat its guide and grew revenue 53%, then had its worst day ever (\u221229%). The 10-Q shows why: US daily users fell 5% in one quarter, a",
-   "score": 297,
-   "num_comments": 110,
-   "created_utc": 1793623729,
-   "url": "https://www.reddit.com/r/investing/comments/1xlwa3j/"
-  },
-  {
-   "title": "Why is Elon/SpaceX even interested in becoming a telecom carrier?",
-   "score": 290,
-   "num_comments": 532,
-   "created_utc": 1794190064,
-   "url": "https://www.reddit.com/r/investing/comments/1xrfm6p/"
   }
  ]
 }

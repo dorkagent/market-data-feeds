@@ -1,64 +1,134 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-11-20T20:31:59.760595+00:00",
+ "generated_at": "2026-11-21T19:28:48.558283+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-19T20:58:14+00:00",
+ "window_start": "2026-11-20T19:58:09+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 20,
-   "bull": 4,
-   "bear": 2,
-   "engagement": 2955
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 5,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 17
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 97
+   "mentions": 13,
+   "bull": 2,
+   "bear": 3,
+   "engagement": 3506
   },
   {
    "ticker": "SPY",
-   "mentions": 4,
+   "mentions": 6,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 37
+  },
+  {
+   "ticker": "ANT",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 10
+  },
+  {
+   "ticker": "MSTR",
+   "mentions": 2,
    "bull": 1,
+   "bear": 1,
+   "engagement": 765
+  },
+  {
+   "ticker": "TTWO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "BTC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "CRWV",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 13
+  },
+  {
+   "ticker": "AAPL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 30
+  },
+  {
+   "ticker": "WEN",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "QBTS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 8
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 46
+  },
+  {
+   "ticker": "CRWD",
+   "mentions": 1,
+   "bull": 0,
    "bear": 0,
    "engagement": 57
   },
   {
-   "ticker": "ANT",
-   "mentions": 4,
-   "bull": 1,
+   "ticker": "ZS",
+   "mentions": 1,
+   "bull": 0,
    "bear": 0,
-   "engagement": 202
+   "engagement": 57
+  },
+  {
+   "ticker": "RBRK",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 57
+  },
+  {
+   "ticker": "GME",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 60
+  },
+  {
+   "ticker": "SGOV",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 1
   },
   {
    "ticker": "NBIS",
-   "mentions": 2,
+   "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "CRWV",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 5
-  },
-  {
-   "ticker": "SE",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 40
+   "engagement": 1
   },
   {
    "ticker": "CHAT",
@@ -68,188 +138,118 @@
    "engagement": 1
   },
   {
-   "ticker": "MU",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SNDK",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "MRVL",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SOX",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "ROPE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "WES",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 195
-  },
-  {
-   "ticker": "HVN",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 195
-  },
-  {
-   "ticker": "JBH",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 195
-  },
-  {
-   "ticker": "AAPL",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 3
-  },
-  {
-   "ticker": "BTC",
+   "ticker": "QQQ",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 45
+   "engagement": 1
   }
  ],
  "top_posts": [
   {
-   "title": "Too much realism?",
-   "score": 11881,
-   "num_comments": 120,
-   "created_utc": 1795185321,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y15158/"
+   "title": "Morgan Stanley, Anthropic's IPO bank, completely exited in only 2 trading days.",
+   "score": 16704,
+   "num_comments": 1215,
+   "created_utc": 1795224527,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1km0p/"
   },
   {
-   "title": "Last 4 month heat map",
-   "score": 5758,
-   "num_comments": 443,
-   "created_utc": 1795133359,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y0p1ho/"
+   "title": "BREAKING: Bonnie Blue is reportedly \u2018furious\u2019 claiming Anthropic STOLE her idea to fuck 1 million men in 24 hours",
+   "score": 15364,
+   "num_comments": 283,
+   "created_utc": 1795214970,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1h8eu/"
   },
   {
-   "title": "US Approved AI Chip Sales to China\u2019s Tencent, Alibaba, Data Show",
-   "score": 5737,
-   "num_comments": 503,
-   "created_utc": 1795147402,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y0tros/"
+   "title": "1.4M to 120k. I am never gonna financially recover from this.",
+   "score": 6956,
+   "num_comments": 1725,
+   "created_utc": 1795212496,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1gajf/"
   },
   {
-   "title": "Suicide Hotline",
-   "score": 2771,
-   "num_comments": 466,
-   "created_utc": 1795189543,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y16rit/"
+   "title": "This is the state of our economy right now",
+   "score": 4631,
+   "num_comments": 132,
+   "created_utc": 1795213043,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1gi6h/"
   },
   {
-   "title": "Cathie proves again hero of \"buy high, sell low\" method",
-   "score": 2607,
-   "num_comments": 169,
-   "created_utc": 1795154194,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y0vs7x/"
+   "title": "Wallstreet black Friday, are you in ?",
+   "score": 4367,
+   "num_comments": 103,
+   "created_utc": 1795246442,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1r83v/"
   },
   {
-   "title": "The Last Thing You See Before Getting Margin Called",
-   "score": 2519,
-   "num_comments": 92,
-   "created_utc": 1795125671,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y0m5tb/"
+   "title": "The Market on Monday:",
+   "score": 3404,
+   "num_comments": 146,
+   "created_utc": 1795223228,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1k6nb/"
   },
   {
-   "title": "Recession indicator",
-   "score": 2159,
-   "num_comments": 50,
-   "created_utc": 1795131229,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y0o8qf/"
+   "title": "Your wife asks if we should use some of our stock market gains to buy Christmas gifts this year",
+   "score": 3173,
+   "num_comments": 128,
+   "created_utc": 1795244649,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1qqtt/"
   },
   {
-   "title": "I quit my job, up $200k in 2 weeks",
-   "score": 2061,
-   "num_comments": 378,
-   "created_utc": 1795144754,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y0sxjs/"
+   "title": "Jensen Huang tipped to raise US$50 billion for new semiconductor venture after Nvidia exit",
+   "score": 3170,
+   "num_comments": 588,
+   "created_utc": 1795212595,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1gbwn/"
   },
   {
-   "title": "130k lost at 22 years old",
-   "score": 2029,
-   "num_comments": 1011,
-   "created_utc": 1795150262,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y0ummo/"
+   "title": "Anthropic: $1.4T valuation with $4.6B revenue vs Samsung: $935B valuation  with $236B revenue.",
+   "score": 2749,
+   "num_comments": 326,
+   "created_utc": 1795258218,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1ua3p/"
   },
   {
-   "title": "Seems like the time for this banger of a meme to return.",
-   "score": 1500,
-   "num_comments": 29,
-   "created_utc": 1795130366,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y0nxmc/"
+   "title": "It's not funny anymore",
+   "score": 2589,
+   "num_comments": 106,
+   "created_utc": 1795275341,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1ztah/"
   },
   {
-   "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-   "score": 1444,
-   "num_comments": 263,
-   "created_utc": 1795196815,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y19vfr/"
+   "title": "Some of you need to go ahead and get these filled out",
+   "score": 2116,
+   "num_comments": 194,
+   "created_utc": 1795211433,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1fvq5/"
   },
   {
-   "title": "Are we setting up for a Black Monday?",
-   "score": 1165,
-   "num_comments": 722,
-   "created_utc": 1795195354,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1990c/"
+   "title": "If Jensen is getting divorced why am I the one losing 50%?",
+   "score": 2106,
+   "num_comments": 82,
+   "created_utc": 1795249765,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1s3uk/"
   },
   {
-   "title": "BREAKING: California is launching an investigation into whether Nvidia, $NVDA, \u201cmisled investors\u201d amid the Jensen Huang situation.",
-   "score": 1138,
-   "num_comments": 180,
-   "created_utc": 1795128994,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y0nfiu/"
+   "title": "NVDA lost 2.7 Trillion in market cap since Oct 2nd....",
+   "score": 2034,
+   "num_comments": 525,
+   "created_utc": 1795225008,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1krky/"
   },
   {
-   "title": "Nvidia had ship authorization from Commerce",
-   "score": 913,
-   "num_comments": 157,
-   "created_utc": 1795193449,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y18ev1/"
+   "title": "degens who didn\u2019t buy Anthropic yesterday and missed the rape-rug.",
+   "score": 1960,
+   "num_comments": 46,
+   "created_utc": 1795258988,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1uhq9/"
   },
   {
-   "title": "Some of you",
-   "score": 857,
-   "num_comments": 63,
-   "created_utc": 1795144389,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y0st58/"
+   "title": "Nasdaq -6%",
+   "score": 1786,
+   "num_comments": 44,
+   "created_utc": 1795214892,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1h7cz/"
   }
  ]
 }

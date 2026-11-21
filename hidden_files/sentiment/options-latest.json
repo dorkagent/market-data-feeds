@@ -1,22 +1,22 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-20T20:32:40.013051+00:00",
+ "generated_at": "2026-11-21T19:29:43.064388+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-13T12:52:03+00:00",
+ "window_start": "2026-10-14T01:39:03+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
    "mentions": 15,
    "bull": 10,
    "bear": 9,
-   "engagement": 702
+   "engagement": 748
   },
   {
    "ticker": "NVDA",
-   "mentions": 12,
-   "bull": 4,
-   "bear": 8,
-   "engagement": 1519
+   "mentions": 13,
+   "bull": 5,
+   "bear": 9,
+   "engagement": 1566
   },
   {
    "ticker": "TSLA",
@@ -44,7 +44,7 @@
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 24
+   "engagement": 26
   },
   {
    "ticker": "META",
@@ -210,6 +210,13 @@
    "url": "https://www.reddit.com/r/options/comments/1xdo2w2/"
   },
   {
+   "title": "PFOF should be banned",
+   "score": 114,
+   "num_comments": 187,
+   "created_utc": 1794679609,
+   "url": "https://www.reddit.com/r/options/comments/1xw905f/"
+  },
+  {
    "title": "Volatility Is the Only Honest Indicator",
    "score": 111,
    "num_comments": 66,
@@ -236,13 +243,6 @@
    "num_comments": 250,
    "created_utc": 1792964033,
    "url": "https://www.reddit.com/r/options/comments/1xfei16/"
-  },
-  {
-   "title": "If your goal is to collect premium, the short strangle is the best way to do it. Prove me wrong",
-   "score": 103,
-   "num_comments": 117,
-   "created_utc": 1794253354,
-   "url": "https://www.reddit.com/r/options/comments/1xs1jtp/"
   }
  ]
 }

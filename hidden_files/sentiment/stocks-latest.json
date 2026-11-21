@@ -1,22 +1,22 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-20T20:32:11.194686+00:00",
+ "generated_at": "2026-11-21T19:29:03.438162+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-15T12:53:46+00:00",
+ "window_start": "2026-11-17T01:06:53+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 18,
+   "mentions": 16,
    "bull": 5,
    "bear": 2,
-   "engagement": 146
+   "engagement": 162
   },
   {
    "ticker": "ANT",
    "mentions": 6,
    "bull": 4,
    "bear": 0,
-   "engagement": 106
+   "engagement": 105
   },
   {
    "ticker": "SPY",
@@ -40,11 +40,18 @@
    "engagement": 2
   },
   {
+   "ticker": "QQQ",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 34
+  },
+  {
    "ticker": "CRWV",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 1
+   "engagement": 26
   },
   {
    "ticker": "NFLX",
@@ -52,13 +59,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 282
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 31
   },
   {
    "ticker": "SMCI",
@@ -154,11 +154,25 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xyoyf9/"
   },
   {
-   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-   "score": 2200,
-   "num_comments": 860,
-   "created_utc": 1794773609,
-   "url": "https://www.reddit.com/r/stocks/comments/1xx5hj8/"
+   "title": "The S&P 500 just had its sixth straight red day, longest streak in about 2.5 years. Are you buying this or waiting?",
+   "score": 2064,
+   "num_comments": 774,
+   "created_utc": 1795201131,
+   "url": "https://www.reddit.com/r/stocks/comments/1y1bpsc/"
+  },
+  {
+   "title": "Is NVIDIA a legitimate red flag now?",
+   "score": 1931,
+   "num_comments": 1314,
+   "created_utc": 1795228442,
+   "url": "https://www.reddit.com/r/stocks/comments/1y1lvsy/"
+  },
+  {
+   "title": "Suicide Hotline",
+   "score": 1730,
+   "num_comments": 421,
+   "created_utc": 1795189477,
+   "url": "https://www.reddit.com/r/stocks/comments/1y16qje/"
   },
   {
    "title": "Trump\u2019s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
@@ -168,20 +182,6 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xykmem/"
   },
   {
-   "title": "Anthropic is a fucking disaster.",
-   "score": 1436,
-   "num_comments": 942,
-   "created_utc": 1794770133,
-   "url": "https://www.reddit.com/r/stocks/comments/1xx415g/"
-  },
-  {
-   "title": "BREAKING: TRUMP SIGNALS SUPPORT FOR JENSEN HUANG\u2019S RETURN TO NVIDIA",
-   "score": 1350,
-   "num_comments": 700,
-   "created_utc": 1794841760,
-   "url": "https://www.reddit.com/r/stocks/comments/1xxrrkb/"
-  },
-  {
    "title": "If Nvidia matched the forward PE of Costco, Nvidia would have a market cap of $16T",
    "score": 1312,
    "num_comments": 338,
@@ -189,25 +189,18 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xyz9se/"
   },
   {
+   "title": "DCA and buy in to major companies. These opportunities don\u2019t happen often.",
+   "score": 1190,
+   "num_comments": 470,
+   "created_utc": 1795124411,
+   "url": "https://www.reddit.com/r/stocks/comments/1y0lnyg/"
+  },
+  {
    "title": "Anthropic broke SpaceX IPO record - $81 billion raised",
    "score": 1168,
    "num_comments": 430,
    "created_utc": 1795045339,
    "url": "https://www.reddit.com/r/stocks/comments/1xzuikk/"
-  },
-  {
-   "title": "DCA and buy in to major companies. These opportunities don\u2019t happen often.",
-   "score": 992,
-   "num_comments": 392,
-   "created_utc": 1795124411,
-   "url": "https://www.reddit.com/r/stocks/comments/1y0lnyg/"
-  },
-  {
-   "title": "Suicide Hotline",
-   "score": 893,
-   "num_comments": 275,
-   "created_utc": 1795189477,
-   "url": "https://www.reddit.com/r/stocks/comments/1y16qje/"
   },
   {
    "title": "Anthropic is going public at a $1.4 trillion valuation, founded by people who left OpenAI because AI was moving too fast",
@@ -224,25 +217,32 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xywpnl/"
   },
   {
-   "title": "Scott Bessent on Fox torching Jensen Huang",
-   "score": 731,
-   "num_comments": 375,
-   "created_utc": 1794761114,
-   "url": "https://www.reddit.com/r/stocks/comments/1xx06i4/"
-  },
-  {
-   "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
-   "score": 722,
-   "num_comments": 308,
-   "created_utc": 1794851517,
-   "url": "https://www.reddit.com/r/stocks/comments/1xxw2l7/"
+   "title": "NVIDIA beats earnings, Anthropic launches a blockbuster IPO, yet AI stocks keep selling off. What's going on?",
+   "score": 783,
+   "num_comments": 1099,
+   "created_utc": 1795191721,
+   "url": "https://www.reddit.com/r/stocks/comments/1y17ops/"
   },
   {
    "title": "Pre-market in deep red today too!",
-   "score": 643,
-   "num_comments": 400,
+   "score": 780,
+   "num_comments": 453,
    "created_utc": 1795176640,
    "url": "https://www.reddit.com/r/stocks/comments/1y11vgz/"
+  },
+  {
+   "title": "Michael Burry Locks In Gains on Nvidia, Chipmaker ETF Puts As AI Rout Deepens",
+   "score": 626,
+   "num_comments": 156,
+   "created_utc": 1795217259,
+   "url": "https://www.reddit.com/r/stocks/comments/1y1i2ql/"
+  },
+  {
+   "title": "Reuters - Nvidia's accounting is a focus of US SEC investigation, sources say",
+   "score": 613,
+   "num_comments": 156,
+   "created_utc": 1795202880,
+   "url": "https://www.reddit.com/r/stocks/comments/1y1cgll/"
   },
   {
    "title": "Relax and Buy the Dip",

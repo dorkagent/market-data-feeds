@@ -1,22 +1,22 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-20T20:32:24.052003+00:00",
+ "generated_at": "2026-11-21T19:29:18.480719+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-09T16:31:56+00:00",
+ "window_start": "2026-11-11T03:52:25+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 22,
    "bull": 11,
    "bear": 9,
-   "engagement": 1534
+   "engagement": 1519
   },
   {
    "ticker": "AMD",
-   "mentions": 8,
-   "bull": 7,
+   "mentions": 7,
+   "bull": 6,
    "bear": 5,
-   "engagement": 450
+   "engagement": 204
   },
   {
    "ticker": "MSFT",
@@ -24,6 +24,13 @@
    "bull": 1,
    "bear": 1,
    "engagement": 77
+  },
+  {
+   "ticker": "AMC",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 8
   },
   {
    "ticker": "CRWV",
@@ -44,14 +51,14 @@
    "mentions": 2,
    "bull": 2,
    "bear": 2,
-   "engagement": 134
+   "engagement": 161
   },
   {
    "ticker": "MELI",
    "mentions": 2,
    "bull": 0,
    "bear": 2,
-   "engagement": 185
+   "engagement": 204
   },
   {
    "ticker": "ANT",
@@ -75,11 +82,25 @@
    "engagement": 3
   },
   {
+   "ticker": "INTU",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 4
+  },
+  {
+   "ticker": "MO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 4
+  },
+  {
    "ticker": "MRVL",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 51
+   "engagement": 78
   },
   {
    "ticker": "UHN",
@@ -93,7 +114,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 319
+   "engagement": 331
   },
   {
    "ticker": "UBER",
@@ -122,30 +143,16 @@
    "bull": 1,
    "bear": 0,
    "engagement": 10
-  },
-  {
-   "ticker": "INTC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "UNH",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 95
-  },
-  {
-   "ticker": "JPM",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 95
   }
  ],
  "top_posts": [
+  {
+   "title": "This sell off is strange",
+   "score": 1850,
+   "num_comments": 1393,
+   "created_utc": 1795144828,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0syfw/"
+  },
   {
    "title": "NVIDIA crashes to ~$150 today. Am I crazy for thinking the massive buyback makes this interesting?",
    "score": 1328,
@@ -154,11 +161,25 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xueqbk/"
   },
   {
-   "title": "This sell off is strange",
-   "score": 1065,
-   "num_comments": 999,
-   "created_utc": 1795144828,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0syfw/"
+   "title": "I would be jealous of anyone with a lot of money who can start investing next week.",
+   "score": 721,
+   "num_comments": 328,
+   "created_utc": 1795210543,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y1fjp7/"
+  },
+  {
+   "title": "To people getting hammered in this market",
+   "score": 632,
+   "num_comments": 361,
+   "created_utc": 1795120495,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0k39t/"
+  },
+  {
+   "title": "It's time to be honest, this is a horrible market",
+   "score": 597,
+   "num_comments": 528,
+   "created_utc": 1795104452,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0d67m/"
   },
   {
    "title": "No irony please - is NVIDIA, currently at around $158, actually a Value Stock?",
@@ -168,25 +189,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xtz7d7/"
   },
   {
-   "title": "It's time to be honest, this is a horrible market",
-   "score": 561,
-   "num_comments": 484,
-   "created_utc": 1795104452,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0d67m/"
-  },
-  {
    "title": "The bubble is in consumer staple stocks not tech stocks.",
    "score": 556,
    "num_comments": 235,
    "created_utc": 1794732499,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xwqodo/"
-  },
-  {
-   "title": "To people getting hammered in this market",
-   "score": 538,
-   "num_comments": 322,
-   "created_utc": 1795120495,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0k39t/"
   },
   {
    "title": "Nvda forward PE is now 9.79",
@@ -201,13 +208,6 @@
    "num_comments": 315,
    "created_utc": 1794436445,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xtvucb/"
-  },
-  {
-   "title": "Costco to Pay out $30 Special Dividend, Renews $4B Stock Buyback Program - wsj",
-   "score": 343,
-   "num_comments": 60,
-   "created_utc": 1794351906,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xt1kte/"
   },
   {
    "title": "Has the AI bubble quietly popped?",
@@ -245,11 +245,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xue2mf/"
   },
   {
-   "title": "Oatly: A 97% Crash Hides A Turnaround At The World\u2019s Largest Oat Milk Company",
-   "score": 213,
-   "num_comments": 143,
-   "created_utc": 1794816901,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxjyvr/"
+   "title": "It's time to be honest, this is the market we have been waiting for!",
+   "score": 218,
+   "num_comments": 166,
+   "created_utc": 1795105625,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0doo9/"
   }
  ]
 }
