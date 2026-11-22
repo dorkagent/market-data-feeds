@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-21T19:28:55.559963+00:00",
+ "generated_at": "2026-11-22T19:51:02.772027+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-03T11:59:17+00:00",
+ "window_start": "2026-11-04T03:36:53+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -19,25 +19,18 @@
    "engagement": 7
   },
   {
-   "ticker": "RDDT",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 9
-  },
-  {
    "ticker": "IESC",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 2
   },
   {
    "ticker": "QQQ",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 46
+   "engagement": 51
   },
   {
    "ticker": "TTWO",
@@ -75,6 +68,13 @@
    "engagement": 2
   },
   {
+   "ticker": "IQQ",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 9
+  },
+  {
    "ticker": "VT",
    "mentions": 1,
    "bull": 1,
@@ -90,13 +90,6 @@
   },
   {
    "ticker": "BRK",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 9
-  },
-  {
-   "ticker": "IQQ",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -143,6 +136,13 @@
    "bull": 1,
    "bear": 0,
    "engagement": 71
+  },
+  {
+   "ticker": "ASTS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 10
   }
  ],
  "top_posts": [
@@ -182,6 +182,13 @@
    "url": "https://www.reddit.com/r/investing/comments/1xoxssu/"
   },
   {
+   "title": "This is healthy as a long term investor",
+   "score": 904,
+   "num_comments": 227,
+   "created_utc": 1795252625,
+   "url": "https://www.reddit.com/r/investing/comments/1y1su5g/"
+  },
+  {
    "title": "Nasdaq down 6%, CoreWeave down 55% in a month. Is the AI trade breaking or is this a midterm overreaction?",
    "score": 841,
    "num_comments": 461,
@@ -210,6 +217,13 @@
    "url": "https://www.reddit.com/r/investing/comments/1xxuagk/"
   },
   {
+   "title": "Ed Zitron, who called the bubble very vocally with detailed analysis, is now speaking on CNBC with further concerns after hours",
+   "score": 556,
+   "num_comments": 533,
+   "created_utc": 1795222352,
+   "url": "https://www.reddit.com/r/investing/comments/1y1jvyc/"
+  },
+  {
    "title": "NVIDIA - Buy the dip or wait?",
    "score": 524,
    "num_comments": 397,
@@ -224,13 +238,6 @@
    "url": "https://www.reddit.com/r/investing/comments/1xslvx7/"
   },
   {
-   "title": "Ed Zitron, who called the bubble very vocally with detailed analysis, is now speaking on CNBC with further concerns after hours",
-   "score": 410,
-   "num_comments": 400,
-   "created_utc": 1795222352,
-   "url": "https://www.reddit.com/r/investing/comments/1y1jvyc/"
-  },
-  {
    "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
    "score": 403,
    "num_comments": 75,
@@ -238,18 +245,11 @@
    "url": "https://www.reddit.com/r/investing/comments/1xw4o4d/"
   },
   {
-   "title": "What is everyone buying during this pullback?",
-   "score": 330,
-   "num_comments": 383,
-   "created_utc": 1795180612,
-   "url": "https://www.reddit.com/r/investing/comments/1y137w6/"
-  },
-  {
-   "title": "Legendary investor Druckenmiller moves to cash: \"we're in capital preservation\"",
-   "score": 322,
-   "num_comments": 93,
-   "created_utc": 1794938158,
-   "url": "https://www.reddit.com/r/investing/comments/1xyraab/"
+   "title": "Family mad about stock picks",
+   "score": 354,
+   "num_comments": 446,
+   "created_utc": 1795190714,
+   "url": "https://www.reddit.com/r/investing/comments/1y179ig/"
   }
  ]
 }

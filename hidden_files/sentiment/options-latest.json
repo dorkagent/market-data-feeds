@@ -1,29 +1,29 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-21T19:29:43.064388+00:00",
+ "generated_at": "2026-11-22T19:51:50.945741+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-14T01:39:03+00:00",
+ "window_start": "2026-10-14T16:28:05+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
    "mentions": 15,
    "bull": 10,
    "bear": 9,
-   "engagement": 748
+   "engagement": 758
   },
   {
    "ticker": "NVDA",
    "mentions": 13,
    "bull": 5,
    "bear": 9,
-   "engagement": 1566
+   "engagement": 1685
   },
   {
    "ticker": "TSLA",
    "mentions": 6,
    "bull": 3,
    "bear": 5,
-   "engagement": 164
+   "engagement": 180
   },
   {
    "ticker": "QQQ",
@@ -161,6 +161,13 @@
    "url": "https://www.reddit.com/r/options/comments/1xtvzv0/"
   },
   {
+   "title": "Nvidia $200 calls expire next Friday.",
+   "score": 274,
+   "num_comments": 423,
+   "created_utc": 1794705322,
+   "url": "https://www.reddit.com/r/options/comments/1xwio6f/"
+  },
+  {
    "title": "NVDA EARNINGS \u2014 ARE WE ABOUT TO SEE A MASSIVE BOUNCE OR ANOTHER SELLOFF? \ud83d\ude80",
    "score": 268,
    "num_comments": 254,
@@ -182,13 +189,6 @@
    "url": "https://www.reddit.com/r/options/comments/1xp4l5d/"
   },
   {
-   "title": "Nvidia $200 calls expire next Friday.",
-   "score": 225,
-   "num_comments": 387,
-   "created_utc": 1794705322,
-   "url": "https://www.reddit.com/r/options/comments/1xwio6f/"
-  },
-  {
    "title": "I backtested a simple 0DTE SPX strategy for 2 years. Is this overfit or actually realistic?",
    "score": 210,
    "num_comments": 135,
@@ -197,8 +197,8 @@
   },
   {
    "title": "Sold puts on NVDA",
-   "score": 164,
-   "num_comments": 135,
+   "score": 188,
+   "num_comments": 160,
    "created_utc": 1794759649,
    "url": "https://www.reddit.com/r/options/comments/1xwzk8u/"
   },

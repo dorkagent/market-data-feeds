@@ -1,8 +1,8 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-11-21T19:29:29.245145+00:00",
+ "generated_at": "2026-11-22T19:51:40.480331+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-16T09:13:30+00:00",
+ "window_start": "2026-09-16T22:23:20+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
@@ -117,21 +117,7 @@
    "engagement": 42
   },
   {
-   "ticker": "NBIS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
-   "ticker": "SNXX",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
-   "ticker": "ROBN",
+   "ticker": "AMZN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -139,6 +125,20 @@
   },
   {
    "ticker": "VST",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "SPCH",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "SNXX",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -203,6 +203,13 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1x0u7wm/"
   },
   {
+   "title": "What happens after the VIX closes above 37?",
+   "score": 155,
+   "num_comments": 47,
+   "created_utc": 1795208355,
+   "url": "https://www.reddit.com/r/thetagang/comments/1y1eott/"
+  },
+  {
    "title": "Aggressive Wheeling Results Since May",
    "score": 153,
    "num_comments": 50,
@@ -243,13 +250,6 @@
    "num_comments": 54,
    "created_utc": 1792700535,
    "url": "https://www.reddit.com/r/thetagang/comments/1xctp9w/"
-  },
-  {
-   "title": "Triple Witching effect on AMD $550 call today",
-   "score": 141,
-   "num_comments": 31,
-   "created_utc": 1789770188,
-   "url": "https://www.reddit.com/r/thetagang/comments/1wk4d9v/"
   }
  ]
 }

@@ -1,15 +1,15 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-21T19:29:18.480719+00:00",
+ "generated_at": "2026-11-22T19:51:31.434495+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-11T03:52:25+00:00",
+ "window_start": "2026-11-11T22:46:08+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 22,
-   "bull": 11,
-   "bear": 9,
-   "engagement": 1519
+   "mentions": 25,
+   "bull": 12,
+   "bear": 10,
+   "engagement": 1696
   },
   {
    "ticker": "AMD",
@@ -22,15 +22,22 @@
    "ticker": "MSFT",
    "mentions": 4,
    "bull": 1,
-   "bear": 1,
-   "engagement": 77
+   "bear": 0,
+   "engagement": 115
+  },
+  {
+   "ticker": "MELI",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 3,
+   "engagement": 321
   },
   {
    "ticker": "AMC",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 8
+   "engagement": 9
   },
   {
    "ticker": "CRWV",
@@ -54,25 +61,11 @@
    "engagement": 161
   },
   {
-   "ticker": "MELI",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 2,
-   "engagement": 204
-  },
-  {
    "ticker": "ANT",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
    "engagement": 190
-  },
-  {
-   "ticker": "RDDT",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 132
   },
   {
    "ticker": "MSTR",
@@ -82,18 +75,25 @@
    "engagement": 3
   },
   {
+   "ticker": "IREN",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 74
+  },
+  {
    "ticker": "INTU",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 4
+   "engagement": 8
   },
   {
    "ticker": "MO",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 4
+   "engagement": 8
   },
   {
    "ticker": "MRVL",
@@ -162,8 +162,8 @@
   },
   {
    "title": "I would be jealous of anyone with a lot of money who can start investing next week.",
-   "score": 721,
-   "num_comments": 328,
+   "score": 1079,
+   "num_comments": 439,
    "created_utc": 1795210543,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y1fjp7/"
   },
@@ -173,6 +173,13 @@
    "num_comments": 361,
    "created_utc": 1795120495,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0k39t/"
+  },
+  {
+   "title": "The bubble is in consumer staple stocks not tech stocks.",
+   "score": 624,
+   "num_comments": 271,
+   "created_utc": 1794732499,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xwqodo/"
   },
   {
    "title": "It's time to be honest, this is a horrible market",
@@ -189,11 +196,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xtz7d7/"
   },
   {
-   "title": "The bubble is in consumer staple stocks not tech stocks.",
-   "score": 556,
-   "num_comments": 235,
-   "created_utc": 1794732499,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xwqodo/"
+   "title": "The Upside Down market: How are Walmart and Costco PE (48 and 52) trading at higher valuations than Google and NVIDIA (14 and 15?)",
+   "score": 500,
+   "num_comments": 277,
+   "created_utc": 1795256864,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y1txhf/"
   },
   {
    "title": "Nvda forward PE is now 9.79",
@@ -201,13 +208,6 @@
    "num_comments": 414,
    "created_utc": 1794863410,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xy1da2/"
-  },
-  {
-   "title": "Resignation calls grow for Nvidia CEO as second affair is reported per NYT, alongside moves to tighten Nvidia China exports. Nvidia down 8% ",
-   "score": 440,
-   "num_comments": 315,
-   "created_utc": 1794436445,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xtvucb/"
   },
   {
    "title": "Has the AI bubble quietly popped?",

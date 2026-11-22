@@ -1,15 +1,15 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-21T19:29:03.438162+00:00",
+ "generated_at": "2026-11-22T19:51:14.070224+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-17T01:06:53+00:00",
+ "window_start": "2026-11-17T16:07:52+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 16,
+   "mentions": 15,
    "bull": 5,
    "bear": 2,
-   "engagement": 162
+   "engagement": 152
   },
   {
    "ticker": "ANT",
@@ -20,10 +20,10 @@
   },
   {
    "ticker": "SPY",
-   "mentions": 5,
-   "bull": 2,
+   "mentions": 4,
+   "bull": 1,
    "bear": 0,
-   "engagement": 121
+   "engagement": 91
   },
   {
    "ticker": "RGNA",
@@ -79,7 +79,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 65
+   "engagement": 70
   },
   {
    "ticker": "AMD",
@@ -147,6 +147,13 @@
  ],
  "top_posts": [
   {
+   "title": "Is NVIDIA a legitimate red flag now?",
+   "score": 3338,
+   "num_comments": 1875,
+   "created_utc": 1795228442,
+   "url": "https://www.reddit.com/r/stocks/comments/1y1lvsy/"
+  },
+  {
    "title": "Jensen Huang breaks his silence on X. Released Statement that he'd be honored to return as CEO.",
    "score": 3098,
    "num_comments": 1056,
@@ -155,31 +162,17 @@
   },
   {
    "title": "The S&P 500 just had its sixth straight red day, longest streak in about 2.5 years. Are you buying this or waiting?",
-   "score": 2064,
-   "num_comments": 774,
+   "score": 2232,
+   "num_comments": 793,
    "created_utc": 1795201131,
    "url": "https://www.reddit.com/r/stocks/comments/1y1bpsc/"
   },
   {
-   "title": "Is NVIDIA a legitimate red flag now?",
-   "score": 1931,
-   "num_comments": 1314,
-   "created_utc": 1795228442,
-   "url": "https://www.reddit.com/r/stocks/comments/1y1lvsy/"
-  },
-  {
    "title": "Suicide Hotline",
-   "score": 1730,
-   "num_comments": 421,
+   "score": 1808,
+   "num_comments": 425,
    "created_utc": 1795189477,
    "url": "https://www.reddit.com/r/stocks/comments/1y16qje/"
-  },
-  {
-   "title": "Trump\u2019s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-   "score": 1562,
-   "num_comments": 73,
-   "created_utc": 1794922573,
-   "url": "https://www.reddit.com/r/stocks/comments/1xykmem/"
   },
   {
    "title": "If Nvidia matched the forward PE of Costco, Nvidia would have a market cap of $16T",
@@ -210,6 +203,20 @@
    "url": "https://www.reddit.com/r/stocks/comments/1y03bty/"
   },
   {
+   "title": "NVIDIA beats earnings, Anthropic launches a blockbuster IPO, yet AI stocks keep selling off. What's going on?",
+   "score": 844,
+   "num_comments": 1129,
+   "created_utc": 1795191721,
+   "url": "https://www.reddit.com/r/stocks/comments/1y17ops/"
+  },
+  {
+   "title": "Michael Burry Locks In Gains on Nvidia, Chipmaker ETF Puts As AI Rout Deepens",
+   "score": 802,
+   "num_comments": 171,
+   "created_utc": 1795217259,
+   "url": "https://www.reddit.com/r/stocks/comments/1y1i2ql/"
+  },
+  {
    "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
    "score": 800,
    "num_comments": 314,
@@ -217,30 +224,16 @@
    "url": "https://www.reddit.com/r/stocks/comments/1xywpnl/"
   },
   {
-   "title": "NVIDIA beats earnings, Anthropic launches a blockbuster IPO, yet AI stocks keep selling off. What's going on?",
-   "score": 783,
-   "num_comments": 1099,
-   "created_utc": 1795191721,
-   "url": "https://www.reddit.com/r/stocks/comments/1y17ops/"
-  },
-  {
    "title": "Pre-market in deep red today too!",
-   "score": 780,
-   "num_comments": 453,
+   "score": 789,
+   "num_comments": 455,
    "created_utc": 1795176640,
    "url": "https://www.reddit.com/r/stocks/comments/1y11vgz/"
   },
   {
-   "title": "Michael Burry Locks In Gains on Nvidia, Chipmaker ETF Puts As AI Rout Deepens",
-   "score": 626,
-   "num_comments": 156,
-   "created_utc": 1795217259,
-   "url": "https://www.reddit.com/r/stocks/comments/1y1i2ql/"
-  },
-  {
    "title": "Reuters - Nvidia's accounting is a focus of US SEC investigation, sources say",
-   "score": 613,
-   "num_comments": 156,
+   "score": 614,
+   "num_comments": 169,
    "created_utc": 1795202880,
    "url": "https://www.reddit.com/r/stocks/comments/1y1cgll/"
   },
@@ -250,6 +243,13 @@
    "num_comments": 370,
    "created_utc": 1795024517,
    "url": "https://www.reddit.com/r/stocks/comments/1xzlvft/"
+  },
+  {
+   "title": "NYT: Ex-Nvidia CEO Jensen Huang relied on public insults, graphic threats, and humiliation tactics to manage employees",
+   "score": 482,
+   "num_comments": 467,
+   "created_utc": 1795224191,
+   "url": "https://www.reddit.com/r/stocks/comments/1y1ki7l/"
   }
  ]
 }

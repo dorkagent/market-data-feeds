@@ -1,15 +1,15 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-21T19:29:11.197011+00:00",
+ "generated_at": "2026-11-22T19:51:24.640708+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-29T16:24:59+00:00",
+ "window_start": "2026-10-29T21:52:33+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 12,
    "bull": 4,
    "bear": 3,
-   "engagement": 5492
+   "engagement": 5495
   },
   {
    "ticker": "SPY",
@@ -61,11 +61,25 @@
    "engagement": 53
   },
   {
+   "ticker": "GME",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 956
+  },
+  {
    "ticker": "BE",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 37
+  },
+  {
+   "ticker": "COST",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 7
   },
   {
    "ticker": "WMT",
@@ -76,13 +90,6 @@
   },
   {
    "ticker": "TGT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 7
-  },
-  {
-   "ticker": "COST",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -117,14 +124,14 @@
    "engagement": 10
   },
   {
-   "ticker": "MU",
+   "ticker": "CLS",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "CLS",
+   "ticker": "MU",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -136,13 +143,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 9354
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
   }
  ],
  "top_posts": [
@@ -189,18 +189,25 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xy0snq/"
   },
   {
+   "title": "$8.9T Erased from US stock market in last 45 days and today alone was $2.5T.",
+   "score": 3731,
+   "num_comments": 322,
+   "created_utc": 1795222088,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1y1jspj/"
+  },
+  {
+   "title": "Dips keep coming",
+   "score": 3575,
+   "num_comments": 139,
+   "created_utc": 1795183567,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1y14bs9/"
+  },
+  {
    "title": "Nvidia deliberately kept GPU prices high through circular financing deals, report claims",
    "score": 3526,
    "num_comments": 211,
    "created_utc": 1794838932,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xxqkww/"
-  },
-  {
-   "title": "Dips keep coming",
-   "score": 3349,
-   "num_comments": 136,
-   "created_utc": 1795183567,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1y14bs9/"
   },
   {
    "title": "Sorry for crashing the market. I Just moved 150k over.",
@@ -215,13 +222,6 @@
    "num_comments": 111,
    "created_utc": 1793947463,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xp64cy/"
-  },
-  {
-   "title": "$8.9T Erased from US stock market in last 45 days and today alone was $2.5T.",
-   "score": 2643,
-   "num_comments": 252,
-   "created_utc": 1795222088,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1y1jspj/"
   },
   {
    "title": "It\u2019s only the first day, and already so many stocks have crashed. What a bloodbath.",
