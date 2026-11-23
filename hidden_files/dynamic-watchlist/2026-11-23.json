@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-23",
+  "built_at": "2026-11-23T14:52:51.804560-08:00",
+  "source": "https://stockanalysis.com/markets/premarket/",
+  "names": [
+    {
+      "ticker": "DELL",
+      "name": "Dell Technologies Inc.",
+      "pct": 37.76,
+      "price": 383.0,
+      "volume": 1154791,
+      "mcap": "213.39B"
+    },
+    {
+      "ticker": "NBIS",
+      "name": "Nebius Group N.V.",
+      "pct": 35.29,
+      "price": 110.0,
+      "volume": 7655551,
+      "mcap": "28.64B"
+    },
+    {
+      "ticker": "AAOI",
+      "name": "Applied Optoelectronics, Inc.",
+      "pct": 30.55,
+      "price": 42.99,
+      "volume": 1748064,
+      "mcap": "3.51B"
+    }
+  ]
+}
