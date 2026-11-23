@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-11-22T02:22:45.078281+00:00",
+  "generated_utc": "2026-11-23T02:54:52.668849+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. GDELT news tone/volume; throttled from this VM \u2014 cache-first, degrades silently on 429.",
   "source": "GDELT DOC 2.1 API (keyless, cache-first, 15s pacing)",
   "status": "ok",
   "tickers": {
     "SPY": {
       "timelinetone": {
-        "error": "Expecting value: line 1 column 1 (char 0)"
+        "error": "throttled (429)"
       },
       "timelinevol": {
         "error": "Expecting value: line 1 column 1 (char 0)"
@@ -54,7 +54,8 @@
         "avg_7d": -0.48,
         "min_7d": -4.93,
         "max_7d": 1.06,
-        "from_cache": true
+        "from_cache": true,
+        "stale": true
       },
       "timelinevol": {
         "points": 13,
