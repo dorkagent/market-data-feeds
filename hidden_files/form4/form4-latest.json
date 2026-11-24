@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T23:50:19",
+  "generated_at": "2026-11-24T02:32:44",
   "universe": [
     "AAPL",
     "MSFT",
@@ -16,7 +16,7 @@
       "distinct_insiders_30d": 0,
       "total_value_30d": 0,
       "max_single_30d": 0,
-      "sales_30d_count": 4,
+      "sales_30d_count": 6,
       "flags": []
     },
     "MSFT": {
@@ -30,7 +30,7 @@
       "flags": []
     },
     "NVDA": {
-      "filings_scanned": 12,
+      "filings_scanned": 11,
       "filings_targeted": 12,
       "p_buys_30d": [],
       "distinct_insiders_30d": 0,
@@ -51,5 +51,7 @@
     }
   },
   "flags": [],
-  "errors": []
+  "errors": [
+    "NVDA 0001696841-26-000016: HTTPError: 404 Client Error: Not Found for url: https://www.sec.gov/Archives/edgar/data/1045810/000169684126000016/index.json"
+  ]
 }
