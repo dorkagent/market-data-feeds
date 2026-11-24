@@ -15,8 +15,8 @@
     "BTCUSD"
   ],
   "window": {
-    "startdt": "2026-11-10",
-    "enddt": "2026-11-17"
+    "startdt": "2026-11-17",
+    "enddt": "2026-11-24"
   },
   "days": 7,
   "companies": [
@@ -28,7 +28,7 @@
         {
           "company": "NVIDIA CORP  (NVDA)  (CIK 0001045810)",
           "form": "8-K",
-          "file_date": "2026-11-12",
+          "file_date": "2026-11-23",
           "items": [
             "5.02",
             "9.01"
@@ -41,20 +41,54 @@
             "0001045810"
           ],
           "ticker": "NVDA"
+        },
+        {
+          "company": "NVIDIA CORP  (NVDA)  (CIK 0001045810)",
+          "form": "8-K",
+          "file_date": "2026-11-17",
+          "items": [
+            "2.02",
+            "9.01"
+          ],
+          "event_tags": [
+            "earnings",
+            "other"
+          ],
+          "ciks": [
+            "0001045810"
+          ],
+          "ticker": "NVDA"
         }
       ],
-      "filings_8k_count": 1,
+      "filings_8k_count": 2,
       "notable": [
         {
           "company": "NVIDIA CORP  (NVDA)  (CIK 0001045810)",
           "form": "8-K",
-          "file_date": "2026-11-12",
+          "file_date": "2026-11-23",
           "items": [
             "5.02",
             "9.01"
           ],
           "event_tags": [
             "leadership",
+            "other"
+          ],
+          "ciks": [
+            "0001045810"
+          ],
+          "ticker": "NVDA"
+        },
+        {
+          "company": "NVIDIA CORP  (NVDA)  (CIK 0001045810)",
+          "form": "8-K",
+          "file_date": "2026-11-17",
+          "items": [
+            "2.02",
+            "9.01"
+          ],
+          "event_tags": [
+            "earnings",
             "other"
           ],
           "ciks": [
@@ -97,9 +131,47 @@
       "ticker": "RMD",
       "cik": "0000943819",
       "title": "RESMED INC",
-      "filings_8k": [],
-      "filings_8k_count": 0,
-      "notable": []
+      "filings_8k": [
+        {
+          "company": "RESMED INC  (RMD, RSMDF)  (CIK 0000943819)",
+          "form": "8-K",
+          "file_date": "2026-11-19",
+          "items": [
+            "5.02",
+            "5.07",
+            "9.01"
+          ],
+          "event_tags": [
+            "leadership",
+            "other"
+          ],
+          "ciks": [
+            "0000943819"
+          ],
+          "ticker": "RMD"
+        }
+      ],
+      "filings_8k_count": 1,
+      "notable": [
+        {
+          "company": "RESMED INC  (RMD, RSMDF)  (CIK 0000943819)",
+          "form": "8-K",
+          "file_date": "2026-11-19",
+          "items": [
+            "5.02",
+            "5.07",
+            "9.01"
+          ],
+          "event_tags": [
+            "leadership",
+            "other"
+          ],
+          "ciks": [
+            "0000943819"
+          ],
+          "ticker": "RMD"
+        }
+      ]
     },
     {
       "ticker": "OKTA",
@@ -129,61 +201,139 @@
       "ticker": "AMAT",
       "cik": "0000006951",
       "title": "APPLIED MATERIALS INC /DE",
-      "filings_8k": [
-        {
-          "company": "APPLIED MATERIALS INC /DE  (AMAT)  (CIK 0000006951)",
-          "form": "8-K",
-          "file_date": "2026-11-12",
-          "items": [
-            "2.02",
-            "9.01"
-          ],
-          "event_tags": [
-            "earnings",
-            "other"
-          ],
-          "ciks": [
-            "0000006951"
-          ],
-          "ticker": "AMAT"
-        }
-      ],
-      "filings_8k_count": 1,
-      "notable": [
-        {
-          "company": "APPLIED MATERIALS INC /DE  (AMAT)  (CIK 0000006951)",
-          "form": "8-K",
-          "file_date": "2026-11-12",
-          "items": [
-            "2.02",
-            "9.01"
-          ],
-          "event_tags": [
-            "earnings",
-            "other"
-          ],
-          "ciks": [
-            "0000006951"
-          ],
-          "ticker": "AMAT"
-        }
-      ]
+      "filings_8k": [],
+      "filings_8k_count": 0,
+      "notable": []
     },
     {
       "ticker": "CRWD",
       "cik": "0001535527",
       "title": "CrowdStrike Holdings, Inc.",
-      "filings_8k": [],
-      "filings_8k_count": 0,
-      "notable": []
+      "filings_8k": [
+        {
+          "company": "CrowdStrike Holdings, Inc.  (CRWD)  (CIK 0001535527)",
+          "form": "8-K",
+          "file_date": "2026-11-23",
+          "items": [
+            "2.02",
+            "9.01"
+          ],
+          "event_tags": [
+            "earnings",
+            "other"
+          ],
+          "ciks": [
+            "0001535527"
+          ],
+          "ticker": "CRWD"
+        },
+        {
+          "company": "CrowdStrike Holdings, Inc.  (CRWD)  (CIK 0001535527)",
+          "form": "8-K",
+          "file_date": "2026-11-23",
+          "items": [
+            "1.01",
+            "7.01",
+            "9.01"
+          ],
+          "event_tags": [
+            "mna",
+            "other"
+          ],
+          "ciks": [
+            "0001535527"
+          ],
+          "ticker": "CRWD"
+        }
+      ],
+      "filings_8k_count": 2,
+      "notable": [
+        {
+          "company": "CrowdStrike Holdings, Inc.  (CRWD)  (CIK 0001535527)",
+          "form": "8-K",
+          "file_date": "2026-11-23",
+          "items": [
+            "2.02",
+            "9.01"
+          ],
+          "event_tags": [
+            "earnings",
+            "other"
+          ],
+          "ciks": [
+            "0001535527"
+          ],
+          "ticker": "CRWD"
+        },
+        {
+          "company": "CrowdStrike Holdings, Inc.  (CRWD)  (CIK 0001535527)",
+          "form": "8-K",
+          "file_date": "2026-11-23",
+          "items": [
+            "1.01",
+            "7.01",
+            "9.01"
+          ],
+          "event_tags": [
+            "mna",
+            "other"
+          ],
+          "ciks": [
+            "0001535527"
+          ],
+          "ticker": "CRWD"
+        }
+      ]
     },
     {
       "ticker": "PANW",
       "cik": "0001327567",
       "title": "Palo Alto Networks Inc",
-      "filings_8k": [],
-      "filings_8k_count": 0,
-      "notable": []
+      "filings_8k": [
+        {
+          "company": "Palo Alto Networks Inc  (PANW)  (CIK 0001327567)",
+          "form": "8-K",
+          "file_date": "2026-11-18",
+          "items": [
+            "2.02",
+            "3.02",
+            "7.01",
+            "8.01",
+            "9.01"
+          ],
+          "event_tags": [
+            "earnings",
+            "other"
+          ],
+          "ciks": [
+            "0001327567"
+          ],
+          "ticker": "PANW"
+        }
+      ],
+      "filings_8k_count": 1,
+      "notable": [
+        {
+          "company": "Palo Alto Networks Inc  (PANW)  (CIK 0001327567)",
+          "form": "8-K",
+          "file_date": "2026-11-18",
+          "items": [
+            "2.02",
+            "3.02",
+            "7.01",
+            "8.01",
+            "9.01"
+          ],
+          "event_tags": [
+            "earnings",
+            "other"
+          ],
+          "ciks": [
+            "0001327567"
+          ],
+          "ticker": "PANW"
+        }
+      ]
     },
     {
       "ticker": "BTCUSD",
@@ -200,7 +350,7 @@
         {
           "company": "NVIDIA CORP  (NVDA)  (CIK 0001045810)",
           "form": "8-K",
-          "file_date": "2026-11-12",
+          "file_date": "2026-11-23",
           "items": [
             "5.02",
             "9.01"
@@ -213,20 +363,54 @@
             "0001045810"
           ],
           "ticker": "NVDA"
+        },
+        {
+          "company": "NVIDIA CORP  (NVDA)  (CIK 0001045810)",
+          "form": "8-K",
+          "file_date": "2026-11-17",
+          "items": [
+            "2.02",
+            "9.01"
+          ],
+          "event_tags": [
+            "earnings",
+            "other"
+          ],
+          "ciks": [
+            "0001045810"
+          ],
+          "ticker": "NVDA"
         }
       ],
-      "filings_8k_count": 1,
+      "filings_8k_count": 2,
       "notable": [
         {
           "company": "NVIDIA CORP  (NVDA)  (CIK 0001045810)",
           "form": "8-K",
-          "file_date": "2026-11-12",
+          "file_date": "2026-11-23",
           "items": [
             "5.02",
             "9.01"
           ],
           "event_tags": [
             "leadership",
+            "other"
+          ],
+          "ciks": [
+            "0001045810"
+          ],
+          "ticker": "NVDA"
+        },
+        {
+          "company": "NVIDIA CORP  (NVDA)  (CIK 0001045810)",
+          "form": "8-K",
+          "file_date": "2026-11-17",
+          "items": [
+            "2.02",
+            "9.01"
+          ],
+          "event_tags": [
+            "earnings",
             "other"
           ],
           "ciks": [
@@ -237,34 +421,60 @@
       ]
     },
     {
-      "ticker": "AMAT",
-      "cik": "0000006951",
-      "title": "APPLIED MATERIALS INC /DE",
+      "ticker": "RMD",
+      "cik": "0000943819",
+      "title": "RESMED INC",
       "filings_8k": [
         {
-          "company": "APPLIED MATERIALS INC /DE  (AMAT)  (CIK 0000006951)",
+          "company": "RESMED INC  (RMD, RSMDF)  (CIK 0000943819)",
           "form": "8-K",
-          "file_date": "2026-11-12",
+          "file_date": "2026-11-19",
           "items": [
-            "2.02",
+            "5.02",
+            "5.07",
             "9.01"
           ],
           "event_tags": [
-            "earnings",
+            "leadership",
             "other"
           ],
           "ciks": [
-            "0000006951"
+            "0000943819"
           ],
-          "ticker": "AMAT"
+          "ticker": "RMD"
         }
       ],
       "filings_8k_count": 1,
       "notable": [
         {
-          "company": "APPLIED MATERIALS INC /DE  (AMAT)  (CIK 0000006951)",
+          "company": "RESMED INC  (RMD, RSMDF)  (CIK 0000943819)",
           "form": "8-K",
-          "file_date": "2026-11-12",
+          "file_date": "2026-11-19",
+          "items": [
+            "5.02",
+            "5.07",
+            "9.01"
+          ],
+          "event_tags": [
+            "leadership",
+            "other"
+          ],
+          "ciks": [
+            "0000943819"
+          ],
+          "ticker": "RMD"
+        }
+      ]
+    },
+    {
+      "ticker": "CRWD",
+      "cik": "0001535527",
+      "title": "CrowdStrike Holdings, Inc.",
+      "filings_8k": [
+        {
+          "company": "CrowdStrike Holdings, Inc.  (CRWD)  (CIK 0001535527)",
+          "form": "8-K",
+          "file_date": "2026-11-23",
           "items": [
             "2.02",
             "9.01"
@@ -274,14 +484,120 @@
             "other"
           ],
           "ciks": [
-            "0000006951"
+            "0001535527"
           ],
-          "ticker": "AMAT"
+          "ticker": "CRWD"
+        },
+        {
+          "company": "CrowdStrike Holdings, Inc.  (CRWD)  (CIK 0001535527)",
+          "form": "8-K",
+          "file_date": "2026-11-23",
+          "items": [
+            "1.01",
+            "7.01",
+            "9.01"
+          ],
+          "event_tags": [
+            "mna",
+            "other"
+          ],
+          "ciks": [
+            "0001535527"
+          ],
+          "ticker": "CRWD"
+        }
+      ],
+      "filings_8k_count": 2,
+      "notable": [
+        {
+          "company": "CrowdStrike Holdings, Inc.  (CRWD)  (CIK 0001535527)",
+          "form": "8-K",
+          "file_date": "2026-11-23",
+          "items": [
+            "2.02",
+            "9.01"
+          ],
+          "event_tags": [
+            "earnings",
+            "other"
+          ],
+          "ciks": [
+            "0001535527"
+          ],
+          "ticker": "CRWD"
+        },
+        {
+          "company": "CrowdStrike Holdings, Inc.  (CRWD)  (CIK 0001535527)",
+          "form": "8-K",
+          "file_date": "2026-11-23",
+          "items": [
+            "1.01",
+            "7.01",
+            "9.01"
+          ],
+          "event_tags": [
+            "mna",
+            "other"
+          ],
+          "ciks": [
+            "0001535527"
+          ],
+          "ticker": "CRWD"
+        }
+      ]
+    },
+    {
+      "ticker": "PANW",
+      "cik": "0001327567",
+      "title": "Palo Alto Networks Inc",
+      "filings_8k": [
+        {
+          "company": "Palo Alto Networks Inc  (PANW)  (CIK 0001327567)",
+          "form": "8-K",
+          "file_date": "2026-11-18",
+          "items": [
+            "2.02",
+            "3.02",
+            "7.01",
+            "8.01",
+            "9.01"
+          ],
+          "event_tags": [
+            "earnings",
+            "other"
+          ],
+          "ciks": [
+            "0001327567"
+          ],
+          "ticker": "PANW"
+        }
+      ],
+      "filings_8k_count": 1,
+      "notable": [
+        {
+          "company": "Palo Alto Networks Inc  (PANW)  (CIK 0001327567)",
+          "form": "8-K",
+          "file_date": "2026-11-18",
+          "items": [
+            "2.02",
+            "3.02",
+            "7.01",
+            "8.01",
+            "9.01"
+          ],
+          "event_tags": [
+            "earnings",
+            "other"
+          ],
+          "ciks": [
+            "0001327567"
+          ],
+          "ticker": "PANW"
         }
       ]
     }
   ],
   "source": "SEC EDGAR full-text search (efts.sec.gov, keyless)",
-  "generated_utc": "2026-11-17T00:17:34.139362+00:00",
+  "generated_utc": "2026-11-24T02:56:30.821110+00:00",
   "note": "Data feed only \u2014 context layer, never a trade trigger. 8-K/Form-4 event trigger informs the Monday rotation and the premarket brief; it never fires a trade alone."
 }
