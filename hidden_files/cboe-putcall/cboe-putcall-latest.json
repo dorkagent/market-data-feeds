@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-11-17T03:58:10.406400+00:00",
+  "generated_utc": "2026-11-24T05:21:13.269456+00:00",
   "note": "Context layer \u2014 informs, never triggers trades alone. Contrarian sentiment gauge; extreme readings are context, not signals.",
   "source": "CBOE daily market statistics (cboe.com, keyless scrape)",
   "status": "ok",
   "ratios": {
-    "total": 0.95,
-    "index": 1.01,
-    "etf": 1.16,
-    "equity": 0.73,
-    "vix": 0.42
+    "total": 0.94,
+    "index": 1.21,
+    "etf": 1.13,
+    "equity": 0.55,
+    "vix": 0.88
   },
   "z_scores": {}
 }
