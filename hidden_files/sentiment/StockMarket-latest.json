@@ -1,15 +1,15 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-22T19:51:24.640708+00:00",
+ "generated_at": "2026-11-24T00:04:21.028614+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-29T21:52:33+00:00",
+ "window_start": "2026-10-30T22:11:45+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 12,
-   "bull": 4,
+   "mentions": 13,
+   "bull": 3,
    "bear": 3,
-   "engagement": 5495
+   "engagement": 5534
   },
   {
    "ticker": "SPY",
@@ -24,13 +24,6 @@
    "bull": 0,
    "bear": 1,
    "engagement": 821
-  },
-  {
-   "ticker": "RDDT",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 322
   },
   {
    "ticker": "GOAI",
@@ -54,18 +47,18 @@
    "engagement": 2494
   },
   {
-   "ticker": "AAPL",
+   "ticker": "RDDT",
    "mentions": 2,
-   "bull": 1,
+   "bull": 0,
    "bear": 0,
-   "engagement": 53
+   "engagement": 321
   },
   {
    "ticker": "GME",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 956
+   "engagement": 1356
   },
   {
    "ticker": "BE",
@@ -75,7 +68,7 @@
    "engagement": 37
   },
   {
-   "ticker": "COST",
+   "ticker": "TGT",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -89,7 +82,7 @@
    "engagement": 7
   },
   {
-   "ticker": "TGT",
+   "ticker": "COST",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -124,14 +117,14 @@
    "engagement": 10
   },
   {
-   "ticker": "CLS",
+   "ticker": "MU",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "MU",
+   "ticker": "CLS",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -143,6 +136,13 @@
    "bull": 1,
    "bear": 1,
    "engagement": 9354
+  },
+  {
+   "ticker": "VST",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   }
  ],
  "top_posts": [
@@ -152,13 +152,6 @@
    "num_comments": 4543,
    "created_utc": 1793901645,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/"
-  },
-  {
-   "title": "Almost a trillion USD wiped out",
-   "score": 19378,
-   "num_comments": 1883,
-   "created_utc": 1793378482,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xjkelc/"
   },
   {
    "title": "US$700Bn wiped out in 2.5 hours",
@@ -222,6 +215,13 @@
    "num_comments": 111,
    "created_utc": 1793947463,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xp64cy/"
+  },
+  {
+   "title": "God bless america",
+   "score": 2944,
+   "num_comments": 429,
+   "created_utc": 1795453317,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1y3nn5l/"
   },
   {
    "title": "It\u2019s only the first day, and already so many stocks have crashed. What a bloodbath.",

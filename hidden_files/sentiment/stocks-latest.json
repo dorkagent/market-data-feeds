@@ -1,15 +1,15 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-22T19:51:14.070224+00:00",
+ "generated_at": "2026-11-24T00:04:12.924804+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-17T16:07:52+00:00",
+ "window_start": "2026-11-18T20:21:22+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 15,
    "bull": 5,
    "bear": 2,
-   "engagement": 152
+   "engagement": 54
   },
   {
    "ticker": "ANT",
@@ -26,18 +26,11 @@
    "engagement": 91
   },
   {
-   "ticker": "RGNA",
+   "ticker": "TTWO",
    "mentions": 3,
    "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "MDXG",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
+   "bear": 2,
+   "engagement": 4
   },
   {
    "ticker": "QQQ",
@@ -54,11 +47,39 @@
    "engagement": 26
   },
   {
-   "ticker": "NFLX",
+   "ticker": "MDXG",
    "mentions": 2,
-   "bull": 1,
+   "bull": 0,
    "bear": 0,
-   "engagement": 282
+   "engagement": 2
+  },
+  {
+   "ticker": "RGNA",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "AXP",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 57
+  },
+  {
+   "ticker": "DJT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "SMCI",
@@ -115,50 +136,22 @@
    "bull": 0,
    "bear": 0,
    "engagement": 0
-  },
-  {
-   "ticker": "MRVL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "BRBR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 5
-  },
-  {
-   "ticker": "RDDT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 55
-  },
-  {
-   "ticker": "SLS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 19
   }
  ],
  "top_posts": [
+  {
+   "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+   "score": 7527,
+   "num_comments": 2161,
+   "created_utc": 1795442351,
+   "url": "https://www.reddit.com/r/stocks/comments/1y3ix82/"
+  },
   {
    "title": "Is NVIDIA a legitimate red flag now?",
    "score": 3338,
    "num_comments": 1875,
    "created_utc": 1795228442,
    "url": "https://www.reddit.com/r/stocks/comments/1y1lvsy/"
-  },
-  {
-   "title": "Jensen Huang breaks his silence on X. Released Statement that he'd be honored to return as CEO.",
-   "score": 3098,
-   "num_comments": 1056,
-   "created_utc": 1794932943,
-   "url": "https://www.reddit.com/r/stocks/comments/1xyoyf9/"
   },
   {
    "title": "The S&P 500 just had its sixth straight red day, longest streak in about 2.5 years. Are you buying this or waiting?",
@@ -175,11 +168,11 @@
    "url": "https://www.reddit.com/r/stocks/comments/1y16qje/"
   },
   {
-   "title": "If Nvidia matched the forward PE of Costco, Nvidia would have a market cap of $16T",
-   "score": 1312,
-   "num_comments": 338,
-   "created_utc": 1794956955,
-   "url": "https://www.reddit.com/r/stocks/comments/1xyz9se/"
+   "title": "Admin insiders get Jensen fired. POTUS rehires Jensen. Resolved a self-initiated crisis. Market down big, then up. Starting to be a pattern.",
+   "score": 1285,
+   "num_comments": 163,
+   "created_utc": 1795447761,
+   "url": "https://www.reddit.com/r/stocks/comments/1y3l7sg/"
   },
   {
    "title": "DCA and buy in to major companies. These opportunities don\u2019t happen often.",
@@ -217,18 +210,18 @@
    "url": "https://www.reddit.com/r/stocks/comments/1y1i2ql/"
   },
   {
-   "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
-   "score": 800,
-   "num_comments": 314,
-   "created_utc": 1794950657,
-   "url": "https://www.reddit.com/r/stocks/comments/1xywpnl/"
-  },
-  {
    "title": "Pre-market in deep red today too!",
    "score": 789,
    "num_comments": 455,
    "created_utc": 1795176640,
    "url": "https://www.reddit.com/r/stocks/comments/1y11vgz/"
+  },
+  {
+   "title": "Trump tells CNBC \u2018I convinced\u2019 Nvidia board to reinstate Jensen Huang",
+   "score": 782,
+   "num_comments": 269,
+   "created_utc": 1795449981,
+   "url": "https://www.reddit.com/r/stocks/comments/1y3m63u/"
   },
   {
    "title": "Reuters - Nvidia's accounting is a focus of US SEC investigation, sources say",
@@ -238,18 +231,18 @@
    "url": "https://www.reddit.com/r/stocks/comments/1y1cgll/"
   },
   {
-   "title": "Relax and Buy the Dip",
-   "score": 504,
-   "num_comments": 370,
-   "created_utc": 1795024517,
-   "url": "https://www.reddit.com/r/stocks/comments/1xzlvft/"
+   "title": "PSA KIDS STOP SHORTING - You have no idea what you\u2019re doing",
+   "score": 603,
+   "num_comments": 270,
+   "created_utc": 1795345746,
+   "url": "https://www.reddit.com/r/stocks/comments/1y2mx3x/"
   },
   {
-   "title": "NYT: Ex-Nvidia CEO Jensen Huang relied on public insults, graphic threats, and humiliation tactics to manage employees",
-   "score": 482,
-   "num_comments": 467,
-   "created_utc": 1795224191,
-   "url": "https://www.reddit.com/r/stocks/comments/1y1ki7l/"
+   "title": "$3 trillion added to the US stock market in the first 10 minutes of trading today... Just another Monday?",
+   "score": 496,
+   "num_comments": 167,
+   "created_utc": 1795450286,
+   "url": "https://www.reddit.com/r/stocks/comments/1y3mamm/"
   }
  ]
 }

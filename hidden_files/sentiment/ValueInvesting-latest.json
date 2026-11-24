@@ -1,36 +1,50 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-22T19:51:31.434495+00:00",
+ "generated_at": "2026-11-24T00:04:30.302691+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-11T22:46:08+00:00",
+ "window_start": "2026-11-12T22:29:05+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 25,
-   "bull": 12,
-   "bear": 10,
-   "engagement": 1696
+   "mentions": 24,
+   "bull": 6,
+   "bear": 13,
+   "engagement": 834
   },
   {
-   "ticker": "AMD",
-   "mentions": 7,
-   "bull": 6,
-   "bear": 5,
-   "engagement": 204
+   "ticker": "NBIS",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 4,
+   "engagement": 170
   },
   {
    "ticker": "MSFT",
    "mentions": 4,
    "bull": 1,
    "bear": 0,
-   "engagement": 115
+   "engagement": 124
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 4,
+   "bull": 4,
+   "bear": 3,
+   "engagement": 130
+  },
+  {
+   "ticker": "NFLX",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 117
   },
   {
    "ticker": "MELI",
    "mentions": 3,
    "bull": 1,
    "bear": 3,
-   "engagement": 321
+   "engagement": 368
   },
   {
    "ticker": "AMC",
@@ -44,21 +58,7 @@
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 85
-  },
-  {
-   "ticker": "NFLX",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 88
-  },
-  {
-   "ticker": "NBIS",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 161
+   "engagement": 90
   },
   {
    "ticker": "ANT",
@@ -68,32 +68,32 @@
    "engagement": 190
   },
   {
-   "ticker": "MSTR",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 3
+   "ticker": "GME",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "IREN",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 74
-  },
-  {
-   "ticker": "INTU",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 8
+   "engagement": 83
   },
   {
    "ticker": "MO",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 8
+   "engagement": 10
+  },
+  {
+   "ticker": "INTU",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 10
   },
   {
    "ticker": "MRVL",
@@ -154,13 +154,6 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0syfw/"
   },
   {
-   "title": "NVIDIA crashes to ~$150 today. Am I crazy for thinking the massive buyback makes this interesting?",
-   "score": 1328,
-   "num_comments": 744,
-   "created_utc": 1794495038,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xueqbk/"
-  },
-  {
    "title": "I would be jealous of anyone with a lot of money who can start investing next week.",
    "score": 1079,
    "num_comments": 439,
@@ -189,16 +182,9 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0d67m/"
   },
   {
-   "title": "No irony please - is NVIDIA, currently at around $158, actually a Value Stock?",
-   "score": 586,
-   "num_comments": 860,
-   "created_utc": 1794445368,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xtz7d7/"
-  },
-  {
    "title": "The Upside Down market: How are Walmart and Costco PE (48 and 52) trading at higher valuations than Google and NVIDIA (14 and 15?)",
-   "score": 500,
-   "num_comments": 277,
+   "score": 531,
+   "num_comments": 287,
    "created_utc": 1795256864,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y1txhf/"
   },
@@ -211,8 +197,8 @@
   },
   {
    "title": "Has the AI bubble quietly popped?",
-   "score": 311,
-   "num_comments": 454,
+   "score": 418,
+   "num_comments": 548,
    "created_utc": 1794828357,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxmzsm/"
   },
@@ -224,25 +210,25 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xyp8ro/"
   },
   {
-   "title": "NVDA after Jensen Huang\u2019s resignation: what would make you avoid buying the dip?",
-   "score": 263,
-   "num_comments": 611,
-   "created_utc": 1794517891,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xuouso/"
-  },
-  {
    "title": "Coca Cola ($KO) is $100 a share for the first time in history.",
-   "score": 257,
-   "num_comments": 120,
+   "score": 271,
+   "num_comments": 133,
    "created_utc": 1794842830,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxs7ye/"
   },
   {
-   "title": "Nvidia CEO Jensen Huang Resigns",
+   "title": "Oatly: A 97% Crash Hides A Turnaround At The World\u2019s Largest Oat Milk Company",
+   "score": 228,
+   "num_comments": 156,
+   "created_utc": 1794816901,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxjyvr/"
+  },
+  {
+   "title": "This is a correction, not a bear market.",
    "score": 219,
-   "num_comments": 119,
-   "created_utc": 1794493446,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xue2mf/"
+   "num_comments": 232,
+   "created_utc": 1795309282,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y2ch1s/"
   },
   {
    "title": "It's time to be honest, this is the market we have been waiting for!",
@@ -250,6 +236,20 @@
    "num_comments": 166,
    "created_utc": 1795105625,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0doo9/"
+  },
+  {
+   "title": "Berkshire owns Google which owns 13.7% of Anthropic. What has the world come to?",
+   "score": 209,
+   "num_comments": 56,
+   "created_utc": 1795086332,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y06q3l/"
+  },
+  {
+   "title": "How hard is everybody down?",
+   "score": 199,
+   "num_comments": 404,
+   "created_utc": 1795160520,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0xhy0/"
   }
  ]
 }

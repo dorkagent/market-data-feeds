@@ -1,134 +1,36 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-11-22T19:50:52.931566+00:00",
+ "generated_at": "2026-11-24T00:03:58.210425+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-21T00:25:22+00:00",
+ "window_start": "2026-11-23T15:38:00+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 15,
-   "bull": 4,
-   "bear": 3,
-   "engagement": 4235
+   "mentions": 20,
+   "bull": 2,
+   "bear": 5,
+   "engagement": 770
+  },
+  {
+   "ticker": "SOXL",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 46
+  },
+  {
+   "ticker": "TRUMP",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
   },
   {
    "ticker": "QQQ",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 89
-  },
-  {
-   "ticker": "SPY",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 101
-  },
-  {
-   "ticker": "AVGO",
    "mentions": 2,
-   "bull": 1,
+   "bull": 2,
    "bear": 0,
-   "engagement": 47
-  },
-  {
-   "ticker": "BTC",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "TTWO",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 3340
-  },
-  {
-   "ticker": "ANT",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "COMP",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 74
-  },
-  {
-   "ticker": "ORCL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "META",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "CRWV",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 13
-  },
-  {
-   "ticker": "MSTR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 898
-  },
-  {
-   "ticker": "AAPL",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 30
-  },
-  {
-   "ticker": "WEN",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "QBTS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 8
-  },
-  {
-   "ticker": "ZS",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 76
-  },
-  {
-   "ticker": "CRWD",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 76
-  },
-  {
-   "ticker": "RBRK",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 76
+   "engagement": 3
   },
   {
    "ticker": "GME",
@@ -136,120 +38,113 @@
    "bull": 0,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "TSLA",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 58
   }
  ],
  "top_posts": [
   {
-   "title": "Morgan Stanley, Anthropic's IPO bank, completely exited in only 2 trading days.",
-   "score": 19806,
-   "num_comments": 1365,
-   "created_utc": 1795224527,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1km0p/"
+   "title": "literally no fucking comment",
+   "score": 45056,
+   "num_comments": 2624,
+   "created_utc": 1795452141,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3n3u9/"
   },
   {
-   "title": "Wallstreet black Friday, are you in ?",
-   "score": 15489,
-   "num_comments": 341,
-   "created_utc": 1795246442,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1r83v/"
+   "title": "JENSEN HUANG TELLS NVIDIA EMPLOYEES: \"I'M GOING TO BE A BETTER CEO THE SECOND TIME AROUND\"",
+   "score": 29223,
+   "num_comments": 4051,
+   "created_utc": 1795459595,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3qi6t/"
   },
   {
-   "title": "Your wife asks if we should use some of our stock market gains to buy Christmas gifts this year",
-   "score": 13869,
-   "num_comments": 547,
-   "created_utc": 1795244649,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1qqtt/"
+   "title": "Jensen's linkedin",
+   "score": 18860,
+   "num_comments": 161,
+   "created_utc": 1795448938,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3lpmh/"
   },
   {
-   "title": "This is sadly true\u2026",
-   "score": 11554,
-   "num_comments": 246,
-   "created_utc": 1795344636,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y2mmcq/"
+   "title": "Message to \ud83d\udc3b \ud83d\udc3b \ud83d\udc3b",
+   "score": 7272,
+   "num_comments": 338,
+   "created_utc": 1795450025,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3m6rg/"
   },
   {
-   "title": "It's not funny anymore",
-   "score": 7881,
-   "num_comments": 253,
-   "created_utc": 1795275341,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1ztah/"
+   "title": "Call the ambulance",
+   "score": 1360,
+   "num_comments": 10,
+   "created_utc": 1795465203,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3t0ck/"
   },
   {
-   "title": "Anthropic: $1.4T valuation with $4.6B revenue vs Samsung: $935B valuation  with $236B revenue.",
-   "score": 7525,
-   "num_comments": 590,
-   "created_utc": 1795258218,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1ua3p/"
+   "title": "Pretend like it never happened",
+   "score": 988,
+   "num_comments": 29,
+   "created_utc": 1795465070,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3sy5o/"
   },
   {
-   "title": "Cathie Wood sold Nvidia under $130 she bought over $220 this year. Bought Anthropic around $97 and lose 10% next day.",
-   "score": 6165,
-   "num_comments": 453,
-   "created_utc": 1795306653,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y2blzm/"
+   "title": "Is anyone else actually worried about the pump?",
+   "score": 650,
+   "num_comments": 437,
+   "created_utc": 1795468864,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3ulb4/"
   },
   {
-   "title": "The Market on Monday:",
-   "score": 5657,
-   "num_comments": 200,
-   "created_utc": 1795223228,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1k6nb/"
+   "title": "Diamond handed my NVDA calls for 3 weeks.",
+   "score": 521,
+   "num_comments": 27,
+   "created_utc": 1795449318,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3lvc8/"
   },
   {
-   "title": "My wife and I discussing our finances after I YOLO'd our retirement into a triple leveraged semiconductor ETF 6 weeks ago",
-   "score": 3691,
-   "num_comments": 97,
-   "created_utc": 1795366321,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y2tvfp/"
+   "title": "Jensen Huang this morning",
+   "score": 292,
+   "num_comments": 23,
+   "created_utc": 1795465160,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3szmy/"
   },
   {
-   "title": "Red Light Therapy",
-   "score": 3442,
-   "num_comments": 50,
-   "created_utc": 1795336343,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y2khq3/"
+   "title": "JENSEN YOURE GOING TO MAKE ME HUANG",
+   "score": 250,
+   "num_comments": 22,
+   "created_utc": 1795454211,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3o1ke/"
   },
   {
-   "title": "GTA the real metaverse.",
-   "score": 3101,
-   "num_comments": 238,
-   "created_utc": 1795303163,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y2aen6/"
+   "title": "Streamer looses 200.000$ on livestream after news came out that NVIDIA CEO Jen-Hsun Huang was reinstated",
+   "score": 199,
+   "num_comments": 88,
+   "created_utc": 1795457310,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3pg85/"
   },
   {
-   "title": "It really do be that way",
-   "score": 2455,
-   "num_comments": 50,
-   "created_utc": 1795263287,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1voxc/"
+   "title": "I closed this 5x short NVIDIA position before markets closed on Friday. If I hadn't I could have lost my entire portfolio today",
+   "score": 186,
+   "num_comments": 41,
+   "created_utc": 1795462985,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3s0rv/"
   },
   {
-   "title": "NVDA lost 2.7 Trillion in market cap since Oct 2nd....",
-   "score": 2339,
-   "num_comments": 615,
-   "created_utc": 1795225008,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y1krky/"
+   "title": "GAWD ITS FINALLY TURN!!! THX GUYS",
+   "score": 144,
+   "num_comments": 22,
+   "created_utc": 1795449485,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3lxvw/"
   },
   {
-   "title": "This chart is ridiculous",
-   "score": 2269,
-   "num_comments": 630,
-   "created_utc": 1795293992,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y273h3/"
+   "title": "From $90 to $5,000 THANKS JENSEN! +5,000%",
+   "score": 136,
+   "num_comments": 26,
+   "created_utc": 1795463327,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3s5ze/"
   },
   {
-   "title": "Diversifying is no more safe",
-   "score": 2177,
-   "num_comments": 81,
-   "created_utc": 1795300784,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y29kq8/"
+   "title": "pre-market puts was not the play today",
+   "score": 132,
+   "num_comments": 60,
+   "created_utc": 1795468879,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3ulj9/"
   }
  ]
 }

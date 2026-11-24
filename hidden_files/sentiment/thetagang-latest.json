@@ -1,8 +1,8 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-11-22T19:51:40.480331+00:00",
+ "generated_at": "2026-11-24T00:04:37.695500+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-16T22:23:20+00:00",
+ "window_start": "2026-09-18T15:27:30+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
@@ -26,18 +26,18 @@
    "engagement": 8
   },
   {
+   "ticker": "NVDA",
+   "mentions": 3,
+   "bull": 2,
+   "bear": 3,
+   "engagement": 83
+  },
+  {
    "ticker": "SOFI",
    "mentions": 3,
    "bull": 0,
    "bear": 0,
    "engagement": 5
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 69
   },
   {
    "ticker": "QQQ",
@@ -117,20 +117,6 @@
    "engagement": 42
   },
   {
-   "ticker": "AMZN",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
-   "ticker": "VST",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
    "ticker": "SPCH",
    "mentions": 1,
    "bull": 1,
@@ -138,7 +124,21 @@
    "engagement": 12
   },
   {
-   "ticker": "SNXX",
+   "ticker": "AXTI",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "ROBN",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "NBIS",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -203,6 +203,13 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1x0u7wm/"
   },
   {
+   "title": "Never put all your eggs in one basket",
+   "score": 155,
+   "num_comments": 13,
+   "created_utc": 1795397877,
+   "url": "https://www.reddit.com/r/thetagang/comments/1y35rgl/"
+  },
+  {
    "title": "What happens after the VIX closes above 37?",
    "score": 155,
    "num_comments": 47,
@@ -243,13 +250,6 @@
    "num_comments": 61,
    "created_utc": 1793324271,
    "url": "https://www.reddit.com/r/thetagang/comments/1xj2jn6/"
-  },
-  {
-   "title": "Days like this\u2026.",
-   "score": 141,
-   "num_comments": 54,
-   "created_utc": 1792700535,
-   "url": "https://www.reddit.com/r/thetagang/comments/1xctp9w/"
   }
  ]
 }

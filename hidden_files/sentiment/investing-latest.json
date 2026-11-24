@@ -1,15 +1,15 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-22T19:51:02.772027+00:00",
+ "generated_at": "2026-11-24T00:04:05.842215+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-04T03:36:53+00:00",
+ "window_start": "2026-11-05T14:43:44+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 10,
    "bull": 2,
    "bear": 4,
-   "engagement": 192
+   "engagement": 191
   },
   {
    "ticker": "VATE",
@@ -40,14 +40,14 @@
    "engagement": 47
   },
   {
-   "ticker": "RGNA",
+   "ticker": "MDXG",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "MDXG",
+   "ticker": "RGNA",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -110,14 +110,14 @@
    "engagement": 2
   },
   {
-   "ticker": "EXPE",
+   "ticker": "BKNG",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 4
   },
   {
-   "ticker": "BKNG",
+   "ticker": "EXPE",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -146,6 +146,13 @@
   }
  ],
  "top_posts": [
+  {
+   "title": "Nvidia just reinstated Jensen Huang 12 days after he \"resigned.\" Is this the most chaotic board in mega-cap history?",
+   "score": 3133,
+   "num_comments": 916,
+   "created_utc": 1795442699,
+   "url": "https://www.reddit.com/r/investing/comments/1y3j30o/"
+  },
   {
    "title": "Jensen Huang resigns as Nvidia CEO, effective immediately. CFO Colette Kress named interim CEO",
    "score": 1161,
@@ -183,8 +190,8 @@
   },
   {
    "title": "This is healthy as a long term investor",
-   "score": 904,
-   "num_comments": 227,
+   "score": 985,
+   "num_comments": 249,
    "created_utc": 1795252625,
    "url": "https://www.reddit.com/r/investing/comments/1y1su5g/"
   },
@@ -203,16 +210,9 @@
    "url": "https://www.reddit.com/r/investing/comments/1xrbjp6/"
   },
   {
-   "title": "Midterms reduce uncertainty",
-   "score": 577,
-   "num_comments": 202,
-   "created_utc": 1793768511,
-   "url": "https://www.reddit.com/r/investing/comments/1xnfjmf/"
-  },
-  {
    "title": "Former SEC chair Gary Gensler warns AI bubble is likely to cause recession before 2028 election",
-   "score": 570,
-   "num_comments": 173,
+   "score": 652,
+   "num_comments": 183,
    "created_utc": 1794847576,
    "url": "https://www.reddit.com/r/investing/comments/1xxuagk/"
   },
