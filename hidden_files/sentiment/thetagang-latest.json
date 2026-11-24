@@ -1,8 +1,8 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-11-24T00:04:37.695500+00:00",
+ "generated_at": "2026-11-24T22:36:57.747142+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-18T15:27:30+00:00",
+ "window_start": "2026-09-18T18:48:41+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
@@ -30,7 +30,7 @@
    "mentions": 3,
    "bull": 2,
    "bear": 3,
-   "engagement": 83
+   "engagement": 81
   },
   {
    "ticker": "SOFI",
@@ -117,6 +117,13 @@
    "engagement": 42
   },
   {
+   "ticker": "VXT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
    "ticker": "SPCH",
    "mentions": 1,
    "bull": 1,
@@ -124,14 +131,7 @@
    "engagement": 12
   },
   {
-   "ticker": "AXTI",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 12
-  },
-  {
-   "ticker": "ROBN",
+   "ticker": "VST",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -175,6 +175,13 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1xm9pzu/"
   },
   {
+   "title": "Never put all your eggs in one basket",
+   "score": 223,
+   "num_comments": 19,
+   "created_utc": 1795397877,
+   "url": "https://www.reddit.com/r/thetagang/comments/1y35rgl/"
+  },
+  {
    "title": "Friendly Reminder - Options selling isn\u2019t free money",
    "score": 222,
    "num_comments": 114,
@@ -201,13 +208,6 @@
    "num_comments": 96,
    "created_utc": 1791473983,
    "url": "https://www.reddit.com/r/thetagang/comments/1x0u7wm/"
-  },
-  {
-   "title": "Never put all your eggs in one basket",
-   "score": 155,
-   "num_comments": 13,
-   "created_utc": 1795397877,
-   "url": "https://www.reddit.com/r/thetagang/comments/1y35rgl/"
   },
   {
    "title": "What happens after the VIX closes above 37?",

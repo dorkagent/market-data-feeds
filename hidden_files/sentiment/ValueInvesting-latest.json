@@ -1,15 +1,22 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-24T00:04:30.302691+00:00",
+ "generated_at": "2026-11-24T22:36:47.383880+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-12T22:29:05+00:00",
+ "window_start": "2026-11-13T20:30:26+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 24,
-   "bull": 6,
-   "bear": 13,
-   "engagement": 834
+   "mentions": 23,
+   "bull": 8,
+   "bear": 10,
+   "engagement": 904
+  },
+  {
+   "ticker": "NFLX",
+   "mentions": 4,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 271
   },
   {
    "ticker": "NBIS",
@@ -27,17 +34,10 @@
   },
   {
    "ticker": "AMD",
-   "mentions": 4,
-   "bull": 4,
-   "bear": 3,
-   "engagement": 130
-  },
-  {
-   "ticker": "NFLX",
    "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 117
+   "bull": 3,
+   "bear": 2,
+   "engagement": 104
   },
   {
    "ticker": "MELI",
@@ -45,6 +45,13 @@
    "bull": 1,
    "bear": 3,
    "engagement": 368
+  },
+  {
+   "ticker": "UBER",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 251
   },
   {
    "ticker": "AMC",
@@ -68,6 +75,13 @@
    "engagement": 190
   },
   {
+   "ticker": "DRAM",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
    "ticker": "GME",
    "mentions": 1,
    "bull": 0,
@@ -82,14 +96,14 @@
    "engagement": 83
   },
   {
-   "ticker": "MO",
+   "ticker": "INTU",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "INTU",
+   "ticker": "MO",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -117,13 +131,6 @@
    "engagement": 331
   },
   {
-   "ticker": "UBER",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 124
-  },
-  {
    "ticker": "CAKE",
    "mentions": 1,
    "bull": 1,
@@ -136,13 +143,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 19
-  },
-  {
-   "ticker": "WB",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 10
   }
  ],
  "top_posts": [
@@ -204,8 +204,8 @@
   },
   {
    "title": "I do not understand the current selloffs",
-   "score": 276,
-   "num_comments": 645,
+   "score": 316,
+   "num_comments": 744,
    "created_utc": 1794933602,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xyp8ro/"
   },
@@ -224,6 +224,20 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxjyvr/"
   },
   {
+   "title": "Netflix at $59 looks like a steal to me.",
+   "score": 227,
+   "num_comments": 491,
+   "created_utc": 1794949113,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xyw1y7/"
+  },
+  {
+   "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+   "score": 226,
+   "num_comments": 320,
+   "created_utc": 1795443380,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y3jd6c/"
+  },
+  {
    "title": "This is a correction, not a bear market.",
    "score": 219,
    "num_comments": 232,
@@ -236,20 +250,6 @@
    "num_comments": 166,
    "created_utc": 1795105625,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0doo9/"
-  },
-  {
-   "title": "Berkshire owns Google which owns 13.7% of Anthropic. What has the world come to?",
-   "score": 209,
-   "num_comments": 56,
-   "created_utc": 1795086332,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y06q3l/"
-  },
-  {
-   "title": "How hard is everybody down?",
-   "score": 199,
-   "num_comments": 404,
-   "created_utc": 1795160520,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0xhy0/"
   }
  ]
 }

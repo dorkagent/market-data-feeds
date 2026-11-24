@@ -1,150 +1,255 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-11-24T00:03:58.210425+00:00",
+ "generated_at": "2026-11-24T22:36:13.579705+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-23T15:38:00+00:00",
+ "window_start": "2026-11-23T21:24:04+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 20,
-   "bull": 2,
-   "bear": 5,
-   "engagement": 770
+   "mentions": 23,
+   "bull": 8,
+   "bear": 4,
+   "engagement": 2852
   },
   {
-   "ticker": "SOXL",
-   "mentions": 3,
-   "bull": 0,
+   "ticker": "AMC",
+   "mentions": 2,
+   "bull": 1,
    "bear": 0,
-   "engagement": 46
+   "engagement": 3
   },
   {
-   "ticker": "TRUMP",
+   "ticker": "ANT",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
-   "engagement": 3
+   "engagement": 2
+  },
+  {
+   "ticker": "GME",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 5
   },
   {
    "ticker": "QQQ",
    "mentions": 2,
-   "bull": 2,
-   "bear": 0,
-   "engagement": 3
+   "bull": 1,
+   "bear": 1,
+   "engagement": 15
   },
   {
-   "ticker": "GME",
+   "ticker": "AMD",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
+  },
+  {
+   "ticker": "AVGO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "CRWV",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "INTC",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SPCX",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "TSM",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "ADI",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "DELL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "MU",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SLS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "GRSD",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 5
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "OPEN",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 22
   }
  ],
  "top_posts": [
   {
-   "title": "literally no fucking comment",
-   "score": 45056,
-   "num_comments": 2624,
-   "created_utc": 1795452141,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3n3u9/"
+   "title": "Just In: Jensen Huang admitted to having more affairs to the board before getting reinstated on Sunday meeting",
+   "score": 28867,
+   "num_comments": 2714,
+   "created_utc": 1795489214,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y425wd/"
   },
   {
-   "title": "JENSEN HUANG TELLS NVIDIA EMPLOYEES: \"I'M GOING TO BE A BETTER CEO THE SECOND TIME AROUND\"",
-   "score": 29223,
-   "num_comments": 4051,
-   "created_utc": 1795459595,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3qi6t/"
+   "title": "Kevin O\u2019Leary says Jensen Huang has zero chance of coming back, then gets the reinstatement news live on air",
+   "score": 24034,
+   "num_comments": 1365,
+   "created_utc": 1795521621,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y4bir8/"
   },
   {
-   "title": "Jensen's linkedin",
-   "score": 18860,
-   "num_comments": 161,
-   "created_utc": 1795448938,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3lpmh/"
+   "title": "The market after i clicked sell:",
+   "score": 18108,
+   "num_comments": 246,
+   "created_utc": 1795470304,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3v6fi/"
   },
   {
-   "title": "Message to \ud83d\udc3b \ud83d\udc3b \ud83d\udc3b",
-   "score": 7272,
-   "num_comments": 338,
-   "created_utc": 1795450025,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3m6rg/"
+   "title": "No one will beat her record for next 100 years",
+   "score": 9709,
+   "num_comments": 336,
+   "created_utc": 1795469800,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3uyza/"
   },
   {
-   "title": "Call the ambulance",
-   "score": 1360,
-   "num_comments": 10,
-   "created_utc": 1795465203,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3t0ck/"
+   "title": "Buy the dip",
+   "score": 6732,
+   "num_comments": 342,
+   "created_utc": 1795540188,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y4iqkv/"
   },
   {
-   "title": "Pretend like it never happened",
-   "score": 988,
-   "num_comments": 29,
-   "created_utc": 1795465070,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3sy5o/"
+   "title": "the king is back",
+   "score": 4713,
+   "num_comments": 106,
+   "created_utc": 1795476597,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3xpo2/"
   },
   {
-   "title": "Is anyone else actually worried about the pump?",
-   "score": 650,
-   "num_comments": 437,
-   "created_utc": 1795468864,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3ulb4/"
+   "title": "good (great) morning",
+   "score": 2585,
+   "num_comments": 75,
+   "created_utc": 1795487302,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y41ihd/"
   },
   {
-   "title": "Diamond handed my NVDA calls for 3 weeks.",
-   "score": 521,
-   "num_comments": 27,
-   "created_utc": 1795449318,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3lvc8/"
+   "title": "Jensen explaining to Burry how $952B appeared out of thin air on a Monday",
+   "score": 2560,
+   "num_comments": 64,
+   "created_utc": 1795470823,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3vedn/"
   },
   {
-   "title": "Jensen Huang this morning",
-   "score": 292,
-   "num_comments": 23,
-   "created_utc": 1795465160,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3szmy/"
+   "title": "He's done it",
+   "score": 2542,
+   "num_comments": 154,
+   "created_utc": 1795495688,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y4496n/"
   },
   {
-   "title": "JENSEN YOURE GOING TO MAKE ME HUANG",
-   "score": 250,
-   "num_comments": 22,
-   "created_utc": 1795454211,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3o1ke/"
+   "title": "Jensen rn",
+   "score": 1681,
+   "num_comments": 33,
+   "created_utc": 1795471619,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3vqyg/"
   },
   {
-   "title": "Streamer looses 200.000$ on livestream after news came out that NVIDIA CEO Jen-Hsun Huang was reinstated",
-   "score": 199,
-   "num_comments": 88,
-   "created_utc": 1795457310,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3pg85/"
+   "title": "POV: Your CEO gets resurrected and your retirement plan loads in real time",
+   "score": 1632,
+   "num_comments": 42,
+   "created_utc": 1795521748,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y4bkvo/"
   },
   {
-   "title": "I closed this 5x short NVIDIA position before markets closed on Friday. If I hadn't I could have lost my entire portfolio today",
-   "score": 186,
-   "num_comments": 41,
-   "created_utc": 1795462985,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3s0rv/"
+   "title": "It's beautiful",
+   "score": 1483,
+   "num_comments": 96,
+   "created_utc": 1795485650,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y40y5p/"
   },
   {
-   "title": "GAWD ITS FINALLY TURN!!! THX GUYS",
-   "score": 144,
-   "num_comments": 22,
-   "created_utc": 1795449485,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3lxvw/"
+   "title": "LEAKED NVIDIA POLICY CHANGES",
+   "score": 1426,
+   "num_comments": 126,
+   "created_utc": 1795483134,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y403mh/"
   },
   {
-   "title": "From $90 to $5,000 THANKS JENSEN! +5,000%",
-   "score": 136,
-   "num_comments": 26,
-   "created_utc": 1795463327,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3s5ze/"
+   "title": "Work Harder for my portfolio ladies",
+   "score": 1289,
+   "num_comments": 53,
+   "created_utc": 1795492265,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y436as/"
   },
   {
-   "title": "pre-market puts was not the play today",
-   "score": 132,
-   "num_comments": 60,
-   "created_utc": 1795468879,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y3ulj9/"
+   "title": "U.S. Prepares to Raise Tariffs on China and Other Countries",
+   "score": 1245,
+   "num_comments": 329,
+   "created_utc": 1795526514,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y4d5d7/"
   }
  ]
 }

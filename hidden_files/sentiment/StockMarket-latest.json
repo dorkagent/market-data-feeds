@@ -1,15 +1,15 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-24T00:04:21.028614+00:00",
+ "generated_at": "2026-11-24T22:36:40.008253+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-30T22:11:45+00:00",
+ "window_start": "2026-10-31T09:59:49+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 13,
    "bull": 3,
    "bear": 3,
-   "engagement": 5534
+   "engagement": 5539
   },
   {
    "ticker": "SPY",
@@ -40,18 +40,25 @@
    "engagement": 2494
   },
   {
-   "ticker": "AMZN",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2494
-  },
-  {
    "ticker": "RDDT",
    "mentions": 2,
    "bull": 0,
    "bear": 0,
    "engagement": 321
+  },
+  {
+   "ticker": "ETN",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 4
+  },
+  {
+   "ticker": "HPE",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 6
   },
   {
    "ticker": "GME",
@@ -93,7 +100,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 12
+   "engagement": 18
   },
   {
    "ticker": "QQQ",
@@ -117,11 +124,11 @@
    "engagement": 10
   },
   {
-   "ticker": "MU",
+   "ticker": "AMZN",
    "mentions": 1,
    "bull": 0,
-   "bear": 1,
-   "engagement": 10
+   "bear": 0,
+   "engagement": 2493
   },
   {
    "ticker": "CLS",
@@ -131,18 +138,11 @@
    "engagement": 10
   },
   {
-   "ticker": "APP",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 9354
-  },
-  {
-   "ticker": "VST",
+   "ticker": "MU",
    "mentions": 1,
    "bull": 0,
-   "bear": 0,
-   "engagement": 1
+   "bear": 1,
+   "engagement": 10
   }
  ],
  "top_posts": [
@@ -176,10 +176,17 @@
   },
   {
    "title": "Another Dip",
-   "score": 4280,
-   "num_comments": 72,
+   "score": 5858,
+   "num_comments": 90,
    "created_utc": 1794862104,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xy0snq/"
+  },
+  {
+   "title": "God bless america",
+   "score": 4617,
+   "num_comments": 652,
+   "created_utc": 1795453317,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1y3nn5l/"
   },
   {
    "title": "$8.9T Erased from US stock market in last 45 days and today alone was $2.5T.",
@@ -187,6 +194,13 @@
    "num_comments": 322,
    "created_utc": 1795222088,
    "url": "https://www.reddit.com/r/StockMarket/comments/1y1jspj/"
+  },
+  {
+   "title": "Just a reminder Jensen Huang donated over 25 million to the White House Ballroom. Trumps calling for him to be reinstated is insider trading",
+   "score": 3708,
+   "num_comments": 407,
+   "created_utc": 1795447188,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1y3kyxh/"
   },
   {
    "title": "Dips keep coming",
@@ -217,13 +231,6 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xp64cy/"
   },
   {
-   "title": "God bless america",
-   "score": 2944,
-   "num_comments": 429,
-   "created_utc": 1795453317,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1y3nn5l/"
-  },
-  {
    "title": "It\u2019s only the first day, and already so many stocks have crashed. What a bloodbath.",
    "score": 2473,
    "num_comments": 463,
@@ -231,25 +238,18 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1y0f9w0/"
   },
   {
+   "title": "The markets are Broken and you should be worried",
+   "score": 2384,
+   "num_comments": 552,
+   "created_utc": 1795451764,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1y3mxrf/"
+  },
+  {
    "title": "Americans overwhelmingly voted against data centers in the midterms",
    "score": 2337,
    "num_comments": 318,
    "created_utc": 1793807059,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xnri1d/"
-  },
-  {
-   "title": "Name a better investor than Jensen Huang's wife.",
-   "score": 2323,
-   "num_comments": 170,
-   "created_utc": 1794250581,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xs09zz/"
-  },
-  {
-   "title": "Did he have sex with the girl in the bottom-left corner?",
-   "score": 2282,
-   "num_comments": 663,
-   "created_utc": 1794181721,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xrcr1u/"
   }
  ]
 }

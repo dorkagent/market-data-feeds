@@ -1,15 +1,22 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-24T00:04:05.842215+00:00",
+ "generated_at": "2026-11-24T22:36:22.059052+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-05T14:43:44+00:00",
+ "window_start": "2026-11-05T21:47:11+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 10,
-   "bull": 2,
+   "mentions": 11,
+   "bull": 3,
    "bear": 4,
-   "engagement": 191
+   "engagement": 194
+  },
+  {
+   "ticker": "ANT",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 54
   },
   {
    "ticker": "VATE",
@@ -17,6 +24,13 @@
    "bull": 1,
    "bear": 0,
    "engagement": 7
+  },
+  {
+   "ticker": "AAPL",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 13
   },
   {
    "ticker": "IESC",
@@ -40,13 +54,6 @@
    "engagement": 47
   },
   {
-   "ticker": "MDXG",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
    "ticker": "RGNA",
    "mentions": 1,
    "bull": 1,
@@ -54,11 +61,11 @@
    "engagement": 1
   },
   {
-   "ticker": "ANT",
+   "ticker": "MDXG",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 51
+   "engagement": 1
   },
   {
    "ticker": "HTZ",
@@ -68,7 +75,7 @@
    "engagement": 2
   },
   {
-   "ticker": "IQQ",
+   "ticker": "RSP",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -82,7 +89,7 @@
    "engagement": 9
   },
   {
-   "ticker": "RSP",
+   "ticker": "IQQ",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -110,14 +117,14 @@
    "engagement": 2
   },
   {
-   "ticker": "BKNG",
+   "ticker": "EXPE",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 4
   },
   {
-   "ticker": "EXPE",
+   "ticker": "BKNG",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -136,22 +143,22 @@
    "bull": 1,
    "bear": 0,
    "engagement": 71
-  },
-  {
-   "ticker": "ASTS",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 10
   }
  ],
  "top_posts": [
   {
    "title": "Nvidia just reinstated Jensen Huang 12 days after he \"resigned.\" Is this the most chaotic board in mega-cap history?",
-   "score": 3133,
-   "num_comments": 916,
+   "score": 4478,
+   "num_comments": 1182,
    "created_utc": 1795442699,
    "url": "https://www.reddit.com/r/investing/comments/1y3j30o/"
+  },
+  {
+   "title": "Michael Burry cut 75% of his Nvidia puts and bought calls right before Monday's +31.48% jump",
+   "score": 1887,
+   "num_comments": 215,
+   "created_utc": 1795507007,
+   "url": "https://www.reddit.com/r/investing/comments/1y47ick/"
   },
   {
    "title": "Jensen Huang resigns as Nvidia CEO, effective immediately. CFO Colette Kress named interim CEO",
@@ -196,13 +203,6 @@
    "url": "https://www.reddit.com/r/investing/comments/1y1su5g/"
   },
   {
-   "title": "Nasdaq down 6%, CoreWeave down 55% in a month. Is the AI trade breaking or is this a midterm overreaction?",
-   "score": 841,
-   "num_comments": 461,
-   "created_utc": 1793894783,
-   "url": "https://www.reddit.com/r/investing/comments/1xomi9p/"
-  },
-  {
    "title": "Jensen Huang just admitted to an affair with a suspected Chinese spy. 9 days before earnings.",
    "score": 759,
    "num_comments": 192,
@@ -238,18 +238,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1xslvx7/"
   },
   {
+   "title": "Jensen Huang is back as Nvidia CEO, and the stock is up about 31% premarket",
+   "score": 458,
+   "num_comments": 160,
+   "created_utc": 1795444260,
+   "url": "https://www.reddit.com/r/investing/comments/1y3jqez/"
+  },
+  {
    "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
    "score": 403,
    "num_comments": 75,
    "created_utc": 1794668988,
    "url": "https://www.reddit.com/r/investing/comments/1xw4o4d/"
-  },
-  {
-   "title": "Family mad about stock picks",
-   "score": 354,
-   "num_comments": 446,
-   "created_utc": 1795190714,
-   "url": "https://www.reddit.com/r/investing/comments/1y179ig/"
   }
  ]
 }
