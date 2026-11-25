@@ -1,22 +1,22 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-24T22:36:22.059052+00:00",
+ "generated_at": "2026-11-25T21:50:32.952714+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-05T21:47:11+00:00",
+ "window_start": "2026-11-07T02:38:29+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 11,
+   "mentions": 12,
    "bull": 3,
    "bear": 4,
-   "engagement": 194
+   "engagement": 197
   },
   {
    "ticker": "ANT",
    "mentions": 2,
    "bull": 2,
    "bear": 0,
-   "engagement": 54
+   "engagement": 55
   },
   {
    "ticker": "VATE",
@@ -26,11 +26,32 @@
    "engagement": 7
   },
   {
+   "ticker": "MSFT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "AMAT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "LOW",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 10
+  },
+  {
    "ticker": "AAPL",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 13
+   "engagement": 60
   },
   {
    "ticker": "IESC",
@@ -75,6 +96,13 @@
    "engagement": 2
   },
   {
+   "ticker": "IQQ",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 9
+  },
+  {
    "ticker": "RSP",
    "mentions": 1,
    "bull": 1,
@@ -83,13 +111,6 @@
   },
   {
    "ticker": "VT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 9
-  },
-  {
-   "ticker": "IQQ",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -117,46 +138,25 @@
    "engagement": 2
   },
   {
-   "ticker": "EXPE",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
    "ticker": "BKNG",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 4
-  },
-  {
-   "ticker": "NU",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 14
-  },
-  {
-   "ticker": "RKLB",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 71
   }
  ],
  "top_posts": [
   {
    "title": "Nvidia just reinstated Jensen Huang 12 days after he \"resigned.\" Is this the most chaotic board in mega-cap history?",
-   "score": 4478,
-   "num_comments": 1182,
+   "score": 4534,
+   "num_comments": 1194,
    "created_utc": 1795442699,
    "url": "https://www.reddit.com/r/investing/comments/1y3j30o/"
   },
   {
    "title": "Michael Burry cut 75% of his Nvidia puts and bought calls right before Monday's +31.48% jump",
-   "score": 1887,
-   "num_comments": 215,
+   "score": 2446,
+   "num_comments": 260,
    "created_utc": 1795507007,
    "url": "https://www.reddit.com/r/investing/comments/1y47ick/"
   },
@@ -187,13 +187,6 @@
    "num_comments": 389,
    "created_utc": 1794438382,
    "url": "https://www.reddit.com/r/investing/comments/1xtwlta/"
-  },
-  {
-   "title": "Anthropic's IPO valuation collapses from 1.5 trillion. Rumors of a delay beginning to circulate. WeWork scenario can still be avoided provid",
-   "score": 1004,
-   "num_comments": 224,
-   "created_utc": 1793921671,
-   "url": "https://www.reddit.com/r/investing/comments/1xoxssu/"
   },
   {
    "title": "This is healthy as a long term investor",
@@ -231,6 +224,13 @@
    "url": "https://www.reddit.com/r/investing/comments/1xuxkvf/"
   },
   {
+   "title": "Jensen Huang is back as Nvidia CEO, and the stock is up about 31% premarket",
+   "score": 461,
+   "num_comments": 163,
+   "created_utc": 1795444260,
+   "url": "https://www.reddit.com/r/investing/comments/1y3jqez/"
+  },
+  {
    "title": "Why is SpaceX winding down the Falcon 9 program and getting nothing in return?",
    "score": 461,
    "num_comments": 496,
@@ -238,11 +238,11 @@
    "url": "https://www.reddit.com/r/investing/comments/1xslvx7/"
   },
   {
-   "title": "Jensen Huang is back as Nvidia CEO, and the stock is up about 31% premarket",
-   "score": 458,
-   "num_comments": 160,
-   "created_utc": 1795444260,
-   "url": "https://www.reddit.com/r/investing/comments/1y3jqez/"
+   "title": "Nasdaq-100 has in the premarket now erased the bounce from returning Nvidia CEO Jensen. -WSJ",
+   "score": 412,
+   "num_comments": 126,
+   "created_utc": 1795609201,
+   "url": "https://www.reddit.com/r/investing/comments/1y55zm3/"
   },
   {
    "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",

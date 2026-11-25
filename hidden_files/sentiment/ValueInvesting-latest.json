@@ -1,22 +1,22 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-24T22:36:47.383880+00:00",
+ "generated_at": "2026-11-25T21:51:10.789957+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-13T20:30:26+00:00",
+ "window_start": "2026-11-15T16:10:35+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 23,
    "bull": 8,
    "bear": 10,
-   "engagement": 904
+   "engagement": 951
   },
   {
    "ticker": "NFLX",
    "mentions": 4,
    "bull": 0,
    "bear": 1,
-   "engagement": 271
+   "engagement": 291
   },
   {
    "ticker": "NBIS",
@@ -27,17 +27,10 @@
   },
   {
    "ticker": "MSFT",
-   "mentions": 4,
+   "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 124
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 3,
-   "bull": 3,
-   "bear": 2,
-   "engagement": 104
+   "engagement": 118
   },
   {
    "ticker": "MELI",
@@ -47,11 +40,25 @@
    "engagement": 368
   },
   {
+   "ticker": "RDDT",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 157
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 1,
+   "engagement": 134
+  },
+  {
    "ticker": "UBER",
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 251
+   "engagement": 289
   },
   {
    "ticker": "AMC",
@@ -72,7 +79,28 @@
    "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 190
+   "engagement": 196
+  },
+  {
+   "ticker": "SMR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SPY",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "GEV",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "DRAM",
@@ -115,34 +143,6 @@
    "bull": 1,
    "bear": 1,
    "engagement": 78
-  },
-  {
-   "ticker": "UHN",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 331
-  },
-  {
-   "ticker": "CAKE",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 13
-  },
-  {
-   "ticker": "BRBR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 19
   }
  ],
  "top_posts": [
@@ -166,13 +166,6 @@
    "num_comments": 361,
    "created_utc": 1795120495,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0k39t/"
-  },
-  {
-   "title": "The bubble is in consumer staple stocks not tech stocks.",
-   "score": 624,
-   "num_comments": 271,
-   "created_utc": 1794732499,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xwqodo/"
   },
   {
    "title": "It's time to be honest, this is a horrible market",
@@ -210,11 +203,25 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xyp8ro/"
   },
   {
+   "title": "Peter Lynch on Charlie Rose talk Show, 28th Oct 1997. The day before, the Dow declined 7+% on Asia contagion worries. In this 12 min video, ",
+   "score": 300,
+   "num_comments": 19,
+   "created_utc": 1795504551,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y46v6e/"
+  },
+  {
    "title": "Coca Cola ($KO) is $100 a share for the first time in history.",
    "score": 271,
    "num_comments": 133,
    "created_utc": 1794842830,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxs7ye/"
+  },
+  {
+   "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+   "score": 231,
+   "num_comments": 320,
+   "created_utc": 1795443380,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y3jd6c/"
   },
   {
    "title": "Oatly: A 97% Crash Hides A Turnaround At The World\u2019s Largest Oat Milk Company",
@@ -229,13 +236,6 @@
    "num_comments": 491,
    "created_utc": 1794949113,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xyw1y7/"
-  },
-  {
-   "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
-   "score": 226,
-   "num_comments": 320,
-   "created_utc": 1795443380,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y3jd6c/"
   },
   {
    "title": "This is a correction, not a bear market.",

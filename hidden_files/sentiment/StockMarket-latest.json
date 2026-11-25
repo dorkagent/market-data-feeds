@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-24T22:36:40.008253+00:00",
+ "generated_at": "2026-11-25T21:50:57.575923+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-31T09:59:49+00:00",
+ "window_start": "2026-11-02T10:36:26+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -14,9 +14,9 @@
   {
    "ticker": "SPY",
    "mentions": 4,
-   "bull": 1,
+   "bull": 0,
    "bear": 0,
-   "engagement": 115
+   "engagement": 19
   },
   {
    "ticker": "AMD",
@@ -24,6 +24,13 @@
    "bull": 0,
    "bear": 1,
    "engagement": 821
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 3
   },
   {
    "ticker": "GOAI",
@@ -40,18 +47,11 @@
    "engagement": 2494
   },
   {
-   "ticker": "RDDT",
-   "mentions": 2,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 321
-  },
-  {
    "ticker": "ETN",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 4
+   "engagement": 9
   },
   {
    "ticker": "HPE",
@@ -82,14 +82,14 @@
    "engagement": 7
   },
   {
-   "ticker": "WMT",
+   "ticker": "COST",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 7
   },
   {
-   "ticker": "COST",
+   "ticker": "WMT",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -101,13 +101,6 @@
    "bull": 0,
    "bear": 1,
    "engagement": 18
-  },
-  {
-   "ticker": "QQQ",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 2
   },
   {
    "ticker": "APD",
@@ -131,6 +124,13 @@
    "engagement": 2493
   },
   {
+   "ticker": "MU",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 10
+  },
+  {
    "ticker": "CLS",
    "mentions": 1,
    "bull": 0,
@@ -138,11 +138,11 @@
    "engagement": 10
   },
   {
-   "ticker": "MU",
+   "ticker": "APP",
    "mentions": 1,
-   "bull": 0,
+   "bull": 1,
    "bear": 1,
-   "engagement": 10
+   "engagement": 9354
   }
  ],
  "top_posts": [
@@ -183,10 +183,17 @@
   },
   {
    "title": "God bless america",
-   "score": 4617,
-   "num_comments": 652,
+   "score": 4775,
+   "num_comments": 681,
    "created_utc": 1795453317,
    "url": "https://www.reddit.com/r/StockMarket/comments/1y3nn5l/"
+  },
+  {
+   "title": "Just a reminder Jensen Huang donated over 25 million to the White House Ballroom. Trumps calling for him to be reinstated is insider trading",
+   "score": 4015,
+   "num_comments": 412,
+   "created_utc": 1795447188,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1y3kyxh/"
   },
   {
    "title": "$8.9T Erased from US stock market in last 45 days and today alone was $2.5T.",
@@ -194,13 +201,6 @@
    "num_comments": 322,
    "created_utc": 1795222088,
    "url": "https://www.reddit.com/r/StockMarket/comments/1y1jspj/"
-  },
-  {
-   "title": "Just a reminder Jensen Huang donated over 25 million to the White House Ballroom. Trumps calling for him to be reinstated is insider trading",
-   "score": 3708,
-   "num_comments": 407,
-   "created_utc": 1795447188,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1y3kyxh/"
   },
   {
    "title": "Dips keep coming",
@@ -231,18 +231,18 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1xp64cy/"
   },
   {
+   "title": "The markets are Broken and you should be worried",
+   "score": 2982,
+   "num_comments": 614,
+   "created_utc": 1795451764,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1y3mxrf/"
+  },
+  {
    "title": "It\u2019s only the first day, and already so many stocks have crashed. What a bloodbath.",
    "score": 2473,
    "num_comments": 463,
    "created_utc": 1795109232,
    "url": "https://www.reddit.com/r/StockMarket/comments/1y0f9w0/"
-  },
-  {
-   "title": "The markets are Broken and you should be worried",
-   "score": 2384,
-   "num_comments": 552,
-   "created_utc": 1795451764,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1y3mxrf/"
   },
   {
    "title": "Americans overwhelmingly voted against data centers in the midterms",

@@ -1,29 +1,15 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-24T22:36:29.974281+00:00",
+ "generated_at": "2026-11-25T21:50:42.088701+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-19T15:42:19+00:00",
+ "window_start": "2026-11-20T01:52:40+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 19,
+   "mentions": 20,
    "bull": 6,
    "bear": 4,
-   "engagement": 1745
-  },
-  {
-   "ticker": "ANT",
-   "mentions": 4,
-   "bull": 3,
-   "bear": 0,
-   "engagement": 6
-  },
-  {
-   "ticker": "SPY",
-   "mentions": 4,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 91
+   "engagement": 2986
   },
   {
    "ticker": "TTWO",
@@ -33,11 +19,18 @@
    "engagement": 4
   },
   {
+   "ticker": "SPY",
+   "mentions": 3,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 6
+  },
+  {
    "ticker": "MSFT",
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 3
+   "engagement": 7659
   },
   {
    "ticker": "DJT",
@@ -54,18 +47,39 @@
    "engagement": 34
   },
   {
-   "ticker": "CRWV",
-   "mentions": 2,
-   "bull": 1,
+   "ticker": "MSTR",
+   "mentions": 1,
+   "bull": 0,
    "bear": 1,
-   "engagement": 26
+   "engagement": 102
+  },
+  {
+   "ticker": "SMR",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "GEV",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "ANT",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
   },
   {
    "ticker": "AXP",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 173
+   "engagement": 191
   },
   {
    "ticker": "AMZN",
@@ -75,41 +89,27 @@
    "engagement": 1
   },
   {
-   "ticker": "SMCI",
+   "ticker": "CRWV",
    "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "ADBE",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "MELI",
-   "mentions": 1,
-   "bull": 0,
+   "bull": 1,
    "bear": 1,
-   "engagement": 70
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 0
+   "engagement": 26
   }
  ],
  "top_posts": [
   {
    "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
-   "score": 9390,
-   "num_comments": 2548,
+   "score": 9431,
+   "num_comments": 2560,
    "created_utc": 1795442351,
    "url": "https://www.reddit.com/r/stocks/comments/1y3ix82/"
+  },
+  {
+   "title": "BREAKING: Microsoft ($MSFT) declares 'Code Red,' its most severe alert, following its historic global outage.",
+   "score": 7024,
+   "num_comments": 633,
+   "created_utc": 1795544889,
+   "url": "https://www.reddit.com/r/stocks/comments/1y4kt7q/"
   },
   {
    "title": "Is NVIDIA a legitimate red flag now?",
@@ -127,8 +127,8 @@
   },
   {
    "title": "Admin insiders get Jensen fired. POTUS rehires Jensen. Resolved a self-initiated crisis. Market down big, then up. Starting to be a pattern.",
-   "score": 2119,
-   "num_comments": 203,
+   "score": 2179,
+   "num_comments": 208,
    "created_utc": 1795447761,
    "url": "https://www.reddit.com/r/stocks/comments/1y3l7sg/"
   },
@@ -140,18 +140,32 @@
    "url": "https://www.reddit.com/r/stocks/comments/1y16qje/"
   },
   {
-   "title": "DCA and buy in to major companies. These opportunities don\u2019t happen often.",
-   "score": 1190,
-   "num_comments": 470,
-   "created_utc": 1795124411,
-   "url": "https://www.reddit.com/r/stocks/comments/1y0lnyg/"
-  },
-  {
    "title": "WSJ now says Alice Huang was not a spy and NVDA/Jensen Huang was not breaking any espionage laws",
-   "score": 1174,
-   "num_comments": 435,
+   "score": 1685,
+   "num_comments": 615,
    "created_utc": 1795523569,
    "url": "https://www.reddit.com/r/stocks/comments/1y4c5nd/"
+  },
+  {
+   "title": "Can someone explain to me what the actual fuck is going on?",
+   "score": 1272,
+   "num_comments": 480,
+   "created_utc": 1795538465,
+   "url": "https://www.reddit.com/r/stocks/comments/1y4i023/"
+  },
+  {
+   "title": "Jensen Huang tells staff that Nvidia doesn\u2019t need a succession plan",
+   "score": 1151,
+   "num_comments": 413,
+   "created_utc": 1795550407,
+   "url": "https://www.reddit.com/r/stocks/comments/1y4n5jf/"
+  },
+  {
+   "title": "Did you miss the Anthropic IPO? Worry not, it's now about 5% cheaper!",
+   "score": 968,
+   "num_comments": 226,
+   "created_utc": 1795534832,
+   "url": "https://www.reddit.com/r/stocks/comments/1y4gfuh/"
   },
   {
    "title": "NVIDIA beats earnings, Anthropic launches a blockbuster IPO, yet AI stocks keep selling off. What's going on?",
@@ -161,11 +175,25 @@
    "url": "https://www.reddit.com/r/stocks/comments/1y17ops/"
   },
   {
+   "title": "US announces new tariffs of up to 20% on China, the EU, and 12 other nations",
+   "score": 833,
+   "num_comments": 406,
+   "created_utc": 1795619018,
+   "url": "https://www.reddit.com/r/stocks/comments/1y59jnm/"
+  },
+  {
    "title": "Jensen\u2019s back, Nvidia +30% - but nothing that tanked the stock got fixed",
-   "score": 818,
-   "num_comments": 471,
+   "score": 827,
+   "num_comments": 477,
    "created_utc": 1795448937,
    "url": "https://www.reddit.com/r/stocks/comments/1y3lpls/"
+  },
+  {
+   "title": "Is this what they mean by a free market?",
+   "score": 812,
+   "num_comments": 218,
+   "created_utc": 1795458017,
+   "url": "https://www.reddit.com/r/stocks/comments/1y3ps1r/"
   },
   {
    "title": "Michael Burry Locks In Gains on Nvidia, Chipmaker ETF Puts As AI Rout Deepens",
@@ -173,41 +201,6 @@
    "num_comments": 171,
    "created_utc": 1795217259,
    "url": "https://www.reddit.com/r/stocks/comments/1y1i2ql/"
-  },
-  {
-   "title": "Is this what they mean by a free market?",
-   "score": 793,
-   "num_comments": 211,
-   "created_utc": 1795458017,
-   "url": "https://www.reddit.com/r/stocks/comments/1y3ps1r/"
-  },
-  {
-   "title": "Pre-market in deep red today too!",
-   "score": 789,
-   "num_comments": 455,
-   "created_utc": 1795176640,
-   "url": "https://www.reddit.com/r/stocks/comments/1y11vgz/"
-  },
-  {
-   "title": "Trump tells CNBC \u2018I convinced\u2019 Nvidia board to reinstate Jensen Huang",
-   "score": 782,
-   "num_comments": 272,
-   "created_utc": 1795449981,
-   "url": "https://www.reddit.com/r/stocks/comments/1y3m63u/"
-  },
-  {
-   "title": "Did you miss the Anthropic IPO? Worry not, it's now about 5% cheaper!",
-   "score": 682,
-   "num_comments": 162,
-   "created_utc": 1795534832,
-   "url": "https://www.reddit.com/r/stocks/comments/1y4gfuh/"
-  },
-  {
-   "title": "Can someone explain to me what the actual fuck is going on?",
-   "score": 681,
-   "num_comments": 318,
-   "created_utc": 1795538465,
-   "url": "https://www.reddit.com/r/stocks/comments/1y4i023/"
   }
  ]
 }
