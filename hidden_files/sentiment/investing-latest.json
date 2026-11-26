@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-25T21:50:32.952714+00:00",
+ "generated_at": "2026-11-26T21:44:25.810514+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-07T02:38:29+00:00",
+ "window_start": "2026-11-09T13:48:05+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -12,11 +12,18 @@
    "engagement": 197
   },
   {
+   "ticker": "AMD",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 2,
+   "engagement": 16
+  },
+  {
    "ticker": "ANT",
    "mentions": 2,
    "bull": 2,
    "bear": 0,
-   "engagement": 55
+   "engagement": 54
   },
   {
    "ticker": "VATE",
@@ -30,28 +37,28 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 3
+   "engagement": 4
   },
   {
    "ticker": "AMAT",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 3
+   "engagement": 4
   },
   {
    "ticker": "LOW",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 10
+   "engagement": 13
   },
   {
    "ticker": "AAPL",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 60
+   "engagement": 69
   },
   {
    "ticker": "IESC",
@@ -75,14 +82,14 @@
    "engagement": 47
   },
   {
-   "ticker": "RGNA",
+   "ticker": "MDXG",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "MDXG",
+   "ticker": "RGNA",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -96,7 +103,7 @@
    "engagement": 2
   },
   {
-   "ticker": "IQQ",
+   "ticker": "BRK",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -110,14 +117,14 @@
    "engagement": 9
   },
   {
-   "ticker": "VT",
+   "ticker": "IQQ",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
    "engagement": 9
   },
   {
-   "ticker": "BRK",
+   "ticker": "VT",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -129,13 +136,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 31
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 2
   },
   {
    "ticker": "BKNG",
@@ -196,13 +196,6 @@
    "url": "https://www.reddit.com/r/investing/comments/1y1su5g/"
   },
   {
-   "title": "Jensen Huang just admitted to an affair with a suspected Chinese spy. 9 days before earnings.",
-   "score": 759,
-   "num_comments": 192,
-   "created_utc": 1794178338,
-   "url": "https://www.reddit.com/r/investing/comments/1xrbjp6/"
-  },
-  {
    "title": "Former SEC chair Gary Gensler warns AI bubble is likely to cause recession before 2028 election",
    "score": 652,
    "num_comments": 183,
@@ -224,6 +217,13 @@
    "url": "https://www.reddit.com/r/investing/comments/1xuxkvf/"
   },
   {
+   "title": "Nasdaq-100 has in the premarket now erased the bounce from returning Nvidia CEO Jensen. -WSJ",
+   "score": 520,
+   "num_comments": 148,
+   "created_utc": 1795609201,
+   "url": "https://www.reddit.com/r/investing/comments/1y55zm3/"
+  },
+  {
    "title": "Jensen Huang is back as Nvidia CEO, and the stock is up about 31% premarket",
    "score": 461,
    "num_comments": 163,
@@ -238,18 +238,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1xslvx7/"
   },
   {
-   "title": "Nasdaq-100 has in the premarket now erased the bounce from returning Nvidia CEO Jensen. -WSJ",
-   "score": 412,
-   "num_comments": 126,
-   "created_utc": 1795609201,
-   "url": "https://www.reddit.com/r/investing/comments/1y55zm3/"
-  },
-  {
    "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
    "score": 403,
    "num_comments": 75,
    "created_utc": 1794668988,
    "url": "https://www.reddit.com/r/investing/comments/1xw4o4d/"
+  },
+  {
+   "title": "Legendary investor Druckenmiller moves to cash: \"we're in capital preservation\"",
+   "score": 374,
+   "num_comments": 101,
+   "created_utc": 1794938158,
+   "url": "https://www.reddit.com/r/investing/comments/1xyraab/"
   }
  ]
 }

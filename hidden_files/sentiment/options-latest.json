@@ -1,15 +1,15 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-25T21:51:26.412560+00:00",
+ "generated_at": "2026-11-26T21:45:39.566283+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-17T17:49:28+00:00",
+ "window_start": "2026-10-19T08:04:45+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
    "mentions": 18,
    "bull": 12,
    "bear": 11,
-   "engagement": 903
+   "engagement": 913
   },
   {
    "ticker": "NVDA",
@@ -44,7 +44,7 @@
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 26
+   "engagement": 31
   },
   {
    "ticker": "META",

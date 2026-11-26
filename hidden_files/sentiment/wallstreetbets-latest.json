@@ -1,43 +1,43 @@
 {
  "subreddit": "wallstreetbets",
- "generated_at": "2026-11-25T21:50:21.017860+00:00",
+ "generated_at": "2026-11-26T21:43:55.428933+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-24T14:46:08+00:00",
+ "window_start": "2026-11-25T00:01:33+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 17,
-   "bull": 4,
+   "mentions": 13,
+   "bull": 1,
    "bear": 2,
-   "engagement": 988
+   "engagement": 13219
   },
   {
    "ticker": "SPY",
-   "mentions": 6,
+   "mentions": 5,
    "bull": 0,
-   "bear": 3,
-   "engagement": 56
+   "bear": 2,
+   "engagement": 53
+  },
+  {
+   "ticker": "UPST",
+   "mentions": 4,
+   "bull": 4,
+   "bear": 1,
+   "engagement": 4
   },
   {
    "ticker": "QQQ",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 2,
-   "engagement": 16
-  },
-  {
-   "ticker": "SPCX",
-   "mentions": 3,
+   "mentions": 4,
    "bull": 0,
    "bear": 1,
-   "engagement": 3
+   "engagement": 41
   },
   {
-   "ticker": "ANT",
-   "mentions": 3,
+   "ticker": "AMD",
+   "mentions": 2,
    "bull": 0,
    "bear": 1,
-   "engagement": 74
+   "engagement": 933
   },
   {
    "ticker": "BYND",
@@ -47,39 +47,88 @@
    "engagement": 29
   },
   {
-   "ticker": "UPST",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 2
-  },
-  {
-   "ticker": "CRWV",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 87
-  },
-  {
-   "ticker": "DELL",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "AMD",
+   "ticker": "SPCX",
    "mentions": 2,
    "bull": 0,
+   "bear": 1,
+   "engagement": 2
+  },
+  {
+   "ticker": "GOOG",
+   "mentions": 1,
+   "bull": 0,
    "bear": 0,
-   "engagement": 701
+   "engagement": 594
+  },
+  {
+   "ticker": "AAPL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 594
+  },
+  {
+   "ticker": "AMZN",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 594
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 594
+  },
+  {
+   "ticker": "META",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 594
+  },
+  {
+   "ticker": "TSLA",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 594
+  },
+  {
+   "ticker": "MRVL",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "MP",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 37
+  },
+  {
+   "ticker": "ONDS",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 5
+  },
+  {
+   "ticker": "USO",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 1
   },
   {
    "ticker": "CHSN",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 1
+   "engagement": 2
   },
   {
    "ticker": "ORCL",
@@ -93,163 +142,114 @@
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 44
-  },
-  {
-   "ticker": "BBY",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
-   "ticker": "RR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "TTWO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 1
-  },
-  {
-   "ticker": "AMC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 2
-  },
-  {
-   "ticker": "MU",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "INTC",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "AVGO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
+   "engagement": 86
   }
  ],
  "top_posts": [
   {
    "title": "I MADE GENERATIONAL MONEY. $1 million in 2 weeks.",
-   "score": 21330,
-   "num_comments": 2854,
+   "score": 35922,
+   "num_comments": 4268,
    "created_utc": 1795621682,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1y5anxn/"
   },
   {
-   "title": "Buy the dip",
-   "score": 19707,
-   "num_comments": 697,
-   "created_utc": 1795540188,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y4iqkv/"
-  },
-  {
    "title": "Here we go again",
-   "score": 15442,
-   "num_comments": 613,
+   "score": 21056,
+   "num_comments": 720,
    "created_utc": 1795608320,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1y55ptb/"
   },
   {
-   "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-   "score": 6841,
-   "num_comments": 705,
-   "created_utc": 1795556950,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y4pw2y/"
+   "title": "Korean news anchor tears up over Nasdaq losses on live tv. \"It\u2019s a very difficult market, and you must overcome it well.\"",
+   "score": 13873,
+   "num_comments": 1390,
+   "created_utc": 1795647592,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y5ld21/"
   },
   {
-   "title": "Trump leaves door open to Jensen Huang pardon \u2014 and urges him not to plead 5th to Congress next week",
-   "score": 5915,
-   "num_comments": 776,
-   "created_utc": 1795561754,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y4rrfk/"
+   "title": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch",
+   "score": 12487,
+   "num_comments": 886,
+   "created_utc": 1795644869,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y5kdvf/"
+  },
+  {
+   "title": "Jensen said he spends 90 minutes a day in therapy. NVDA board asks if his therapist is a woman.",
+   "score": 11322,
+   "num_comments": 326,
+   "created_utc": 1795685524,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y5x3ba/"
+  },
+  {
+   "title": "Average day in this sub",
+   "score": 6853,
+   "num_comments": 121,
+   "created_utc": 1795672492,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y5tgh2/"
+  },
+  {
+   "title": "Billionaire Carl Icahn loses 93% of his multi-billion-dollar fortune in 5 years, Icahn Enterprises down to $2.57 from a high of $113",
+   "score": 6367,
+   "num_comments": 544,
+   "created_utc": 1795716520,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y67rne/"
   },
   {
    "title": "Michael Burry Cuts Nvidia Puts by 75% Before Stock's 31% Rally",
-   "score": 3336,
-   "num_comments": 176,
+   "score": 4540,
+   "num_comments": 208,
    "created_utc": 1795577939,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1y4xa9e/"
   },
   {
-   "title": "Christmas is canceled \ud83d\ude1e",
-   "score": 2326,
-   "num_comments": 151,
-   "created_utc": 1795609807,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y566fq/"
+   "title": "\ud83d\ude2e",
+   "score": 3514,
+   "num_comments": 522,
+   "created_utc": 1795652562,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y5n5l0/"
   },
   {
    "title": "No Evidence China Orchestrated Jensen Huang\u2019s Affair per WSJ",
-   "score": 2057,
-   "num_comments": 352,
+   "score": 3331,
+   "num_comments": 512,
    "created_utc": 1795621922,
    "url": "https://www.reddit.com/r/wallstreetbets/comments/1y5arru/"
   },
   {
-   "title": "For those feeling bad about themselves lately",
-   "score": 1265,
-   "num_comments": 79,
-   "created_utc": 1795575449,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y4wh7u/"
+   "title": "Christmas is canceled \ud83d\ude1e",
+   "score": 3270,
+   "num_comments": 174,
+   "created_utc": 1795609807,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y566fq/"
   },
   {
-   "title": "Jensen is back at the top!",
-   "score": 1253,
-   "num_comments": 176,
-   "created_utc": 1795558320,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y4qfrc/"
+   "title": "Former Disney Boss Bob Iger Got Employee Pregnant During Extramarital Affair, New Book Claims",
+   "score": 3000,
+   "num_comments": 272,
+   "created_utc": 1795708224,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y64emj/"
   },
   {
-   "title": "Rush Hour is back",
-   "score": 1177,
-   "num_comments": 70,
-   "created_utc": 1795632424,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y5fbzd/"
+   "title": "Happy Thanksgiving folks",
+   "score": 2964,
+   "num_comments": 73,
+   "created_utc": 1795699850,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y619jz/"
   },
   {
-   "title": "Jensen Huang 300 parody",
-   "score": 1150,
-   "num_comments": 108,
-   "created_utc": 1795630312,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y5eftg/"
+   "title": "Nvidia halts chip shipments to south-east Asia",
+   "score": 2318,
+   "num_comments": 351,
+   "created_utc": 1795671438,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y5t5hu/"
   },
   {
-   "title": "Starbucks to sell Japan business",
-   "score": 1095,
-   "num_comments": 237,
-   "created_utc": 1795577170,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y4x1lk/"
-  },
-  {
-   "title": "Bye bye, see you next year...",
-   "score": 1032,
-   "num_comments": 410,
-   "created_utc": 1795611446,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y56p4r/"
-  },
-  {
-   "title": "Trump weighs US equity stake in Nvidia, says 'probably not too late'",
-   "score": 937,
-   "num_comments": 312,
-   "created_utc": 1795571620,
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y4v7nf/"
+   "title": "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
+   "score": 1735,
+   "num_comments": 270,
+   "created_utc": 1795613665,
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1y57h1z/"
   }
  ]
 }

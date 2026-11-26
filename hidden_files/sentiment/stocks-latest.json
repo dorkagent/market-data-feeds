@@ -1,15 +1,15 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-25T21:50:42.088701+00:00",
+ "generated_at": "2026-11-26T21:44:38.352657+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-20T01:52:40+00:00",
+ "window_start": "2026-11-20T16:04:00+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 20,
-   "bull": 6,
-   "bear": 4,
-   "engagement": 2986
+   "mentions": 22,
+   "bull": 7,
+   "bear": 5,
+   "engagement": 3869
   },
   {
    "ticker": "TTWO",
@@ -19,18 +19,18 @@
    "engagement": 4
   },
   {
-   "ticker": "SPY",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 6
+   "ticker": "QQQ",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 18
   },
   {
    "ticker": "MSFT",
    "mentions": 2,
    "bull": 1,
    "bear": 0,
-   "engagement": 7659
+   "engagement": 7750
   },
   {
    "ticker": "DJT",
@@ -40,28 +40,98 @@
    "engagement": 4
   },
   {
-   "ticker": "QQQ",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 34
-  },
-  {
-   "ticker": "MSTR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 102
-  },
-  {
-   "ticker": "SMR",
+   "ticker": "TSLA",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
+   "ticker": "ICON",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 0
+  },
+  {
+   "ticker": "ZTS",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 606
+  },
+  {
+   "ticker": "NDX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 606
+  },
+  {
+   "ticker": "MELI",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 606
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 606
+  },
+  {
+   "ticker": "JD",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 606
+  },
+  {
+   "ticker": "SFM",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 606
+  },
+  {
+   "ticker": "ERO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 606
+  },
+  {
+   "ticker": "TPW",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 606
+  },
+  {
+   "ticker": "AMD",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "MSTR",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 148
+  },
+  {
    "ticker": "GEV",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 1
+  },
+  {
+   "ticker": "SMR",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -73,27 +143,6 @@
    "bull": 1,
    "bear": 0,
    "engagement": 1
-  },
-  {
-   "ticker": "AXP",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 191
-  },
-  {
-   "ticker": "AMZN",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "CRWV",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 26
   }
  ],
  "top_posts": [
@@ -106,8 +155,8 @@
   },
   {
    "title": "BREAKING: Microsoft ($MSFT) declares 'Code Red,' its most severe alert, following its historic global outage.",
-   "score": 7024,
-   "num_comments": 633,
+   "score": 7114,
+   "num_comments": 634,
    "created_utc": 1795544889,
    "url": "https://www.reddit.com/r/stocks/comments/1y4kt7q/"
   },
@@ -133,39 +182,46 @@
    "url": "https://www.reddit.com/r/stocks/comments/1y3l7sg/"
   },
   {
-   "title": "Suicide Hotline",
-   "score": 1808,
-   "num_comments": 425,
-   "created_utc": 1795189477,
-   "url": "https://www.reddit.com/r/stocks/comments/1y16qje/"
-  },
-  {
    "title": "WSJ now says Alice Huang was not a spy and NVDA/Jensen Huang was not breaking any espionage laws",
-   "score": 1685,
-   "num_comments": 615,
+   "score": 1759,
+   "num_comments": 650,
    "created_utc": 1795523569,
    "url": "https://www.reddit.com/r/stocks/comments/1y4c5nd/"
   },
   {
    "title": "Can someone explain to me what the actual fuck is going on?",
-   "score": 1272,
-   "num_comments": 480,
+   "score": 1406,
+   "num_comments": 539,
    "created_utc": 1795538465,
    "url": "https://www.reddit.com/r/stocks/comments/1y4i023/"
   },
   {
+   "title": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch",
+   "score": 1166,
+   "num_comments": 217,
+   "created_utc": 1795657155,
+   "url": "https://www.reddit.com/r/stocks/comments/1y5op88/"
+  },
+  {
    "title": "Jensen Huang tells staff that Nvidia doesn\u2019t need a succession plan",
-   "score": 1151,
-   "num_comments": 413,
+   "score": 1163,
+   "num_comments": 415,
    "created_utc": 1795550407,
    "url": "https://www.reddit.com/r/stocks/comments/1y4n5jf/"
   },
   {
    "title": "Did you miss the Anthropic IPO? Worry not, it's now about 5% cheaper!",
-   "score": 968,
-   "num_comments": 226,
+   "score": 1110,
+   "num_comments": 271,
    "created_utc": 1795534832,
    "url": "https://www.reddit.com/r/stocks/comments/1y4gfuh/"
+  },
+  {
+   "title": "US announces new tariffs of up to 20% on China, the EU, and 12 other nations",
+   "score": 964,
+   "num_comments": 453,
+   "created_utc": 1795619018,
+   "url": "https://www.reddit.com/r/stocks/comments/1y59jnm/"
   },
   {
    "title": "NVIDIA beats earnings, Anthropic launches a blockbuster IPO, yet AI stocks keep selling off. What's going on?",
@@ -173,13 +229,6 @@
    "num_comments": 1129,
    "created_utc": 1795191721,
    "url": "https://www.reddit.com/r/stocks/comments/1y17ops/"
-  },
-  {
-   "title": "US announces new tariffs of up to 20% on China, the EU, and 12 other nations",
-   "score": 833,
-   "num_comments": 406,
-   "created_utc": 1795619018,
-   "url": "https://www.reddit.com/r/stocks/comments/1y59jnm/"
   },
   {
    "title": "Jensen\u2019s back, Nvidia +30% - but nothing that tanked the stock got fixed",

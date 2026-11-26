@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-25T21:50:57.575923+00:00",
+ "generated_at": "2026-11-26T21:44:49.735413+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-02T10:36:26+00:00",
+ "window_start": "2026-11-02T17:49:02+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -51,7 +51,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 9
+   "engagement": 10
   },
   {
    "ticker": "HPE",
@@ -72,28 +72,28 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 37
-  },
-  {
-   "ticker": "TGT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 7
+   "engagement": 41
   },
   {
    "ticker": "COST",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 7
+   "engagement": 6
+  },
+  {
+   "ticker": "TGT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 6
   },
   {
    "ticker": "WMT",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 7
+   "engagement": 6
   },
   {
    "ticker": "ASTS",
@@ -239,8 +239,8 @@
   },
   {
    "title": "It\u2019s only the first day, and already so many stocks have crashed. What a bloodbath.",
-   "score": 2473,
-   "num_comments": 463,
+   "score": 2547,
+   "num_comments": 484,
    "created_utc": 1795109232,
    "url": "https://www.reddit.com/r/StockMarket/comments/1y0f9w0/"
   },

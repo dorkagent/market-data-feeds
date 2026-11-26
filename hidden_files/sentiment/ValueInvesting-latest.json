@@ -1,57 +1,71 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-25T21:51:10.789957+00:00",
+ "generated_at": "2026-11-26T21:45:16.284170+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-15T16:10:35+00:00",
+ "window_start": "2026-11-16T20:07:57+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 23,
-   "bull": 8,
-   "bear": 10,
-   "engagement": 951
+   "mentions": 20,
+   "bull": 7,
+   "bear": 9,
+   "engagement": 862
   },
   {
    "ticker": "NFLX",
    "mentions": 4,
-   "bull": 0,
+   "bull": 1,
    "bear": 1,
-   "engagement": 291
+   "engagement": 205
   },
   {
-   "ticker": "NBIS",
-   "mentions": 4,
-   "bull": 2,
-   "bear": 4,
-   "engagement": 170
+   "ticker": "AMD",
+   "mentions": 3,
+   "bull": 3,
+   "bear": 2,
+   "engagement": 156
   },
   {
-   "ticker": "MSFT",
+   "ticker": "GME",
    "mentions": 3,
    "bull": 1,
    "bear": 0,
-   "engagement": 118
+   "engagement": 3
+  },
+  {
+   "ticker": "NBIS",
+   "mentions": 3,
+   "bull": 1,
+   "bear": 3,
+   "engagement": 82
   },
   {
    "ticker": "MELI",
    "mentions": 3,
    "bull": 1,
    "bear": 3,
-   "engagement": 368
+   "engagement": 373
+  },
+  {
+   "ticker": "CRWV",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 3
+  },
+  {
+   "ticker": "QQQ",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 543
   },
   {
    "ticker": "RDDT",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 157
-  },
-  {
-   "ticker": "AMD",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 1,
-   "engagement": 134
+   "engagement": 295
   },
   {
    "ticker": "UBER",
@@ -61,18 +75,18 @@
    "engagement": 289
   },
   {
+   "ticker": "MSFT",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 116
+  },
+  {
    "ticker": "AMC",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
    "engagement": 9
-  },
-  {
-   "ticker": "CRWV",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 90
   },
   {
    "ticker": "ANT",
@@ -82,16 +96,30 @@
    "engagement": 196
   },
   {
-   "ticker": "SMR",
+   "ticker": "ICON",
    "mentions": 1,
-   "bull": 1,
+   "bull": 0,
    "bear": 0,
    "engagement": 1
   },
   {
-   "ticker": "SPY",
+   "ticker": "PLTR",
    "mentions": 1,
    "bull": 1,
+   "bear": 1,
+   "engagement": 20
+  },
+  {
+   "ticker": "NDX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 20
+  },
+  {
+   "ticker": "DELL",
+   "mentions": 1,
+   "bull": 0,
    "bear": 0,
    "engagement": 1
   },
@@ -100,49 +128,21 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 5
   },
   {
-   "ticker": "DRAM",
+   "ticker": "SMR",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 1
+   "engagement": 5
   },
   {
-   "ticker": "GME",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "IREN",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 83
-  },
-  {
-   "ticker": "INTU",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 10
-  },
-  {
-   "ticker": "MO",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 1,
-   "engagement": 10
-  },
-  {
-   "ticker": "MRVL",
+   "ticker": "SPY",
    "mentions": 1,
    "bull": 1,
-   "bear": 1,
-   "engagement": 78
+   "bear": 0,
+   "engagement": 5
   }
  ],
  "top_posts": [
@@ -162,15 +162,15 @@
   },
   {
    "title": "To people getting hammered in this market",
-   "score": 632,
-   "num_comments": 361,
+   "score": 670,
+   "num_comments": 373,
    "created_utc": 1795120495,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0k39t/"
   },
   {
    "title": "It's time to be honest, this is a horrible market",
-   "score": 597,
-   "num_comments": 528,
+   "score": 615,
+   "num_comments": 547,
    "created_utc": 1795104452,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0d67m/"
   },
@@ -189,13 +189,6 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1xy1da2/"
   },
   {
-   "title": "Has the AI bubble quietly popped?",
-   "score": 418,
-   "num_comments": 548,
-   "created_utc": 1794828357,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxmzsm/"
-  },
-  {
    "title": "I do not understand the current selloffs",
    "score": 316,
    "num_comments": 744,
@@ -204,17 +197,17 @@
   },
   {
    "title": "Peter Lynch on Charlie Rose talk Show, 28th Oct 1997. The day before, the Dow declined 7+% on Asia contagion worries. In this 12 min video, ",
-   "score": 300,
+   "score": 310,
    "num_comments": 19,
    "created_utc": 1795504551,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y46v6e/"
   },
   {
-   "title": "Coca Cola ($KO) is $100 a share for the first time in history.",
-   "score": 271,
-   "num_comments": 133,
-   "created_utc": 1794842830,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxs7ye/"
+   "title": "It's time to be honest, this is the market we have been waiting for!",
+   "score": 234,
+   "num_comments": 173,
+   "created_utc": 1795105625,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0doo9/"
   },
   {
    "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
@@ -224,11 +217,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y3jd6c/"
   },
   {
-   "title": "Oatly: A 97% Crash Hides A Turnaround At The World\u2019s Largest Oat Milk Company",
-   "score": 228,
-   "num_comments": 156,
-   "created_utc": 1794816901,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xxjyvr/"
+   "title": "Berkshire owns Google which owns 13.7% of Anthropic. What has the world come to?",
+   "score": 230,
+   "num_comments": 59,
+   "created_utc": 1795086332,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y06q3l/"
   },
   {
    "title": "Netflix at $59 looks like a steal to me.",
@@ -245,11 +238,18 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y2ch1s/"
   },
   {
-   "title": "It's time to be honest, this is the market we have been waiting for!",
-   "score": 218,
-   "num_comments": 166,
-   "created_utc": 1795105625,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0doo9/"
+   "title": "Every single time QQQ has had a dip like this with sentiment at some all-time lows, it has always bounced back up. Is this the buying opport",
+   "score": 205,
+   "num_comments": 154,
+   "created_utc": 1795116658,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0igqc/"
+  },
+  {
+   "title": "How hard is everybody down?",
+   "score": 199,
+   "num_comments": 404,
+   "created_utc": 1795160520,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0xhy0/"
   }
  ]
 }
