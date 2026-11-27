@@ -1,29 +1,29 @@
 {
  "subreddit": "ValueInvesting",
- "generated_at": "2026-11-26T21:45:16.284170+00:00",
+ "generated_at": "2026-11-27T21:28:37.464654+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-16T20:07:57+00:00",
+ "window_start": "2026-11-17T07:49:55+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
-   "mentions": 20,
-   "bull": 7,
-   "bear": 9,
-   "engagement": 862
+   "mentions": 18,
+   "bull": 6,
+   "bear": 8,
+   "engagement": 886
   },
   {
    "ticker": "NFLX",
    "mentions": 4,
    "bull": 1,
    "bear": 1,
-   "engagement": 205
+   "engagement": 328
   },
   {
    "ticker": "AMD",
    "mentions": 3,
    "bull": 3,
    "bear": 2,
-   "engagement": 156
+   "engagement": 167
   },
   {
    "ticker": "GME",
@@ -37,35 +37,28 @@
    "mentions": 3,
    "bull": 1,
    "bear": 3,
-   "engagement": 82
+   "engagement": 86
   },
   {
-   "ticker": "MELI",
-   "mentions": 3,
-   "bull": 1,
-   "bear": 3,
-   "engagement": 373
+   "ticker": "RDDT",
+   "mentions": 2,
+   "bull": 2,
+   "bear": 0,
+   "engagement": 250
   },
   {
    "ticker": "CRWV",
    "mentions": 2,
-   "bull": 0,
+   "bull": 1,
    "bear": 0,
-   "engagement": 3
+   "engagement": 6
   },
   {
    "ticker": "QQQ",
    "mentions": 2,
    "bull": 2,
    "bear": 0,
-   "engagement": 543
-  },
-  {
-   "ticker": "RDDT",
-   "mentions": 2,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 295
+   "engagement": 587
   },
   {
    "ticker": "UBER",
@@ -82,6 +75,13 @@
    "engagement": 116
   },
   {
+   "ticker": "MELI",
+   "mentions": 2,
+   "bull": 1,
+   "bear": 2,
+   "engagement": 278
+  },
+  {
    "ticker": "AMC",
    "mentions": 2,
    "bull": 1,
@@ -96,6 +96,13 @@
    "engagement": 196
   },
   {
+   "ticker": "SHAK",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 1,
+   "engagement": 3
+  },
+  {
    "ticker": "ICON",
    "mentions": 1,
    "bull": 0,
@@ -103,18 +110,18 @@
    "engagement": 1
   },
   {
-   "ticker": "PLTR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 20
-  },
-  {
    "ticker": "NDX",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 20
+   "engagement": 27
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 27
   },
   {
    "ticker": "DELL",
@@ -124,13 +131,6 @@
    "engagement": 1
   },
   {
-   "ticker": "GEV",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 5
-  },
-  {
    "ticker": "SMR",
    "mentions": 1,
    "bull": 1,
@@ -138,7 +138,7 @@
    "engagement": 5
   },
   {
-   "ticker": "SPY",
+   "ticker": "GEV",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -148,8 +148,8 @@
  "top_posts": [
   {
    "title": "This sell off is strange",
-   "score": 1850,
-   "num_comments": 1393,
+   "score": 2004,
+   "num_comments": 1495,
    "created_utc": 1795144828,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0syfw/"
   },
@@ -180,13 +180,6 @@
    "num_comments": 287,
    "created_utc": 1795256864,
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y1txhf/"
-  },
-  {
-   "title": "Nvda forward PE is now 9.79",
-   "score": 448,
-   "num_comments": 414,
-   "created_utc": 1794863410,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1xy1da2/"
   },
   {
    "title": "I do not understand the current selloffs",
@@ -238,6 +231,13 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y2ch1s/"
   },
   {
+   "title": "How hard is everybody down?",
+   "score": 215,
+   "num_comments": 445,
+   "created_utc": 1795160520,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0xhy0/"
+  },
+  {
    "title": "Every single time QQQ has had a dip like this with sentiment at some all-time lows, it has always bounced back up. Is this the buying opport",
    "score": 205,
    "num_comments": 154,
@@ -245,11 +245,11 @@
    "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0igqc/"
   },
   {
-   "title": "How hard is everybody down?",
-   "score": 199,
-   "num_comments": 404,
-   "created_utc": 1795160520,
-   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y0xhy0/"
+   "title": "This Is Just Fear",
+   "score": 195,
+   "num_comments": 360,
+   "created_utc": 1795291085,
+   "url": "https://www.reddit.com/r/ValueInvesting/comments/1y25zcd/"
   }
  ]
 }

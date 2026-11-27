@@ -1,22 +1,22 @@
 {
  "subreddit": "options",
- "generated_at": "2026-11-26T21:45:39.566283+00:00",
+ "generated_at": "2026-11-27T21:28:56.665430+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-10-19T08:04:45+00:00",
+ "window_start": "2026-10-20T09:17:48+00:00",
  "top_tickers": [
   {
    "ticker": "SPY",
    "mentions": 18,
    "bull": 12,
    "bear": 11,
-   "engagement": 913
+   "engagement": 936
   },
   {
    "ticker": "NVDA",
-   "mentions": 15,
-   "bull": 5,
-   "bear": 10,
-   "engagement": 1723
+   "mentions": 16,
+   "bull": 6,
+   "bear": 11,
+   "engagement": 1751
   },
   {
    "ticker": "TSLA",
@@ -52,6 +52,13 @@
    "bull": 2,
    "bear": 2,
    "engagement": 339
+  },
+  {
+   "ticker": "MRVL",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
   },
   {
    "ticker": "AAPL",

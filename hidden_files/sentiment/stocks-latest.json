@@ -1,15 +1,15 @@
 {
  "subreddit": "stocks",
- "generated_at": "2026-11-26T21:44:38.352657+00:00",
+ "generated_at": "2026-11-27T21:28:21.585503+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-20T16:04:00+00:00",
+ "window_start": "2026-11-20T20:11:35+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
    "mentions": 22,
    "bull": 7,
    "bear": 5,
-   "engagement": 3869
+   "engagement": 4336
   },
   {
    "ticker": "TTWO",
@@ -19,11 +19,25 @@
    "engagement": 4
   },
   {
+   "ticker": "TSLA",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "APLD",
+   "mentions": 2,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
    "ticker": "QQQ",
    "mentions": 2,
    "bull": 1,
    "bear": 1,
-   "engagement": 18
+   "engagement": 36
   },
   {
    "ticker": "MSFT",
@@ -40,7 +54,14 @@
    "engagement": 4
   },
   {
-   "ticker": "TSLA",
+   "ticker": "SPCX",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 48
+  },
+  {
+   "ticker": "NFLX",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -58,56 +79,56 @@
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 606
-  },
-  {
-   "ticker": "NDX",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 606
-  },
-  {
-   "ticker": "MELI",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 606
-  },
-  {
-   "ticker": "PLTR",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 606
-  },
-  {
-   "ticker": "JD",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 606
-  },
-  {
-   "ticker": "SFM",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 606
-  },
-  {
-   "ticker": "ERO",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 1,
-   "engagement": 606
+   "engagement": 978
   },
   {
    "ticker": "TPW",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
-   "engagement": 606
+   "engagement": 978
+  },
+  {
+   "ticker": "JD",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 978
+  },
+  {
+   "ticker": "SFM",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 978
+  },
+  {
+   "ticker": "PLTR",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 978
+  },
+  {
+   "ticker": "NDX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 978
+  },
+  {
+   "ticker": "ERO",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 978
+  },
+  {
+   "ticker": "MELI",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 978
   },
   {
    "ticker": "AMD",
@@ -121,28 +142,7 @@
    "mentions": 1,
    "bull": 0,
    "bear": 1,
-   "engagement": 148
-  },
-  {
-   "ticker": "GEV",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "SMR",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 1
-  },
-  {
-   "ticker": "ANT",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 1
+   "engagement": 172
   }
  ],
  "top_posts": [
@@ -168,13 +168,6 @@
    "url": "https://www.reddit.com/r/stocks/comments/1y1lvsy/"
   },
   {
-   "title": "The S&P 500 just had its sixth straight red day, longest streak in about 2.5 years. Are you buying this or waiting?",
-   "score": 2232,
-   "num_comments": 793,
-   "created_utc": 1795201131,
-   "url": "https://www.reddit.com/r/stocks/comments/1y1bpsc/"
-  },
-  {
    "title": "Admin insiders get Jensen fired. POTUS rehires Jensen. Resolved a self-initiated crisis. Market down big, then up. Starting to be a pattern.",
    "score": 2179,
    "num_comments": 208,
@@ -197,8 +190,8 @@
   },
   {
    "title": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch",
-   "score": 1166,
-   "num_comments": 217,
+   "score": 1339,
+   "num_comments": 231,
    "created_utc": 1795657155,
    "url": "https://www.reddit.com/r/stocks/comments/1y5op88/"
   },
@@ -217,18 +210,25 @@
    "url": "https://www.reddit.com/r/stocks/comments/1y4gfuh/"
   },
   {
+   "title": "Trump accounts traded NVIDIA stock 44 times this year",
+   "score": 1108,
+   "num_comments": 72,
+   "created_utc": 1795737022,
+   "url": "https://www.reddit.com/r/stocks/comments/1y6f2aa/"
+  },
+  {
    "title": "US announces new tariffs of up to 20% on China, the EU, and 12 other nations",
-   "score": 964,
-   "num_comments": 453,
+   "score": 976,
+   "num_comments": 466,
    "created_utc": 1795619018,
    "url": "https://www.reddit.com/r/stocks/comments/1y59jnm/"
   },
   {
-   "title": "NVIDIA beats earnings, Anthropic launches a blockbuster IPO, yet AI stocks keep selling off. What's going on?",
-   "score": 844,
-   "num_comments": 1129,
-   "created_utc": 1795191721,
-   "url": "https://www.reddit.com/r/stocks/comments/1y17ops/"
+   "title": "GameStop CEO Ryan Cohen says digital-only GTA 6 'hurts consumers,' defends right to sell, trade or lend physical game copies",
+   "score": 905,
+   "num_comments": 193,
+   "created_utc": 1795783741,
+   "url": "https://www.reddit.com/r/stocks/comments/1y6sgeg/"
   },
   {
    "title": "Jensen\u2019s back, Nvidia +30% - but nothing that tanked the stock got fixed",

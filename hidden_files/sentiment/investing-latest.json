@@ -1,8 +1,8 @@
 {
  "subreddit": "investing",
- "generated_at": "2026-11-26T21:44:25.810514+00:00",
+ "generated_at": "2026-11-27T21:28:12.795972+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-09T13:48:05+00:00",
+ "window_start": "2026-11-10T12:26:18+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -16,7 +16,7 @@
    "mentions": 2,
    "bull": 0,
    "bear": 2,
-   "engagement": 16
+   "engagement": 18
   },
   {
    "ticker": "ANT",
@@ -33,25 +33,25 @@
    "engagement": 7
   },
   {
-   "ticker": "MSFT",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 4
-  },
-  {
    "ticker": "AMAT",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
-   "engagement": 4
+   "engagement": 5
+  },
+  {
+   "ticker": "MSFT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 5
   },
   {
    "ticker": "LOW",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 13
+   "engagement": 14
   },
   {
    "ticker": "AAPL",
@@ -79,7 +79,7 @@
    "mentions": 1,
    "bull": 1,
    "bear": 0,
-   "engagement": 47
+   "engagement": 48
   },
   {
    "ticker": "MDXG",
@@ -103,13 +103,6 @@
    "engagement": 2
   },
   {
-   "ticker": "BRK",
-   "mentions": 1,
-   "bull": 1,
-   "bear": 0,
-   "engagement": 9
-  },
-  {
    "ticker": "RSP",
    "mentions": 1,
    "bull": 1,
@@ -118,6 +111,13 @@
   },
   {
    "ticker": "IQQ",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 0,
+   "engagement": 9
+  },
+  {
+   "ticker": "BRK",
    "mentions": 1,
    "bull": 1,
    "bear": 0,
@@ -138,7 +138,7 @@
    "engagement": 31
   },
   {
-   "ticker": "BKNG",
+   "ticker": "EXPE",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -161,6 +161,13 @@
    "url": "https://www.reddit.com/r/investing/comments/1y47ick/"
   },
   {
+   "title": "My dad is mad at me for investing in the stock market after this recent crash",
+   "score": 1542,
+   "num_comments": 769,
+   "created_utc": 1795127044,
+   "url": "https://www.reddit.com/r/investing/comments/1y0mp3v/"
+  },
+  {
    "title": "Jensen Huang resigns as Nvidia CEO, effective immediately. CFO Colette Kress named interim CEO",
    "score": 1161,
    "num_comments": 294,
@@ -173,13 +180,6 @@
    "num_comments": 378,
    "created_utc": 1794451942,
    "url": "https://www.reddit.com/r/investing/comments/1xu1gvt/"
-  },
-  {
-   "title": "My dad is mad at me for investing in the stock market after this recent crash",
-   "score": 1073,
-   "num_comments": 641,
-   "created_utc": 1795127044,
-   "url": "https://www.reddit.com/r/investing/comments/1y0mp3v/"
   },
   {
    "title": "WSJ: Nvidia's board is preparing to oust Jensen Huang. Stock down 8% after hours",
@@ -210,18 +210,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1y1jvyc/"
   },
   {
+   "title": "Nasdaq-100 has in the premarket now erased the bounce from returning Nvidia CEO Jensen. -WSJ",
+   "score": 526,
+   "num_comments": 148,
+   "created_utc": 1795609201,
+   "url": "https://www.reddit.com/r/investing/comments/1y55zm3/"
+  },
+  {
    "title": "NVIDIA - Buy the dip or wait?",
    "score": 524,
    "num_comments": 397,
    "created_utc": 1794541507,
    "url": "https://www.reddit.com/r/investing/comments/1xuxkvf/"
-  },
-  {
-   "title": "Nasdaq-100 has in the premarket now erased the bounce from returning Nvidia CEO Jensen. -WSJ",
-   "score": 520,
-   "num_comments": 148,
-   "created_utc": 1795609201,
-   "url": "https://www.reddit.com/r/investing/comments/1y55zm3/"
   },
   {
    "title": "Jensen Huang is back as Nvidia CEO, and the stock is up about 31% premarket",
@@ -238,18 +238,18 @@
    "url": "https://www.reddit.com/r/investing/comments/1xslvx7/"
   },
   {
+   "title": "Family mad about stock picks",
+   "score": 450,
+   "num_comments": 475,
+   "created_utc": 1795190714,
+   "url": "https://www.reddit.com/r/investing/comments/1y179ig/"
+  },
+  {
    "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
    "score": 403,
    "num_comments": 75,
    "created_utc": 1794668988,
    "url": "https://www.reddit.com/r/investing/comments/1xw4o4d/"
-  },
-  {
-   "title": "Legendary investor Druckenmiller moves to cash: \"we're in capital preservation\"",
-   "score": 374,
-   "num_comments": 101,
-   "created_utc": 1794938158,
-   "url": "https://www.reddit.com/r/investing/comments/1xyraab/"
   }
  ]
 }

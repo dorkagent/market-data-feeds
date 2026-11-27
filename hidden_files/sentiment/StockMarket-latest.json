@@ -1,8 +1,8 @@
 {
  "subreddit": "StockMarket",
- "generated_at": "2026-11-26T21:44:49.735413+00:00",
+ "generated_at": "2026-11-27T21:28:30.298437+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-11-02T17:49:02+00:00",
+ "window_start": "2026-11-03T12:49:50+00:00",
  "top_tickers": [
   {
    "ticker": "NVDA",
@@ -75,13 +75,6 @@
    "engagement": 41
   },
   {
-   "ticker": "COST",
-   "mentions": 1,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 6
-  },
-  {
    "ticker": "TGT",
    "mentions": 1,
    "bull": 0,
@@ -90,6 +83,13 @@
   },
   {
    "ticker": "WMT",
+   "mentions": 1,
+   "bull": 0,
+   "bear": 0,
+   "engagement": 6
+  },
+  {
+   "ticker": "COST",
    "mentions": 1,
    "bull": 0,
    "bear": 0,
@@ -124,14 +124,14 @@
    "engagement": 2493
   },
   {
-   "ticker": "MU",
+   "ticker": "CLS",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
    "engagement": 10
   },
   {
-   "ticker": "CLS",
+   "ticker": "MU",
    "mentions": 1,
    "bull": 0,
    "bear": 1,
@@ -152,13 +152,6 @@
    "num_comments": 4543,
    "created_utc": 1793901645,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/"
-  },
-  {
-   "title": "US$700Bn wiped out in 2.5 hours",
-   "score": 16742,
-   "num_comments": 1445,
-   "created_utc": 1793652395,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xm901d/"
   },
   {
    "title": "NASDAQ futures down 4.5%. What the actual F is happening to this market?",
@@ -196,18 +189,18 @@
    "url": "https://www.reddit.com/r/StockMarket/comments/1y3kyxh/"
   },
   {
+   "title": "Dips keep coming",
+   "score": 3763,
+   "num_comments": 142,
+   "created_utc": 1795183567,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1y14bs9/"
+  },
+  {
    "title": "$8.9T Erased from US stock market in last 45 days and today alone was $2.5T.",
    "score": 3731,
    "num_comments": 322,
    "created_utc": 1795222088,
    "url": "https://www.reddit.com/r/StockMarket/comments/1y1jspj/"
-  },
-  {
-   "title": "Dips keep coming",
-   "score": 3575,
-   "num_comments": 139,
-   "created_utc": 1795183567,
-   "url": "https://www.reddit.com/r/StockMarket/comments/1y14bs9/"
   },
   {
    "title": "Nvidia deliberately kept GPU prices high through circular financing deals, report claims",
@@ -250,6 +243,13 @@
    "num_comments": 318,
    "created_utc": 1793807059,
    "url": "https://www.reddit.com/r/StockMarket/comments/1xnri1d/"
+  },
+  {
+   "title": "Name a better investor than Jensen Huang's wife.",
+   "score": 2323,
+   "num_comments": 170,
+   "created_utc": 1794250581,
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xs09zz/"
   }
  ]
 }

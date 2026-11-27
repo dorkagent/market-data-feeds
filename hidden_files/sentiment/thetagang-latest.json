@@ -1,15 +1,15 @@
 {
  "subreddit": "thetagang",
- "generated_at": "2026-11-26T21:45:24.567284+00:00",
+ "generated_at": "2026-11-27T21:28:44.142595+00:00",
  "posts_analyzed": 500,
- "window_start": "2026-09-20T03:51:55+00:00",
+ "window_start": "2026-09-21T16:27:30+00:00",
  "top_tickers": [
   {
    "ticker": "USD",
-   "mentions": 8,
-   "bull": 2,
-   "bear": 8,
-   "engagement": 114
+   "mentions": 7,
+   "bull": 1,
+   "bear": 7,
+   "engagement": 101
   },
   {
    "ticker": "RDDT",
@@ -19,25 +19,18 @@
    "engagement": 1563
   },
   {
+   "ticker": "NVDA",
+   "mentions": 4,
+   "bull": 2,
+   "bear": 3,
+   "engagement": 84
+  },
+  {
    "ticker": "SPY",
    "mentions": 4,
    "bull": 1,
    "bear": 2,
    "engagement": 8
-  },
-  {
-   "ticker": "NVDA",
-   "mentions": 3,
-   "bull": 2,
-   "bear": 3,
-   "engagement": 83
-  },
-  {
-   "ticker": "SOFI",
-   "mentions": 3,
-   "bull": 0,
-   "bear": 0,
-   "engagement": 5
   },
   {
    "ticker": "QQQ",
@@ -61,16 +54,16 @@
    "engagement": 35
   },
   {
-   "ticker": "IREN",
-   "mentions": 2,
-   "bull": 2,
-   "bear": 2,
-   "engagement": 42
-  },
-  {
    "ticker": "MSTR",
    "mentions": 1,
    "bull": 1,
+   "bear": 0,
+   "engagement": 2
+  },
+  {
+   "ticker": "SOFI",
+   "mentions": 1,
+   "bull": 0,
    "bear": 0,
    "engagement": 2
   },
@@ -117,14 +110,14 @@
    "engagement": 42
   },
   {
-   "ticker": "ROBN",
+   "ticker": "NVTS",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
    "engagement": 12
   },
   {
-   "ticker": "AXTI",
+   "ticker": "ROBN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -138,7 +131,14 @@
    "engagement": 12
   },
   {
-   "ticker": "SPCH",
+   "ticker": "SNXX",
+   "mentions": 1,
+   "bull": 1,
+   "bear": 1,
+   "engagement": 12
+  },
+  {
+   "ticker": "AMZN",
    "mentions": 1,
    "bull": 1,
    "bear": 1,
@@ -196,6 +196,13 @@
    "url": "https://www.reddit.com/r/thetagang/comments/1xrtc20/"
   },
   {
+   "title": "What happens after the VIX closes above 37?",
+   "score": 189,
+   "num_comments": 67,
+   "created_utc": 1795208355,
+   "url": "https://www.reddit.com/r/thetagang/comments/1y1eott/"
+  },
+  {
    "title": "Theta suckers are still up\u2026",
    "score": 172,
    "num_comments": 62,
@@ -208,13 +215,6 @@
    "num_comments": 96,
    "created_utc": 1791473983,
    "url": "https://www.reddit.com/r/thetagang/comments/1x0u7wm/"
-  },
-  {
-   "title": "What happens after the VIX closes above 37?",
-   "score": 155,
-   "num_comments": 47,
-   "created_utc": 1795208355,
-   "url": "https://www.reddit.com/r/thetagang/comments/1y1eott/"
   },
   {
    "title": "Aggressive Wheeling Results Since May",
