@@ -1,14 +1,7 @@
 {
- "generated_at": "2026-11-26T20:20:27.395070+00:00",
+ "generated_at": "2026-11-27T20:05:26.170133+00:00",
  "universe": "US-listed, price >= $5, |move| >= 3% (premarket: no volume filter)",
  "top_movers": [
-  {
-   "symbol": "ADI",
-   "pct_change": 6.4,
-   "price": 333.11,
-   "market_cap": "161,411,179,219",
-   "direction": "up"
-  },
   {
    "symbol": "LRCX",
    "pct_change": -5.7,
@@ -82,14 +75,12 @@
  ],
  "setup_routing": {
   "setup_a_candidates": [
-   "ADI",
    "TXN",
    "DE",
    "META",
    "IBM"
   ],
   "setup_b_candidates": [
-   "ADI",
    "TXN",
    "DE",
    "META",
@@ -104,5 +95,5 @@
    "AMZN"
   ]
  },
- "count": 11
+ "count": 10
 }
